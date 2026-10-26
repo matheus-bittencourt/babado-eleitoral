@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-26T14:00:00-03:00",
-  "updated_label": "26/10/2026, 14h",
+  "updated": "2026-10-26T16:00:00-03:00",
+  "updated_label": "26/10/2026, 16h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
-    "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. A própria campanha dele tinha pedido extensão em cidades de cinco estados. O presidente do TSE afirmou ter \"absoluta segurança\" no processo.",
+    "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. A própria campanha dele tinha pedido extensão em cidades de cinco estados. O presidente do TSE afirmou ter \"absoluta segurança\" no processo. O TSE chamou de falsa a alegação da campanha de que fiscais do PL foram retirados da sala de apuração, e analistas consideram o pedido improvável diante da diferença de votos.",
     "r": "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação. É o \"eu pedi, mas não era pra me darem\" mais caro da história da República. Do outro lado, Lula fecha o quarto mandato e já está naquele ponto em que o Planalto devia cobrar IPTU dele.",
     "s": [
       [
@@ -90,6 +90,31 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Derrota por larga margem torna improvável a anulação da eleição, dizem fontes e analistas",
+      "p": "A reportagem lembra que a campanha de Flávio também havia pedido extensão do horário em municípios; não há pedido protocolado confirmado.",
+      "src": "Antena 1",
+      "u": "https://www.antena1.com.br/noticias/derrota-expressiva-de-flavio-bolsonaro-torna-improvavel-anulacao-da-eleicao-dizem-fontes-e-analistas",
+      "r": "Pedir anulação com 4,4 milhões de votos de diferença é como reclamar do juiz depois de levar de goleada. Mas o VAR do bolsonarismo continua ligado."
+    },
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Alexandre Frota"
+      ],
+      "h": "Entenda os pedidos para barrar uma eventual viagem de Flávio ao exterior",
+      "p": "Pedidos foram feitos ao STF e à PGR; a reportagem não apresenta prova de plano de saída nem decisão sobre o passaporte.",
+      "src": "Estado de Minas",
+      "u": "https://www.em.com.br/politica/2026/10/7528167-flavio-bolsonaro-pode-deixar-o-pais-entenda-os-pedidos-para-barrar-viagem.html",
+      "r": "Todo mundo querendo o passaporte do homem sem ele ter feito mala. Até agora a única viagem confirmada é a da imaginação alheia."
+    },
     {
       "d": "2026-10-26",
       "g": "Flávio e campanha",
