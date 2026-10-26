@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-26T16:00:00-03:00",
-  "updated_label": "26/10/2026, 16h",
+  "updated": "2026-10-26T10:00:00-03:00",
+  "updated_label": "26/10/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
-    "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. A própria campanha dele tinha pedido extensão em cidades de cinco estados. O presidente do TSE afirmou ter \"absoluta segurança\" no processo. O TSE chamou de falsa a alegação da campanha de que fiscais do PL foram retirados da sala de apuração, e analistas consideram o pedido improvável diante da diferença de votos.",
+    "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. O presidente do TSE afirmou ter \"absoluta segurança\" no processo, e o TSE chamou de falsa a alegação de que fiscais do PL foram retirados da sala de apuração. Na segunda (26), o Metrópoles informou que aliados e a equipe jurídica deixaram de falar em anulação e miram a cassação da chapa de Lula e Alckmin no TSE, por suposto abuso de poder; o próprio Flávio disse que vai pedir a cassação e segue sem reconhecer o resultado. Nenhuma reportagem confirma pedido de anulação protocolado.",
     "r": "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação. É o \"eu pedi, mas não era pra me darem\" mais caro da história da República. Do outro lado, Lula fecha o quarto mandato e já está naquele ponto em que o Planalto devia cobrar IPTU dele.",
     "s": [
       [
@@ -42,9 +42,9 @@
       "role": "Candidato derrotado; senador até 31/01/2027",
       "st": "no",
       "stl": "Não falou em sair",
-      "q": "Eu não vou desistir desse Brasil.",
-      "p": "Não comentou a sugestão do irmão. Até a manhã de 26/10 não havia confirmação de viagem ao exterior; por volta das 11h visitou o pai em Brasília. Os deputados Duda Salabert, Otoni de Paula e Rogério Correia pediram a apreensão do passaporte dele, sem decisão e sem prova apresentada de plano de saída.",
-      "r": "\"Não vou desistir desse Brasil\", disse o senador, enquanto três deputados disputavam quem pedia primeiro o passaporte dele. Prova de plano de fuga: nenhuma. Ansiedade alheia: já embarcou, fez escala e postou foto do free shop.",
+      "q": "Eu nunca falei isso.",
+      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial.",
+      "r": "\"Eu nunca falei isso\", e tecnicamente tem razão: quem falou foi o irmão, e de longe. Primeira vez que o ruído de comunicação em família serve de álibi.",
       "s": [
         [
           "Exame",
@@ -57,6 +57,14 @@
         [
           "Metrópoles",
           "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte"
+        ],
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/"
+        ],
+        [
+          "CartaCapital",
+          "https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/"
         ]
       ]
     },
@@ -90,6 +98,44 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Alexandre de Moraes"
+      ],
+      "h": "PF intima Flávio a entregar os passaportes por ordem de Moraes, diz o senador",
+      "p": "Segundo Flávio, a decisão cita a fala de Eduardo e o proíbe de deixar o país e de contatar o advogado Willer Tomaz; o STF não havia dado informações. A defesa nega irregularidades.",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/"
+    },
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "h": "Flávio diz que vai entregar os passaportes, nega ter falado em sair do país e acusa a PF de intimidação",
+      "p": "Afirmou que a decisão se baseou numa declaração do irmão e que pedirá a cassação da chapa de Lula; segue sem reconhecer o resultado.",
+      "src": "CartaCapital",
+      "u": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/"
+    },
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Tarcísio de Freitas",
+        "Rogério Marinho"
+      ],
+      "h": "Aliados e equipe jurídica de Flávio dizem que ele não pedirá mais a anulação, e sim a cassação da chapa de Lula",
+      "p": "A campanha fala em 20 ações já apresentadas e em priorizar a oposição no Congresso a partir de 2027.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/brasil/flavio-nao-vai-mais-pedir-anulacao-da-eleicao-dizem-aliados-e-juridico",
+      "r": "Anulação durou do domingo à segunda. Agora o prato se chama cassação: nome mais chique, mesma cozinha e os mesmos 4,4 milhões de votos na conta."
+    },
     {
       "d": "2026-10-26",
       "g": "Flávio e campanha",
