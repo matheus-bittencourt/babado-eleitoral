@@ -104,8 +104,8 @@ function drawFeed() {
 }
 
 function draw() {
-  document.getElementById("edition").textContent = "Edição de " + DATA.updated_label;
-  document.getElementById("updated").textContent = "Última atualização: " + DATA.updated_label + " (horário de Brasília). A página confere se há edição nova a cada 5 minutos.";
+  document.getElementById("edition").textContent = "Edição de " + DATA.updated_label + " · atualiza todo dia às 10h";
+  document.getElementById("updated").textContent = "Atualização diária, uma vez por dia, às 10h (horário de Brasília). Edição atual: " + DATA.updated_label + ".";
   drawResult(); drawExits(); drawFeed();
 }
 
