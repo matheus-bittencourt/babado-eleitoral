@@ -27,6 +27,8 @@ jobs:
           python-version: "3.12"
       - run: python -m unittest discover -s tests
       - run: python check_data.py site/data.json
+      # Segredos, dados pessoais ou arquivos fora da lista barram a publicação
+      - run: python check_privacy.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
