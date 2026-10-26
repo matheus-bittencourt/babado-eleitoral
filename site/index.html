@@ -1,0 +1,574 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Babado Eleitoral</title>
+<meta name="description" content="A ressaca do 2º turno de 2026: notícias checadas sobre Flávio Bolsonaro e seus apoiadores, com pitacos de humor separados dos fatos.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Babado Eleitoral">
+<meta property="og:description" content="A ressaca do 2º turno: fatos das reportagens, pitacos sem pena.">
+<meta property="og:url" content="https://matheus-bittencourt.github.io/babado-eleitoral/">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#d1105f">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Libre+Franklin:wght@400;600;800&family=Caveat+Brush&display=swap">
+<style>
+/* Layout: tabloide de fofoca em coluna única; cada nota separa "O fato" (da reportagem) e "O pitaco" (zoeira da redação) */
+:root {
+  --bg: #fff5f9;
+  --paper: #ffffff;
+  --ink: #1c0f16;
+  --muted: #6e5562;
+  --line: #f1d3e1;
+  --pink: #d1105f;
+  --pink-soft: #fde1ee;
+  --marker: #ffe94d;
+  --marker-ink: #3a2f00;
+  --fact: #0f5f66;
+  --fact-soft: #ddf1f2;
+  --wa: #0f7a3d;
+  --ig: #b5267a;
+  --scrim: rgba(28, 15, 22, .55);
+  --f-display: "Anton", "Impact", "Arial Narrow", sans-serif;
+  --f-body: "Libre Franklin", "Segoe UI", system-ui, sans-serif;
+  --f-hand: "Caveat Brush", "Comic Sans MS", cursive;
+  color-scheme: light;
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #160a10; --paper: #22121a; --ink: #f7e9f0; --muted: #c09bad; --line: #3d2230;
+    --pink: #ff5c9d; --pink-soft: #3d1527; --marker: #e8cf2c; --marker-ink: #231c00;
+    --fact: #74cdd3; --fact-soft: #13302f;
+    --wa: #4fd88a; --ig: #ff7cc4; --scrim: rgba(0, 0, 0, .65);
+    color-scheme: dark;
+  }
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+img { max-width: 100%; }
+body {
+  margin: 0;
+  background: var(--bg); color: var(--ink);
+  font: 16px/1.5 var(--f-body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 48px;
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { max-width: 700px; margin: 0 auto; display: grid; gap: 22px; }
+a { color: var(--pink); }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--pink); outline-offset: 2px; }
+
+header.top { padding-top: 20px; display: grid; gap: 8px; }
+.ed { font: 800 .72rem/1 var(--f-body); letter-spacing: .12em; text-transform: uppercase; color: var(--pink); }
+h1 { font: 400 3.2rem/.92 var(--f-display); margin: 0; text-transform: uppercase; letter-spacing: .01em; }
+h1 span { color: var(--pink); }
+.lede { margin: 0; font-size: 1rem; }
+.lede mark { background: var(--marker); color: var(--marker-ink); padding: 0 3px; }
+
+.legend { display: grid; gap: 8px; background: var(--paper); border: 2px solid var(--ink); border-radius: 4px; padding: 12px; font-size: .88rem; }
+.legend div { display: flex; gap: 8px; align-items: baseline; }
+
+.lab { flex: none; font: 800 .66rem/1 var(--f-body); letter-spacing: .1em; text-transform: uppercase; padding: 5px 7px; border-radius: 3px; }
+.lab.fact { background: var(--fact-soft); color: var(--fact); }
+.lab.roast { background: var(--marker); color: var(--marker-ink); }
+
+.pitaco { margin: 0; font: 400 1.22rem/1.3 var(--f-hand); color: var(--ink); background: linear-gradient(transparent 8%, var(--pink-soft) 8%); padding: 8px 10px; border-radius: 4px; border-left: 4px solid var(--pink); }
+
+.result { background: var(--paper); border: 2px solid var(--ink); border-radius: 4px; padding: 14px; display: grid; gap: 10px; box-shadow: 5px 5px 0 var(--pink); }
+.score { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.cand b { display: block; font: 400 2.3rem/1 var(--f-display); font-variant-numeric: tabular-nums; }
+.cand span { font: 800 .74rem/1.2 var(--f-body); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.bar { height: 10px; background: var(--line); display: flex; border-radius: 2px; overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--pink); }
+.src { font: 600 .74rem/1.4 var(--f-body); color: var(--muted); }
+.src a { color: inherit; }
+
+h2.sec { font: 400 2rem/1 var(--f-display); text-transform: uppercase; margin: 0; }
+h2.sec small { display: block; font: 600 .85rem/1.3 var(--f-body); text-transform: none; color: var(--muted); margin-top: 4px; }
+
+.exits { display: grid; gap: 12px; }
+.ex, .item { background: var(--paper); border: 1px solid var(--line); border-radius: 6px; padding: 14px; display: grid; gap: 8px; min-width: 0; }
+.ex-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; }
+.ex-name { font: 400 1.35rem/1.05 var(--f-display); text-transform: uppercase; margin: 0; }
+.ex-role { font-size: .8rem; color: var(--muted); margin-top: 3px; }
+.st { flex: none; font: 800 .66rem/1 var(--f-body); text-transform: uppercase; letter-spacing: .08em; padding: 6px 8px; border-radius: 3px; border: 1.5px solid currentColor; }
+.st.yes { color: var(--pink); }
+.st.no { color: var(--fact); }
+.st.unk { color: var(--muted); }
+.quote { margin: 0; font-style: italic; font-weight: 600; }
+.row { display: flex; gap: 8px; align-items: baseline; }
+.row p { margin: 0; font-size: .92rem; min-width: 0; }
+
+.filters { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 10px; display: grid; gap: 8px; border-bottom: 2px solid var(--ink); }
+#q { width: 100%; font: 16px var(--f-body); padding: 10px 12px; border-radius: 4px; border: 1.5px solid var(--ink); background: var(--paper); color: var(--ink); }
+.chips { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+.chips::-webkit-scrollbar { display: none; }
+.chip { flex: none; font: 800 .74rem/1 var(--f-body); text-transform: uppercase; letter-spacing: .04em; padding: 8px 11px; border-radius: 3px; border: 1.5px solid var(--ink); background: var(--paper); color: var(--ink); cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+.count { font: 600 .74rem/1 var(--f-body); color: var(--muted); }
+
+#feed { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 12px; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font: 600 .74rem/1.2 var(--f-body); color: var(--muted); }
+.date { font-variant-numeric: tabular-nums; color: var(--pink); font-weight: 800; }
+.hd { font: 800 1.08rem/1.25 var(--f-body); margin: 0; }
+.hd a { color: var(--ink); text-decoration: none; }
+.hd a:hover { text-decoration: underline; }
+.who { display: flex; flex-wrap: wrap; gap: 5px; }
+.who span { font: 600 .7rem/1 var(--f-body); padding: 4px 6px; border-radius: 3px; background: var(--pink-soft); color: var(--pink); }
+.who span.check { background: var(--fact-soft); color: var(--fact); }
+.empty { text-align: center; color: var(--muted); padding: 24px 0; }
+
+.sharebar { display: grid; gap: 10px; }
+.sharebar h2 { font: 400 1.5rem/1 var(--f-display); text-transform: uppercase; margin: 0; }
+.btns { display: flex; flex-wrap: wrap; gap: 8px; }
+.sbtn {
+  display: inline-flex; align-items: center; gap: 6px; text-decoration: none; cursor: pointer;
+  font: 800 .78rem/1 var(--f-body); text-transform: uppercase; letter-spacing: .04em;
+  padding: 11px 13px; border-radius: 4px; border: 1.5px solid var(--ink); background: var(--paper); color: var(--ink);
+}
+.sbtn.wa { border-color: var(--wa); color: var(--wa); }
+.sbtn.ig { border-color: var(--ig); color: var(--ig); }
+.sbtn.main { background: var(--pink); border-color: var(--pink); color: var(--paper); }
+.share-mini {
+  justify-self: start; cursor: pointer; font: 800 .72rem/1 var(--f-body); text-transform: uppercase; letter-spacing: .06em;
+  background: none; border: 1.5px solid var(--line); color: var(--pink); padding: 8px 10px; border-radius: 3px;
+}
+.scrim { position: fixed; inset: 0; background: var(--scrim); z-index: 20; }
+.sheet {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 21; max-height: 90vh; overflow-y: auto;
+  background: var(--bg); border-top: 2px solid var(--ink); border-radius: 12px 12px 0 0;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 14px calc(18px + env(safe-area-inset-bottom, 0px));
+}
+.sheet-in { max-width: 700px; margin: 0 auto; display: grid; gap: 14px; }
+.sheet-head { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; }
+.sheet-head h3 { font: 400 1.6rem/1 var(--f-display); text-transform: uppercase; margin: 0; }
+.sheet-head p { margin: 4px 0 0; font-size: .88rem; color: var(--muted); }
+.close { flex: none; cursor: pointer; font: 800 .74rem/1 var(--f-body); text-transform: uppercase; padding: 9px 11px; border-radius: 3px; border: 1.5px solid var(--ink); background: var(--paper); color: var(--ink); }
+.story { display: grid; gap: 10px; border-top: 1px solid var(--line); padding-top: 12px; }
+.story h4 { margin: 0; font: 800 .9rem/1.2 var(--f-body); text-transform: uppercase; letter-spacing: .05em; color: var(--ig); }
+.story img { width: min(100%, 240px); aspect-ratio: 9 / 16; justify-self: center; border: 1.5px solid var(--ink); border-radius: 6px; background: var(--paper); object-fit: cover; }
+.steps { margin: 0; padding-left: 20px; font-size: .86rem; display: grid; gap: 4px; }
+.status { min-height: 1.2em; margin: 0; font: 600 .82rem/1.3 var(--f-body); color: var(--fact); }
+#copybox { width: 100%; min-height: 120px; font: 14px/1.4 var(--f-body); padding: 10px; border-radius: 4px; border: 1.5px solid var(--ink); background: var(--paper); color: var(--ink); }
+
+footer { font-size: .85rem; color: var(--muted); display: grid; gap: 6px; border-top: 2px solid var(--ink); padding-top: 14px; }
+footer p { margin: 0; }
+@media (min-width: 560px) { h1 { font-size: 4.2rem; } }
+@media (prefers-reduced-motion: no-preference) { .chip { transition: background .15s, color .15s; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <span class="ed" id="edition">Carregando a edição…</span>
+    <h1>Babado <span>Eleitoral</span></h1>
+    <p class="lede">A ressaca do 2º turno contada sem filtro. <mark>Os fatos são das reportagens linkadas, sem uma vírgula inventada.</mark> Já os pitacos são nossos, e não têm pena de ninguém.</p>
+  </header>
+
+  <div class="legend">
+    <div><span class="lab fact">O fato</span> resumo da reportagem, com link para a fonte</div>
+    <div><span class="lab roast">Pitaco</span> opinião e zoeira da redação; não é notícia</div>
+  </div>
+
+  <section class="sharebar" aria-labelledby="sh-h">
+    <h2 id="sh-h">Espalhe o babado</h2>
+    <div class="btns" id="pageShare"></div>
+  </section>
+
+  <div class="result" id="result" aria-label="Resultado do 2º turno"></div>
+
+  <section style="display:grid;gap:12px" aria-labelledby="ex-h">
+    <h2 class="sec" id="ex-h">Malas prontas?<small>Quem falou em deixar o Brasil, e quem só ganhou fama de que ia.</small></h2>
+    <div class="exits" id="exits"></div>
+  </section>
+
+  <section aria-labelledby="feed-h" style="display:grid">
+    <h2 class="sec" id="feed-h">O babado completo<small>Mais recentes primeiro. Toque no título para ler a reportagem original.</small></h2>
+    <div class="filters">
+      <input id="q" type="search" placeholder="Buscar nome ou assunto" aria-label="Buscar nome ou assunto" autocomplete="off">
+      <div class="chips" id="cats" role="group" aria-label="Filtrar por grupo"></div>
+      <div class="count" id="count" aria-live="polite"></div>
+    </div>
+    <ul id="feed"><li class="empty">Carregando os babados…</li></ul>
+  </section>
+
+  <footer>
+    <p><b>Selo de lisura:</b> manchetes, datas, citações e números vêm das reportagens linkadas em cada nota. Nenhum fato é alterado para caber na piada.</p>
+    <p>Os pitacos são sátira e opinião sobre o comportamento público de figuras públicas. Não são notícia, não acusam ninguém de crime, e investigação aqui não vira condenação.</p>
+    <p id="updated"></p>
+  </footer>
+</div>
+
+<div class="scrim" id="scrim" hidden></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-h" hidden>
+  <div class="sheet-in">
+    <div class="sheet-head">
+      <div><h3 id="sheet-h">Compartilhar</h3><p id="sheet-sub"></p></div>
+      <button class="close" id="sheet-close" type="button">Fechar</button>
+    </div>
+    <div class="btns" id="sheet-native" hidden><button class="sbtn main" id="native-text" type="button">Compartilhar pelo celular</button></div>
+    <div class="btns" id="sheet-nets"></div>
+    <div class="btns">
+      <button class="sbtn" id="copy-text" type="button">Copiar texto</button>
+      <button class="sbtn" id="copy-link" type="button">Copiar link da página</button>
+    </div>
+    <textarea id="copybox" aria-label="Texto para copiar" readonly hidden></textarea>
+    <p class="status" id="sheet-status" aria-live="polite"></p>
+    <div class="story">
+      <h4>Instagram Stories</h4>
+      <img id="story-img" alt="Prévia do card para Stories">
+      <div class="btns">
+        <button class="sbtn ig" id="story-share" type="button" hidden>Compartilhar imagem</button>
+        <a class="sbtn" id="story-download" download="babado-eleitoral-stories.png" hidden>Baixar imagem</a>
+      </div>
+      <ol class="steps">
+        <li id="story-step1">Toque em "Compartilhar imagem" e escolha Instagram › Stories. Sem esse botão, baixe a imagem ou toque e segure nela.</li>
+        <li>Se baixou, abra o Stories no Instagram e escolha a imagem.</li>
+        <li>Para levar o público à página, toque em "Copiar link da página" e use o sticker Link do Stories.</li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+<script>
+const GROUPS = ["Todos", "Flávio e campanha", "Música", "TV e cinema", "Esporte", "Influenciadores", "Religiosos"];
+const MES = ["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
+const PAGE_URL = location.origin + location.pathname;
+const canNative = typeof navigator.share === "function";
+const state = { q: "", g: "Todos" };
+let DATA = null;
+
+function el(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text != null) e.textContent = text;
+  return e;
+}
+function link(label, url) {
+  const a = el("a", null, label);
+  a.href = url; a.target = "_blank"; a.rel = "noopener";
+  return a;
+}
+function fold(s) { return s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, ""); }
+function clip(s, n) { return s.length > n ? s.slice(0, n - 1).trimEnd() + "…" : s; }
+function dateLabel(n) {
+  const [y, m, d] = n.d.split("-");
+  return n.dm ? MES[+m - 1] + " " + y : d + " " + MES[+m - 1] + " " + y;
+}
+function factRow(text) {
+  const r = el("div", "row");
+  r.append(el("span", "lab fact", "O fato"), el("p", null, text));
+  return r;
+}
+function sources(list) {
+  const s = el("span", "src", "Fontes: ");
+  list.forEach(([l, u], i) => { if (i) s.append(" · "); s.append(link(l, u)); });
+  return s;
+}
+function pct(v) { return v.toFixed(2).replace(".", ",") + "%"; }
+
+function drawResult() {
+  const r = DATA.result;
+  const box = document.getElementById("result");
+  const score = el("div", "score");
+  const c1 = el("div", "cand"), c2 = el("div", "cand");
+  c1.append(el("b", null, pct(r.lula)), el("span", null, "Lula (PT) · reeleito"));
+  c2.append(el("b", null, pct(r.flavio)), el("span", null, "Flávio (PL)"));
+  score.append(c1, c2);
+  const bar = el("div", "bar");
+  bar.setAttribute("role", "img");
+  bar.setAttribute("aria-label", "Lula " + pct(r.lula) + ", Flávio " + pct(r.flavio));
+  const fill = el("i");
+  fill.style.width = r.lula + "%";
+  bar.append(fill);
+  box.replaceChildren(score, bar, factRow(r.fact), el("p", "pitaco", r.r), sources(r.s));
+}
+
+function drawExits() {
+  document.getElementById("exits").replaceChildren(...DATA.exits.map(x => {
+    const c = el("article", "ex");
+    const head = el("div", "ex-head");
+    const t = el("div");
+    t.append(el("h3", "ex-name", x.n), el("div", "ex-role", x.role));
+    head.append(t, el("span", "st " + x.st, x.stl));
+    c.append(head);
+    if (x.q) c.append(el("p", "quote", "“" + x.q + "”"));
+    c.append(factRow(x.p), el("p", "pitaco", x.r), sources(x.s), shareButton({
+      title: x.n + ": " + x.stl.toLowerCase(),
+      fact: x.q ? "“" + x.q + "”" : clip(x.p, 220),
+      roast: x.r, src: x.s[0][0], url: x.s[0][1], date: DATA.updated_label.split(",")[0]
+    }));
+    return c;
+  }));
+}
+
+function drawFeed() {
+  document.getElementById("cats").replaceChildren(...GROUPS.map(g => {
+    const b = el("button", "chip", g);
+    b.type = "button";
+    b.setAttribute("aria-pressed", String(state.g === g));
+    b.addEventListener("click", () => { state.g = g; drawFeed(); });
+    return b;
+  }));
+  const q = fold(state.q.trim());
+  const rows = DATA.news.filter(n =>
+    (state.g === "Todos" || n.g === state.g) &&
+    (!q || fold(n.h + " " + n.p + " " + (n.r || "") + " " + n.who.join(" ") + " " + n.src).includes(q))
+  ).sort((a, b) => b.d.localeCompare(a.d));
+  document.getElementById("feed").replaceChildren(...(rows.length ? rows.map(n => {
+    const li = el("li", "item");
+    const meta = el("div", "meta");
+    meta.append(el("span", "date", dateLabel(n)), el("span", null, "· " + n.src));
+    const h = el("h3", "hd");
+    h.append(link(n.h, n.u));
+    li.append(meta, h);
+    if (n.p) li.append(factRow(n.p));
+    if (n.r) li.append(el("p", "pitaco", n.r));
+    const who = el("div", "who");
+    if (n.check) who.append(el("span", "check", "Checagem"));
+    n.who.forEach(w => who.append(el("span", null, w)));
+    li.append(who, shareButton({
+      title: n.h, fact: n.p ? clip(n.p, 220) : "", roast: n.r || "", src: n.src, url: n.u, date: dateLabel(n)
+    }));
+    return li;
+  }) : [el("li", "empty", "Nenhum babado com esse filtro.")]));
+  document.getElementById("count").textContent = rows.length + " de " + DATA.news.length + " babados";
+}
+
+function draw() {
+  document.getElementById("edition").textContent = "Edição de " + DATA.updated_label;
+  document.getElementById("updated").textContent = "Última atualização: " + DATA.updated_label + " (horário de Brasília). A página confere se há edição nova a cada 5 minutos.";
+  drawResult(); drawExits(); drawFeed();
+}
+
+async function load() {
+  try {
+    const res = await fetch("data.json", { cache: "no-store" });
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    if (DATA && DATA.updated === data.updated) return;
+    DATA = data;
+    draw();
+  } catch (e) {
+    if (!DATA) document.getElementById("feed").replaceChildren(el("li", "empty", "Não deu para carregar os babados agora. Recarregue a página em instantes."));
+  }
+}
+
+// ---------- Compartilhamento ----------
+const PAGE_ITEM = {
+  title: "Babado Eleitoral: a ressaca do 2º turno, com fatos checados e pitacos sem pena",
+  fact: "Lula 51,79% × Flávio 48,21%. Flávio diz que vai pedir a anulação da eleição.",
+  roast: "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação.",
+  src: "InfoMoney", url: "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/", date: "26 out 2026"
+};
+let current = null, storyFile = null, storyUrl = null, opener = null;
+const enc = encodeURIComponent;
+
+function waText(it) {
+  const lines = ["*Babado Eleitoral*", "📰 " + it.title + (it.date ? " (" + it.date + ")" : "")];
+  if (it.roast) lines.push("_Pitaco:_ " + it.roast);
+  if (it.url) lines.push("Fonte: " + it.src + " " + it.url);
+  lines.push("Mais babados: " + PAGE_URL);
+  return lines.join("\n");
+}
+function plainText(it) {
+  return it.title + (it.roast ? "\n\nPitaco: " + it.roast : "") + (it.url ? "\nFonte: " + it.src + " " + it.url : "");
+}
+function nets(it) {
+  return [
+    ["WhatsApp", "wa", "https://wa.me/?text=" + enc(waText(it))],
+    ["X", "", "https://twitter.com/intent/tweet?text=" + enc(clip(it.title + (it.roast ? " | Pitaco: " + it.roast : ""), 220)) + "&url=" + enc(PAGE_URL)],
+    ["Threads", "", "https://www.threads.net/intent/post?text=" + enc(clip(plainText(it), 380) + "\n" + PAGE_URL)],
+    ["Telegram", "", "https://t.me/share/url?url=" + enc(PAGE_URL) + "&text=" + enc(clip(plainText(it), 900))],
+    ["Facebook", "", "https://www.facebook.com/sharer/sharer.php?u=" + enc(PAGE_URL)]
+  ];
+}
+function netLinks(it) {
+  return nets(it).map(([label, cls, href]) => {
+    const a = el("a", "sbtn " + cls, label);
+    a.href = href; a.target = "_blank"; a.rel = "noopener";
+    return a;
+  });
+}
+function shareButton(it) {
+  const b = el("button", "share-mini", "Compartilhar");
+  b.type = "button";
+  b.addEventListener("click", () => openSheet(it, b));
+  return b;
+}
+function nativeShare(it, onFail) {
+  navigator.share({ title: "Babado Eleitoral", text: plainText(it), url: PAGE_URL })
+    .catch(e => { if (!e || e.name !== "AbortError") onFail(); });
+}
+
+function setStatus(t) { document.getElementById("sheet-status").textContent = t; }
+function copy(text, okMsg) {
+  const box = document.getElementById("copybox");
+  box.hidden = true;
+  const fallback = () => {
+    box.value = text; box.hidden = false; box.focus(); box.select();
+    setStatus("Não deu para copiar sozinho. O texto está selecionado abaixo: copie pelo menu do celular.");
+  };
+  try {
+    navigator.clipboard.writeText(text).then(() => setStatus(okMsg), fallback);
+  } catch (e) { fallback(); }
+}
+
+// Card 1080×1920 para Stories, com as cores do tabloide (é uma imagem, não segue o tema)
+const K = { bg: "#fff5f9", ink: "#1c0f16", pink: "#d1105f", pinkSoft: "#fde1ee", marker: "#ffe94d", markerInk: "#3a2f00", fact: "#0f5f66", factSoft: "#ddf1f2", muted: "#6e5562" };
+function wrapLines(g, text, maxW) {
+  const out = [];
+  text.split("\n").forEach(par => {
+    let line = "";
+    par.split(" ").forEach(w => {
+      const t = line ? line + " " + w : w;
+      if (g.measureText(t).width > maxW && line) { out.push(line); line = w; } else { line = t; }
+    });
+    out.push(line);
+  });
+  return out;
+}
+async function makeStory(it) {
+  try {
+    await Promise.all([
+      document.fonts.load('110px "Anton"'), document.fonts.load('800 60px "Libre Franklin"'),
+      document.fonts.load('400 40px "Libre Franklin"'), document.fonts.load('64px "Caveat Brush"')
+    ]);
+  } catch (e) {}
+  const W = 1080, H = 1920, X = 80, MW = 920;
+  const c = document.createElement("canvas");
+  c.width = W; c.height = H;
+  const g = c.getContext("2d");
+  g.fillStyle = K.bg; g.fillRect(0, 0, W, H);
+  g.fillStyle = K.pink; g.fillRect(0, 0, W, 250);
+  g.fillStyle = "#ffffff";
+  let ts = 120;
+  do { g.font = ts + 'px "Anton", Impact, sans-serif'; ts -= 4; } while (g.measureText("BABADO ELEITORAL").width > MW);
+  g.fillText("BABADO ELEITORAL", X, 180);
+  g.fillStyle = K.pink; g.font = '800 34px "Libre Franklin", sans-serif';
+  g.fillText(((it.date || "") + " · 2º turno 2026").toUpperCase(), X, 320);
+
+  const top = 380, bottom = 1640;
+  let L;
+  for (let k = 1; k >= 0.55; k -= 0.05) {
+    const hs = Math.round(62 * k), fs = Math.round(40 * k), rs = Math.round(70 * k);
+    g.font = '800 ' + hs + 'px "Libre Franklin", sans-serif'; const hl = wrapLines(g, it.title, MW);
+    g.font = '400 ' + fs + 'px "Libre Franklin", sans-serif'; const fl = it.fact ? wrapLines(g, it.fact, MW) : [];
+    g.font = rs + 'px "Caveat Brush", cursive'; const rl = it.roast ? wrapLines(g, it.roast, MW - 70) : [];
+    const h = 60 + hl.length * hs * 1.18 + 26 + fl.length * fs * 1.35 + (rl.length ? 50 + 60 + rl.length * rs * 1.12 + 60 : 0);
+    L = { hs, fs, rs, hl, fl, rl };
+    if (top + h <= bottom) break;
+  }
+  const chip = (text, x, y, bg, fg) => {
+    g.font = '800 30px "Libre Franklin", sans-serif';
+    const w = g.measureText(text).width + 36;
+    g.fillStyle = bg; g.fillRect(x, y, w, 50);
+    g.fillStyle = fg; g.fillText(text, x + 18, y + 36);
+  };
+  let y = top;
+  chip("O FATO", X, y, K.factSoft, K.fact); y += 60 + L.hs;
+  g.fillStyle = K.ink; g.font = '800 ' + L.hs + 'px "Libre Franklin", sans-serif';
+  L.hl.forEach(l => { g.fillText(l, X, y); y += L.hs * 1.18; });
+  y += 26 - L.hs * 0.18;
+  g.fillStyle = K.muted; g.font = '400 ' + L.fs + 'px "Libre Franklin", sans-serif';
+  L.fl.forEach(l => { y += L.fs * 1.35; g.fillText(l, X, y - L.fs * 0.35); });
+  if (L.rl.length) {
+    y += 50;
+    chip("PITACO", X, y, K.marker, K.markerInk); y += 60;
+    const boxH = L.rl.length * L.rs * 1.12 + 60;
+    g.fillStyle = K.pinkSoft; g.fillRect(X, y, MW, boxH);
+    g.fillStyle = K.pink; g.fillRect(X, y, 12, boxH);
+    g.fillStyle = K.ink; g.font = L.rs + 'px "Caveat Brush", cursive';
+    let ry = y + 30 + L.rs * 0.9;
+    L.rl.forEach(l => { g.fillText(l, X + 45, ry); ry += L.rs * 1.12; });
+  }
+  g.fillStyle = K.ink; g.fillRect(X, 1690, MW, 3);
+  g.fillStyle = K.muted; g.font = '600 32px "Libre Franklin", sans-serif';
+  g.fillText(clip("Fonte: " + (it.src || "—"), 52), X, 1750);
+  g.font = '400 28px "Libre Franklin", sans-serif';
+  g.fillText("Fato da reportagem · pitaco é opinião da redação", X, 1800);
+  g.fillText(PAGE_URL.replace(/^https?:\/\//, ""), X, 1845);
+  return new Promise(res => c.toBlob(res, "image/png"));
+}
+
+async function openSheet(it, from) {
+  current = it; opener = from || null;
+  document.getElementById("sheet-sub").textContent = it.title;
+  document.getElementById("sheet-native").hidden = !canNative;
+  document.getElementById("sheet-nets").replaceChildren(...netLinks(it));
+  document.getElementById("copybox").hidden = true;
+  setStatus("");
+  document.getElementById("scrim").hidden = false;
+  document.getElementById("sheet").hidden = false;
+  document.getElementById("sheet-close").focus();
+  const img = document.getElementById("story-img");
+  const share = document.getElementById("story-share");
+  const dl = document.getElementById("story-download");
+  img.removeAttribute("src"); share.hidden = true; dl.hidden = true;
+  const blob = await makeStory(it);
+  if (current !== it || !blob) return;
+  storyFile = new File([blob], "babado-eleitoral-stories.png", { type: "image/png" });
+  if (storyUrl) URL.revokeObjectURL(storyUrl);
+  storyUrl = URL.createObjectURL(blob);
+  img.src = storyUrl;
+  dl.href = storyUrl;
+  const canFiles = canNative && typeof navigator.canShare === "function" && navigator.canShare({ files: [storyFile] });
+  share.hidden = !canFiles;
+  dl.hidden = false;
+}
+function closeSheet() {
+  document.getElementById("sheet").hidden = true;
+  document.getElementById("scrim").hidden = true;
+  current = null;
+  if (opener) opener.focus();
+}
+
+const pageShare = document.getElementById("pageShare");
+if (canNative) {
+  const b = el("button", "sbtn main", "Compartilhar");
+  b.type = "button";
+  b.addEventListener("click", () => nativeShare(PAGE_ITEM, () => openSheet(PAGE_ITEM, b)));
+  pageShare.append(b);
+}
+pageShare.append(...netLinks(PAGE_ITEM), (() => {
+  const b = el("button", "sbtn ig", "Instagram Stories");
+  b.type = "button";
+  b.addEventListener("click", () => openSheet(PAGE_ITEM, b));
+  return b;
+})(), (() => {
+  const b = el("button", "sbtn", "Copiar link");
+  b.type = "button";
+  b.addEventListener("click", () => {
+    navigator.clipboard.writeText(PAGE_URL).then(() => { b.textContent = "Link copiado"; }, () => openSheet(PAGE_ITEM, b));
+  });
+  return b;
+})());
+
+document.getElementById("native-text").addEventListener("click", () => {
+  if (current) nativeShare(current, () => setStatus("O compartilhar do celular não abriu. Use os botões abaixo."));
+});
+document.getElementById("story-share").addEventListener("click", () => {
+  if (!storyFile) return;
+  navigator.share({ files: [storyFile], title: "Babado Eleitoral" })
+    .then(() => setStatus("Pronto."))
+    .catch(e => { if (!e || e.name !== "AbortError") setStatus("Não deu para compartilhar a imagem. Use \"Baixar imagem\"."); });
+});
+document.getElementById("sheet-close").addEventListener("click", closeSheet);
+document.getElementById("scrim").addEventListener("click", closeSheet);
+document.addEventListener("keydown", e => { if (e.key === "Escape" && !document.getElementById("sheet").hidden) closeSheet(); });
+document.getElementById("copy-text").addEventListener("click", () => { if (current) copy(waText(current), "Texto copiado. É só colar no app."); });
+document.getElementById("copy-link").addEventListener("click", () => copy(PAGE_URL, "Link copiado. No Stories, use o sticker Link."));
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; if (DATA) drawFeed(); });
+
+load();
+setInterval(load, 5 * 60 * 1000);
+</script>
+</body>
+</html>

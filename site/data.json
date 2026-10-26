@@ -1,0 +1,508 @@
+{
+  "updated": "2026-10-26T14:00:00-03:00",
+  "updated_label": "26/10/2026, 14h",
+  "result": {
+    "lula": 51.79,
+    "flavio": 48.21,
+    "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. A própria campanha dele tinha pedido extensão em cidades de cinco estados. O presidente do TSE afirmou ter \"absoluta segurança\" no processo.",
+    "r": "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação. É o \"eu pedi, mas não era pra me darem\" mais caro da história da República. Do outro lado, Lula fecha o quarto mandato e já está naquele ponto em que o Planalto devia cobrar IPTU dele.",
+    "s": [
+      [
+        "InfoMoney",
+        "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/"
+      ],
+      [
+        "Gazeta do Povo",
+        "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/"
+      ]
+    ]
+  },
+  "exits": [
+    {
+      "n": "Eduardo Bolsonaro",
+      "role": "Irmão de Flávio, ex-deputado; mora nos EUA desde 2025",
+      "st": "yes",
+      "stl": "Defendeu a saída",
+      "q": "Se meu irmão não vencer, sou a favor de que ele deixe o país.",
+      "p": "Disse em 23/10, no programa americano Louder with Crowder, que a derrota deixaria Flávio exposto a processos. A fala veio depois de Lula dizer no debate da Band que Flávio perderia a imunidade.",
+      "r": "Conselho fraterno direto dos EUA, de quem já testou o produto e deixou avaliação cinco estrelas. E o roteiro tem coautor: foi Lula quem soltou no debate o \"você vai perder a imunidade\". Presidente que dá spoiler do próximo capítulo do adversário.",
+      "s": [
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/eleicoes/2026/eduardo-bolsonaro-defende-que-flavio-deixe-o-brasil-se-for-derrotado-por-lula/"
+        ],
+        [
+          "CNN Brasil",
+          "https://www.cnnbrasil.com.br/eleicoes/eduardo-defende-saida-de-flavio-bolsonaro-do-pais-em-caso-de-derrota/"
+        ]
+      ]
+    },
+    {
+      "n": "Flávio Bolsonaro",
+      "role": "Candidato derrotado; senador até 31/01/2027",
+      "st": "no",
+      "stl": "Não falou em sair",
+      "q": "Eu não vou desistir desse Brasil.",
+      "p": "Não comentou a sugestão do irmão. Até a manhã de 26/10 não havia confirmação de viagem ao exterior; por volta das 11h visitou o pai em Brasília. Os deputados Duda Salabert, Otoni de Paula e Rogério Correia pediram a apreensão do passaporte dele, sem decisão e sem prova apresentada de plano de saída.",
+      "r": "\"Não vou desistir desse Brasil\", disse o senador, enquanto três deputados disputavam quem pedia primeiro o passaporte dele. Prova de plano de fuga: nenhuma. Ansiedade alheia: já embarcou, fez escala e postou foto do free shop.",
+      "s": [
+        [
+          "Exame",
+          "https://exame.com/brasil/vamos-pedir-anulacao-dessas-eleicoes-diz-flavio-bolsonaro-apos-vitoria-de-lula/"
+        ],
+        [
+          "Congresso em Foco",
+          "https://www.congressoemfoco.com.br/noticia/128189/deputados-pedem-apreensao-do-passaporte-de-flavio-apos-derrota"
+        ],
+        [
+          "Metrópoles",
+          "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte"
+        ]
+      ]
+    },
+    {
+      "n": "Equipe e aliados da campanha",
+      "role": "Nikolas Ferreira, Lucas Pavanato, Alexandre Ramagem e outros",
+      "st": "no",
+      "stl": "Ninguém anunciou saída",
+      "p": "No dia da votação, aliados questionaram a prorrogação antes do resultado, mas nenhum falou em deixar o país. Eduardo e Alexandre Ramagem já vivem nos EUA; Ramagem, condenado a 16 anos pelo STF, disse que só voltaria com Flávio eleito.",
+      "r": "Ninguém anunciou mudança. Também, nem precisava: a ala internacional da campanha já estava instalada lá fora antes da primeira urna abrir. É a única campanha com escritório regional em outro país.",
+      "s": [
+        [
+          "Metro 1",
+          "https://www.metro1.com.br/noticias/eleicoes-2026/190424,aliados-de-flavio-bolsonaro-questionam-eleicao-antes-do-resultado-e-levantam-suspeitas-de-golpe"
+        ]
+      ]
+    },
+    {
+      "n": "Pablo Marçal",
+      "role": "Influenciador, organizou o encontro de influenciadores da campanha",
+      "st": "unk",
+      "stl": "Não confirmado",
+      "p": "Circulou nas redes que ele prometeu sair do Brasil se Lula vencesse. A afirmação veio de um perfil de notícias, sem vídeo ou fala dele, e nenhum veículo confirmou. Famosos pró-Lula reagiram com ironia.",
+      "r": "Teve famoso querendo reconhecer firma da promessa em cartório. Marçal, até agora, não reconheceu nem o vídeo, que ninguém achou. Quem já estava com a carona pro aeroporto agendada pode cancelar sem multa.",
+      "s": [
+        [
+          "BNews",
+          "https://www.bnews.com.br/noticias/entretenimento/famosos-comemoram-suposta-promessa-de-pablo-marcal-de-deixar-o-brasil-caso-lula-venca-eleicao-conte-com-a-gente.html"
+        ]
+      ]
+    }
+  ],
+  "news": [
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "h": "Flávio visita o pai em Brasília um dia após a derrota",
+      "p": "A visita, por volta das 11h, ocorre enquanto pedidos de apreensão do passaporte dele aguardam análise.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte",
+      "r": "Primeiro compromisso pós-derrota: visitar o pai. Pelo menos ali o voto nunca falhou."
+    },
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Otoni de Paula"
+      ],
+      "h": "PGR não descarta pedido para reter o passaporte de Flávio, diz Gazeta do Povo",
+      "p": "O jornal fala em sinalização ainda não oficial à PF; não há decisão nem prova apresentada de plano de saída.",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/",
+      "r": "Em 24 horas o passaporte virou o documento mais comentado do país, desbancando até o pedido de anulação. Ninguém sabe se ele vai viajar, mas a capa já tem mais fãs que muito candidato a deputado."
+    },
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Duda Salabert",
+        "Otoni de Paula",
+        "Rogério Correia"
+      ],
+      "h": "Deputados pedem ao STF e à PGR que o passaporte de Flávio seja apreendido",
+      "p": "Alegam risco de saída do país; não há decisão nem prova apresentada de plano de fuga.",
+      "src": "Congresso em Foco",
+      "u": "https://www.congressoemfoco.com.br/noticia/128189/deputados-pedem-apreensao-do-passaporte-de-flavio-apos-derrota",
+      "r": "Três deputados, zero provas de fuga e uma convicção inabalável. Ganhar a eleição e ainda assim correr pro STF no dia seguinte: o governismo aprendeu rápido o esporte favorito de quem perde."
+    },
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "h": "Sem confirmação de que Flávio tenha viajado aos EUA após a derrota",
+      "p": "A última aparição pública dele foi em Brasília, no domingo, ao anunciar o pedido de anulação.",
+      "src": "ND Mais",
+      "u": "https://ndmais.com.br/politica/flavio-bolsonaro-viajou-para-os-eua-onde-esta/",
+      "check": true,
+      "r": "Flávio não viajou. A imaginação da internet, sim: já tinha embarcado, pousado e reclamado do preço do Uber no desembarque."
+    },
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Eduardo Bolsonaro"
+      ],
+      "h": "Em vídeo em inglês, Eduardo fala em fraude sem provas e pede que o mundo não reconheça o resultado",
+      "p": "Citou a prorrogação da votação e a virada de Lula depois de Flávio liderar o 1º turno.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/brasil/em-video-em-ingles-eduardo-bolsonaro-acusa-eleicoes-de-fraude-sem-provas",
+      "r": "Pediu ao mundo que não reconheça o resultado. Em inglês, pra garantir que o eleitor brasileiro não entendesse o pedido."
+    },
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Rogério Marinho",
+        "Flávio Bolsonaro",
+        "Pablo Marçal"
+      ],
+      "h": "Marinho diz que a decisão de contestar a eleição partiu de Flávio e que a campanha irá à Justiça",
+      "p": "Na mesma reportagem, Marçal chamou a vitória de Lula de \"tragédia matemática\" e criticou os institutos de pesquisa.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/brasil/marinho-diz-que-decisao-de-questionar-resultado-das-eleicoes-veio-de-flavio",
+      "r": "\"Tragédia matemática\" é o nome que Marçal deu a 4,4 milhões de votos de diferença. A matemática pede respeito e, se possível, uma mentoria. Marinho, coordenador da campanha, deixou claro de quem foi a ideia de contestar: espírito de equipe é isso, todo mundo junto, mas o crachá é do chefe."
+    },
+    {
+      "d": "2026-10-25",
+      "g": "Flávio e campanha",
+      "who": [
+        "Lucas Pavanato",
+        "Nikolas Ferreira"
+      ],
+      "h": "Pavanato diz que não aceitará derrota, e Nikolas fala em impeachment após decisão do STF",
+      "p": "As falas vieram depois de Zanin estender o horário de votação até as 19h.",
+      "src": "Gazeta de S.Paulo",
+      "u": "https://www.gazetasp.com.br/cotidiano/pavanato-diz-que-nao-aceitara-derrota-e-nikolas-fala-em-possivel-impeachment-apos-decisao-do-stf/",
+      "r": "\"Não aceitarei derrota\" é frase linda em vestiário de várzea. Na eleição ela tem nome técnico: domingo à noite."
+    },
+    {
+      "d": "2026-10-25",
+      "g": "Influenciadores",
+      "who": [
+        "Pablo Marçal",
+        "Eduardo Bolsonaro"
+      ],
+      "h": "Marçal e Eduardo festejaram em vídeo a virada parcial de Flávio antes da derrota",
+      "p": "Flávio chegou a passar Lula durante a apuração; Lula retomou a liderança e não foi mais ultrapassado.",
+      "src": "Terra",
+      "u": "https://www.terra.com.br/noticias/eleicoes/antes-de-derrota-pablo-marcal-e-eduardo-bolsonaro-comemoraram-virada-de-flavio,f9b62d41f1a366041edf439e81b97fb5i1xjpi5b.html",
+      "r": "Comemoraram a virada ao vivo. A apuração, sem a menor educação, continuou contando. Fica a lição de todo torcedor: não se solta rojão no intervalo."
+    },
+    {
+      "d": "2026-10-25",
+      "g": "Flávio e campanha",
+      "who": [
+        "Kassio Nunes Marques",
+        "Flávio Bolsonaro"
+      ],
+      "h": "Presidente do TSE diz que a prorrogação da votação não comprometeu o resultado",
+      "p": "Kassio Nunes Marques respondeu às críticas da campanha de Flávio na noite da eleição.",
+      "src": "Agora RN",
+      "u": "https://agorarn.com.br/politica/kassio-afirma-que-prorrogacao-da-votacao-nao-comprometeu-resultado-das-eleicoes/",
+      "r": "Detalhe que estraga a narrativa: Kassio chegou ao STF indicado por Jair Bolsonaro. Fica difícil chamar de juiz da torcida adversária o árbitro que o próprio time escalou."
+    },
+    {
+      "d": "2026-10-25",
+      "g": "Religiosos",
+      "who": [
+        "Silas Malafaia"
+      ],
+      "h": "Malafaia lamenta, mas reconhece a vitória de Lula",
+      "p": "Em vídeo, chamou o resultado de decisão do povo e pediu confiança nas instituições, sem falar em fraude.",
+      "src": "Jornal do Comércio",
+      "u": "https://www.jornaldocomercio.com/politica/2026/10/1268191-malafaia-diz-lamentar-mas-reconhece-vitoria-de-lula.html",
+      "r": "Em janeiro disse que Flávio não tinha musculatura. Em outubro apoiou. No domingo reconheceu a derrota em vídeo. É o único da turma com a jornada completa: profecia, conversão e aceitação."
+    },
+    {
+      "d": "2026-10-25",
+      "g": "Flávio e campanha",
+      "who": [
+        "Nikolas Ferreira"
+      ],
+      "h": "Nikolas não reconhece a reeleição de Lula e volta a falar em impeachment de Zanin",
+      "p": "Criticou a prorrogação de duas horas da votação e escreveu que Lula não é seu presidente.",
+      "src": "Poder360",
+      "u": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-nao-reconhece-vitoria-de-lula-e-fala-em-impeachment-de-zanin/",
+      "r": "Antes da apuração o cardápio era \"ou a gente ganha, ou a gente ganha\". Esqueceram de tirar a terceira opção do menu, e foi justo a que o garçom trouxe."
+    },
+    {
+      "d": "2026-10-25",
+      "g": "Flávio e campanha",
+      "who": [
+        "Nikolas Ferreira",
+        "Flávio Bolsonaro"
+      ],
+      "h": "Aliados de Flávio reagem à derrota com acusações de \"fraude\" e \"golpe judiciário\"",
+      "p": "Nenhum dos aliados citados apresentou provas; partidos do centrão como MDB e Republicanos reconheceram o resultado.",
+      "src": "O Tempo",
+      "u": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/25/ameaca-de-impeachment-fraude-golpe-judiciario-aliados-de-flavio-reagem-a-vitoria-de-lula",
+      "r": "Acusações de fraude: muitas. Provas: aguardando entrega, sem código de rastreio. O centrão, que fareja poder a quilômetros, reconheceu o resultado antes de o café esfriar."
+    },
+    {
+      "d": "2026-10-25",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Análise: o que muda para o bolsonarismo depois da derrota de Flávio",
+      "p": "",
+      "src": "Nexo",
+      "u": "https://www.nexojornal.com.br/expresso/2026/10/25/flavio-bolsonaro-perde-derrota-bolsonarismo-lula-reeleito-presidente",
+      "r": "Leitura obrigatória para quem vai disputar o espólio do bolsonarismo no próximo almoço de domingo da família."
+    },
+    {
+      "d": "2026-10-25",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Flávio não reconhece a derrota e diz que pedirá anulação da eleição",
+      "p": "Alegou quebra de isonomia com a votação prorrogada; a própria campanha tinha pedido extensão em cidades de cinco estados.",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/",
+      "r": "Quebra de isonomia, diz quem pediu prorrogação em cinco estados. A isonomia só vale quando o relógio corre a favor."
+    },
+    {
+      "d": "2026-10-25",
+      "g": "Flávio e campanha",
+      "who": [
+        "Lula",
+        "Flávio Bolsonaro"
+      ],
+      "h": "Lula é reeleito com 51,79% e terá o quarto mandato",
+      "p": "Flávio ganhou em São Paulo (53,85% no estado), mas Lula venceu na capital.",
+      "src": "InfoMoney",
+      "u": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/",
+      "r": "Quarto mandato. Lula já renovou contrato mais vezes que lateral veterano de time grande, e segue jurando que é o último. Perdeu o estado de São Paulo e ganhou a capital: o Planalto foi salvo pela fila do metrô."
+    },
+    {
+      "d": "2026-10-25",
+      "g": "Flávio e campanha",
+      "who": [
+        "Nikolas Ferreira",
+        "Eduardo Bolsonaro",
+        "Alexandre Ramagem"
+      ],
+      "h": "Aliados de Flávio questionaram a eleição antes de sair o resultado",
+      "p": "Nikolas ameaçou pedir impeachment de Zanin; Eduardo disse que a prorrogação tinha \"cheiro de queimado\".",
+      "src": "Metro 1",
+      "u": "https://www.metro1.com.br/noticias/eleicoes-2026/190424,aliados-de-flavio-bolsonaro-questionam-eleicao-antes-do-resultado-e-levantam-suspeitas-de-golpe",
+      "r": "Contestar antes do resultado é o seguro-derrota: contratado com antecedência e acionado com precisão suíça."
+    },
+    {
+      "d": "2026-10-24",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Derrota e inquéritos no STF pressionam o futuro de Flávio",
+      "p": "Sem foro a partir de fevereiro; Moraes mandou quebrar o sigilo de uma offshore do advogado Willer Tomaz.",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/"
+    },
+    {
+      "d": "2026-10-23",
+      "g": "Flávio e campanha",
+      "who": [
+        "Eduardo Bolsonaro"
+      ],
+      "h": "Eduardo defende que Flávio deixe o Brasil se perder",
+      "p": "Entrevista a um podcast nos EUA, dois dias antes da votação.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/eleicoes/eduardo-defende-saida-de-flavio-bolsonaro-do-pais-em-caso-de-derrota/",
+      "r": "Dois dias antes da eleição, o irmão já anunciava o plano B. É o tipo de apoio fraterno que dispensa adversário."
+    },
+    {
+      "d": "2026-10-23",
+      "g": "Música",
+      "who": [
+        "Daniel Diau",
+        "Zezé Di Camargo"
+      ],
+      "h": "Vocalista da Calcinha Preta declara apoio a Flávio em post de Zezé",
+      "p": "Apoio feito em comentário numa publicação do sertanejo.",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/",
+      "r": "Declarou voto na seção de comentários do Zezé. A política brasileira enfim assumiu o endereço onde sempre morou."
+    },
+    {
+      "d": "2026-10-22",
+      "g": "Esporte",
+      "who": [
+        "Neymar"
+      ],
+      "h": "Neymar comenta \"Dito isso... 22\" em post do MC Cabelinho",
+      "p": "O Correio Braziliense observa que ele não fez declaração formal de voto, ao contrário de 2022.",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/",
+      "r": "\"Dito isso... 22.\" Dito o quê, Neymar? Foi o apoio mais econômico da campanha: três palavras, dois números e zero compromisso. Um drible até no próprio voto."
+    },
+    {
+      "d": "2026-10-22",
+      "g": "Influenciadores",
+      "who": [
+        "Ruyter Poubel"
+      ],
+      "h": "Ruyter publica vídeo de \"posicionamento oficial\" a favor de Flávio",
+      "p": "",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/",
+      "r": "\"Posicionamento oficial\", com a pompa de pronunciamento em cadeia nacional. A nação, dizem, parou para ouvir."
+    },
+    {
+      "d": "2026-10-22",
+      "g": "Religiosos",
+      "who": [
+        "R. R. Soares"
+      ],
+      "h": "Missionário R. R. Soares declara voto em Flávio",
+      "p": "",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/",
+      "r": "Declarou o voto três dias antes da eleição. Fé não faltou; faltaram 4,4 milhões de votos."
+    },
+    {
+      "d": "2026-10-20",
+      "g": "Música",
+      "who": [
+        "Gusttavo Lima",
+        "Zezé Di Camargo",
+        "Marrone",
+        "Murilo Huff",
+        "Felipe Araújo",
+        "Amado Batista"
+      ],
+      "h": "Sertanejos gravam vídeos com Flávio em Goiás",
+      "p": "Encontro na propriedade do senador Wilder Morais, em Nerópolis. Gusttavo pediu que Flávio mantivesse os programas sociais.",
+      "src": "Correio Braziliense",
+      "u": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/10/7525290-de-anitta-a-gusttavo-lima-veja-quais-artistas-apoiam-lula-e-quais-apoiam-flavio.html",
+      "r": "Gusttavo Lima declarou apoio ao candidato da mudança pedindo que ele não mudasse os programas sociais do governo atual. Sofrência política: o coração no 22, o pedido no 13."
+    },
+    {
+      "d": "2026-10-20",
+      "g": "Influenciadores",
+      "who": [
+        "Pablo Marçal"
+      ],
+      "h": "Flávio reúne mais de 400 influenciadores em evento organizado por Marçal",
+      "p": "Pediu que evitassem tratar a eleição como disputa entre esquerda e direita.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/brasil/flavio-reune-influenciadores-para-ampliar-alcance-da-campanha-nas-redes",
+      "r": "Mais de 400 influenciadores numa sala e a orientação de não falar em esquerda e direita. Pedir isso pra esse público é como pedir pra coach não falar em mindset."
+    },
+    {
+      "d": "2026-10-20",
+      "g": "Influenciadores",
+      "who": [
+        "Pablo Marçal"
+      ],
+      "h": "Marçal orienta influenciadores a trocar ataques a Lula por discurso de renovação",
+      "p": "",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/marcal-orienta-aliados-de-flavio-a-trocar-ataques-a-lula-por-discurso-de-renovacao/",
+      "dm": "out",
+      "r": "Aula de discurso moderado ministrada por Pablo Marçal. Vagas esgotadas, alunos confusos."
+    },
+    {
+      "d": "2026-10-19",
+      "g": "TV e cinema",
+      "who": [
+        "Ratinho"
+      ],
+      "h": "Ratinho quebra o silêncio e declara voto em Flávio",
+      "p": "Disse que não fica \"em cima do muro\" e se identificou como de direita.",
+      "src": "Terra",
+      "u": "https://www.terra.com.br/diversao/gente/ratinho-quebra-silencio-sobre-eleicao-e-crava-voto-nao-fico-em-cima-do-muro,6c893acad94854c45468de09f8f6e4afuk53bqxc.html",
+      "r": "Desceu do muro com convicção, a seis dias da eleição, e pousou do lado que perdeu. Coerência ninguém tira; timing é outra conversa."
+    },
+    {
+      "d": "2026-10-17",
+      "g": "Música",
+      "who": [
+        "Leonardo"
+      ],
+      "h": "Leonardo manda recado a Flávio ao ser provocado sobre Lula",
+      "p": "A Gazeta do Povo não trata a fala como declaração formal de voto.",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/saiba-quais-personalidades-declararam-voto-flavio-e-lula/",
+      "dm": "out",
+      "r": "Perguntaram do Lula, ele respondeu pro Flávio. Enquanto isso o filho, João Guilherme, subia em palanque pró-Lula. O Natal na fazenda promete."
+    },
+    {
+      "d": "2026-10-01",
+      "g": "Influenciadores",
+      "who": [
+        "Julia Cortez"
+      ],
+      "h": "Influenciadora que viralizou ao lado de Flávio era personagem criada por IA",
+      "p": "O perfil tinha meio milhão de seguidores.",
+      "src": "Terra",
+      "u": "https://www.terra.com.br/noticias/brasil/influencer-criada-por-ia-viraliza-em-videos-ao-lado-de-flavio-bolsonaro,da2efec8f9c46e96fbabe768a30a31ac87m1243v.html",
+      "check": true,
+      "dm": "out",
+      "r": "Meio milhão de seguidores, vídeos virais ao lado do candidato e um pequeno detalhe: ela não existe. Foi a apoiadora mais fiel da campanha e a única que não precisou ser convencida."
+    },
+    {
+      "d": "2026-09-09",
+      "g": "Religiosos",
+      "who": [
+        "Estevam Hernandes",
+        "Sonia Hernandes"
+      ],
+      "h": "Líderes da Renascer confirmam apoio a Flávio",
+      "p": "Estevam postou \"Eu voto 22 para presidente\".",
+      "src": "Revista Oeste",
+      "u": "https://revistaoeste.com/politica/lideres-da-igreja-renascer-confirmam-apoio-a-flavio/",
+      "r": "Apoio anunciado com seis semanas de antecedência. Faltou combinar com a urna, que não aceita dízimo."
+    },
+    {
+      "d": "2026-08-20",
+      "g": "Música",
+      "who": [
+        "Gusttavo Lima"
+      ],
+      "h": "Gusttavo Lima presencia vaias a Lula no show de Barretos",
+      "p": "Segundo a reportagem, o cantor não incentivou nem comentou as vaias.",
+      "src": "Terra",
+      "u": "https://www.terra.com.br/diversao/gente/gusttavo-lima-presencia-vaias-contra-lula-em-barretos-e-reacao-chama-atencao-na-globo,5597982adf59bb9a4e7e94e47608e62cpwnjj7xi.html",
+      "dm": "ago",
+      "r": "Em agosto, neutralidade de monge no palco. Em outubro, vídeo de apoio. O Embaixador sabe a hora certa de entrar no refrão."
+    },
+    {
+      "d": "2026-01-15",
+      "g": "Religiosos",
+      "who": [
+        "Silas Malafaia"
+      ],
+      "h": "Antes de apoiar, Malafaia disse não ver em Flávio força para vencer Lula",
+      "p": "Na época defendia Tarcísio ou Michelle Bolsonaro; depois declarou voto em Flávio.",
+      "src": "Congresso em Foco",
+      "u": "https://www.congressoemfoco.com.br/noticia/115726/nao-vejo-o-flavio-com-musculatura-para-derrotar-lula--diz-malafaia",
+      "dm": "jan",
+      "r": "Guarde este print. Foi a profecia mais certeira do ano, entregue com nove meses de antecedência e ignorada pelo próprio profeta."
+    },
+    {
+      "d": "2025-08-20",
+      "g": "Música",
+      "who": [
+        "Zezé Di Camargo",
+        "Gusttavo Lima"
+      ],
+      "h": "Falso: vídeos de Zezé e Gusttavo apoiando Lula e Moraes eram montagem com IA",
+      "p": "Checagem do Boatos.org; os vídeos usavam voz dublada por inteligência artificial.",
+      "src": "Boatos.org",
+      "u": "https://www.boatos.org/entretenimento/zeze-di-camargo-e-gusttavo-lima-declararam-apoio-a-lula-e-moraes-em-2026.html",
+      "check": true,
+      "r": "Até a inteligência artificial tentou virar o voto dos sertanejos. Não colou. Pelo visto, convencer o Zezé é tarefa que nem o robô dá conta."
+    }
+  ]
+}
