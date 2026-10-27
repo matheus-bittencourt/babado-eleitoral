@@ -33,6 +33,23 @@ class CheckDataTest(unittest.TestCase):
         d["news"][0]["g"] = "Fofoca"
         self.assertTrue(any("news[0].g" in e for e in check(d)))
 
+    def test_recusa_hora_no_futuro(self):
+        d = copy.deepcopy(self.data)
+        d["updated"] = "2999-01-01T19:00:00-03:00"
+        d["updated_label"] = "01/01/2999, 19h"
+        self.assertTrue(any("futuro" in e for e in check(d)))
+
+    def test_recusa_rotulo_diferente_da_hora(self):
+        d = copy.deepcopy(self.data)
+        d["updated"] = "2026-10-27T16:03:00-03:00"
+        d["updated_label"] = "27/10/2026, 19h"
+        self.assertTrue(any("updated_label" in e for e in check(d)))
+
+    def test_recusa_hora_fora_de_brasilia(self):
+        d = copy.deepcopy(self.data)
+        d["updated"] = "2026-10-27T19:03:00+00:00"
+        self.assertTrue(any("Brasília" in e for e in check(d)))
+
     def test_recusa_manchete_repetida(self):
         d = copy.deepcopy(self.data)
         d["news"].append(copy.deepcopy(d["news"][0]))

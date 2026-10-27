@@ -6,12 +6,13 @@ Sai com código 1 e lista os problemas se algo estiver fora do formato.
 import json
 import re
 import sys
-from datetime import date, datetime
+from datetime import date, datetime, timedelta, timezone
 
 GROUPS = {"Flávio e campanha", "Música", "TV e cinema", "Esporte", "Influenciadores", "Religiosos"}
 STATUS = {"yes", "no", "unk"}
 MONTHS = {"jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"}
 MAX_NEWS = 40
+BRT = timedelta(hours=-3)
 
 
 def text(v):
@@ -34,7 +35,13 @@ def check(data):
         return ["o arquivo deve ser um objeto JSON"]
 
     try:
-        datetime.fromisoformat(data.get("updated", ""))
+        up = datetime.fromisoformat(data.get("updated", ""))
+        if up.utcoffset() != BRT:
+            errors.append("updated: use o horário de Brasília (-03:00)")
+        elif up > datetime.now(timezone.utc) + timedelta(minutes=15):
+            errors.append("updated: hora no futuro (provavelmente UTC gravado como -03:00)")
+        elif data.get("updated_label") != f"{up:%d/%m/%Y}, {up.hour}h":
+            errors.append(f"updated_label: deveria ser {up:%d/%m/%Y}, {up.hour}h")
     except (TypeError, ValueError):
         errors.append("updated: data e hora ISO inválida")
     if not text(data.get("updated_label")):
