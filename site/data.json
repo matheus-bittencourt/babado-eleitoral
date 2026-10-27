@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T16:03:00-03:00",
-  "updated_label": "27/10/2026, 16h",
+  "updated": "2026-10-27T20:10:48-03:00",
+  "updated_label": "27/10/2026, 20h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -29,7 +29,6 @@
       "stl": "Defendeu a saída",
       "q": "Se meu irmão não vencer, sou a favor de que ele deixe o país.",
       "p": "Disse em 23/10, no programa americano Louder with Crowder, que a derrota deixaria Flávio exposto a processos. A fala veio depois de Lula dizer no debate da Band que Flávio perderia a imunidade. Em 27/10 chamou de mentira o rumor de que Flávio teria saído do país.",
-      "r": "Conselho fraterno direto dos EUA, de quem já testou o produto e deixou avaliação cinco estrelas. E o roteiro tem coautor: foi Lula quem soltou no debate o \"você vai perder a imunidade\". Presidente que dá spoiler do próximo capítulo do adversário.",
       "s": [
         [
           "Gazeta do Povo",
@@ -40,23 +39,35 @@
           "https://www.cnnbrasil.com.br/eleicoes/eduardo-defende-saida-de-flavio-bolsonaro-do-pais-em-caso-de-derrota/"
         ],
         [
+          "SBT News",
+          "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-deve-deixar-o-brasil-se-perder-diz-eduardo-bolsonaro-1"
+        ],
+        [
           "ND Mais",
           "https://ndmais.com.br/politica/eduardo-bolsonaro-nega-suposta-fuga-de-flavio-e-ironiza-elon-musk-mandou-um-foguete/"
         ]
-      ]
+      ],
+      "r": "Conselho fraterno direto dos EUA, de quem já testou o produto e deixou avaliação cinco estrelas. E o roteiro tem coautor: foi Lula quem soltou no debate o \"você vai perder a imunidade\". Presidente que dá spoiler do próximo capítulo do adversário."
     },
     {
       "n": "Flávio Bolsonaro",
       "role": "Candidato derrotado; senador até 31/01/2027",
-      "st": "no",
-      "stl": "Nega; rumor não confirmado",
+      "st": "unk",
+      "stl": "Aliados dizem que saiu; sem confirmação oficial",
       "q": "Eu nunca falei isso.",
-      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes.",
-      "r": "\"Eu nunca falei isso\", e tecnicamente tem razão: quem falou foi o irmão, e de longe. Primeira vez que o ruído de comunicação em família serve de álibi.",
+      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Não há confirmação oficial; o governo argentino nega entrada e pedido de asilo.",
       "s": [
         [
           "Exame",
           "https://exame.com/brasil/vamos-pedir-anulacao-dessas-eleicoes-diz-flavio-bolsonaro-apos-vitoria-de-lula/"
+        ],
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/"
+        ],
+        [
+          "ND Mais",
+          "https://ndmais.com.br/politica/flavio-bolsonaro-viajou-para-os-eua-onde-esta/"
         ],
         [
           "Congresso em Foco",
@@ -65,6 +76,10 @@
         [
           "Metrópoles",
           "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte"
+        ],
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/"
         ],
         [
           "Gazeta do Povo",
@@ -93,8 +108,21 @@
         [
           "CNN Brasil",
           "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/"
+        ],
+        [
+          "CNN Brasil",
+          "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/"
+        ],
+        [
+          "CNN Brasil",
+          "https://www.cnnbrasil.com.br/politica/autoridade-dos-eua-diz-a-reuters-que-flavio-esta-a-caminho-do-pais/"
+        ],
+        [
+          "Jornal de Brasília",
+          "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/"
         ]
-      ]
+      ],
+      "r": "\"Eu nunca falei isso\" tem validade até a próxima notícia: quem falou foi o irmão, e hoje o assunto é onde está o Flávio. A novela do passaporte segue sem final confirmado."
     },
     {
       "n": "Equipe e aliados da campanha",
@@ -102,13 +130,13 @@
       "st": "no",
       "stl": "Ninguém anunciou saída",
       "p": "No dia da votação, aliados questionaram a prorrogação antes do resultado, mas nenhum falou em deixar o país. Eduardo e Alexandre Ramagem já vivem nos EUA; Ramagem, condenado a 16 anos pelo STF, disse que só voltaria com Flávio eleito.",
-      "r": "Ninguém anunciou mudança. Também, nem precisava: a ala internacional da campanha já estava instalada lá fora antes da primeira urna abrir. É a única campanha com escritório regional em outro país.",
       "s": [
         [
           "Metro 1",
           "https://www.metro1.com.br/noticias/eleicoes-2026/190424,aliados-de-flavio-bolsonaro-questionam-eleicao-antes-do-resultado-e-levantam-suspeitas-de-golpe"
         ]
-      ]
+      ],
+      "r": "Ninguém anunciou mudança. Também, nem precisava: a ala internacional da campanha já estava instalada lá fora antes da primeira urna abrir. É a única campanha com escritório regional em outro país."
     },
     {
       "n": "Pablo Marçal",
@@ -116,16 +144,82 @@
       "st": "unk",
       "stl": "Não confirmado",
       "p": "Circulou nas redes que ele prometeu sair do Brasil se Lula vencesse. A afirmação veio de um perfil de notícias, sem vídeo ou fala dele, e nenhum veículo confirmou. Famosos pró-Lula reagiram com ironia.",
-      "r": "Teve famoso querendo reconhecer firma da promessa em cartório. Marçal, até agora, não reconheceu nem o vídeo, que ninguém achou. Quem já estava com a carona pro aeroporto agendada pode cancelar sem multa.",
       "s": [
         [
           "BNews",
           "https://www.bnews.com.br/noticias/entretenimento/famosos-comemoram-suposta-promessa-de-pablo-marcal-de-deixar-o-brasil-caso-lula-venca-eleicao-conte-com-a-gente.html"
         ]
-      ]
+      ],
+      "r": "Teve famoso querendo reconhecer firma da promessa em cartório. Marçal, até agora, não reconheceu nem o vídeo, que ninguém achou. Quem já estava com a carona pro aeroporto agendada pode cancelar sem multa."
     }
   ],
   "news": [
+    {
+      "d": "2026-10-27",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Donald Trump"
+      ],
+      "h": "Aliados dizem que Flávio deixou o Brasil com a família e que Trump concederá asilo; não há confirmação oficial",
+      "p": "Segundo a Band, o asilo é afirmação de aliados; o governo argentino diz que não recebeu pedido de asilo.",
+      "src": "Band",
+      "u": "https://www.band.com.br/politica/eleicoes/aliados-dizem-que-flavio-esta-a-caminho-dos-eua-e-pediu-asilo-para-trump",
+      "check": true,
+      "r": "Asilo \"garantido\" por aliados e ainda sem um carimbo oficial: a campanha segue craque em anunciar o resultado antes da apuração."
+    },
+    {
+      "d": "2026-10-27",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Fonte do governo americano diz à Reuters que Flávio segue rumo aos EUA",
+      "p": "A Reuters não confirmou quem viajou com ele.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/politica/autoridade-dos-eua-diz-a-reuters-que-flavio-esta-a-caminho-do-pais/",
+      "r": "Da urna ao aeroporto, só o suspense chegou na hora. A Reuters ao menos avisou o que não sabe, coisa rara na reta final."
+    },
+    {
+      "d": "2026-10-27",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "h": "Aliados dizem que Flávio deixou o Brasil; entenda o que se sabe e o que não foi confirmado",
+      "p": "A defesa diz que o último contato foi na segunda, às 16h30; o governo argentino nega que ele tenha entrado no país.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/",
+      "r": "Quando até o relato dos aliados vem com ressalva, o bolsonarismo descobre o que é checar antes de publicar."
+    },
+    {
+      "d": "2026-10-27",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Alexandre de Moraes",
+        "Eduardo Bolsonaro"
+      ],
+      "h": "PF disse a Moraes haver risco concreto de Flávio sair do país ao pedir a apreensão do passaporte",
+      "p": "A PF citou a saída do advogado Willer Tomaz em agosto e a permanência de Eduardo nos EUA; Moraes cancelou os passaportes brasileiros.",
+      "src": "Jornal de Brasília",
+      "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/",
+      "r": "A PF citou Eduardo e Willer Tomaz como exemplos; o time Bolsonaro, que costuma reclamar de perseguição, agora tem que explicar as próprias referências."
+    },
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Alexandre de Moraes"
+      ],
+      "h": "Moraes manda Flávio entregar o passaporte e o proíbe de deixar o país",
+      "p": "A decisão está sob sigilo e foi divulgada pelo próprio senador; faz parte do inquérito que envolve o advogado Willer Tomaz.",
+      "src": "Agência Brasil",
+      "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais",
+      "r": "Flávio perguntou se aquilo era motivo para tirar o passaporte. A resposta de Eduardo no podcast, dias antes, já circulava pela internet."
+    },
     {
       "d": "2026-10-27",
       "g": "Flávio e campanha",
@@ -579,72 +673,6 @@
       "src": "Gazeta do Povo",
       "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/",
       "r": "\"Posicionamento oficial\", com a pompa de pronunciamento em cadeia nacional. A nação, dizem, parou para ouvir."
-    },
-    {
-      "d": "2026-10-22",
-      "g": "Religiosos",
-      "who": [
-        "R. R. Soares"
-      ],
-      "h": "Missionário R. R. Soares declara voto em Flávio",
-      "p": "",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/",
-      "r": "Declarou o voto três dias antes da eleição. Fé não faltou; faltaram 4,4 milhões de votos."
-    },
-    {
-      "d": "2026-10-20",
-      "g": "Música",
-      "who": [
-        "Gusttavo Lima",
-        "Zezé Di Camargo",
-        "Marrone",
-        "Murilo Huff",
-        "Felipe Araújo",
-        "Amado Batista"
-      ],
-      "h": "Sertanejos gravam vídeos com Flávio em Goiás",
-      "p": "Encontro na propriedade do senador Wilder Morais, em Nerópolis. Gusttavo pediu que Flávio mantivesse os programas sociais.",
-      "src": "Correio Braziliense",
-      "u": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/10/7525290-de-anitta-a-gusttavo-lima-veja-quais-artistas-apoiam-lula-e-quais-apoiam-flavio.html",
-      "r": "Gusttavo Lima declarou apoio ao candidato da mudança pedindo que ele não mudasse os programas sociais do governo atual. Sofrência política: o coração no 22, o pedido no 13."
-    },
-    {
-      "d": "2026-10-20",
-      "g": "Influenciadores",
-      "who": [
-        "Pablo Marçal"
-      ],
-      "h": "Flávio reúne mais de 400 influenciadores em evento organizado por Marçal",
-      "p": "Pediu que evitassem tratar a eleição como disputa entre esquerda e direita.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/brasil/flavio-reune-influenciadores-para-ampliar-alcance-da-campanha-nas-redes",
-      "r": "Mais de 400 influenciadores numa sala e a orientação de não falar em esquerda e direita. Pedir isso pra esse público é como pedir pra coach não falar em mindset."
-    },
-    {
-      "d": "2026-10-20",
-      "g": "Influenciadores",
-      "who": [
-        "Pablo Marçal"
-      ],
-      "h": "Marçal orienta influenciadores a trocar ataques a Lula por discurso de renovação",
-      "p": "",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/marcal-orienta-aliados-de-flavio-a-trocar-ataques-a-lula-por-discurso-de-renovacao/",
-      "dm": "out",
-      "r": "Aula de discurso moderado ministrada por Pablo Marçal. Vagas esgotadas, alunos confusos."
-    },
-    {
-      "d": "2026-10-19",
-      "g": "TV e cinema",
-      "who": [
-        "Ratinho"
-      ],
-      "h": "Ratinho quebra o silêncio e declara voto em Flávio",
-      "p": "Disse que não fica \"em cima do muro\" e se identificou como de direita.",
-      "src": "Terra",
-      "u": "https://www.terra.com.br/diversao/gente/ratinho-quebra-silencio-sobre-eleicao-e-crava-voto-nao-fico-em-cima-do-muro,6c893acad94854c45468de09f8f6e4afuk53bqxc.html",
-      "r": "Desceu do muro com convicção, a seis dias da eleição, e pousou do lado que perdeu. Coerência ninguém tira; timing é outra conversa."
     }
   ]
 }
