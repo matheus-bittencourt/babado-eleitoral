@@ -24,7 +24,7 @@ cd site && python -m http.server 8000    # ver o site (file:// não carrega o JS
 ## Regras
 
 - **Fato não se inventa nem se altera.** Cada nota precisa de link `https` real para a reportagem. Manchete reescrita com palavras próprias; citação literal com no máximo 15 palavras.
-- O pitaco é humor sobre comportamento público de figuras públicas, dos dois lados. Não traz fato novo, não contradiz o fato da nota, não fala de aparência, saúde ou família além do que a reportagem diz, não acusa ninguém de crime. Notícias sobre investigação ficam sem pitaco (`r` vazio ou ausente).
+- O pitaco é humor sobre comportamento público de figuras públicas, dos dois lados. Não traz fato novo, não contradiz o fato da nota, não fala de aparência, saúde ou família além do que a reportagem diz, não acusa ninguém de crime. Toda nota nova leva pitaco, inclusive as de investigação ou processo: nesses casos o pitaco zoa só o que a pessoa disse ou fez em público (declarações, reações, contradições), nunca o mérito da acusação, e não insinua culpa nem fuga.
 - Boato sem confirmação de outro veículo: `st: "unk"` no `exits`, ou descrito como não confirmado na nota.
 - O texto entra na página por `textContent`; o validador recusa `<` e `>`. Mantenha assim.
 - Push no `main` republica o site público.
