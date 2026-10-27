@@ -4,7 +4,7 @@
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
-    "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. O presidente do TSE afirmou ter \"absoluta segurança\" no processo, e o TSE chamou de falsa a alegação de que fiscais do PL foram retirados da sala de apuração. Na segunda (26), o Metrópoles informou que aliados e a equipe jurídica deixaram de falar em anulação e miram a cassação da chapa de Lula e Alckmin no TSE, por suposto abuso de poder; o próprio Flávio disse que vai pedir a cassação e segue sem reconhecer o resultado. Nenhuma reportagem confirma pedido de anulação protocolado.",
+    "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. O presidente do TSE afirmou ter \"absoluta segurança\" no processo, e o TSE chamou de falsa a alegação de que fiscais do PL foram retirados da sala de apuração. Na segunda (26), o Metrópoles informou que aliados e a equipe jurídica deixaram de falar em anulação e miram a cassação da chapa de Lula e Alckmin no TSE, por suposto abuso de poder; o próprio Flávio disse que vai pedir a cassação e segue sem reconhecer o resultado. No mesmo dia, o PL, partido dele, reconheceu o resultado proclamado pelo TSE, mas pediu esclarecimentos sobre o processo. Nenhuma reportagem confirma pedido de anulação protocolado.",
     "r": "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação. É o \"eu pedi, mas não era pra me darem\" mais caro da história da República. Do outro lado, Lula fecha o quarto mandato e já está naquele ponto em que o Planalto devia cobrar IPTU dele.",
     "s": [
       [
@@ -14,6 +14,10 @@
       [
         "Gazeta do Povo",
         "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/"
+      ],
+      [
+        "Terra",
+        "https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html"
       ]
     ]
   },
@@ -98,6 +102,32 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Valdemar Costa Neto",
+        "Flávio Bolsonaro"
+      ],
+      "h": "PL reconhece o resultado da eleição, mesmo com Flávio contestando a derrota",
+      "p": "A nota do partido diz respeitar o resultado proclamado pelo TSE, mas pede esclarecimentos sobre o processo eleitoral.",
+      "src": "Terra",
+      "u": "https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html",
+      "r": "O partido reconheceu o resultado e o candidato do partido, não. Mesma sigla, mesma derrota, duas versões: já dá pra abrir uma disputa interna sobre quem perdeu."
+    },
+    {
+      "d": "2026-10-26",
+      "g": "Influenciadores",
+      "who": [
+        "Renan Santos",
+        "Pablo Marçal"
+      ],
+      "h": "Renan Santos ironiza Pablo Marçal depois da vitória de Lula: \"Craque do jogo\"",
+      "p": "A provocação veio após Marçal ter desprezado os eleitores do Missão num podcast em outubro.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/brasil/renan-santos-ironiza-pablo-marcal-apos-vitoria-de-lula-craque-do-jogo",
+      "r": "Marçal reuniu 400 influenciadores e levou o troféu de ironia do rival. Na política, até o elogio vem com legenda."
+    },
     {
       "d": "2026-10-26",
       "g": "Flávio e campanha",
