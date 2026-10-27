@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T10:00:00-03:00",
-  "updated_label": "26/10/2026, 10h",
+  "updated": "2026-10-27T10:00:00-03:00",
+  "updated_label": "27/10/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -98,6 +98,19 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-26",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Alexandre de Moraes",
+        "Jair Bolsonaro"
+      ],
+      "h": "Flávio diz que a PF exigiu os passaportes depois da visita ao pai e que vai cumprir a ordem",
+      "p": "A versão é do próprio senador; o processo corre em segredo de Justiça e o STF não detalhou a decisão.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-pf-exigiu-seus-passaportes-apos-visita-a-bolsonaro/"
+    },
     {
       "d": "2026-10-26",
       "g": "Flávio e campanha",
