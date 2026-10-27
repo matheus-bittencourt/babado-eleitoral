@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T10:00:00-03:00",
-  "updated_label": "27/10/2026, 10h",
+  "updated": "2026-10-27T17:09:00-03:00",
+  "updated_label": "27/10/2026, 17h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -28,7 +28,7 @@
       "st": "yes",
       "stl": "Defendeu a saída",
       "q": "Se meu irmão não vencer, sou a favor de que ele deixe o país.",
-      "p": "Disse em 23/10, no programa americano Louder with Crowder, que a derrota deixaria Flávio exposto a processos. A fala veio depois de Lula dizer no debate da Band que Flávio perderia a imunidade.",
+      "p": "Disse em 23/10, no programa americano Louder with Crowder, que a derrota deixaria Flávio exposto a processos. A fala veio depois de Lula dizer no debate da Band que Flávio perderia a imunidade. Em 27/10 chamou de mentira o rumor de que Flávio teria saído do país.",
       "r": "Conselho fraterno direto dos EUA, de quem já testou o produto e deixou avaliação cinco estrelas. E o roteiro tem coautor: foi Lula quem soltou no debate o \"você vai perder a imunidade\". Presidente que dá spoiler do próximo capítulo do adversário.",
       "s": [
         [
@@ -38,6 +38,10 @@
         [
           "CNN Brasil",
           "https://www.cnnbrasil.com.br/eleicoes/eduardo-defende-saida-de-flavio-bolsonaro-do-pais-em-caso-de-derrota/"
+        ],
+        [
+          "ND Mais",
+          "https://ndmais.com.br/politica/eduardo-bolsonaro-nega-suposta-fuga-de-flavio-e-ironiza-elon-musk-mandou-um-foguete/"
         ]
       ]
     },
@@ -45,9 +49,9 @@
       "n": "Flávio Bolsonaro",
       "role": "Candidato derrotado; senador até 31/01/2027",
       "st": "no",
-      "stl": "Não falou em sair",
+      "stl": "Nega; rumor não confirmado",
       "q": "Eu nunca falei isso.",
-      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial.",
+      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes até o prazo da manhã.",
       "r": "\"Eu nunca falei isso\", e tecnicamente tem razão: quem falou foi o irmão, e de longe. Primeira vez que o ruído de comunicação em família serve de álibi.",
       "s": [
         [
@@ -69,6 +73,18 @@
         [
           "CartaCapital",
           "https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/"
+        ],
+        [
+          "Metrópoles",
+          "https://www.metropoles.com/brasil/flavio-teria-deixado-o-pais-rumo-aos-eua-diz-site-argentino-aliados-negam"
+        ],
+        [
+          "Terra",
+          "https://www.terra.com.br/noticias/brasil/policia/pf-apura-se-flavio-bolsonaro-deixou-o-brasil-apos-relato-de-site-argentino,c99f6a0890e385b6591e14f88937a02ct0f4g9a2.html"
+        ],
+        [
+          "Jornal Opção",
+          "https://www.jornalopcao.com.br/brasil/flavio-bolsonaro-nao-entrega-passaporte-no-prazo-e-pf-apura-se-senador-deixou-o-brasil-882947/"
         ]
       ]
     },
@@ -102,6 +118,61 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-27",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Rogério Marinho",
+        "Fabio Wajngarten"
+      ],
+      "h": "Site argentino diz que Flávio embarcou rumo à Argentina e aos EUA; Marinho e Wajngarten negam",
+      "p": "O relato do Infobae não tem confirmação independente; em vídeo, Flávio disse que nunca pensou em sair do país. A PF acionou autoridades argentinas para checar.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/brasil/flavio-teria-deixado-o-pais-rumo-aos-eua-diz-site-argentino-aliados-negam",
+      "check": true,
+      "r": "Um jato, um boato e três desmentidos antes do almoço. A única coisa que decolou com folga foi o assunto."
+    },
+    {
+      "d": "2026-10-27",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Javier Milei"
+      ],
+      "h": "PF apura se Flávio deixou o Brasil; porta-voz de Milei diz que ele não entrou na Argentina",
+      "p": "Aliados negam a saída, mas relatam dificuldade de contato; o paradeiro não está confirmado e não há registro de passagem em pontos oficiais de migração.",
+      "src": "Terra",
+      "u": "https://www.terra.com.br/noticias/brasil/policia/pf-apura-se-flavio-bolsonaro-deixou-o-brasil-apos-relato-de-site-argentino,c99f6a0890e385b6591e14f88937a02ct0f4g9a2.html",
+      "check": true,
+      "r": "Milei desmente, Marinho desmente, Wajngarten desmente. Falta só o desmentido com foto, que é o único que a internet aceita."
+    },
+    {
+      "d": "2026-10-27",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Alexandre de Moraes"
+      ],
+      "h": "Flávio não entrega os passaportes no prazo da manhã de terça, e a PF apura se ele deixou o país",
+      "p": "A ordem de Moraes é de domingo (25), em inquérito de lavagem de dinheiro que envolve o advogado Willer Tomaz; a reportagem diz que o paradeiro não está confirmado.",
+      "src": "Jornal Opção",
+      "u": "https://www.jornalopcao.com.br/brasil/flavio-bolsonaro-nao-entrega-passaporte-no-prazo-e-pf-apura-se-senador-deixou-o-brasil-882947/",
+      "r": "Na segunda ele prometeu cumprir, na terça o relógio passou das 11h e o país virou plantão de notícia. Novela das nove, só que em horário comercial."
+    },
+    {
+      "d": "2026-10-27",
+      "g": "Flávio e campanha",
+      "who": [
+        "Eduardo Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "h": "Eduardo nega que Flávio tenha saído do país e chama o rumor de mentira",
+      "p": "Segundo o ND Mais, ele respondeu ao UOL por WhatsApp com uma ironia envolvendo Elon Musk e disse que a esquerda usa o boato para justificar uma ação contra o irmão.",
+      "src": "ND Mais",
+      "u": "https://ndmais.com.br/politica/eduardo-bolsonaro-nega-suposta-fuga-de-flavio-e-ironiza-elon-musk-mandou-um-foguete/",
+      "r": "Dias atrás defendia a saída do irmão, hoje chama o boato de mentira. Tradição de família: dar o conselho e depois reclamar do eco."
+    },
     {
       "d": "2026-10-26",
       "g": "Flávio e campanha",
@@ -568,59 +639,6 @@
       "check": true,
       "dm": "out",
       "r": "Meio milhão de seguidores, vídeos virais ao lado do candidato e um pequeno detalhe: ela não existe. Foi a apoiadora mais fiel da campanha e a única que não precisou ser convencida."
-    },
-    {
-      "d": "2026-09-09",
-      "g": "Religiosos",
-      "who": [
-        "Estevam Hernandes",
-        "Sonia Hernandes"
-      ],
-      "h": "Líderes da Renascer confirmam apoio a Flávio",
-      "p": "Estevam postou \"Eu voto 22 para presidente\".",
-      "src": "Revista Oeste",
-      "u": "https://revistaoeste.com/politica/lideres-da-igreja-renascer-confirmam-apoio-a-flavio/",
-      "r": "Apoio anunciado com seis semanas de antecedência. Faltou combinar com a urna, que não aceita dízimo."
-    },
-    {
-      "d": "2026-08-20",
-      "g": "Música",
-      "who": [
-        "Gusttavo Lima"
-      ],
-      "h": "Gusttavo Lima presencia vaias a Lula no show de Barretos",
-      "p": "Segundo a reportagem, o cantor não incentivou nem comentou as vaias.",
-      "src": "Terra",
-      "u": "https://www.terra.com.br/diversao/gente/gusttavo-lima-presencia-vaias-contra-lula-em-barretos-e-reacao-chama-atencao-na-globo,5597982adf59bb9a4e7e94e47608e62cpwnjj7xi.html",
-      "dm": "ago",
-      "r": "Em agosto, neutralidade de monge no palco. Em outubro, vídeo de apoio. O Embaixador sabe a hora certa de entrar no refrão."
-    },
-    {
-      "d": "2026-01-15",
-      "g": "Religiosos",
-      "who": [
-        "Silas Malafaia"
-      ],
-      "h": "Antes de apoiar, Malafaia disse não ver em Flávio força para vencer Lula",
-      "p": "Na época defendia Tarcísio ou Michelle Bolsonaro; depois declarou voto em Flávio.",
-      "src": "Congresso em Foco",
-      "u": "https://www.congressoemfoco.com.br/noticia/115726/nao-vejo-o-flavio-com-musculatura-para-derrotar-lula--diz-malafaia",
-      "dm": "jan",
-      "r": "Guarde este print. Foi a profecia mais certeira do ano, entregue com nove meses de antecedência e ignorada pelo próprio profeta."
-    },
-    {
-      "d": "2025-08-20",
-      "g": "Música",
-      "who": [
-        "Zezé Di Camargo",
-        "Gusttavo Lima"
-      ],
-      "h": "Falso: vídeos de Zezé e Gusttavo apoiando Lula e Moraes eram montagem com IA",
-      "p": "Checagem do Boatos.org; os vídeos usavam voz dublada por inteligência artificial.",
-      "src": "Boatos.org",
-      "u": "https://www.boatos.org/entretenimento/zeze-di-camargo-e-gusttavo-lima-declararam-apoio-a-lula-e-moraes-em-2026.html",
-      "check": true,
-      "r": "Até a inteligência artificial tentou virar o voto dos sertanejos. Não colou. Pelo visto, convencer o Zezé é tarefa que nem o robô dá conta."
     }
   ]
 }
