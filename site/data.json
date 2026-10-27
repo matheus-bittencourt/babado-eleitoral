@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T17:09:00-03:00",
-  "updated_label": "27/10/2026, 17h",
+  "updated": "2026-10-27T19:05:00-03:00",
+  "updated_label": "27/10/2026, 19h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -51,7 +51,7 @@
       "st": "no",
       "stl": "Nega; rumor não confirmado",
       "q": "Eu nunca falei isso.",
-      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes até o prazo da manhã.",
+      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes.",
       "r": "\"Eu nunca falei isso\", e tecnicamente tem razão: quem falou foi o irmão, e de longe. Primeira vez que o ruído de comunicação em família serve de álibi.",
       "s": [
         [
@@ -85,6 +85,14 @@
         [
           "Jornal Opção",
           "https://www.jornalopcao.com.br/brasil/flavio-bolsonaro-nao-entrega-passaporte-no-prazo-e-pf-apura-se-senador-deixou-o-brasil-882947/"
+        ],
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/"
+        ],
+        [
+          "CNN Brasil",
+          "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/"
         ]
       ]
     },
@@ -118,6 +126,31 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-27",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Alexandre de Moraes"
+      ],
+      "h": "PF cancela os passaportes de Flávio, inclusive o diplomático, e apura se ele deixou o país",
+      "p": "A medida vem de ordem de Moraes depois que o prazo para a entrega terminou sem o senador aparecer; a reportagem diz que o paradeiro não está confirmado e não há mandado de prisão.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/",
+      "r": "A entrega dos passaportes virou o prazo mais acompanhado do país desde a prorrogação da votação. Até agora, só o suspense cumpriu o horário."
+    },
+    {
+      "d": "2026-10-27",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Advogados de Flávio dizem que não conseguiram localizá-lo para recolher os passaportes",
+      "p": "Segundo a Gazeta do Povo, a defesa não cumpriu a entrega; a reportagem não confirma onde ele está.",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/",
+      "r": "Defesa que não acha o próprio cliente é o tipo de drama que nem o horário eleitoral ousou roteirizar. Enquanto isso, os aliados garantem que está tudo sob controle, só não dizem onde."
+    },
     {
       "d": "2026-10-27",
       "g": "Flávio e campanha",
@@ -612,33 +645,6 @@
       "src": "Terra",
       "u": "https://www.terra.com.br/diversao/gente/ratinho-quebra-silencio-sobre-eleicao-e-crava-voto-nao-fico-em-cima-do-muro,6c893acad94854c45468de09f8f6e4afuk53bqxc.html",
       "r": "Desceu do muro com convicção, a seis dias da eleição, e pousou do lado que perdeu. Coerência ninguém tira; timing é outra conversa."
-    },
-    {
-      "d": "2026-10-17",
-      "g": "Música",
-      "who": [
-        "Leonardo"
-      ],
-      "h": "Leonardo manda recado a Flávio ao ser provocado sobre Lula",
-      "p": "A Gazeta do Povo não trata a fala como declaração formal de voto.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/saiba-quais-personalidades-declararam-voto-flavio-e-lula/",
-      "dm": "out",
-      "r": "Perguntaram do Lula, ele respondeu pro Flávio. Enquanto isso o filho, João Guilherme, subia em palanque pró-Lula. O Natal na fazenda promete."
-    },
-    {
-      "d": "2026-10-01",
-      "g": "Influenciadores",
-      "who": [
-        "Julia Cortez"
-      ],
-      "h": "Influenciadora que viralizou ao lado de Flávio era personagem criada por IA",
-      "p": "O perfil tinha meio milhão de seguidores.",
-      "src": "Terra",
-      "u": "https://www.terra.com.br/noticias/brasil/influencer-criada-por-ia-viraliza-em-videos-ao-lado-de-flavio-bolsonaro,da2efec8f9c46e96fbabe768a30a31ac87m1243v.html",
-      "check": true,
-      "dm": "out",
-      "r": "Meio milhão de seguidores, vídeos virais ao lado do candidato e um pequeno detalhe: ela não existe. Foi a apoiadora mais fiel da campanha e a única que não precisou ser convencida."
     }
   ]
 }
