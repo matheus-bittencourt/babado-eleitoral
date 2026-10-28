@@ -6,7 +6,7 @@
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Babado Eleitoral</title>
-<meta name="description" content="A ressaca do 2º turno de 2026: notícias checadas sobre Flávio Bolsonaro e seus apoiadores, com pitacos de humor separados dos fatos.">
+<meta name="description" content="A ressaca do 2º turno de 2026: notícias checadas sobre Lula, Flávio Bolsonaro e seus apoiadores, com pitacos de humor separados dos fatos.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Babado Eleitoral">
 <meta property="og:description" content="A ressaca do 2º turno: fatos das reportagens, pitacos sem pena.">
@@ -72,6 +72,10 @@ h1 span { color: var(--pink); }
 .lede { margin: 0; font-size: 1rem; }
 .lede mark { background: var(--marker); color: var(--marker-ink); padding: 0 3px; }
 
+.side { display: flex; align-items: center; gap: 0; border: 2px solid var(--ink); border-radius: 4px; background: var(--paper); padding: 4px; }
+.side span { font: 800 .7rem/1 var(--f-body); text-transform: uppercase; letter-spacing: .1em; color: var(--muted); padding: 0 10px 0 6px; flex: none; }
+.side button { flex: 1; cursor: pointer; font: 400 1.35rem/1 var(--f-display); text-transform: uppercase; letter-spacing: .02em; padding: 10px 8px; border: 0; border-radius: 2px; background: none; color: var(--ink); }
+.side button[aria-pressed="true"] { background: var(--pink); color: var(--paper); }
 .legend { display: grid; gap: 8px; background: var(--paper); border: 2px solid var(--ink); border-radius: 4px; padding: 12px; font-size: .88rem; }
 .legend div { display: flex; gap: 8px; align-items: baseline; }
 
@@ -174,6 +178,12 @@ footer p { margin: 0; }
     <p class="lede">A ressaca do 2º turno contada sem filtro. <mark>Os fatos são das reportagens linkadas, sem uma vírgula inventada.</mark> Já os pitacos são nossos, e não têm pena de ninguém. Edição nova todo dia às 10h (ou manualmente ao longo do dia).</p>
   </header>
 
+  <div class="side" id="side" role="group" aria-label="Escolher o lado do babado">
+    <span>Babado de</span>
+    <button type="button" data-side="flavio" aria-pressed="true">Flávio</button>
+    <button type="button" data-side="lula" aria-pressed="false">Lula</button>
+  </div>
+
   <div class="legend">
     <div><span class="lab fact">O fato</span> resumo da reportagem, com link para a fonte</div>
     <div><span class="lab roast">Pitaco</span> opinião e zoeira da redação; não é notícia</div>
@@ -186,13 +196,13 @@ footer p { margin: 0; }
 
   <div class="result" id="result" aria-label="Resultado do 2º turno"></div>
 
-  <section style="display:grid;gap:12px" aria-labelledby="ex-h">
+  <section id="exits-sec" style="display:grid;gap:12px" aria-labelledby="ex-h">
     <h2 class="sec" id="ex-h">Malas prontas?<small>Quem falou em deixar o Brasil, e quem só ganhou fama de que ia.</small></h2>
     <div class="exits" id="exits"></div>
   </section>
 
   <section aria-labelledby="feed-h" style="display:grid">
-    <h2 class="sec" id="feed-h">O babado completo<small>Mais recentes primeiro. Toque no título para ler a reportagem original.</small></h2>
+    <h2 class="sec" id="feed-h">O babado completo<small id="feed-sub">Mais recentes primeiro. Toque no título para ler a reportagem original.</small></h2>
     <div class="filters">
       <input id="q" type="search" placeholder="Buscar nome ou assunto" aria-label="Buscar nome ou assunto" autocomplete="off">
       <div class="chips" id="cats" role="group" aria-label="Filtrar por grupo"></div>

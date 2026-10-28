@@ -8,6 +8,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from check_data import check  # noqa: E402
 
 DATA = os.path.join(os.path.dirname(__file__), "..", "site", "data.json")
+LULA = os.path.join(os.path.dirname(__file__), "..", "site", "data-lula.json")
 
 
 class CheckDataTest(unittest.TestCase):
@@ -49,6 +50,21 @@ class CheckDataTest(unittest.TestCase):
         d = copy.deepcopy(self.data)
         d["updated"] = "2026-10-27T19:03:00+00:00"
         self.assertTrue(any("Brasília" in e for e in check(d)))
+
+    def test_recusa_nota_sem_pitaco(self):
+        d = copy.deepcopy(self.data)
+        d["news"][0].pop("r", None)
+        self.assertTrue(any("news[0].r" in e for e in check(d)))
+
+    def test_lado_lula_publicado_e_valido(self):
+        with open(LULA, encoding="utf-8") as f:
+            self.assertEqual(check(json.load(f), "lula"), [])
+
+    def test_lado_lula_recusa_grupo_do_flavio(self):
+        with open(LULA, encoding="utf-8") as f:
+            d = json.load(f)
+        d["news"][0]["g"] = "Flávio e campanha"
+        self.assertTrue(any("news[0].g" in e for e in check(d, "lula")))
 
     def test_recusa_manchete_repetida(self):
         d = copy.deepcopy(self.data)

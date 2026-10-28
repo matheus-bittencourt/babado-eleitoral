@@ -1,10 +1,18 @@
-// Babado Eleitoral: renderização a partir de data.json e compartilhamento
-const GROUPS = ["Todos", "Flávio e campanha", "Música", "TV e cinema", "Esporte", "Influenciadores", "Religiosos"];
+// Babado Eleitoral: renderização a partir de data.json (Flávio) e data-lula.json (Lula) e compartilhamento
+const SIDES = {
+  flavio: { file: "data.json", name: "Flávio", hash: "", groups: ["Todos", "Flávio e campanha", "Música", "TV e cinema", "Esporte", "Influenciadores", "Religiosos"],
+    feed: "Flávio, a campanha e os famosos que apoiaram o senador. Mais recentes primeiro." },
+  lula: { file: "data-lula.json", name: "Lula", hash: "#lula", groups: ["Todos", "Lula e governo", "Música", "TV e cinema", "Esporte", "Influenciadores", "Religiosos"],
+    feed: "Lula, o governo e os famosos que apoiaram a reeleição. Mais recentes primeiro." }
+};
 const MES = ["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
-const PAGE_URL = location.origin + location.pathname;
+const BASE_URL = location.origin + location.pathname;
 const canNative = typeof navigator.share === "function";
-const state = { q: "", g: "Todos" };
+const state = { q: "", g: "Todos", side: location.hash === "#lula" ? "lula" : "flavio" };
+const STORE = { flavio: null, lula: null };
 let DATA = null;
+function side() { return SIDES[state.side]; }
+function pageUrl() { return BASE_URL + side().hash; }
 
 function el(tag, cls, text) {
   const e = document.createElement(tag);
@@ -71,7 +79,14 @@ function drawExits() {
 }
 
 function drawFeed() {
-  document.getElementById("cats").replaceChildren(...GROUPS.map(g => {
+  const cur = STORE[state.side];
+  if (!cur) {
+    document.getElementById("cats").replaceChildren();
+    document.getElementById("count").textContent = "";
+    document.getElementById("feed").replaceChildren(el("li", "empty", "Carregando os babados…"));
+    return;
+  }
+  document.getElementById("cats").replaceChildren(...side().groups.map(g => {
     const b = el("button", "chip", g);
     b.type = "button";
     b.setAttribute("aria-pressed", String(state.g === g));
@@ -79,7 +94,7 @@ function drawFeed() {
     return b;
   }));
   const q = fold(state.q.trim());
-  const rows = DATA.news.filter(n =>
+  const rows = cur.news.filter(n =>
     (state.g === "Todos" || n.g === state.g) &&
     (!q || fold(n.h + " " + n.p + " " + (n.r || "") + " " + n.who.join(" ") + " " + n.src).includes(q))
   ).sort((a, b) => b.d.localeCompare(a.d));
@@ -100,35 +115,66 @@ function drawFeed() {
     }));
     return li;
   }) : [el("li", "empty", "Nenhum babado com esse filtro.")]));
-  document.getElementById("count").textContent = rows.length + " de " + DATA.news.length + " babados";
+  document.getElementById("count").textContent = rows.length + " de " + cur.news.length + " babados de " + side().name;
 }
 
-function draw() {
-  document.getElementById("edition").textContent = "Edição de " + DATA.updated_label + " · atualiza todo dia às 10h (ou manualmente ao longo do dia)";
-  document.getElementById("updated").textContent = "Atualização diária às 10h (horário de Brasília), ou manualmente ao longo do dia. Edição atual: " + DATA.updated_label + ".";
-  drawResult(); drawExits(); drawFeed();
-}
-
-async function load() {
-  try {
-    const res = await fetch("data.json", { cache: "no-store" });
-    if (!res.ok) throw new Error(res.status);
-    const data = await res.json();
-    if (DATA && DATA.updated === data.updated) return;
-    DATA = data;
-    draw();
-  } catch (e) {
-    if (!DATA) document.getElementById("feed").replaceChildren(el("li", "empty", "Não deu para carregar os babados agora. Recarregue a página em instantes."));
+function drawSide() {
+  drawPageShare();
+  document.querySelectorAll("#side button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.side === state.side)));
+  document.getElementById("feed-sub").textContent = side().feed + " Toque no título para ler a reportagem original.";
+  document.getElementById("exits-sec").hidden = state.side !== "flavio";
+  const cur = STORE[state.side];
+  if (cur) {
+    document.getElementById("edition").textContent = "Edição de " + cur.updated_label + " · atualiza todo dia às 10h (ou manualmente ao longo do dia)";
+    document.getElementById("updated").textContent = "Atualização diária às 10h (horário de Brasília), ou manualmente ao longo do dia. Edição atual do lado " + side().name + ": " + cur.updated_label + ".";
   }
 }
 
+function draw() {
+  drawSide();
+  if (DATA) { drawResult(); drawExits(); }
+  drawFeed();
+}
+
+function setSide(s, push) {
+  if (!SIDES[s] || s === state.side) return;
+  state.side = s; state.g = "Todos";
+  if (push) history.replaceState(null, "", BASE_URL + SIDES[s].hash);
+  draw();
+}
+
+async function fetchSide(s) {
+  const res = await fetch(SIDES[s].file, { cache: "no-store" });
+  if (!res.ok) throw new Error(res.status);
+  const data = await res.json();
+  if (STORE[s] && STORE[s].updated === data.updated) return false;
+  STORE[s] = data;
+  if (s === "flavio") DATA = data;
+  return true;
+}
+
+async function load() {
+  const results = await Promise.allSettled(Object.keys(SIDES).map(fetchSide));
+  if (results.some(r => r.status === "fulfilled" && r.value)) draw();
+  if (!STORE[state.side]) document.getElementById("feed").replaceChildren(el("li", "empty", "Não deu para carregar os babados agora. Recarregue a página em instantes."));
+}
+
 // ---------- Compartilhamento ----------
-const PAGE_ITEM = {
-  title: "Babado Eleitoral: a ressaca do 2º turno, com fatos checados e pitacos sem pena",
-  fact: "Lula 51,79% × Flávio 48,21%. Flávio diz que vai pedir a anulação da eleição.",
-  roast: "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação.",
-  src: "InfoMoney", url: "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/", date: "26 out 2026"
+const PAGE_ITEMS = {
+  flavio: {
+    title: "Babado Eleitoral: a ressaca do 2º turno, com fatos checados e pitacos sem pena",
+    fact: "Lula 51,79% × Flávio 48,21%. Flávio diz que vai pedir a anulação da eleição.",
+    roast: "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação.",
+    src: "InfoMoney", url: "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/", date: "26 out 2026"
+  },
+  lula: {
+    title: "Babado Eleitoral, lado Lula: a festa da reeleição, com fatos checados e pitacos sem pena",
+    fact: "Lula 51,79% × Flávio 48,21%. Lula comemorou com óculos de estrela, pulinhos e beijo em Janja.",
+    roast: "Prometeu governar para todos e, no mesmo fôlego, avisou que o Congresso não foi escolha dele.",
+    src: "Terra", url: "https://www.terra.com.br/noticias/eleicoes/com-direito-a-beijo-em-janja-lula-comemora-a-vitoria-no-segundo-turno-das-eleicoes,715fe726654f0123bce52ec38034cca0kk03zt44.html", date: "26 out 2026"
+  }
 };
+function pageItem() { return PAGE_ITEMS[state.side]; }
 let current = null, storyFile = null, storyUrl = null, opener = null;
 const enc = encodeURIComponent;
 
@@ -136,7 +182,7 @@ function waText(it) {
   const lines = ["*Babado Eleitoral*", "📰 " + it.title + (it.date ? " (" + it.date + ")" : "")];
   if (it.roast) lines.push("_Pitaco:_ " + it.roast);
   if (it.url) lines.push("Fonte: " + it.src + " " + it.url);
-  lines.push("Mais babados: " + PAGE_URL);
+  lines.push("Mais babados: " + pageUrl());
   return lines.join("\n");
 }
 function plainText(it) {
@@ -145,10 +191,10 @@ function plainText(it) {
 function nets(it) {
   return [
     ["WhatsApp", "wa", "https://wa.me/?text=" + enc(waText(it))],
-    ["X", "", "https://twitter.com/intent/tweet?text=" + enc(clip(it.title + (it.roast ? " | Pitaco: " + it.roast : ""), 220)) + "&url=" + enc(PAGE_URL)],
-    ["Threads", "", "https://www.threads.net/intent/post?text=" + enc(clip(plainText(it), 380) + "\n" + PAGE_URL)],
-    ["Telegram", "", "https://t.me/share/url?url=" + enc(PAGE_URL) + "&text=" + enc(clip(plainText(it), 900))],
-    ["Facebook", "", "https://www.facebook.com/sharer/sharer.php?u=" + enc(PAGE_URL)]
+    ["X", "", "https://twitter.com/intent/tweet?text=" + enc(clip(it.title + (it.roast ? " | Pitaco: " + it.roast : ""), 220)) + "&url=" + enc(pageUrl())],
+    ["Threads", "", "https://www.threads.net/intent/post?text=" + enc(clip(plainText(it), 380) + "\n" + pageUrl())],
+    ["Telegram", "", "https://t.me/share/url?url=" + enc(pageUrl()) + "&text=" + enc(clip(plainText(it), 900))],
+    ["Facebook", "", "https://www.facebook.com/sharer/sharer.php?u=" + enc(pageUrl())]
   ];
 }
 function netLinks(it) {
@@ -165,7 +211,7 @@ function shareButton(it) {
   return b;
 }
 function nativeShare(it, onFail) {
-  navigator.share({ title: "Babado Eleitoral", text: plainText(it), url: PAGE_URL })
+  navigator.share({ title: "Babado Eleitoral", text: plainText(it), url: pageUrl() })
     .catch(e => { if (!e || e.name !== "AbortError") onFail(); });
 }
 
@@ -255,7 +301,7 @@ async function makeStory(it) {
   g.fillText(clip("Fonte: " + (it.src || "—"), 52), X, 1750);
   g.font = '400 28px "Libre Franklin", sans-serif';
   g.fillText("Fato da reportagem · pitaco é opinião da redação", X, 1800);
-  g.fillText(PAGE_URL.replace(/^https?:\/\//, ""), X, 1845);
+  g.fillText(pageUrl().replace(/^https?:\/\//, ""), X, 1845);
   return new Promise(res => c.toBlob(res, "image/png"));
 }
 
@@ -291,26 +337,27 @@ function closeSheet() {
   if (opener) opener.focus();
 }
 
-const pageShare = document.getElementById("pageShare");
-if (canNative) {
-  const b = el("button", "sbtn main", "Compartilhar");
-  b.type = "button";
-  b.addEventListener("click", () => nativeShare(PAGE_ITEM, () => openSheet(PAGE_ITEM, b)));
-  pageShare.append(b);
-}
-pageShare.append(...netLinks(PAGE_ITEM), (() => {
-  const b = el("button", "sbtn ig", "Instagram Stories");
-  b.type = "button";
-  b.addEventListener("click", () => openSheet(PAGE_ITEM, b));
-  return b;
-})(), (() => {
-  const b = el("button", "sbtn", "Copiar link");
-  b.type = "button";
-  b.addEventListener("click", () => {
-    navigator.clipboard.writeText(PAGE_URL).then(() => { b.textContent = "Link copiado"; }, () => openSheet(PAGE_ITEM, b));
+function drawPageShare() {
+  const pageShare = document.getElementById("pageShare");
+  const btns = [];
+  if (canNative) {
+    const b = el("button", "sbtn main", "Compartilhar");
+    b.type = "button";
+    b.addEventListener("click", () => nativeShare(pageItem(), () => openSheet(pageItem(), b)));
+    btns.push(b);
+  }
+  const ig = el("button", "sbtn ig", "Instagram Stories");
+  ig.type = "button";
+  ig.addEventListener("click", () => openSheet(pageItem(), ig));
+  const cp = el("button", "sbtn", "Copiar link");
+  cp.type = "button";
+  cp.addEventListener("click", () => {
+    navigator.clipboard.writeText(pageUrl()).then(() => { cp.textContent = "Link copiado"; }, () => openSheet(pageItem(), cp));
   });
-  return b;
-})());
+  pageShare.replaceChildren(...btns, ...netLinks(pageItem()), ig, cp);
+}
+document.querySelectorAll("#side button").forEach(b => b.addEventListener("click", () => setSide(b.dataset.side, true)));
+window.addEventListener("hashchange", () => setSide(location.hash === "#lula" ? "lula" : "flavio", false));
 
 document.getElementById("native-text").addEventListener("click", () => {
   if (current) nativeShare(current, () => setStatus("O compartilhar do celular não abriu. Use os botões abaixo."));
@@ -325,8 +372,9 @@ document.getElementById("sheet-close").addEventListener("click", closeSheet);
 document.getElementById("scrim").addEventListener("click", closeSheet);
 document.addEventListener("keydown", e => { if (e.key === "Escape" && !document.getElementById("sheet").hidden) closeSheet(); });
 document.getElementById("copy-text").addEventListener("click", () => { if (current) copy(waText(current), "Texto copiado. É só colar no app."); });
-document.getElementById("copy-link").addEventListener("click", () => copy(PAGE_URL, "Link copiado. No Stories, use o sticker Link."));
+document.getElementById("copy-link").addEventListener("click", () => copy(pageUrl(), "Link copiado. No Stories, use o sticker Link."));
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; if (DATA) drawFeed(); });
 
+draw();
 load();
 setInterval(load, 5 * 60 * 1000);

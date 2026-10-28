@@ -1,6 +1,7 @@
 """Valida site/data.json antes de publicar. Só biblioteca padrão.
 
-Uso: python check_data.py [caminho]   (padrão: site/data.json)
+Uso: python check_data.py [caminho ...]   (padrão: site/data.json site/data-lula.json)
+Arquivos com "lula" no nome são o lado Lula: só "news", com o grupo "Lula e governo".
 Sai com código 1 e lista os problemas se algo estiver fora do formato.
 """
 import json
@@ -8,7 +9,8 @@ import re
 import sys
 from datetime import date, datetime, timedelta, timezone
 
-GROUPS = {"Flávio e campanha", "Música", "TV e cinema", "Esporte", "Influenciadores", "Religiosos"}
+COMMON = {"Música", "TV e cinema", "Esporte", "Influenciadores", "Religiosos"}
+GROUPS = {"flavio": COMMON | {"Flávio e campanha"}, "lula": COMMON | {"Lula e governo"}}
 STATUS = {"yes", "no", "unk"}
 MONTHS = {"jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"}
 MAX_NEWS = 40
@@ -29,7 +31,7 @@ def sources(v):
     )
 
 
-def check(data):
+def check(data, side="flavio"):
     errors = []
     if not isinstance(data, dict):
         return ["o arquivo deve ser um objeto JSON"]
@@ -47,8 +49,11 @@ def check(data):
     if not text(data.get("updated_label")):
         errors.append("updated_label: vazio")
 
+    # O placar e o destaque "Malas prontas?" ficam só no data.json; o lado Lula tem só notícias
     r = data.get("result")
-    if not isinstance(r, dict):
+    if side == "lula":
+        pass
+    elif not isinstance(r, dict):
         errors.append("result: ausente")
     else:
         for k in ("lula", "flavio"):
@@ -60,8 +65,8 @@ def check(data):
         if not sources(r.get("s")):
             errors.append("result.s: fontes inválidas")
 
-    exits = data.get("exits")
-    if not isinstance(exits, list) or not exits:
+    exits = data.get("exits") if side == "flavio" else []
+    if side == "flavio" and (not isinstance(exits, list) or not exits):
         errors.append("exits: lista vazia")
         exits = []
     for i, x in enumerate(exits):
@@ -91,16 +96,17 @@ def check(data):
                 errors.append(f"{where}.d: data no futuro")
         except (TypeError, ValueError):
             errors.append(f"{where}.d: data ISO inválida")
-        if n.get("g") not in GROUPS:
+        if n.get("g") not in GROUPS[side]:
             errors.append(f"{where}.g: grupo desconhecido")
         if not isinstance(n.get("who"), list) or not n["who"] or not all(text(w) for w in n["who"]):
             errors.append(f"{where}.who: lista de nomes inválida")
         for k in ("h", "src"):
             if not text(n.get(k)):
                 errors.append(f"{where}.{k}: vazio ou com < >")
-        for k in ("p", "r"):
-            if k in n and n[k] != "" and not text(n[k]):
-                errors.append(f"{where}.{k}: com < >")
+        if "p" in n and n["p"] != "" and not text(n["p"]):
+            errors.append(f"{where}.p: com < >")
+        if not text(n.get("r")):
+            errors.append(f"{where}.r: toda nota precisa de pitaco (sem < >)")
         if not url(n.get("u")):
             errors.append(f"{where}.u: link precisa ser https")
         if "dm" in n and n["dm"] not in MONTHS:
@@ -115,20 +121,25 @@ def check(data):
 
 
 def main(argv):
-    path = argv[1] if len(argv) > 1 else "site/data.json"
-    try:
-        with open(path, encoding="utf-8") as f:
-            data = json.load(f)
-    except (OSError, ValueError) as e:
-        print(f"{path}: não deu para ler o JSON ({e})")
-        return 1
-    errors = check(data)
-    for e in errors:
-        print(e)
-    if errors:
-        return 1
-    print(f"{path}: ok ({len(data['exits'])} saídas, {len(data['news'])} notícias)")
-    return 0
+    paths = argv[1:] or ["site/data.json", "site/data-lula.json"]
+    failed = False
+    for path in paths:
+        side = "lula" if "lula" in path.replace("\\", "/").rsplit("/", 1)[-1] else "flavio"
+        try:
+            with open(path, encoding="utf-8") as f:
+                data = json.load(f)
+        except (OSError, ValueError) as e:
+            print(f"{path}: não deu para ler o JSON ({e})")
+            failed = True
+            continue
+        errors = check(data, side)
+        for e in errors:
+            print(f"{path}: {e}")
+        if errors:
+            failed = True
+        else:
+            print(f"{path}: ok (lado {side}, {len(data.get('exits') or [])} saídas, {len(data['news'])} notícias)")
+    return 1 if failed else 0
 
 
 if __name__ == "__main__":

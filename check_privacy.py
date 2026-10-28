@@ -12,7 +12,7 @@ import sys
 ALLOWED = {
     ".gitignore", "CLAUDE.md", "README.md", "check_data.py", "check_privacy.py",
     ".github/workflows/publicar.yml",
-    "site/index.html", "site/app.js", "site/data.json",
+    "site/index.html", "site/app.js", "site/data.json", "site/data-lula.json",
     "tests/test_check_data.py", "tests/test_check_privacy.py",
 }
 
