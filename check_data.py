@@ -15,6 +15,14 @@ STATUS = {"yes", "no", "unk"}
 MONTHS = {"jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"}
 MAX_NEWS = 40
 BRT = timedelta(hours=-3)
+# Pitaco não chama ninguém de criminoso, nem de brincadeira (calúnia, difamação, injúria). Fica no filtro o que não tem uso seguro em piada.
+RISKY = re.compile(
+    r"\b(ladr[aã]o|ladr[oõ]es|ladra|bandid\w*|criminos\w*|corrupt\w*|propina\w*|roub\w*|lavagem|"
+    r"milician\w*|mil[ií]cia\w*|foragid\w*|fugitiv\w*|fug\w*|genocid\w*|golpista\w*|estelionat\w*|"
+    r"traficant\w*|ped[oó]fil\w*|estupr\w*|assassin\w*|vagabund\w*|safad\w*|canalha\w*|picaret\w*|"
+    r"vigarist\w*|mafios\w*|quadrilh\w*|chefe do crime)\b",
+    re.IGNORECASE,
+)
 
 
 def text(v):
@@ -23,6 +31,11 @@ def text(v):
 
 def url(v):
     return isinstance(v, str) and re.match(r"^https://[^\s<>\"]+$", v) is not None
+
+
+def risky(v):
+    m = RISKY.search(v) if isinstance(v, str) else None
+    return m.group(0) if m else None
 
 
 def sources(v):
@@ -62,6 +75,8 @@ def check(data, side="flavio"):
         for k in ("fact", "r"):
             if not text(r.get(k)):
                 errors.append(f"result.{k}: vazio ou com < >")
+        if risky(r.get("r")):
+            errors.append(f"result.r: pitaco com termo de acusação ({risky(r['r'])}); reescreva")
         if not sources(r.get("s")):
             errors.append("result.s: fontes inválidas")
 
@@ -74,6 +89,8 @@ def check(data, side="flavio"):
         for k in ("n", "role", "stl", "p", "r"):
             if not text(x.get(k)):
                 errors.append(f"{where}.{k}: vazio ou com < >")
+        if risky(x.get("r")):
+            errors.append(f"{where}.r: pitaco com termo de acusação ({risky(x['r'])}); reescreva")
         if x.get("st") not in STATUS:
             errors.append(f"{where}.st: use yes, no ou unk")
         if "q" in x and not text(x["q"]):
@@ -107,6 +124,8 @@ def check(data, side="flavio"):
             errors.append(f"{where}.p: com < >")
         if not text(n.get("r")):
             errors.append(f"{where}.r: toda nota precisa de pitaco (sem < >)")
+        elif risky(n["r"]):
+            errors.append(f"{where}.r: pitaco com termo de acusação ({risky(n['r'])}); reescreva")
         if not url(n.get("u")):
             errors.append(f"{where}.u: link precisa ser https")
         if "dm" in n and n["dm"] not in MONTHS:

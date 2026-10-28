@@ -56,6 +56,13 @@ class CheckDataTest(unittest.TestCase):
         d["news"][0].pop("r", None)
         self.assertTrue(any("news[0].r" in e for e in check(d)))
 
+    def test_recusa_pitaco_que_acusa_crime(self):
+        d = copy.deepcopy(self.data)
+        d["news"][0]["r"] = "Saiu de fininho, como todo bom Foragido."
+        self.assertTrue(any("news[0].r" in e and "acusação" in e for e in check(d)))
+        d["news"][0]["r"] = "Zero provas de fuga."
+        self.assertTrue(any("news[0].r" in e for e in check(d)))
+
     def test_lado_lula_publicado_e_valido(self):
         with open(LULA, encoding="utf-8") as f:
             self.assertEqual(check(json.load(f), "lula"), [])
