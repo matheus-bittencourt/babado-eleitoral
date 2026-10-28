@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T11:09:17-03:00",
-  "updated_label": "28/10/2026, 11h",
+  "updated": "2026-10-28T17:04:20-03:00",
+  "updated_label": "28/10/2026, 17h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -55,7 +55,7 @@
       "st": "unk",
       "stl": "Relatos dizem que chegou aos EUA; sem confirmação oficial",
       "q": "Eu nunca falei isso.",
-      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Em 28/10, a Gazeta do Povo relatou que ele foi de jatinho à Argentina e seguiu para Miami, e o Correio Braziliense, citando a BBC, que ele chegou à Flórida e foi recebido por Eduardo; fontes da PF falam em passaporte italiano. Não há confirmação oficial nem declaração dele ou da defesa sobre a viagem, e o governo argentino havia negado entrada e pedido de asilo.",
+      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Em 28/10, a Gazeta do Povo relatou que ele foi de jatinho à Argentina e seguiu para Miami, e o Correio Braziliense, citando a BBC, que ele chegou à Flórida e foi recebido por Eduardo; fontes da PF falam em passaporte italiano. Não há confirmação oficial nem declaração dele ou da defesa sobre a viagem, e o governo argentino havia negado entrada e pedido de asilo. Na tarde de 28/10, a PF disse em nota que a decisão de Moraes não autorizava prisão nem o caracteriza como foragido, que cancelou os passaportes comum e diplomático e que não há registro oficial de saída pelos postos de migração brasileiros.",
       "s": [
         [
           "Exame",
@@ -136,6 +136,10 @@
         [
           "Jornal de Brasília",
           "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/"
+        ],
+        [
+          "Poder360",
+          "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/"
         ]
       ],
       "r": "\"Eu nunca falei isso\" tem validade até a próxima notícia: quem falou foi o irmão, e hoje o assunto é onde está o Flávio. A novela do passaporte segue sem final confirmado."
@@ -194,6 +198,33 @@
       "src": "Terra",
       "u": "https://www.terra.com.br/diversao/gente/roberto-justus-se-manifesta-apos-vitoria-de-lula-e-manda-recado-sobre-eleicoes,61060f94f0e58d6d2b6183669abea01ely8gvsap.html",
       "r": "Justus fez a demissão mais educada da temporada: aceitou o resultado, aconselhou o chefe e ainda pediu que ele ouvisse os candidatos eliminados. Faltou só o você está contratado."
+    },
+    {
+      "d": "2026-10-28",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Alexandre de Moraes"
+      ],
+      "h": "PF diz que a ordem sobre os passaportes de Flávio não autorizava prisão e não o torna foragido",
+      "p": "Em nota, a PF afirma que cancelou os passaportes e que não há registro oficial de saída pelos postos de migração; investiga o descumprimento da ordem de entregar outros passaportes.",
+      "r": "A PF avisou que ele não é foragido, só está num lugar onde a polícia daqui não passa o rádio. Distinção jurídica finíssima, para quem gosta de nuance.",
+      "src": "Poder360",
+      "u": "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/"
+    },
+    {
+      "d": "2026-10-28",
+      "g": "Religiosos",
+      "who": [
+        "Silas Malafaia",
+        "Flávio Bolsonaro",
+        "Alexandre de Moraes"
+      ],
+      "h": "Malafaia defende a ida de Flávio aos EUA: \"Ficasse para ser preso?\"",
+      "p": "Em vídeo, acusa Moraes de perseguição política; o Jornal de Brasília observa que são alegações dele e que o vídeo não mostra ordem de prisão contra Flávio.",
+      "r": "Malafaia já criticou a viagem de Bolsonaro aos EUA e agora a defende. Em política, convicção tem prazo de validade e o dele venceu rápido.",
+      "src": "Jornal de Brasília",
+      "u": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/silas-malafaia-defende-fuga-de-flavio-bolsonaro-ficasse-para-ser-preso/"
     },
     {
       "d": "2026-10-28",
@@ -673,31 +704,6 @@
       "src": "O Tempo",
       "u": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/25/ameaca-de-impeachment-fraude-golpe-judiciario-aliados-de-flavio-reagem-a-vitoria-de-lula",
       "r": "Acusações de fraude: muitas. Provas: aguardando entrega, sem código de rastreio. O centrão, que fareja poder a quilômetros, reconheceu o resultado antes de o café esfriar."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Flávio não reconhece a derrota e diz que pedirá anulação da eleição",
-      "p": "Alegou quebra de isonomia com a votação prorrogada; a própria campanha tinha pedido extensão em cidades de cinco estados.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/",
-      "r": "Quebra de isonomia, diz quem pediu prorrogação em cinco estados. A isonomia só vale quando o relógio corre a favor."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Flávio e campanha",
-      "who": [
-        "Lula",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Lula é reeleito com 51,79% e terá o quarto mandato",
-      "p": "Flávio ganhou em São Paulo (53,85% no estado), mas Lula venceu na capital.",
-      "src": "InfoMoney",
-      "u": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/",
-      "r": "Quarto mandato. Lula já renovou contrato mais vezes que lateral veterano de time grande, e segue jurando que é o último. Perdeu o estado de São Paulo e ganhou a capital: o Planalto foi salvo pela fila do metrô."
     }
   ]
 }
