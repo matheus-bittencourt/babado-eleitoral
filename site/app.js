@@ -121,8 +121,10 @@ function drawFeed() {
 function drawSide() {
   drawPageShare();
   document.querySelectorAll("#side button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.side === state.side)));
-  document.getElementById("feed-sub").textContent = side().feed + " Toque no título para ler a reportagem original.";
-  document.getElementById("exits-sec").hidden = state.side !== "flavio";
+  // HTML antigo em cache pode não ter estes elementos; sem eles a página ainda mostra o lado Flávio
+  const sub = document.getElementById("feed-sub"), ex = document.getElementById("exits-sec");
+  if (sub) sub.textContent = side().feed + " Toque no título para ler a reportagem original.";
+  if (ex) ex.hidden = state.side !== "flavio";
   const cur = STORE[state.side];
   if (cur) {
     document.getElementById("edition").textContent = "Edição de " + cur.updated_label + " · atualiza todo dia às 10h (ou manualmente ao longo do dia)";

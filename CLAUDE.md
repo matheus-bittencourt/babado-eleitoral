@@ -31,3 +31,4 @@ cd site && python -m http.server 8000    # ver o site (file:// não carrega o JS
 - Push no `main` republica o site público.
 - Nada pessoal no repositório: sem e-mail (commits usam o noreply do GitHub), sem caminhos locais, sem links de artifacts privados, sem chaves. Arquivo novo precisa entrar em `ALLOWED` no `check_privacy.py`.
 - Não afrouxe a CSP do `index.html` nem volte o script para dentro do HTML.
+- Ao mudar o `site/app.js`, atualize o `?v=` do `<script>` no `index.html` (o teste `tests/test_site.py` diz o valor). Sem isso, o celular pode juntar HTML novo com `app.js` antigo do cache de 10 min do Pages.
