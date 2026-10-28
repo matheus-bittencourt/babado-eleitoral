@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T17:04:20-03:00",
-  "updated_label": "28/10/2026, 17h",
+  "updated": "2026-10-28T19:24:04-03:00",
+  "updated_label": "28/10/2026, 19h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -52,10 +52,10 @@
     {
       "n": "Flávio Bolsonaro",
       "role": "Candidato derrotado; senador até 31/01/2027",
-      "st": "unk",
-      "stl": "Relatos dizem que chegou aos EUA; sem confirmação oficial",
+      "st": "yes",
+      "stl": "Carta diz que lidera a oposição dos EUA",
       "q": "Eu nunca falei isso.",
-      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Em 28/10, a Gazeta do Povo relatou que ele foi de jatinho à Argentina e seguiu para Miami, e o Correio Braziliense, citando a BBC, que ele chegou à Flórida e foi recebido por Eduardo; fontes da PF falam em passaporte italiano. Não há confirmação oficial nem declaração dele ou da defesa sobre a viagem, e o governo argentino havia negado entrada e pedido de asilo. Na tarde de 28/10, a PF disse em nota que a decisão de Moraes não autorizava prisão nem o caracteriza como foragido, que cancelou os passaportes comum e diplomático e que não há registro oficial de saída pelos postos de migração brasileiros.",
+      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Em 28/10, a Gazeta do Povo relatou que ele foi de jatinho à Argentina e seguiu para Miami, e o Correio Braziliense, citando a BBC, que ele chegou à Flórida e foi recebido por Eduardo; fontes da PF falam em passaporte italiano. Não há confirmação oficial nem declaração dele ou da defesa sobre a viagem, e o governo argentino havia negado entrada e pedido de asilo. Na tarde de 28/10, a PF disse em nota que a decisão de Moraes não autorizava prisão nem o caracteriza como foragido, que cancelou os passaportes comum e diplomático e que não há registro oficial de saída pelos postos de migração brasileiros. Em 28/10, uma carta dele divulgada nos EUA o apresentou como \"verdadeiro presidente eleito do Brasil\" (o trecho foi trocado depois por \"líder do Brasil\"), agradeceu a Trump e a Milei e disse que vai liderar a oposição de lá, segundo o Metrópoles.",
       "s": [
         [
           "Exame",
@@ -140,9 +140,13 @@
         [
           "Poder360",
           "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/"
+        ],
+        [
+          "Metrópoles",
+          "https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil"
         ]
       ],
-      "r": "\"Eu nunca falei isso\" tem validade até a próxima notícia: quem falou foi o irmão, e hoje o assunto é onde está o Flávio. A novela do passaporte segue sem final confirmado."
+      "r": "\"Eu nunca falei isso\" deu lugar a uma carta que fala bastante. Do exílio autodeclarado, o \"verdadeiro presidente eleito\" virou \"líder do Brasil\" em poucas horas: o único cargo da República que se muda no corretor."
     },
     {
       "n": "Equipe e aliados da campanha",
@@ -174,6 +178,21 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-28",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Donald Trump",
+        "Javier Milei",
+        "Alexandre de Moraes"
+      ],
+      "h": "Em carta divulgada nos EUA, Flávio se diz \"verdadeiro presidente eleito do Brasil\"; o trecho foi trocado depois por \"líder do Brasil\"",
+      "p": "Segundo o Metrópoles, ele agradece a Trump e a Milei, acusa Zanin e Moraes e diz que vai liderar a oposição de lá; o TSE registrou cerca de 34 mil votos depois das 17h, e o resultado foi reconhecido pelo Judiciário e pelo PL.",
+      "r": "Rebaixado de \"presidente eleito\" a \"líder do Brasil\" sem nem tomar posse: a carreira mais veloz da República, concluída por edição de texto.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil"
+    },
     {
       "d": "2026-10-26",
       "g": "Música",
@@ -691,19 +710,6 @@
       "src": "Poder360",
       "u": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-nao-reconhece-vitoria-de-lula-e-fala-em-impeachment-de-zanin/",
       "r": "Antes da apuração o cardápio era \"ou a gente ganha, ou a gente ganha\". Esqueceram de tirar a terceira opção do menu, e foi justo a que o garçom trouxe."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Flávio e campanha",
-      "who": [
-        "Nikolas Ferreira",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Aliados de Flávio reagem à derrota com acusações de \"fraude\" e \"golpe judiciário\"",
-      "p": "Nenhum dos aliados citados apresentou provas; partidos do centrão como MDB e Republicanos reconheceram o resultado.",
-      "src": "O Tempo",
-      "u": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/25/ameaca-de-impeachment-fraude-golpe-judiciario-aliados-de-flavio-reagem-a-vitoria-de-lula",
-      "r": "Acusações de fraude: muitas. Provas: aguardando entrega, sem código de rastreio. O centrão, que fareja poder a quilômetros, reconheceu o resultado antes de o café esfriar."
     }
   ]
 }
