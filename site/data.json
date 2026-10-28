@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T23:51:47-03:00",
- "updated_label": "27/10/2026, 23h",
+ "updated": "2026-10-28T10:04:15-03:00",
+ "updated_label": "28/10/2026, 10h",
  "result": {
   "lula": 51.79,
   "flavio": 48.21,
@@ -53,9 +53,9 @@
    "n": "Flávio Bolsonaro",
    "role": "Candidato derrotado; senador até 31/01/2027",
    "st": "unk",
-   "stl": "Aliados dizem que saiu; sem confirmação oficial",
+   "stl": "Relatos dizem que chegou aos EUA; sem confirmação oficial",
    "q": "Eu nunca falei isso.",
-   "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Não há confirmação oficial; o governo argentino nega entrada e pedido de asilo.",
+   "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Em 28/10, a Gazeta do Povo relatou que ele foi de jatinho à Argentina e seguiu para Miami, e o Correio Braziliense, citando a BBC, que ele chegou à Flórida e foi recebido por Eduardo; fontes da PF falam em passaporte italiano. Não há confirmação oficial nem declaração dele ou da defesa sobre a viagem, e o governo argentino havia negado entrada e pedido de asilo.",
    "s": [
     [
      "Exame",
@@ -118,16 +118,24 @@
      "https://www.cnnbrasil.com.br/politica/autoridade-dos-eua-diz-a-reuters-que-flavio-esta-a-caminho-do-pais/"
     ],
     [
-     "Jornal de Brasília",
-     "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/"
-    ],
-    [
      "Gazeta do Povo",
      "https://www.gazetadopovo.com.br/republica/pf-confirma-flavio-bolsonaro-deixou-brasil/"
     ],
     [
+     "Gazeta do Povo",
+     "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-desembarca-nos-estados-unidos-apos-proibicao-judicial/"
+    ],
+    [
+     "Correio Braziliense",
+     "https://www.correiobraziliense.com.br/politica/2026/10/7529196-flavio-bolsonaro-teria-chegado-aos-eua-pela-florida-diz-bbc.html"
+    ],
+    [
      "Poder360",
      "https://www.poder360.com.br/poder-justica/leia-a-cronologia-dos-fatos-que-levaram-flavio-bolsonaro-deixar-o-brasil/"
+    ],
+    [
+     "Jornal de Brasília",
+     "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/"
     ]
    ],
    "r": "\"Eu nunca falei isso\" tem validade até a próxima notícia: quem falou foi o irmão, e hoje o assunto é onde está o Flávio. A novela do passaporte segue sem final confirmado."
@@ -162,6 +170,35 @@
   }
  ],
  "news": [
+  {
+   "d": "2026-10-28",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Eduardo Bolsonaro",
+    "Alexandre de Moraes"
+   ],
+   "h": "Gazeta do Povo diz que Flávio foi de jatinho à Argentina e seguiu para Miami, onde o irmão o recebeu",
+   "p": "A reportagem não traz declaração de Flávio nem da defesa e aponta divergências sobre como ele cruzou a fronteira; o PT pediu a prisão preventiva e Moraes não decidiu.",
+   "src": "Gazeta do Povo",
+   "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-desembarca-nos-estados-unidos-apos-proibicao-judicial/",
+   "check": true,
+   "r": "A novela do passaporte ganhou o capítulo de jatinho e Miami, enquanto a versão oficial do protagonista segue em modo avião. Quem disse que nunca pensou em sair agora tem muito o que explicar no próprio roteiro, se confirmado."
+  },
+  {
+   "d": "2026-10-28",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Eduardo Bolsonaro"
+   ],
+   "h": "BBC relata que Flávio chegou à Flórida; rota e passaporte usado seguem sem confirmação oficial",
+   "p": "Segundo o Correio Braziliense, fontes da PF falam em passaporte italiano e o relato do encontro com Eduardo é tratado como não verificado; criminalistas dizem que ele só seria foragido com ordem de prisão.",
+   "src": "Correio Braziliense",
+   "u": "https://www.correiobraziliense.com.br/politica/2026/10/7529196-flavio-bolsonaro-teria-chegado-aos-eua-pela-florida-diz-bbc.html",
+   "check": true,
+   "r": "Em quatro dias, a pauta foi de anulação para cassação, passaporte e Flórida. O condicional \"teria chegado\" está trabalhando mais que muito assessor de campanha."
+  },
   {
    "d": "2026-10-27",
    "g": "Flávio e campanha",
@@ -550,6 +587,19 @@
    "r": "Flávio não viajou. A imaginação da internet, sim: já tinha embarcado, pousado e reclamado do preço do Uber no desembarque."
   },
   {
+   "d": "2026-10-25",
+   "g": "Flávio e campanha",
+   "who": [
+    "Lucas Pavanato",
+    "Nikolas Ferreira"
+   ],
+   "h": "Pavanato diz que não aceitará derrota, e Nikolas fala em impeachment após decisão do STF",
+   "p": "As falas vieram depois de Zanin estender o horário de votação até as 19h.",
+   "src": "Gazeta de S.Paulo",
+   "u": "https://www.gazetasp.com.br/cotidiano/pavanato-diz-que-nao-aceitara-derrota-e-nikolas-fala-em-possivel-impeachment-apos-decisao-do-stf/",
+   "r": "\"Não aceitarei derrota\" é frase linda em vestiário de várzea. Na eleição ela tem nome técnico: domingo à noite."
+  },
+  {
    "d": "2026-10-26",
    "g": "Flávio e campanha",
    "who": [
@@ -577,19 +627,6 @@
   },
   {
    "d": "2026-10-25",
-   "g": "Flávio e campanha",
-   "who": [
-    "Lucas Pavanato",
-    "Nikolas Ferreira"
-   ],
-   "h": "Pavanato diz que não aceitará derrota, e Nikolas fala em impeachment após decisão do STF",
-   "p": "As falas vieram depois de Zanin estender o horário de votação até as 19h.",
-   "src": "Gazeta de S.Paulo",
-   "u": "https://www.gazetasp.com.br/cotidiano/pavanato-diz-que-nao-aceitara-derrota-e-nikolas-fala-em-possivel-impeachment-apos-decisao-do-stf/",
-   "r": "\"Não aceitarei derrota\" é frase linda em vestiário de várzea. Na eleição ela tem nome técnico: domingo à noite."
-  },
-  {
-   "d": "2026-10-25",
    "g": "Influenciadores",
    "who": [
     "Pablo Marçal",
@@ -600,19 +637,6 @@
    "src": "Terra",
    "u": "https://www.terra.com.br/noticias/eleicoes/antes-de-derrota-pablo-marcal-e-eduardo-bolsonaro-comemoraram-virada-de-flavio,f9b62d41f1a366041edf439e81b97fb5i1xjpi5b.html",
    "r": "Comemoraram a virada ao vivo. A apuração, sem a menor educação, continuou contando. Fica a lição de todo torcedor: não se solta rojão no intervalo."
-  },
-  {
-   "d": "2026-10-25",
-   "g": "Flávio e campanha",
-   "who": [
-    "Kassio Nunes Marques",
-    "Flávio Bolsonaro"
-   ],
-   "h": "Presidente do TSE diz que a prorrogação da votação não comprometeu o resultado",
-   "p": "Kassio Nunes Marques respondeu às críticas da campanha de Flávio na noite da eleição.",
-   "src": "Agora RN",
-   "u": "https://agorarn.com.br/politica/kassio-afirma-que-prorrogacao-da-votacao-nao-comprometeu-resultado-das-eleicoes/",
-   "r": "Detalhe que estraga a narrativa: Kassio chegou ao STF indicado por Jair Bolsonaro. Fica difícil chamar de juiz da torcida adversária o árbitro que o próprio time escalou."
   },
   {
    "d": "2026-10-25",
@@ -675,20 +699,6 @@
    "src": "InfoMoney",
    "u": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/",
    "r": "Quarto mandato. Lula já renovou contrato mais vezes que lateral veterano de time grande, e segue jurando que é o último. Perdeu o estado de São Paulo e ganhou a capital: o Planalto foi salvo pela fila do metrô."
-  },
-  {
-   "d": "2026-10-25",
-   "g": "Flávio e campanha",
-   "who": [
-    "Nikolas Ferreira",
-    "Eduardo Bolsonaro",
-    "Alexandre Ramagem"
-   ],
-   "h": "Aliados de Flávio questionaram a eleição antes de sair o resultado",
-   "p": "Nikolas ameaçou pedir impeachment de Zanin; Eduardo disse que a prorrogação tinha \"cheiro de queimado\".",
-   "src": "Metro 1",
-   "u": "https://www.metro1.com.br/noticias/eleicoes-2026/190424,aliados-de-flavio-bolsonaro-questionam-eleicao-antes-do-resultado-e-levantam-suspeitas-de-golpe",
-   "r": "Contestar antes do resultado é o seguro-derrota: contratado com antecedência e acionado com precisão suíça."
   }
  ]
 }
