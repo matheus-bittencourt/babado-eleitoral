@@ -1,678 +1,689 @@
 {
-  "updated": "2026-10-27T20:10:48-03:00",
-  "updated_label": "27/10/2026, 20h",
-  "result": {
-    "lula": 51.79,
-    "flavio": 48.21,
-    "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. O presidente do TSE afirmou ter \"absoluta segurança\" no processo, e o TSE chamou de falsa a alegação de que fiscais do PL foram retirados da sala de apuração. Na segunda (26), o Metrópoles informou que aliados e a equipe jurídica deixaram de falar em anulação e miram a cassação da chapa de Lula e Alckmin no TSE, por suposto abuso de poder; o próprio Flávio disse que vai pedir a cassação e segue sem reconhecer o resultado. No mesmo dia, o PL, partido dele, reconheceu o resultado proclamado pelo TSE, mas pediu esclarecimentos sobre o processo. Nenhuma reportagem confirma pedido de anulação protocolado.",
-    "r": "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação. É o \"eu pedi, mas não era pra me darem\" mais caro da história da República. Do outro lado, Lula fecha o quarto mandato e já está naquele ponto em que o Planalto devia cobrar IPTU dele.",
-    "s": [
-      [
-        "InfoMoney",
-        "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/"
-      ],
-      [
-        "Gazeta do Povo",
-        "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/"
-      ],
-      [
-        "Terra",
-        "https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html"
-      ]
-    ]
-  },
-  "exits": [
-    {
-      "n": "Eduardo Bolsonaro",
-      "role": "Irmão de Flávio, ex-deputado; mora nos EUA desde 2025",
-      "st": "yes",
-      "stl": "Defendeu a saída",
-      "q": "Se meu irmão não vencer, sou a favor de que ele deixe o país.",
-      "p": "Disse em 23/10, no programa americano Louder with Crowder, que a derrota deixaria Flávio exposto a processos. A fala veio depois de Lula dizer no debate da Band que Flávio perderia a imunidade. Em 27/10 chamou de mentira o rumor de que Flávio teria saído do país.",
-      "s": [
-        [
-          "Gazeta do Povo",
-          "https://www.gazetadopovo.com.br/eleicoes/2026/eduardo-bolsonaro-defende-que-flavio-deixe-o-brasil-se-for-derrotado-por-lula/"
-        ],
-        [
-          "CNN Brasil",
-          "https://www.cnnbrasil.com.br/eleicoes/eduardo-defende-saida-de-flavio-bolsonaro-do-pais-em-caso-de-derrota/"
-        ],
-        [
-          "SBT News",
-          "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-deve-deixar-o-brasil-se-perder-diz-eduardo-bolsonaro-1"
-        ],
-        [
-          "ND Mais",
-          "https://ndmais.com.br/politica/eduardo-bolsonaro-nega-suposta-fuga-de-flavio-e-ironiza-elon-musk-mandou-um-foguete/"
-        ]
-      ],
-      "r": "Conselho fraterno direto dos EUA, de quem já testou o produto e deixou avaliação cinco estrelas. E o roteiro tem coautor: foi Lula quem soltou no debate o \"você vai perder a imunidade\". Presidente que dá spoiler do próximo capítulo do adversário."
-    },
-    {
-      "n": "Flávio Bolsonaro",
-      "role": "Candidato derrotado; senador até 31/01/2027",
-      "st": "unk",
-      "stl": "Aliados dizem que saiu; sem confirmação oficial",
-      "q": "Eu nunca falei isso.",
-      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Não há confirmação oficial; o governo argentino nega entrada e pedido de asilo.",
-      "s": [
-        [
-          "Exame",
-          "https://exame.com/brasil/vamos-pedir-anulacao-dessas-eleicoes-diz-flavio-bolsonaro-apos-vitoria-de-lula/"
-        ],
-        [
-          "Gazeta do Povo",
-          "https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/"
-        ],
-        [
-          "ND Mais",
-          "https://ndmais.com.br/politica/flavio-bolsonaro-viajou-para-os-eua-onde-esta/"
-        ],
-        [
-          "Congresso em Foco",
-          "https://www.congressoemfoco.com.br/noticia/128189/deputados-pedem-apreensao-do-passaporte-de-flavio-apos-derrota"
-        ],
-        [
-          "Metrópoles",
-          "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte"
-        ],
-        [
-          "Gazeta do Povo",
-          "https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/"
-        ],
-        [
-          "Gazeta do Povo",
-          "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/"
-        ],
-        [
-          "CartaCapital",
-          "https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/"
-        ],
-        [
-          "Metrópoles",
-          "https://www.metropoles.com/brasil/flavio-teria-deixado-o-pais-rumo-aos-eua-diz-site-argentino-aliados-negam"
-        ],
-        [
-          "Terra",
-          "https://www.terra.com.br/noticias/brasil/policia/pf-apura-se-flavio-bolsonaro-deixou-o-brasil-apos-relato-de-site-argentino,c99f6a0890e385b6591e14f88937a02ct0f4g9a2.html"
-        ],
-        [
-          "Jornal Opção",
-          "https://www.jornalopcao.com.br/brasil/flavio-bolsonaro-nao-entrega-passaporte-no-prazo-e-pf-apura-se-senador-deixou-o-brasil-882947/"
-        ],
-        [
-          "Gazeta do Povo",
-          "https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/"
-        ],
-        [
-          "CNN Brasil",
-          "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/"
-        ],
-        [
-          "CNN Brasil",
-          "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/"
-        ],
-        [
-          "CNN Brasil",
-          "https://www.cnnbrasil.com.br/politica/autoridade-dos-eua-diz-a-reuters-que-flavio-esta-a-caminho-do-pais/"
-        ],
-        [
-          "Jornal de Brasília",
-          "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/"
-        ]
-      ],
-      "r": "\"Eu nunca falei isso\" tem validade até a próxima notícia: quem falou foi o irmão, e hoje o assunto é onde está o Flávio. A novela do passaporte segue sem final confirmado."
-    },
-    {
-      "n": "Equipe e aliados da campanha",
-      "role": "Nikolas Ferreira, Lucas Pavanato, Alexandre Ramagem e outros",
-      "st": "no",
-      "stl": "Ninguém anunciou saída",
-      "p": "No dia da votação, aliados questionaram a prorrogação antes do resultado, mas nenhum falou em deixar o país. Eduardo e Alexandre Ramagem já vivem nos EUA; Ramagem, condenado a 16 anos pelo STF, disse que só voltaria com Flávio eleito.",
-      "s": [
-        [
-          "Metro 1",
-          "https://www.metro1.com.br/noticias/eleicoes-2026/190424,aliados-de-flavio-bolsonaro-questionam-eleicao-antes-do-resultado-e-levantam-suspeitas-de-golpe"
-        ]
-      ],
-      "r": "Ninguém anunciou mudança. Também, nem precisava: a ala internacional da campanha já estava instalada lá fora antes da primeira urna abrir. É a única campanha com escritório regional em outro país."
-    },
-    {
-      "n": "Pablo Marçal",
-      "role": "Influenciador, organizou o encontro de influenciadores da campanha",
-      "st": "unk",
-      "stl": "Não confirmado",
-      "p": "Circulou nas redes que ele prometeu sair do Brasil se Lula vencesse. A afirmação veio de um perfil de notícias, sem vídeo ou fala dele, e nenhum veículo confirmou. Famosos pró-Lula reagiram com ironia.",
-      "s": [
-        [
-          "BNews",
-          "https://www.bnews.com.br/noticias/entretenimento/famosos-comemoram-suposta-promessa-de-pablo-marcal-de-deixar-o-brasil-caso-lula-venca-eleicao-conte-com-a-gente.html"
-        ]
-      ],
-      "r": "Teve famoso querendo reconhecer firma da promessa em cartório. Marçal, até agora, não reconheceu nem o vídeo, que ninguém achou. Quem já estava com a carona pro aeroporto agendada pode cancelar sem multa."
-    }
-  ],
-  "news": [
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Donald Trump"
-      ],
-      "h": "Aliados dizem que Flávio deixou o Brasil com a família e que Trump concederá asilo; não há confirmação oficial",
-      "p": "Segundo a Band, o asilo é afirmação de aliados; o governo argentino diz que não recebeu pedido de asilo.",
-      "src": "Band",
-      "u": "https://www.band.com.br/politica/eleicoes/aliados-dizem-que-flavio-esta-a-caminho-dos-eua-e-pediu-asilo-para-trump",
-      "check": true,
-      "r": "Asilo \"garantido\" por aliados e ainda sem um carimbo oficial: a campanha segue craque em anunciar o resultado antes da apuração."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Fonte do governo americano diz à Reuters que Flávio segue rumo aos EUA",
-      "p": "A Reuters não confirmou quem viajou com ele.",
-      "src": "CNN Brasil",
-      "u": "https://www.cnnbrasil.com.br/politica/autoridade-dos-eua-diz-a-reuters-que-flavio-esta-a-caminho-do-pais/",
-      "r": "Da urna ao aeroporto, só o suspense chegou na hora. A Reuters ao menos avisou o que não sabe, coisa rara na reta final."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "h": "Aliados dizem que Flávio deixou o Brasil; entenda o que se sabe e o que não foi confirmado",
-      "p": "A defesa diz que o último contato foi na segunda, às 16h30; o governo argentino nega que ele tenha entrado no país.",
-      "src": "CNN Brasil",
-      "u": "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/",
-      "r": "Quando até o relato dos aliados vem com ressalva, o bolsonarismo descobre o que é checar antes de publicar."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes",
-        "Eduardo Bolsonaro"
-      ],
-      "h": "PF disse a Moraes haver risco concreto de Flávio sair do país ao pedir a apreensão do passaporte",
-      "p": "A PF citou a saída do advogado Willer Tomaz em agosto e a permanência de Eduardo nos EUA; Moraes cancelou os passaportes brasileiros.",
-      "src": "Jornal de Brasília",
-      "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/",
-      "r": "A PF citou Eduardo e Willer Tomaz como exemplos; o time Bolsonaro, que costuma reclamar de perseguição, agora tem que explicar as próprias referências."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes"
-      ],
-      "h": "Moraes manda Flávio entregar o passaporte e o proíbe de deixar o país",
-      "p": "A decisão está sob sigilo e foi divulgada pelo próprio senador; faz parte do inquérito que envolve o advogado Willer Tomaz.",
-      "src": "Agência Brasil",
-      "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais",
-      "r": "Flávio perguntou se aquilo era motivo para tirar o passaporte. A resposta de Eduardo no podcast, dias antes, já circulava pela internet."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes"
-      ],
-      "h": "PF cancela os passaportes de Flávio, inclusive o diplomático, e apura se ele deixou o país",
-      "p": "A medida vem de ordem de Moraes depois que o prazo para a entrega terminou sem o senador aparecer; a reportagem diz que o paradeiro não está confirmado e não há mandado de prisão.",
-      "src": "CNN Brasil",
-      "u": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/",
-      "r": "A entrega dos passaportes virou o prazo mais acompanhado do país desde a prorrogação da votação. Até agora, só o suspense cumpriu o horário."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Advogados de Flávio dizem que não conseguiram localizá-lo para recolher os passaportes",
-      "p": "Segundo a Gazeta do Povo, a defesa não cumpriu a entrega; a reportagem não confirma onde ele está.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/",
-      "r": "Defesa que não acha o próprio cliente é o tipo de drama que nem o horário eleitoral ousou roteirizar. Enquanto isso, os aliados garantem que está tudo sob controle, só não dizem onde."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Rogério Marinho",
-        "Fabio Wajngarten"
-      ],
-      "h": "Site argentino diz que Flávio embarcou rumo à Argentina e aos EUA; Marinho e Wajngarten negam",
-      "p": "O relato do Infobae não tem confirmação independente; em vídeo, Flávio disse que nunca pensou em sair do país. A PF acionou autoridades argentinas para checar.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/brasil/flavio-teria-deixado-o-pais-rumo-aos-eua-diz-site-argentino-aliados-negam",
-      "check": true,
-      "r": "Um jato, um boato e três desmentidos antes do almoço. A única coisa que decolou com folga foi o assunto."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Javier Milei"
-      ],
-      "h": "PF apura se Flávio deixou o Brasil; porta-voz de Milei diz que ele não entrou na Argentina",
-      "p": "Aliados negam a saída, mas relatam dificuldade de contato; o paradeiro não está confirmado e não há registro de passagem em pontos oficiais de migração.",
-      "src": "Terra",
-      "u": "https://www.terra.com.br/noticias/brasil/policia/pf-apura-se-flavio-bolsonaro-deixou-o-brasil-apos-relato-de-site-argentino,c99f6a0890e385b6591e14f88937a02ct0f4g9a2.html",
-      "check": true,
-      "r": "Milei desmente, Marinho desmente, Wajngarten desmente. Falta só o desmentido com foto, que é o único que a internet aceita."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes"
-      ],
-      "h": "Flávio não entrega os passaportes no prazo da manhã de terça, e a PF apura se ele deixou o país",
-      "p": "A ordem de Moraes é de domingo (25), em inquérito de lavagem de dinheiro que envolve o advogado Willer Tomaz; a reportagem diz que o paradeiro não está confirmado.",
-      "src": "Jornal Opção",
-      "u": "https://www.jornalopcao.com.br/brasil/flavio-bolsonaro-nao-entrega-passaporte-no-prazo-e-pf-apura-se-senador-deixou-o-brasil-882947/",
-      "r": "Na segunda ele prometeu cumprir, na terça o relógio passou das 11h e o país virou plantão de notícia. Novela das nove, só que em horário comercial."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Eduardo Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Eduardo nega que Flávio tenha saído do país e chama o rumor de mentira",
-      "p": "Segundo o ND Mais, ele respondeu ao UOL por WhatsApp com uma ironia envolvendo Elon Musk e disse que a esquerda usa o boato para justificar uma ação contra o irmão.",
-      "src": "ND Mais",
-      "u": "https://ndmais.com.br/politica/eduardo-bolsonaro-nega-suposta-fuga-de-flavio-e-ironiza-elon-musk-mandou-um-foguete/",
-      "r": "Dias atrás defendia a saída do irmão, hoje chama o boato de mentira. Tradição de família: dar o conselho e depois reclamar do eco."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Valdemar Costa Neto",
-        "Flávio Bolsonaro"
-      ],
-      "h": "PL reconhece o resultado da eleição, mesmo com Flávio contestando a derrota",
-      "p": "A nota do partido diz respeitar o resultado proclamado pelo TSE, mas pede esclarecimentos sobre o processo eleitoral.",
-      "src": "Terra",
-      "u": "https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html",
-      "r": "O partido reconheceu o resultado e o candidato do partido, não. Mesma sigla, mesma derrota, duas versões: já dá pra abrir uma disputa interna sobre quem perdeu."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Influenciadores",
-      "who": [
-        "Renan Santos",
-        "Pablo Marçal"
-      ],
-      "h": "Renan Santos ironiza Pablo Marçal depois da vitória de Lula: \"Craque do jogo\"",
-      "p": "A provocação veio após Marçal ter desprezado os eleitores do Missão num podcast em outubro.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/brasil/renan-santos-ironiza-pablo-marcal-apos-vitoria-de-lula-craque-do-jogo",
-      "r": "Marçal reuniu 400 influenciadores e levou o troféu de ironia do rival. Na política, até o elogio vem com legenda."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes",
-        "Jair Bolsonaro"
-      ],
-      "h": "Flávio diz que a PF exigiu os passaportes depois da visita ao pai e que vai cumprir a ordem",
-      "p": "A versão é do próprio senador; o processo corre em segredo de Justiça e o STF não detalhou a decisão.",
-      "src": "CNN Brasil",
-      "u": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-pf-exigiu-seus-passaportes-apos-visita-a-bolsonaro/",
-      "r": "Na versão do próprio senador, ele saiu para visitar o pai e voltou com uma intimação. Domingo em família com brinde que ninguém pediu."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes"
-      ],
-      "h": "PF intima Flávio a entregar os passaportes por ordem de Moraes, diz o senador",
-      "p": "Segundo Flávio, a decisão cita a fala de Eduardo e o proíbe de deixar o país e de contatar o advogado Willer Tomaz; o STF não havia dado informações. A defesa nega irregularidades.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/",
-      "r": "Segundo Flávio, a ordem cita a fala de Eduardo. Tem irmão que empresta o carro; esse empresta assunto para o Supremo."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "h": "Flávio diz que vai entregar os passaportes, nega ter falado em sair do país e acusa a PF de intimidação",
-      "p": "Afirmou que a decisão se baseou numa declaração do irmão e que pedirá a cassação da chapa de Lula; segue sem reconhecer o resultado.",
-      "src": "CartaCapital",
-      "u": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/",
-      "r": "Ele nunca falou em sair, quem sugeriu foi o irmão, em público. Agora a família divide a tarefa: um dá a ideia, o outro entrega o documento."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Tarcísio de Freitas",
-        "Rogério Marinho"
-      ],
-      "h": "Aliados e equipe jurídica de Flávio dizem que ele não pedirá mais a anulação, e sim a cassação da chapa de Lula",
-      "p": "A campanha fala em 20 ações já apresentadas e em priorizar a oposição no Congresso a partir de 2027.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/brasil/flavio-nao-vai-mais-pedir-anulacao-da-eleicao-dizem-aliados-e-juridico",
-      "r": "Anulação durou do domingo à segunda. Agora o prato se chama cassação: nome mais chique, mesma cozinha e os mesmos 4,4 milhões de votos na conta."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Derrota por larga margem torna improvável a anulação da eleição, dizem fontes e analistas",
-      "p": "A reportagem lembra que a campanha de Flávio também havia pedido extensão do horário em municípios; não há pedido protocolado confirmado.",
-      "src": "Antena 1",
-      "u": "https://www.antena1.com.br/noticias/derrota-expressiva-de-flavio-bolsonaro-torna-improvavel-anulacao-da-eleicao-dizem-fontes-e-analistas",
-      "r": "Pedir anulação com 4,4 milhões de votos de diferença é como reclamar do juiz depois de levar de goleada. Mas o VAR do bolsonarismo continua ligado."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre Frota"
-      ],
-      "h": "Entenda os pedidos para barrar uma eventual viagem de Flávio ao exterior",
-      "p": "Pedidos foram feitos ao STF e à PGR; a reportagem não apresenta prova de plano de saída nem decisão sobre o passaporte.",
-      "src": "Estado de Minas",
-      "u": "https://www.em.com.br/politica/2026/10/7528167-flavio-bolsonaro-pode-deixar-o-pais-entenda-os-pedidos-para-barrar-viagem.html",
-      "r": "Todo mundo querendo o passaporte do homem sem ele ter feito mala. Até agora a única viagem confirmada é a da imaginação alheia."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "h": "Flávio visita o pai em Brasília um dia após a derrota",
-      "p": "A visita, por volta das 11h, ocorre enquanto pedidos de apreensão do passaporte dele aguardam análise.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte",
-      "r": "Primeiro compromisso pós-derrota: visitar o pai. Pelo menos ali o voto nunca falhou."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Otoni de Paula"
-      ],
-      "h": "PGR não descarta pedido para reter o passaporte de Flávio, diz Gazeta do Povo",
-      "p": "O jornal fala em sinalização ainda não oficial à PF; não há decisão nem prova apresentada de plano de saída.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/",
-      "r": "Em 24 horas o passaporte virou o documento mais comentado do país, desbancando até o pedido de anulação. Ninguém sabe se ele vai viajar, mas a capa já tem mais fãs que muito candidato a deputado."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Duda Salabert",
-        "Otoni de Paula",
-        "Rogério Correia"
-      ],
-      "h": "Deputados pedem ao STF e à PGR que o passaporte de Flávio seja apreendido",
-      "p": "Alegam risco de saída do país; não há decisão nem prova apresentada de plano de fuga.",
-      "src": "Congresso em Foco",
-      "u": "https://www.congressoemfoco.com.br/noticia/128189/deputados-pedem-apreensao-do-passaporte-de-flavio-apos-derrota",
-      "r": "Três deputados, zero provas de fuga e uma convicção inabalável. Ganhar a eleição e ainda assim correr pro STF no dia seguinte: o governismo aprendeu rápido o esporte favorito de quem perde."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "h": "Sem confirmação de que Flávio tenha viajado aos EUA após a derrota",
-      "p": "A última aparição pública dele foi em Brasília, no domingo, ao anunciar o pedido de anulação.",
-      "src": "ND Mais",
-      "u": "https://ndmais.com.br/politica/flavio-bolsonaro-viajou-para-os-eua-onde-esta/",
-      "check": true,
-      "r": "Flávio não viajou. A imaginação da internet, sim: já tinha embarcado, pousado e reclamado do preço do Uber no desembarque."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Eduardo Bolsonaro"
-      ],
-      "h": "Em vídeo em inglês, Eduardo fala em fraude sem provas e pede que o mundo não reconheça o resultado",
-      "p": "Citou a prorrogação da votação e a virada de Lula depois de Flávio liderar o 1º turno.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/brasil/em-video-em-ingles-eduardo-bolsonaro-acusa-eleicoes-de-fraude-sem-provas",
-      "r": "Pediu ao mundo que não reconheça o resultado. Em inglês, pra garantir que o eleitor brasileiro não entendesse o pedido."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Rogério Marinho",
-        "Flávio Bolsonaro",
-        "Pablo Marçal"
-      ],
-      "h": "Marinho diz que a decisão de contestar a eleição partiu de Flávio e que a campanha irá à Justiça",
-      "p": "Na mesma reportagem, Marçal chamou a vitória de Lula de \"tragédia matemática\" e criticou os institutos de pesquisa.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/brasil/marinho-diz-que-decisao-de-questionar-resultado-das-eleicoes-veio-de-flavio",
-      "r": "\"Tragédia matemática\" é o nome que Marçal deu a 4,4 milhões de votos de diferença. A matemática pede respeito e, se possível, uma mentoria. Marinho, coordenador da campanha, deixou claro de quem foi a ideia de contestar: espírito de equipe é isso, todo mundo junto, mas o crachá é do chefe."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Flávio e campanha",
-      "who": [
-        "Lucas Pavanato",
-        "Nikolas Ferreira"
-      ],
-      "h": "Pavanato diz que não aceitará derrota, e Nikolas fala em impeachment após decisão do STF",
-      "p": "As falas vieram depois de Zanin estender o horário de votação até as 19h.",
-      "src": "Gazeta de S.Paulo",
-      "u": "https://www.gazetasp.com.br/cotidiano/pavanato-diz-que-nao-aceitara-derrota-e-nikolas-fala-em-possivel-impeachment-apos-decisao-do-stf/",
-      "r": "\"Não aceitarei derrota\" é frase linda em vestiário de várzea. Na eleição ela tem nome técnico: domingo à noite."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Influenciadores",
-      "who": [
-        "Pablo Marçal",
-        "Eduardo Bolsonaro"
-      ],
-      "h": "Marçal e Eduardo festejaram em vídeo a virada parcial de Flávio antes da derrota",
-      "p": "Flávio chegou a passar Lula durante a apuração; Lula retomou a liderança e não foi mais ultrapassado.",
-      "src": "Terra",
-      "u": "https://www.terra.com.br/noticias/eleicoes/antes-de-derrota-pablo-marcal-e-eduardo-bolsonaro-comemoraram-virada-de-flavio,f9b62d41f1a366041edf439e81b97fb5i1xjpi5b.html",
-      "r": "Comemoraram a virada ao vivo. A apuração, sem a menor educação, continuou contando. Fica a lição de todo torcedor: não se solta rojão no intervalo."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Flávio e campanha",
-      "who": [
-        "Kassio Nunes Marques",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Presidente do TSE diz que a prorrogação da votação não comprometeu o resultado",
-      "p": "Kassio Nunes Marques respondeu às críticas da campanha de Flávio na noite da eleição.",
-      "src": "Agora RN",
-      "u": "https://agorarn.com.br/politica/kassio-afirma-que-prorrogacao-da-votacao-nao-comprometeu-resultado-das-eleicoes/",
-      "r": "Detalhe que estraga a narrativa: Kassio chegou ao STF indicado por Jair Bolsonaro. Fica difícil chamar de juiz da torcida adversária o árbitro que o próprio time escalou."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Religiosos",
-      "who": [
-        "Silas Malafaia"
-      ],
-      "h": "Malafaia lamenta, mas reconhece a vitória de Lula",
-      "p": "Em vídeo, chamou o resultado de decisão do povo e pediu confiança nas instituições, sem falar em fraude.",
-      "src": "Jornal do Comércio",
-      "u": "https://www.jornaldocomercio.com/politica/2026/10/1268191-malafaia-diz-lamentar-mas-reconhece-vitoria-de-lula.html",
-      "r": "Em janeiro disse que Flávio não tinha musculatura. Em outubro apoiou. No domingo reconheceu a derrota em vídeo. É o único da turma com a jornada completa: profecia, conversão e aceitação."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Flávio e campanha",
-      "who": [
-        "Nikolas Ferreira"
-      ],
-      "h": "Nikolas não reconhece a reeleição de Lula e volta a falar em impeachment de Zanin",
-      "p": "Criticou a prorrogação de duas horas da votação e escreveu que Lula não é seu presidente.",
-      "src": "Poder360",
-      "u": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-nao-reconhece-vitoria-de-lula-e-fala-em-impeachment-de-zanin/",
-      "r": "Antes da apuração o cardápio era \"ou a gente ganha, ou a gente ganha\". Esqueceram de tirar a terceira opção do menu, e foi justo a que o garçom trouxe."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Flávio e campanha",
-      "who": [
-        "Nikolas Ferreira",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Aliados de Flávio reagem à derrota com acusações de \"fraude\" e \"golpe judiciário\"",
-      "p": "Nenhum dos aliados citados apresentou provas; partidos do centrão como MDB e Republicanos reconheceram o resultado.",
-      "src": "O Tempo",
-      "u": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/25/ameaca-de-impeachment-fraude-golpe-judiciario-aliados-de-flavio-reagem-a-vitoria-de-lula",
-      "r": "Acusações de fraude: muitas. Provas: aguardando entrega, sem código de rastreio. O centrão, que fareja poder a quilômetros, reconheceu o resultado antes de o café esfriar."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Análise: o que muda para o bolsonarismo depois da derrota de Flávio",
-      "p": "",
-      "src": "Nexo",
-      "u": "https://www.nexojornal.com.br/expresso/2026/10/25/flavio-bolsonaro-perde-derrota-bolsonarismo-lula-reeleito-presidente",
-      "r": "Leitura obrigatória para quem vai disputar o espólio do bolsonarismo no próximo almoço de domingo da família."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Flávio não reconhece a derrota e diz que pedirá anulação da eleição",
-      "p": "Alegou quebra de isonomia com a votação prorrogada; a própria campanha tinha pedido extensão em cidades de cinco estados.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/",
-      "r": "Quebra de isonomia, diz quem pediu prorrogação em cinco estados. A isonomia só vale quando o relógio corre a favor."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Flávio e campanha",
-      "who": [
-        "Lula",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Lula é reeleito com 51,79% e terá o quarto mandato",
-      "p": "Flávio ganhou em São Paulo (53,85% no estado), mas Lula venceu na capital.",
-      "src": "InfoMoney",
-      "u": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/",
-      "r": "Quarto mandato. Lula já renovou contrato mais vezes que lateral veterano de time grande, e segue jurando que é o último. Perdeu o estado de São Paulo e ganhou a capital: o Planalto foi salvo pela fila do metrô."
-    },
-    {
-      "d": "2026-10-25",
-      "g": "Flávio e campanha",
-      "who": [
-        "Nikolas Ferreira",
-        "Eduardo Bolsonaro",
-        "Alexandre Ramagem"
-      ],
-      "h": "Aliados de Flávio questionaram a eleição antes de sair o resultado",
-      "p": "Nikolas ameaçou pedir impeachment de Zanin; Eduardo disse que a prorrogação tinha \"cheiro de queimado\".",
-      "src": "Metro 1",
-      "u": "https://www.metro1.com.br/noticias/eleicoes-2026/190424,aliados-de-flavio-bolsonaro-questionam-eleicao-antes-do-resultado-e-levantam-suspeitas-de-golpe",
-      "r": "Contestar antes do resultado é o seguro-derrota: contratado com antecedência e acionado com precisão suíça."
-    },
-    {
-      "d": "2026-10-24",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Derrota e inquéritos no STF pressionam o futuro de Flávio",
-      "p": "Sem foro a partir de fevereiro; Moraes mandou quebrar o sigilo de uma offshore do advogado Willer Tomaz.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/",
-      "r": "A partir de fevereiro, sem mandato e sem foro: depois de anos de Senado, a vida de cidadão comum chega sem fila preferencial."
-    },
-    {
-      "d": "2026-10-23",
-      "g": "Flávio e campanha",
-      "who": [
-        "Eduardo Bolsonaro"
-      ],
-      "h": "Eduardo defende que Flávio deixe o Brasil se perder",
-      "p": "Entrevista a um podcast nos EUA, dois dias antes da votação.",
-      "src": "CNN Brasil",
-      "u": "https://www.cnnbrasil.com.br/eleicoes/eduardo-defende-saida-de-flavio-bolsonaro-do-pais-em-caso-de-derrota/",
-      "r": "Dois dias antes da eleição, o irmão já anunciava o plano B. É o tipo de apoio fraterno que dispensa adversário."
-    },
-    {
-      "d": "2026-10-23",
-      "g": "Música",
-      "who": [
-        "Daniel Diau",
-        "Zezé Di Camargo"
-      ],
-      "h": "Vocalista da Calcinha Preta declara apoio a Flávio em post de Zezé",
-      "p": "Apoio feito em comentário numa publicação do sertanejo.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/",
-      "r": "Declarou voto na seção de comentários do Zezé. A política brasileira enfim assumiu o endereço onde sempre morou."
-    },
-    {
-      "d": "2026-10-22",
-      "g": "Esporte",
-      "who": [
-        "Neymar"
-      ],
-      "h": "Neymar comenta \"Dito isso... 22\" em post do MC Cabelinho",
-      "p": "O Correio Braziliense observa que ele não fez declaração formal de voto, ao contrário de 2022.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/",
-      "r": "\"Dito isso... 22.\" Dito o quê, Neymar? Foi o apoio mais econômico da campanha: três palavras, dois números e zero compromisso. Um drible até no próprio voto."
-    },
-    {
-      "d": "2026-10-22",
-      "g": "Influenciadores",
-      "who": [
-        "Ruyter Poubel"
-      ],
-      "h": "Ruyter publica vídeo de \"posicionamento oficial\" a favor de Flávio",
-      "p": "",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/",
-      "r": "\"Posicionamento oficial\", com a pompa de pronunciamento em cadeia nacional. A nação, dizem, parou para ouvir."
-    }
+ "updated": "2026-10-27T22:10:52-03:00",
+ "updated_label": "27/10/2026, 22h",
+ "result": {
+  "lula": 51.79,
+  "flavio": 48.21,
+  "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. O presidente do TSE afirmou ter \"absoluta segurança\" no processo, e o TSE chamou de falsa a alegação de que fiscais do PL foram retirados da sala de apuração. Na segunda (26), o Metrópoles informou que aliados e a equipe jurídica deixaram de falar em anulação e miram a cassação da chapa de Lula e Alckmin no TSE, por suposto abuso de poder; o próprio Flávio disse que vai pedir a cassação e segue sem reconhecer o resultado. No mesmo dia, o PL, partido dele, reconheceu o resultado proclamado pelo TSE, mas pediu esclarecimentos sobre o processo. Nenhuma reportagem confirma pedido de anulação protocolado.",
+  "r": "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação. É o \"eu pedi, mas não era pra me darem\" mais caro da história da República. Do outro lado, Lula fecha o quarto mandato e já está naquele ponto em que o Planalto devia cobrar IPTU dele.",
+  "s": [
+   [
+    "InfoMoney",
+    "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/"
+   ],
+   [
+    "Gazeta do Povo",
+    "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/"
+   ],
+   [
+    "Terra",
+    "https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html"
+   ]
   ]
+ },
+ "exits": [
+  {
+   "n": "Eduardo Bolsonaro",
+   "role": "Irmão de Flávio, ex-deputado; mora nos EUA desde 2025",
+   "st": "yes",
+   "stl": "Defendeu a saída",
+   "q": "Se meu irmão não vencer, sou a favor de que ele deixe o país.",
+   "p": "Disse em 23/10, no programa americano Louder with Crowder, que a derrota deixaria Flávio exposto a processos. A fala veio depois de Lula dizer no debate da Band que Flávio perderia a imunidade. Em 27/10 chamou de mentira o rumor de que Flávio teria saído do país.",
+   "s": [
+    [
+     "Gazeta do Povo",
+     "https://www.gazetadopovo.com.br/eleicoes/2026/eduardo-bolsonaro-defende-que-flavio-deixe-o-brasil-se-for-derrotado-por-lula/"
+    ],
+    [
+     "CNN Brasil",
+     "https://www.cnnbrasil.com.br/eleicoes/eduardo-defende-saida-de-flavio-bolsonaro-do-pais-em-caso-de-derrota/"
+    ],
+    [
+     "SBT News",
+     "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-deve-deixar-o-brasil-se-perder-diz-eduardo-bolsonaro-1"
+    ],
+    [
+     "ND Mais",
+     "https://ndmais.com.br/politica/eduardo-bolsonaro-nega-suposta-fuga-de-flavio-e-ironiza-elon-musk-mandou-um-foguete/"
+    ]
+   ],
+   "r": "Conselho fraterno direto dos EUA, de quem já testou o produto e deixou avaliação cinco estrelas. E o roteiro tem coautor: foi Lula quem soltou no debate o \"você vai perder a imunidade\". Presidente que dá spoiler do próximo capítulo do adversário."
+  },
+  {
+   "n": "Flávio Bolsonaro",
+   "role": "Candidato derrotado; senador até 31/01/2027",
+   "st": "unk",
+   "stl": "Aliados dizem que saiu; sem confirmação oficial",
+   "q": "Eu nunca falei isso.",
+   "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Não há confirmação oficial; o governo argentino nega entrada e pedido de asilo.",
+   "s": [
+    [
+     "Exame",
+     "https://exame.com/brasil/vamos-pedir-anulacao-dessas-eleicoes-diz-flavio-bolsonaro-apos-vitoria-de-lula/"
+    ],
+    [
+     "Gazeta do Povo",
+     "https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/"
+    ],
+    [
+     "ND Mais",
+     "https://ndmais.com.br/politica/flavio-bolsonaro-viajou-para-os-eua-onde-esta/"
+    ],
+    [
+     "Congresso em Foco",
+     "https://www.congressoemfoco.com.br/noticia/128189/deputados-pedem-apreensao-do-passaporte-de-flavio-apos-derrota"
+    ],
+    [
+     "Metrópoles",
+     "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte"
+    ],
+    [
+     "Gazeta do Povo",
+     "https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/"
+    ],
+    [
+     "Gazeta do Povo",
+     "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/"
+    ],
+    [
+     "CartaCapital",
+     "https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/"
+    ],
+    [
+     "Metrópoles",
+     "https://www.metropoles.com/brasil/flavio-teria-deixado-o-pais-rumo-aos-eua-diz-site-argentino-aliados-negam"
+    ],
+    [
+     "Terra",
+     "https://www.terra.com.br/noticias/brasil/policia/pf-apura-se-flavio-bolsonaro-deixou-o-brasil-apos-relato-de-site-argentino,c99f6a0890e385b6591e14f88937a02ct0f4g9a2.html"
+    ],
+    [
+     "Jornal Opção",
+     "https://www.jornalopcao.com.br/brasil/flavio-bolsonaro-nao-entrega-passaporte-no-prazo-e-pf-apura-se-senador-deixou-o-brasil-882947/"
+    ],
+    [
+     "Gazeta do Povo",
+     "https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/"
+    ],
+    [
+     "CNN Brasil",
+     "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/"
+    ],
+    [
+     "CNN Brasil",
+     "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/"
+    ],
+    [
+     "CNN Brasil",
+     "https://www.cnnbrasil.com.br/politica/autoridade-dos-eua-diz-a-reuters-que-flavio-esta-a-caminho-do-pais/"
+    ],
+    [
+     "Jornal de Brasília",
+     "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/"
+    ],
+    [
+     "Gazeta do Povo",
+     "https://www.gazetadopovo.com.br/republica/pf-confirma-flavio-bolsonaro-deixou-brasil/"
+    ],
+    [
+     "Poder360",
+     "https://www.poder360.com.br/poder-justica/leia-a-cronologia-dos-fatos-que-levaram-flavio-bolsonaro-deixar-o-brasil/"
+    ]
+   ],
+   "r": "\"Eu nunca falei isso\" tem validade até a próxima notícia: quem falou foi o irmão, e hoje o assunto é onde está o Flávio. A novela do passaporte segue sem final confirmado."
+  },
+  {
+   "n": "Equipe e aliados da campanha",
+   "role": "Nikolas Ferreira, Lucas Pavanato, Alexandre Ramagem e outros",
+   "st": "no",
+   "stl": "Ninguém anunciou saída",
+   "p": "No dia da votação, aliados questionaram a prorrogação antes do resultado, mas nenhum falou em deixar o país. Eduardo e Alexandre Ramagem já vivem nos EUA; Ramagem, condenado a 16 anos pelo STF, disse que só voltaria com Flávio eleito.",
+   "s": [
+    [
+     "Metro 1",
+     "https://www.metro1.com.br/noticias/eleicoes-2026/190424,aliados-de-flavio-bolsonaro-questionam-eleicao-antes-do-resultado-e-levantam-suspeitas-de-golpe"
+    ]
+   ],
+   "r": "Ninguém anunciou mudança. Também, nem precisava: a ala internacional da campanha já estava instalada lá fora antes da primeira urna abrir. É a única campanha com escritório regional em outro país."
+  },
+  {
+   "n": "Pablo Marçal",
+   "role": "Influenciador, organizou o encontro de influenciadores da campanha",
+   "st": "unk",
+   "stl": "Não confirmado",
+   "p": "Circulou nas redes que ele prometeu sair do Brasil se Lula vencesse. A afirmação veio de um perfil de notícias, sem vídeo ou fala dele, e nenhum veículo confirmou. Famosos pró-Lula reagiram com ironia.",
+   "s": [
+    [
+     "BNews",
+     "https://www.bnews.com.br/noticias/entretenimento/famosos-comemoram-suposta-promessa-de-pablo-marcal-de-deixar-o-brasil-caso-lula-venca-eleicao-conte-com-a-gente.html"
+    ]
+   ],
+   "r": "Teve famoso querendo reconhecer firma da promessa em cartório. Marçal, até agora, não reconheceu nem o vídeo, que ninguém achou. Quem já estava com a carona pro aeroporto agendada pode cancelar sem multa."
+  }
+ ],
+ "news": [
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro"
+   ],
+   "h": "Fontes ligadas à PF dizem à Gazeta do Povo que Flávio deixou o Brasil rumo aos EUA",
+   "p": "Uma fonte próxima ao senador falou em Miami e pedido de asilo; a reportagem trata tudo como preliminar e não traz declaração direta de Flávio. Marinho e Eduardo negam.",
+   "src": "Gazeta do Povo",
+   "u": "https://www.gazetadopovo.com.br/republica/pf-confirma-flavio-bolsonaro-deixou-brasil/",
+   "check": true,
+   "r": "Primeiro era o rumor, depois o desmentido, agora a \"fonte próxima\": só falta alguém dizer em que fuso horário o senador está se explicando."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Alexandre de Moraes"
+   ],
+   "h": "Cronologia: aliados confirmam ao Poder360 que Flávio deixou o país; PT pede ao STF a prisão preventiva dele",
+   "p": "O próprio Poder360 diz que não há confirmação oficial da saída nem do paradeiro; o pedido do PT inclui a lista vermelha da Interpol e não foi decidido.",
+   "src": "Poder360",
+   "u": "https://www.poder360.com.br/poder-justica/leia-a-cronologia-dos-fatos-que-levaram-flavio-bolsonaro-deixar-o-brasil/",
+   "check": true,
+   "r": "Cada lado já tem sua versão da cronologia antes de a PF terminar a dela; em Brasília, até o suspense vem com assessoria."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Donald Trump"
+   ],
+   "h": "Aliados dizem que Flávio deixou o Brasil com a família e que Trump concederá asilo; não há confirmação oficial",
+   "p": "Segundo a Band, o asilo é afirmação de aliados; o governo argentino diz que não recebeu pedido de asilo.",
+   "src": "Band",
+   "u": "https://www.band.com.br/politica/eleicoes/aliados-dizem-que-flavio-esta-a-caminho-dos-eua-e-pediu-asilo-para-trump",
+   "check": true,
+   "r": "Asilo \"garantido\" por aliados e ainda sem um carimbo oficial: a campanha segue craque em anunciar o resultado antes da apuração."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro"
+   ],
+   "h": "Fonte do governo americano diz à Reuters que Flávio segue rumo aos EUA",
+   "p": "A Reuters não confirmou quem viajou com ele.",
+   "src": "CNN Brasil",
+   "u": "https://www.cnnbrasil.com.br/politica/autoridade-dos-eua-diz-a-reuters-que-flavio-esta-a-caminho-do-pais/",
+   "r": "Da urna ao aeroporto, só o suspense chegou na hora. A Reuters ao menos avisou o que não sabe, coisa rara na reta final."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Eduardo Bolsonaro"
+   ],
+   "h": "Aliados dizem que Flávio deixou o Brasil; entenda o que se sabe e o que não foi confirmado",
+   "p": "A defesa diz que o último contato foi na segunda, às 16h30; o governo argentino nega que ele tenha entrado no país.",
+   "src": "CNN Brasil",
+   "u": "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/",
+   "r": "Quando até o relato dos aliados vem com ressalva, o bolsonarismo descobre o que é checar antes de publicar."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Alexandre de Moraes",
+    "Eduardo Bolsonaro"
+   ],
+   "h": "PF disse a Moraes haver risco concreto de Flávio sair do país ao pedir a apreensão do passaporte",
+   "p": "A PF citou a saída do advogado Willer Tomaz em agosto e a permanência de Eduardo nos EUA; Moraes cancelou os passaportes brasileiros.",
+   "src": "Jornal de Brasília",
+   "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/",
+   "r": "A PF citou Eduardo e Willer Tomaz como exemplos; o time Bolsonaro, que costuma reclamar de perseguição, agora tem que explicar as próprias referências."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Alexandre de Moraes"
+   ],
+   "h": "Moraes manda Flávio entregar o passaporte e o proíbe de deixar o país",
+   "p": "A decisão está sob sigilo e foi divulgada pelo próprio senador; faz parte do inquérito que envolve o advogado Willer Tomaz.",
+   "src": "Agência Brasil",
+   "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais",
+   "r": "Flávio perguntou se aquilo era motivo para tirar o passaporte. A resposta de Eduardo no podcast, dias antes, já circulava pela internet."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Alexandre de Moraes"
+   ],
+   "h": "PF cancela os passaportes de Flávio, inclusive o diplomático, e apura se ele deixou o país",
+   "p": "A medida vem de ordem de Moraes depois que o prazo para a entrega terminou sem o senador aparecer; a reportagem diz que o paradeiro não está confirmado e não há mandado de prisão.",
+   "src": "CNN Brasil",
+   "u": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/",
+   "r": "A entrega dos passaportes virou o prazo mais acompanhado do país desde a prorrogação da votação. Até agora, só o suspense cumpriu o horário."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro"
+   ],
+   "h": "Advogados de Flávio dizem que não conseguiram localizá-lo para recolher os passaportes",
+   "p": "Segundo a Gazeta do Povo, a defesa não cumpriu a entrega; a reportagem não confirma onde ele está.",
+   "src": "Gazeta do Povo",
+   "u": "https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/",
+   "r": "Defesa que não acha o próprio cliente é o tipo de drama que nem o horário eleitoral ousou roteirizar. Enquanto isso, os aliados garantem que está tudo sob controle, só não dizem onde."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Rogério Marinho",
+    "Fabio Wajngarten"
+   ],
+   "h": "Site argentino diz que Flávio embarcou rumo à Argentina e aos EUA; Marinho e Wajngarten negam",
+   "p": "O relato do Infobae não tem confirmação independente; em vídeo, Flávio disse que nunca pensou em sair do país. A PF acionou autoridades argentinas para checar.",
+   "src": "Metrópoles",
+   "u": "https://www.metropoles.com/brasil/flavio-teria-deixado-o-pais-rumo-aos-eua-diz-site-argentino-aliados-negam",
+   "check": true,
+   "r": "Um jato, um boato e três desmentidos antes do almoço. A única coisa que decolou com folga foi o assunto."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Javier Milei"
+   ],
+   "h": "PF apura se Flávio deixou o Brasil; porta-voz de Milei diz que ele não entrou na Argentina",
+   "p": "Aliados negam a saída, mas relatam dificuldade de contato; o paradeiro não está confirmado e não há registro de passagem em pontos oficiais de migração.",
+   "src": "Terra",
+   "u": "https://www.terra.com.br/noticias/brasil/policia/pf-apura-se-flavio-bolsonaro-deixou-o-brasil-apos-relato-de-site-argentino,c99f6a0890e385b6591e14f88937a02ct0f4g9a2.html",
+   "check": true,
+   "r": "Milei desmente, Marinho desmente, Wajngarten desmente. Falta só o desmentido com foto, que é o único que a internet aceita."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Alexandre de Moraes"
+   ],
+   "h": "Flávio não entrega os passaportes no prazo da manhã de terça, e a PF apura se ele deixou o país",
+   "p": "A ordem de Moraes é de domingo (25), em inquérito de lavagem de dinheiro que envolve o advogado Willer Tomaz; a reportagem diz que o paradeiro não está confirmado.",
+   "src": "Jornal Opção",
+   "u": "https://www.jornalopcao.com.br/brasil/flavio-bolsonaro-nao-entrega-passaporte-no-prazo-e-pf-apura-se-senador-deixou-o-brasil-882947/",
+   "r": "Na segunda ele prometeu cumprir, na terça o relógio passou das 11h e o país virou plantão de notícia. Novela das nove, só que em horário comercial."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Eduardo Bolsonaro",
+    "Flávio Bolsonaro"
+   ],
+   "h": "Eduardo nega que Flávio tenha saído do país e chama o rumor de mentira",
+   "p": "Segundo o ND Mais, ele respondeu ao UOL por WhatsApp com uma ironia envolvendo Elon Musk e disse que a esquerda usa o boato para justificar uma ação contra o irmão.",
+   "src": "ND Mais",
+   "u": "https://ndmais.com.br/politica/eduardo-bolsonaro-nega-suposta-fuga-de-flavio-e-ironiza-elon-musk-mandou-um-foguete/",
+   "r": "Dias atrás defendia a saída do irmão, hoje chama o boato de mentira. Tradição de família: dar o conselho e depois reclamar do eco."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Valdemar Costa Neto",
+    "Flávio Bolsonaro"
+   ],
+   "h": "PL reconhece o resultado da eleição, mesmo com Flávio contestando a derrota",
+   "p": "A nota do partido diz respeitar o resultado proclamado pelo TSE, mas pede esclarecimentos sobre o processo eleitoral.",
+   "src": "Terra",
+   "u": "https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html",
+   "r": "O partido reconheceu o resultado e o candidato do partido, não. Mesma sigla, mesma derrota, duas versões: já dá pra abrir uma disputa interna sobre quem perdeu."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Influenciadores",
+   "who": [
+    "Renan Santos",
+    "Pablo Marçal"
+   ],
+   "h": "Renan Santos ironiza Pablo Marçal depois da vitória de Lula: \"Craque do jogo\"",
+   "p": "A provocação veio após Marçal ter desprezado os eleitores do Missão num podcast em outubro.",
+   "src": "Metrópoles",
+   "u": "https://www.metropoles.com/brasil/renan-santos-ironiza-pablo-marcal-apos-vitoria-de-lula-craque-do-jogo",
+   "r": "Marçal reuniu 400 influenciadores e levou o troféu de ironia do rival. Na política, até o elogio vem com legenda."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Alexandre de Moraes",
+    "Jair Bolsonaro"
+   ],
+   "h": "Flávio diz que a PF exigiu os passaportes depois da visita ao pai e que vai cumprir a ordem",
+   "p": "A versão é do próprio senador; o processo corre em segredo de Justiça e o STF não detalhou a decisão.",
+   "src": "CNN Brasil",
+   "u": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-pf-exigiu-seus-passaportes-apos-visita-a-bolsonaro/",
+   "r": "Na versão do próprio senador, ele saiu para visitar o pai e voltou com uma intimação. Domingo em família com brinde que ninguém pediu."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Alexandre de Moraes"
+   ],
+   "h": "PF intima Flávio a entregar os passaportes por ordem de Moraes, diz o senador",
+   "p": "Segundo Flávio, a decisão cita a fala de Eduardo e o proíbe de deixar o país e de contatar o advogado Willer Tomaz; o STF não havia dado informações. A defesa nega irregularidades.",
+   "src": "Gazeta do Povo",
+   "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/",
+   "r": "Segundo Flávio, a ordem cita a fala de Eduardo. Tem irmão que empresta o carro; esse empresta assunto para o Supremo."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Eduardo Bolsonaro"
+   ],
+   "h": "Flávio diz que vai entregar os passaportes, nega ter falado em sair do país e acusa a PF de intimidação",
+   "p": "Afirmou que a decisão se baseou numa declaração do irmão e que pedirá a cassação da chapa de Lula; segue sem reconhecer o resultado.",
+   "src": "CartaCapital",
+   "u": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/",
+   "r": "Ele nunca falou em sair, quem sugeriu foi o irmão, em público. Agora a família divide a tarefa: um dá a ideia, o outro entrega o documento."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Tarcísio de Freitas",
+    "Rogério Marinho"
+   ],
+   "h": "Aliados e equipe jurídica de Flávio dizem que ele não pedirá mais a anulação, e sim a cassação da chapa de Lula",
+   "p": "A campanha fala em 20 ações já apresentadas e em priorizar a oposição no Congresso a partir de 2027.",
+   "src": "Metrópoles",
+   "u": "https://www.metropoles.com/brasil/flavio-nao-vai-mais-pedir-anulacao-da-eleicao-dizem-aliados-e-juridico",
+   "r": "Anulação durou do domingo à segunda. Agora o prato se chama cassação: nome mais chique, mesma cozinha e os mesmos 4,4 milhões de votos na conta."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro"
+   ],
+   "h": "Derrota por larga margem torna improvável a anulação da eleição, dizem fontes e analistas",
+   "p": "A reportagem lembra que a campanha de Flávio também havia pedido extensão do horário em municípios; não há pedido protocolado confirmado.",
+   "src": "Antena 1",
+   "u": "https://www.antena1.com.br/noticias/derrota-expressiva-de-flavio-bolsonaro-torna-improvavel-anulacao-da-eleicao-dizem-fontes-e-analistas",
+   "r": "Pedir anulação com 4,4 milhões de votos de diferença é como reclamar do juiz depois de levar de goleada. Mas o VAR do bolsonarismo continua ligado."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Alexandre Frota"
+   ],
+   "h": "Entenda os pedidos para barrar uma eventual viagem de Flávio ao exterior",
+   "p": "Pedidos foram feitos ao STF e à PGR; a reportagem não apresenta prova de plano de saída nem decisão sobre o passaporte.",
+   "src": "Estado de Minas",
+   "u": "https://www.em.com.br/politica/2026/10/7528167-flavio-bolsonaro-pode-deixar-o-pais-entenda-os-pedidos-para-barrar-viagem.html",
+   "r": "Todo mundo querendo o passaporte do homem sem ele ter feito mala. Até agora a única viagem confirmada é a da imaginação alheia."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Jair Bolsonaro"
+   ],
+   "h": "Flávio visita o pai em Brasília um dia após a derrota",
+   "p": "A visita, por volta das 11h, ocorre enquanto pedidos de apreensão do passaporte dele aguardam análise.",
+   "src": "Metrópoles",
+   "u": "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte",
+   "r": "Primeiro compromisso pós-derrota: visitar o pai. Pelo menos ali o voto nunca falhou."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Otoni de Paula"
+   ],
+   "h": "PGR não descarta pedido para reter o passaporte de Flávio, diz Gazeta do Povo",
+   "p": "O jornal fala em sinalização ainda não oficial à PF; não há decisão nem prova apresentada de plano de saída.",
+   "src": "Gazeta do Povo",
+   "u": "https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/",
+   "r": "Em 24 horas o passaporte virou o documento mais comentado do país, desbancando até o pedido de anulação. Ninguém sabe se ele vai viajar, mas a capa já tem mais fãs que muito candidato a deputado."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Duda Salabert",
+    "Otoni de Paula",
+    "Rogério Correia"
+   ],
+   "h": "Deputados pedem ao STF e à PGR que o passaporte de Flávio seja apreendido",
+   "p": "Alegam risco de saída do país; não há decisão nem prova apresentada de plano de fuga.",
+   "src": "Congresso em Foco",
+   "u": "https://www.congressoemfoco.com.br/noticia/128189/deputados-pedem-apreensao-do-passaporte-de-flavio-apos-derrota",
+   "r": "Três deputados, zero provas de fuga e uma convicção inabalável. Ganhar a eleição e ainda assim correr pro STF no dia seguinte: o governismo aprendeu rápido o esporte favorito de quem perde."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Eduardo Bolsonaro"
+   ],
+   "h": "Sem confirmação de que Flávio tenha viajado aos EUA após a derrota",
+   "p": "A última aparição pública dele foi em Brasília, no domingo, ao anunciar o pedido de anulação.",
+   "src": "ND Mais",
+   "u": "https://ndmais.com.br/politica/flavio-bolsonaro-viajou-para-os-eua-onde-esta/",
+   "check": true,
+   "r": "Flávio não viajou. A imaginação da internet, sim: já tinha embarcado, pousado e reclamado do preço do Uber no desembarque."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Eduardo Bolsonaro"
+   ],
+   "h": "Em vídeo em inglês, Eduardo fala em fraude sem provas e pede que o mundo não reconheça o resultado",
+   "p": "Citou a prorrogação da votação e a virada de Lula depois de Flávio liderar o 1º turno.",
+   "src": "Metrópoles",
+   "u": "https://www.metropoles.com/brasil/em-video-em-ingles-eduardo-bolsonaro-acusa-eleicoes-de-fraude-sem-provas",
+   "r": "Pediu ao mundo que não reconheça o resultado. Em inglês, pra garantir que o eleitor brasileiro não entendesse o pedido."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Rogério Marinho",
+    "Flávio Bolsonaro",
+    "Pablo Marçal"
+   ],
+   "h": "Marinho diz que a decisão de contestar a eleição partiu de Flávio e que a campanha irá à Justiça",
+   "p": "Na mesma reportagem, Marçal chamou a vitória de Lula de \"tragédia matemática\" e criticou os institutos de pesquisa.",
+   "src": "Metrópoles",
+   "u": "https://www.metropoles.com/brasil/marinho-diz-que-decisao-de-questionar-resultado-das-eleicoes-veio-de-flavio",
+   "r": "\"Tragédia matemática\" é o nome que Marçal deu a 4,4 milhões de votos de diferença. A matemática pede respeito e, se possível, uma mentoria. Marinho, coordenador da campanha, deixou claro de quem foi a ideia de contestar: espírito de equipe é isso, todo mundo junto, mas o crachá é do chefe."
+  },
+  {
+   "d": "2026-10-25",
+   "g": "Flávio e campanha",
+   "who": [
+    "Lucas Pavanato",
+    "Nikolas Ferreira"
+   ],
+   "h": "Pavanato diz que não aceitará derrota, e Nikolas fala em impeachment após decisão do STF",
+   "p": "As falas vieram depois de Zanin estender o horário de votação até as 19h.",
+   "src": "Gazeta de S.Paulo",
+   "u": "https://www.gazetasp.com.br/cotidiano/pavanato-diz-que-nao-aceitara-derrota-e-nikolas-fala-em-possivel-impeachment-apos-decisao-do-stf/",
+   "r": "\"Não aceitarei derrota\" é frase linda em vestiário de várzea. Na eleição ela tem nome técnico: domingo à noite."
+  },
+  {
+   "d": "2026-10-25",
+   "g": "Influenciadores",
+   "who": [
+    "Pablo Marçal",
+    "Eduardo Bolsonaro"
+   ],
+   "h": "Marçal e Eduardo festejaram em vídeo a virada parcial de Flávio antes da derrota",
+   "p": "Flávio chegou a passar Lula durante a apuração; Lula retomou a liderança e não foi mais ultrapassado.",
+   "src": "Terra",
+   "u": "https://www.terra.com.br/noticias/eleicoes/antes-de-derrota-pablo-marcal-e-eduardo-bolsonaro-comemoraram-virada-de-flavio,f9b62d41f1a366041edf439e81b97fb5i1xjpi5b.html",
+   "r": "Comemoraram a virada ao vivo. A apuração, sem a menor educação, continuou contando. Fica a lição de todo torcedor: não se solta rojão no intervalo."
+  },
+  {
+   "d": "2026-10-25",
+   "g": "Flávio e campanha",
+   "who": [
+    "Kassio Nunes Marques",
+    "Flávio Bolsonaro"
+   ],
+   "h": "Presidente do TSE diz que a prorrogação da votação não comprometeu o resultado",
+   "p": "Kassio Nunes Marques respondeu às críticas da campanha de Flávio na noite da eleição.",
+   "src": "Agora RN",
+   "u": "https://agorarn.com.br/politica/kassio-afirma-que-prorrogacao-da-votacao-nao-comprometeu-resultado-das-eleicoes/",
+   "r": "Detalhe que estraga a narrativa: Kassio chegou ao STF indicado por Jair Bolsonaro. Fica difícil chamar de juiz da torcida adversária o árbitro que o próprio time escalou."
+  },
+  {
+   "d": "2026-10-25",
+   "g": "Religiosos",
+   "who": [
+    "Silas Malafaia"
+   ],
+   "h": "Malafaia lamenta, mas reconhece a vitória de Lula",
+   "p": "Em vídeo, chamou o resultado de decisão do povo e pediu confiança nas instituições, sem falar em fraude.",
+   "src": "Jornal do Comércio",
+   "u": "https://www.jornaldocomercio.com/politica/2026/10/1268191-malafaia-diz-lamentar-mas-reconhece-vitoria-de-lula.html",
+   "r": "Em janeiro disse que Flávio não tinha musculatura. Em outubro apoiou. No domingo reconheceu a derrota em vídeo. É o único da turma com a jornada completa: profecia, conversão e aceitação."
+  },
+  {
+   "d": "2026-10-25",
+   "g": "Flávio e campanha",
+   "who": [
+    "Nikolas Ferreira"
+   ],
+   "h": "Nikolas não reconhece a reeleição de Lula e volta a falar em impeachment de Zanin",
+   "p": "Criticou a prorrogação de duas horas da votação e escreveu que Lula não é seu presidente.",
+   "src": "Poder360",
+   "u": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-nao-reconhece-vitoria-de-lula-e-fala-em-impeachment-de-zanin/",
+   "r": "Antes da apuração o cardápio era \"ou a gente ganha, ou a gente ganha\". Esqueceram de tirar a terceira opção do menu, e foi justo a que o garçom trouxe."
+  },
+  {
+   "d": "2026-10-25",
+   "g": "Flávio e campanha",
+   "who": [
+    "Nikolas Ferreira",
+    "Flávio Bolsonaro"
+   ],
+   "h": "Aliados de Flávio reagem à derrota com acusações de \"fraude\" e \"golpe judiciário\"",
+   "p": "Nenhum dos aliados citados apresentou provas; partidos do centrão como MDB e Republicanos reconheceram o resultado.",
+   "src": "O Tempo",
+   "u": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/25/ameaca-de-impeachment-fraude-golpe-judiciario-aliados-de-flavio-reagem-a-vitoria-de-lula",
+   "r": "Acusações de fraude: muitas. Provas: aguardando entrega, sem código de rastreio. O centrão, que fareja poder a quilômetros, reconheceu o resultado antes de o café esfriar."
+  },
+  {
+   "d": "2026-10-25",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro"
+   ],
+   "h": "Análise: o que muda para o bolsonarismo depois da derrota de Flávio",
+   "p": "",
+   "src": "Nexo",
+   "u": "https://www.nexojornal.com.br/expresso/2026/10/25/flavio-bolsonaro-perde-derrota-bolsonarismo-lula-reeleito-presidente",
+   "r": "Leitura obrigatória para quem vai disputar o espólio do bolsonarismo no próximo almoço de domingo da família."
+  },
+  {
+   "d": "2026-10-25",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro"
+   ],
+   "h": "Flávio não reconhece a derrota e diz que pedirá anulação da eleição",
+   "p": "Alegou quebra de isonomia com a votação prorrogada; a própria campanha tinha pedido extensão em cidades de cinco estados.",
+   "src": "Gazeta do Povo",
+   "u": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/",
+   "r": "Quebra de isonomia, diz quem pediu prorrogação em cinco estados. A isonomia só vale quando o relógio corre a favor."
+  },
+  {
+   "d": "2026-10-25",
+   "g": "Flávio e campanha",
+   "who": [
+    "Lula",
+    "Flávio Bolsonaro"
+   ],
+   "h": "Lula é reeleito com 51,79% e terá o quarto mandato",
+   "p": "Flávio ganhou em São Paulo (53,85% no estado), mas Lula venceu na capital.",
+   "src": "InfoMoney",
+   "u": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/",
+   "r": "Quarto mandato. Lula já renovou contrato mais vezes que lateral veterano de time grande, e segue jurando que é o último. Perdeu o estado de São Paulo e ganhou a capital: o Planalto foi salvo pela fila do metrô."
+  },
+  {
+   "d": "2026-10-25",
+   "g": "Flávio e campanha",
+   "who": [
+    "Nikolas Ferreira",
+    "Eduardo Bolsonaro",
+    "Alexandre Ramagem"
+   ],
+   "h": "Aliados de Flávio questionaram a eleição antes de sair o resultado",
+   "p": "Nikolas ameaçou pedir impeachment de Zanin; Eduardo disse que a prorrogação tinha \"cheiro de queimado\".",
+   "src": "Metro 1",
+   "u": "https://www.metro1.com.br/noticias/eleicoes-2026/190424,aliados-de-flavio-bolsonaro-questionam-eleicao-antes-do-resultado-e-levantam-suspeitas-de-golpe",
+   "r": "Contestar antes do resultado é o seguro-derrota: contratado com antecedência e acionado com precisão suíça."
+  },
+  {
+   "d": "2026-10-24",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro"
+   ],
+   "h": "Derrota e inquéritos no STF pressionam o futuro de Flávio",
+   "p": "Sem foro a partir de fevereiro; Moraes mandou quebrar o sigilo de uma offshore do advogado Willer Tomaz.",
+   "src": "Gazeta do Povo",
+   "u": "https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/",
+   "r": "A partir de fevereiro, sem mandato e sem foro: depois de anos de Senado, a vida de cidadão comum chega sem fila preferencial."
+  },
+  {
+   "d": "2026-10-23",
+   "g": "Flávio e campanha",
+   "who": [
+    "Eduardo Bolsonaro"
+   ],
+   "h": "Eduardo defende que Flávio deixe o Brasil se perder",
+   "p": "Entrevista a um podcast nos EUA, dois dias antes da votação.",
+   "src": "CNN Brasil",
+   "u": "https://www.cnnbrasil.com.br/eleicoes/eduardo-defende-saida-de-flavio-bolsonaro-do-pais-em-caso-de-derrota/",
+   "r": "Dois dias antes da eleição, o irmão já anunciava o plano B. É o tipo de apoio fraterno que dispensa adversário."
+  },
+  {
+   "d": "2026-10-23",
+   "g": "Música",
+   "who": [
+    "Daniel Diau",
+    "Zezé Di Camargo"
+   ],
+   "h": "Vocalista da Calcinha Preta declara apoio a Flávio em post de Zezé",
+   "p": "Apoio feito em comentário numa publicação do sertanejo.",
+   "src": "Gazeta do Povo",
+   "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/",
+   "r": "Declarou voto na seção de comentários do Zezé. A política brasileira enfim assumiu o endereço onde sempre morou."
+  }
+ ]
 }
