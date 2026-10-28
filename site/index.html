@@ -49,6 +49,17 @@
     color-scheme: dark;
   }
 }
+/* Lado Lula: vermelho sobre creme, para não confundir com o rosa do lado Flávio */
+:root[data-side="lula"] {
+  --bg: #fff6ec; --ink: #1f120c; --muted: #6f5648; --line: #efd8c6;
+  --pink: #c4161c; --pink-soft: #fde2d8;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-side="lula"] {
+    --bg: #170b07; --paper: #24130d; --ink: #f8ece4; --muted: #c3a595; --line: #44281c;
+    --pink: #ff6a5a; --pink-soft: #45190f;
+  }
+}
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
 img { max-width: 100%; }
@@ -167,7 +178,10 @@ h2.sec small { display: block; font: 600 .85rem/1.3 var(--f-body); text-transfor
 footer { font-size: .85rem; color: var(--muted); display: grid; gap: 6px; border-top: 2px solid var(--ink); padding-top: 14px; }
 footer p { margin: 0; }
 @media (min-width: 560px) { h1 { font-size: 4.2rem; } }
-@media (prefers-reduced-motion: no-preference) { .chip { transition: background .15s, color .15s; } }
+@media (prefers-reduced-motion: no-preference) {
+  .chip { transition: background .15s, color .15s; }
+  body, .side button { transition: background-color .25s, color .25s; }
+}
 </style>
 </head>
 <body>
@@ -249,6 +263,6 @@ footer p { margin: 0; }
   </div>
 </div>
 
-<script src="app.js?v=5e392ba5f3"></script>
+<script src="app.js?v=89413d5fdd"></script>
 </body>
 </html>

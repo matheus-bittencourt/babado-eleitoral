@@ -119,6 +119,8 @@ function drawFeed() {
 }
 
 function drawSide() {
+  document.documentElement.dataset.side = state.side;
+  document.querySelector('meta[name="theme-color"]').content = KS[state.side].pink;
   drawPageShare();
   document.querySelectorAll("#side button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.side === state.side)));
   // HTML antigo em cache pode não ter estes elementos; sem eles a página ainda mostra o lado Flávio
@@ -231,7 +233,10 @@ function copy(text, okMsg) {
 }
 
 // Card 1080×1920 para Stories, com as cores do tabloide (é uma imagem, não segue o tema)
-const K = { bg: "#fff5f9", ink: "#1c0f16", pink: "#d1105f", pinkSoft: "#fde1ee", marker: "#ffe94d", markerInk: "#3a2f00", fact: "#0f5f66", factSoft: "#ddf1f2", muted: "#6e5562" };
+const KS = {
+  flavio: { bg: "#fff5f9", ink: "#1c0f16", pink: "#d1105f", pinkSoft: "#fde1ee", marker: "#ffe94d", markerInk: "#3a2f00", fact: "#0f5f66", factSoft: "#ddf1f2", muted: "#6e5562" },
+  lula: { bg: "#fff6ec", ink: "#1f120c", pink: "#c4161c", pinkSoft: "#fde2d8", marker: "#ffe94d", markerInk: "#3a2f00", fact: "#0f5f66", factSoft: "#ddf1f2", muted: "#6f5648" }
+};
 function wrapLines(g, text, maxW) {
   const out = [];
   text.split("\n").forEach(par => {
@@ -251,6 +256,7 @@ async function makeStory(it) {
       document.fonts.load('400 40px "Libre Franklin"'), document.fonts.load('64px "Caveat Brush"')
     ]);
   } catch (e) {}
+  const K = KS[state.side];
   const W = 1080, H = 1920, X = 80, MW = 920;
   const c = document.createElement("canvas");
   c.width = W; c.height = H;
@@ -262,7 +268,7 @@ async function makeStory(it) {
   do { g.font = ts + 'px "Anton", Impact, sans-serif'; ts -= 4; } while (g.measureText("BABADO ELEITORAL").width > MW);
   g.fillText("BABADO ELEITORAL", X, 180);
   g.fillStyle = K.pink; g.font = '800 34px "Libre Franklin", sans-serif';
-  g.fillText(((it.date || "") + " · 2º turno 2026").toUpperCase(), X, 320);
+  g.fillText(((it.date || "") + " · 2º turno 2026 · lado " + side().name).toUpperCase(), X, 320);
 
   const top = 380, bottom = 1640;
   let L;
