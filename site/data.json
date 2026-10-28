@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T22:10:52-03:00",
- "updated_label": "27/10/2026, 22h",
+ "updated": "2026-10-27T23:51:47-03:00",
+ "updated_label": "27/10/2026, 23h",
  "result": {
   "lula": 51.79,
   "flavio": 48.21,
@@ -162,6 +162,60 @@
   }
  ],
  "news": [
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Alexandre de Moraes"
+   ],
+   "h": "Especialistas ouvidos pela CNN dizem que uma eventual saída de Flávio do país poderia justificar prisão preventiva",
+   "p": "Moraes ainda não decretou a prisão; a avaliação é de juristas e não uma decisão.",
+   "src": "CNN Brasil",
+   "u": "https://www.cnnbrasil.com.br/politica/fuga-de-flavio-pode-motivar-prisao-preventiva-dizem-especialistas/",
+   "r": "O debate sobre o que fazer já está pronto; falta só confirmar o que aconteceu. Em Brasília, a hipótese costuma chegar antes do fato e com mais convidados."
+  },
+  {
+   "d": "2026-10-27",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro",
+    "Alexandre de Moraes",
+    "Lula"
+   ],
+   "h": "Decisão sobre o passaporte de Flávio alimenta discurso de perseguição e incomoda o governo Lula, diz reportagem",
+   "p": "Segundo o ND Mais, o Planalto considera a ordem precipitada.",
+   "src": "ND Mais",
+   "u": "https://ndmais.com.br/politica/flavio-bolsonaro-sendor-eua-stf-moraes-lula/",
+   "r": "Quem ganhou a eleição passa o dia explicando que o Supremo não é o setor de atendimento do Planalto. Ganhar é ótimo, mas vem com SAC."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Nikolas Ferreira",
+    "Tarcísio de Freitas",
+    "Fernando Holiday",
+    "Douglas Ruas"
+   ],
+   "h": "Aliados de Flávio reconhecem a vitória de Lula e descartam anular a eleição",
+   "p": "Nikolas diz que restam perguntas sem resposta, mas vê chance quase nula de anulação; Tarcísio ficou em silêncio na segunda.",
+   "src": "Gazeta do Povo",
+   "u": "https://www.gazetadopovo.com.br/eleicoes/2026/aliados-flavio-bolsonaro-reconhecem-vitoria-lula-descartam-anular-eleicao/",
+   "r": "Reconhecer com ressalva virou tamanho único da oposição. Tarcísio, mais prático, optou pelo silêncio: a ressalva que não se escreve não se cita depois."
+  },
+  {
+   "d": "2026-10-26",
+   "g": "Flávio e campanha",
+   "who": [
+    "Flávio Bolsonaro"
+   ],
+   "h": "Sem amparo legal, pedido de anulação feito por Flávio não deve prosperar, dizem juristas",
+   "p": "A reportagem lembra que as duas campanhas pediram a extensão do horário de votação.",
+   "src": "Brasil de Fato",
+   "u": "https://www.brasildefato.com.br/2026/10/26/sem-amparo-legal-pedido-de-flavio-bolsonaro-para-anular-eleicao-nao-deve-prosperar/",
+   "r": "Na hora extra, as duas campanhas bateram o ponto. Na hora de contestar, só uma lembrou do crachá."
+  },
   {
    "d": "2026-10-27",
    "g": "Flávio e campanha",
@@ -603,18 +657,6 @@
    "who": [
     "Flávio Bolsonaro"
    ],
-   "h": "Análise: o que muda para o bolsonarismo depois da derrota de Flávio",
-   "p": "",
-   "src": "Nexo",
-   "u": "https://www.nexojornal.com.br/expresso/2026/10/25/flavio-bolsonaro-perde-derrota-bolsonarismo-lula-reeleito-presidente",
-   "r": "Leitura obrigatória para quem vai disputar o espólio do bolsonarismo no próximo almoço de domingo da família."
-  },
-  {
-   "d": "2026-10-25",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro"
-   ],
    "h": "Flávio não reconhece a derrota e diz que pedirá anulação da eleição",
    "p": "Alegou quebra de isonomia com a votação prorrogada; a própria campanha tinha pedido extensão em cidades de cinco estados.",
    "src": "Gazeta do Povo",
@@ -647,43 +689,6 @@
    "src": "Metro 1",
    "u": "https://www.metro1.com.br/noticias/eleicoes-2026/190424,aliados-de-flavio-bolsonaro-questionam-eleicao-antes-do-resultado-e-levantam-suspeitas-de-golpe",
    "r": "Contestar antes do resultado é o seguro-derrota: contratado com antecedência e acionado com precisão suíça."
-  },
-  {
-   "d": "2026-10-24",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro"
-   ],
-   "h": "Derrota e inquéritos no STF pressionam o futuro de Flávio",
-   "p": "Sem foro a partir de fevereiro; Moraes mandou quebrar o sigilo de uma offshore do advogado Willer Tomaz.",
-   "src": "Gazeta do Povo",
-   "u": "https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/",
-   "r": "A partir de fevereiro, sem mandato e sem foro: depois de anos de Senado, a vida de cidadão comum chega sem fila preferencial."
-  },
-  {
-   "d": "2026-10-23",
-   "g": "Flávio e campanha",
-   "who": [
-    "Eduardo Bolsonaro"
-   ],
-   "h": "Eduardo defende que Flávio deixe o Brasil se perder",
-   "p": "Entrevista a um podcast nos EUA, dois dias antes da votação.",
-   "src": "CNN Brasil",
-   "u": "https://www.cnnbrasil.com.br/eleicoes/eduardo-defende-saida-de-flavio-bolsonaro-do-pais-em-caso-de-derrota/",
-   "r": "Dois dias antes da eleição, o irmão já anunciava o plano B. É o tipo de apoio fraterno que dispensa adversário."
-  },
-  {
-   "d": "2026-10-23",
-   "g": "Música",
-   "who": [
-    "Daniel Diau",
-    "Zezé Di Camargo"
-   ],
-   "h": "Vocalista da Calcinha Preta declara apoio a Flávio em post de Zezé",
-   "p": "Apoio feito em comentário numa publicação do sertanejo.",
-   "src": "Gazeta do Povo",
-   "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/",
-   "r": "Declarou voto na seção de comentários do Zezé. A política brasileira enfim assumiu o endereço onde sempre morou."
   }
  ]
 }
