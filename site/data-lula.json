@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-28T21:57:22-03:00",
-  "updated_label": "28/10/2026, 21h",
+  "updated": "2026-10-29T10:02:35-03:00",
+  "updated_label": "29/10/2026, 10h",
   "news": [
+    {
+      "d": "2026-10-27",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "José Múcio Monteiro"
+      ],
+      "h": "Lula recebe o ministro da Defesa, José Múcio, que não deve seguir no quarto mandato",
+      "p": "Segundo a InfoMoney, o encontro foi no Alvorada e indica a saída dele; a escolha do sucessor ainda não foi anunciada.",
+      "src": "InfoMoney",
+      "u": "https://www.infomoney.com.br/politica/lula-se-reune-com-ministro-da-defesa-que-nao-deve-permanecer-em-novo-governo/",
+      "r": "A Defesa é a pasta em que o ministro vai saindo e metade de Brasília já se candidata a entrar. A vaga nem abriu e a fila já tem número de senha."
+    },
+    {
+      "d": "2026-10-29",
+      "g": "Lula e governo",
+      "who": [
+        "Edinho Silva",
+        "Lula",
+        "Hugo Motta",
+        "Davi Alcolumbre"
+      ],
+      "h": "Presidente do PT diz que Lula prioriza votações no Congresso antes de definir os ministros do quarto mandato",
+      "p": "Edinho Silva cita a PEC da Segurança e diz que as conversas sobre ministérios devem avançar depois da COP31, em novembro.",
+      "src": "Brasil 247",
+      "u": "https://www.brasil247.com/poder/lula-prioriza-votacoes-no-congresso-antes-de-definir-ministros-do-proximo-governo-diz-edinho-silva/",
+      "r": "Lula quer votar primeiro e escolher ministro depois. Pelo cronograma, os cotados têm tempo de sobra para ensaiar a cara de surpresa."
+    },
     {
       "d": "2026-10-28",
       "g": "Lula e governo",

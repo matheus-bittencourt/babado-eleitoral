@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T21:57:22-03:00",
-  "updated_label": "28/10/2026, 21h",
+  "updated": "2026-10-29T10:02:35-03:00",
+  "updated_label": "29/10/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -182,6 +182,47 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-28",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "Nos EUA, Flávio diz não reconhecer o resultado, alega fraude e pede a cassação da chapa Lula-Alckmin, relata a Forbes",
+      "p": "A reportagem lembra que o PL, partido dele, já reconheceu a vitória de Lula; as alegações de fraude vêm sem provas apresentadas.",
+      "src": "Forbes Brasil",
+      "u": "https://forbes.com.br/geral/2026/10/flavio-bolsonaro-contesta-eleicoes-2026/",
+      "r": "Flávio se proclama presidente eleito e o PL, o próprio partido, reconhece Lula. Presidente eleito sem partido é a versão política do síndico sem condomínio."
+    },
+    {
+      "d": "2026-10-28",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "PT"
+      ],
+      "h": "Petistas falam em crime de responsabilidade e cobram posição do TSE depois da carta de Flávio",
+      "p": "A CNN Brasil trata de cobranças feitas por integrantes do PT; não há decisão do TSE sobre o assunto.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/politica/petistas-cobram-posicionamento-do-tse-sobre-acusacoes-de-flavio/",
+      "r": "O PT descobriu a expressão crime de responsabilidade e quer ver o TSE se posicionar. É a política em estado puro: o adversário escreve uma carta e o outro lado responde com um ofício."
+    },
+    {
+      "d": "2026-10-28",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "Entenda o que acontece com os pedidos de cassação da chapa Lula-Alckmin no TSE depois da saída de Flávio",
+      "p": "Um analista ouvido pelo ND Mais diz que a saída do país não altera a tramitação das ações nem impede o tribunal de analisar os pedidos.",
+      "src": "ND Mais",
+      "u": "https://ndmais.com.br/politica/flavio-bolsonaro-saiu-do-brasil-o-que-acontece-com-os-pedidos-de-cassacao-da-chapa-lula-alckmin-no-tse/",
+      "r": "O pedido de cassação entrou na fila do TSE, onde nem carta com selo de presidente eleito fura a ordem de análise."
+    },
     {
       "d": "2026-10-28",
       "g": "Flávio e campanha",
@@ -676,47 +717,6 @@
       "src": "Gazeta do Povo",
       "u": "https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/",
       "r": "Em 24 horas o passaporte virou o documento mais comentado do país, desbancando até o pedido de anulação. Ninguém sabe se ele vai viajar, mas a capa já tem mais fãs que muito candidato a deputado."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Duda Salabert",
-        "Otoni de Paula",
-        "Rogério Correia"
-      ],
-      "h": "Deputados pedem ao STF e à PGR que o passaporte de Flávio seja apreendido",
-      "p": "Alegam risco de saída do país; não há decisão nem prova apresentada de plano de fuga.",
-      "src": "Congresso em Foco",
-      "u": "https://www.congressoemfoco.com.br/noticia/128189/deputados-pedem-apreensao-do-passaporte-de-flavio-apos-derrota",
-      "r": "Três deputados e uma convicção inabalável. Ganhar a eleição e ainda assim correr pro STF no dia seguinte: o governismo aprendeu rápido o esporte favorito de quem perde."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "h": "Sem confirmação de que Flávio tenha viajado aos EUA após a derrota",
-      "p": "A última aparição pública dele foi em Brasília, no domingo, ao anunciar o pedido de anulação.",
-      "src": "ND Mais",
-      "u": "https://ndmais.com.br/politica/flavio-bolsonaro-viajou-para-os-eua-onde-esta/",
-      "check": true,
-      "r": "Flávio não viajou. A imaginação da internet, sim: já tinha embarcado, pousado e reclamado do preço do Uber no desembarque."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Eduardo Bolsonaro"
-      ],
-      "h": "Em vídeo em inglês, Eduardo fala em fraude sem provas e pede que o mundo não reconheça o resultado",
-      "p": "Citou a prorrogação da votação e a virada de Lula depois de Flávio liderar o 1º turno.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/brasil/em-video-em-ingles-eduardo-bolsonaro-acusa-eleicoes-de-fraude-sem-provas",
-      "r": "Pediu ao mundo que não reconheça o resultado. Em inglês, pra garantir que o eleitor brasileiro não entendesse o pedido."
     }
   ]
 }
