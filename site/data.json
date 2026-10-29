@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T10:02:35-03:00",
-  "updated_label": "29/10/2026, 10h",
+  "updated": "2026-10-29T17:24:44-03:00",
+  "updated_label": "29/10/2026, 17h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -182,6 +182,21 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-28",
+      "g": "Religiosos",
+      "who": [
+        "Silas Malafaia",
+        "Robson Rodovalho",
+        "Flávio Bolsonaro",
+        "Alexandre de Moraes"
+      ],
+      "h": "Malafaia chama de \"corretíssima\" a saída de Flávio do país, e Rodovalho diz entender a decisão",
+      "p": "Malafaia acusa Moraes de agir como agente político; Rodovalho cita Jesus ao falar em se proteger de perseguições e chama a apreensão do passaporte de agressiva e desnecessária.",
+      "src": "Jornal de Brasília",
+      "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/malafaia-diz-achar-fuga-de-flavio-corretissima-e-rodovalho-compara-o-senador-a-cristo/",
+      "r": "Malafaia achou \"corretíssima\" a viagem e Rodovalho chamou Jesus para ser fiador. Nunca se viu caso com tanta citação bíblica e tão pouca palavra do principal interessado."
+    },
     {
       "d": "2026-10-28",
       "g": "Flávio e campanha",
@@ -704,19 +719,6 @@
       "src": "Metrópoles",
       "u": "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte",
       "r": "Primeiro compromisso pós-derrota: visitar o pai. Pelo menos ali o voto nunca falhou."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Otoni de Paula"
-      ],
-      "h": "PGR não descarta pedido para reter o passaporte de Flávio, diz Gazeta do Povo",
-      "p": "O jornal fala em sinalização ainda não oficial à PF; não há decisão nem prova apresentada de plano de saída.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/",
-      "r": "Em 24 horas o passaporte virou o documento mais comentado do país, desbancando até o pedido de anulação. Ninguém sabe se ele vai viajar, mas a capa já tem mais fãs que muito candidato a deputado."
     }
   ]
 }
