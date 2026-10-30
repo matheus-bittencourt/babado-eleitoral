@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T17:24:44-03:00",
-  "updated_label": "29/10/2026, 17h",
+  "updated": "2026-10-30T10:03:21-03:00",
+  "updated_label": "30/10/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -182,6 +182,19 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-28",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Paulo Figueiredo"
+      ],
+      "h": "Washington Post: Flávio pousa em Miami, alega fraude e se declara \"líder\" do Brasil",
+      "p": "O jornal diz que ele chegou aos EUA sem ter entregue os passaportes; o aliado Paulo Figueiredo afirma que ele está seguro e descansando com a família.",
+      "src": "The Washington Post",
+      "u": "https://www.washingtonpost.com/world/2026/10/28/flvio-bolsonaro-lands-miami-after-fleeing-brazil-following-election-loss/",
+      "r": "Pousou em Miami, se declarou líder do Brasil e foi descansar. Liderar a oposição de longe é o home office da política."
+    },
     {
       "d": "2026-10-28",
       "g": "Religiosos",
@@ -706,19 +719,6 @@
       "src": "Estado de Minas",
       "u": "https://www.em.com.br/politica/2026/10/7528167-flavio-bolsonaro-pode-deixar-o-pais-entenda-os-pedidos-para-barrar-viagem.html",
       "r": "Todo mundo querendo o passaporte do homem sem ele ter feito mala. Até agora a única viagem confirmada é a da imaginação alheia."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "h": "Flávio visita o pai em Brasília um dia após a derrota",
-      "p": "A visita, por volta das 11h, ocorre enquanto pedidos de apreensão do passaporte dele aguardam análise.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte",
-      "r": "Primeiro compromisso pós-derrota: visitar o pai. Pelo menos ali o voto nunca falhou."
     }
   ]
 }

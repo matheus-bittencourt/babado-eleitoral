@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-29T17:24:44-03:00",
-  "updated_label": "29/10/2026, 17h",
+  "updated": "2026-10-30T10:03:21-03:00",
+  "updated_label": "30/10/2026, 10h",
   "news": [
+    {
+      "d": "2026-10-29",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "André Janones"
+      ],
+      "h": "Lula recebe André Janones em Brasília para discutir ministérios e o espaço do Centrão",
+      "p": "Segundo a Band, uma das opções em análise é entregar a Secretaria de Relações Institucionais a uma bancada do Centrão.",
+      "src": "Band",
+      "u": "https://www.band.com.br/politica/lula-discute-ministerios-e-espaco-do-centrao-com-janones-em-brasilia",
+      "r": "Centrão, comunicação e ministérios na mesma conversa: o quarto mandato começa com o velho esporte de pesar cadeira por bancada."
+    },
+    {
+      "d": "2026-10-29",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula articula o novo ministério do governo que começa em 2027",
+      "p": "As reportagens tratam os nomes como cotações, não decisões; a reforma deve ser concluída só na segunda quinzena de novembro.",
+      "src": "TV Sim",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/10/29/lula-articula-novo-ministerio-proximo-governo",
+      "r": "Todo mundo cotado, ninguém confirmado. Em Brasília, atender o celular na primeira chamada virou prova de lealdade."
+    },
     {
       "d": "2026-10-27",
       "g": "Lula e governo",
