@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T10:03:21-03:00",
-  "updated_label": "30/10/2026, 10h",
+  "updated": "2026-10-31T10:02:21-03:00",
+  "updated_label": "31/10/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -55,7 +55,7 @@
       "st": "yes",
       "stl": "Carta diz que lidera a oposição dos EUA",
       "q": "Eu nunca falei isso.",
-      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Em 28/10, a Gazeta do Povo relatou que ele foi de jatinho à Argentina e seguiu para Miami, e o Correio Braziliense, citando a BBC, que ele chegou à Flórida e foi recebido por Eduardo; fontes da PF falam em passaporte italiano. Não há confirmação oficial nem declaração dele ou da defesa sobre a viagem, e o governo argentino havia negado entrada e pedido de asilo. Na tarde de 28/10, a PF disse em nota que a decisão de Moraes não autorizava prisão nem o caracteriza como foragido, que cancelou os passaportes comum e diplomático e que não há registro oficial de saída pelos postos de migração brasileiros. Em 28/10, uma carta dele divulgada nos EUA o apresentou como \"verdadeiro presidente eleito do Brasil\" (o trecho foi trocado depois por \"líder do Brasil\"), agradeceu a Trump e a Milei e disse que vai liderar a oposição de lá, segundo o Metrópoles. A CNN Brasil informou que ele entrou em Miami com o passaporte diplomático cancelado na véspera, com base em registros da fronteira americana, e que passou antes pela Argentina com passaporte italiano, segundo suas fontes. Trump disse ter autorizado a entrada dele e não quis comentar a carta; o presidente do TSE respondeu que a eleição ocorreu \"dentro da mais absoluta normalidade\".",
+      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Em 28/10, a Gazeta do Povo relatou que ele foi de jatinho à Argentina e seguiu para Miami, e o Correio Braziliense, citando a BBC, que ele chegou à Flórida e foi recebido por Eduardo; fontes da PF falam em passaporte italiano. Não há confirmação oficial nem declaração dele ou da defesa sobre a viagem, e o governo argentino havia negado entrada e pedido de asilo. Na tarde de 28/10, a PF disse em nota que a decisão de Moraes não autorizava prisão nem o caracteriza como foragido, que cancelou os passaportes comum e diplomático e que não há registro oficial de saída pelos postos de migração brasileiros. Em 28/10, uma carta dele divulgada nos EUA o apresentou como \"verdadeiro presidente eleito do Brasil\" (o trecho foi trocado depois por \"líder do Brasil\"), agradeceu a Trump e a Milei e disse que vai liderar a oposição de lá, segundo o Metrópoles. A CNN Brasil informou que ele entrou em Miami com o passaporte diplomático cancelado na véspera, com base em registros da fronteira americana, e que passou antes pela Argentina com passaporte italiano, segundo suas fontes. Trump disse ter autorizado a entrada dele e não quis comentar a carta; o presidente do TSE respondeu que a eleição ocorreu \"dentro da mais absoluta normalidade\". Em 30/10, numa live de Miami, voltou a questionar o resultado sem apresentar provas, segundo o Metrópoles.",
       "s": [
         [
           "Exame",
@@ -148,6 +148,10 @@
         [
           "CNN Brasil",
           "https://www.cnnbrasil.com.br/internacional/flavio-bolsonaro-entrou-nos-eua-com-passaporte-diplomatico-que-pf-cancelou/"
+        ],
+        [
+          "Metrópoles",
+          "https://www.metropoles.com/mundo/em-live-nos-eua-flavio-volta-a-questionar-resultado-das-eleicoes"
         ]
       ],
       "r": "\"Eu nunca falei isso\" deu lugar a uma carta que fala bastante. Do exílio autodeclarado, o \"verdadeiro presidente eleito\" virou \"líder do Brasil\" em poucas horas: o único cargo da República que se muda no corretor."
@@ -182,6 +186,57 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-30",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Em live de Miami, Flávio volta a questionar o resultado e critica o STF, sem apresentar provas",
+      "p": "Foi a primeira fala ao vivo dele desde a carta de 28/10; o Metrópoles registra que ele disse haver números inexplicáveis sem interferência, sem provas.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/mundo/em-live-nos-eua-flavio-volta-a-questionar-resultado-das-eleicoes",
+      "r": "Da Flórida, Flávio fez live para falar em números inexplicáveis, e as provas seguem sem explicação. Liderar a oposição por Instagram é o grupo de WhatsApp da política."
+    },
+    {
+      "d": "2026-10-29",
+      "g": "Religiosos",
+      "who": [
+        "Silas Malafaia",
+        "Flávio Bolsonaro"
+      ],
+      "h": "Malafaia critica a carta de Flávio em mensagens reservadas: \"Só se aconselham com gente errada!\"",
+      "p": "Segundo o BNC Amazonas, ele apontou brasão antigo e correções posteriores e disse que Trump teria retirado o apoio; Malafaia havia defendido a viagem.",
+      "src": "BNC Amazonas",
+      "u": "https://bncamazonas.com.br/poder/filhos-de-bolsonaro-sao-uns-jumentos-diz-malafaia-apos-carta-de-flavio/",
+      "r": "Aplaudiu a viagem, reprova a redação: a carta tirou nota baixa até de quem estava na torcida."
+    },
+    {
+      "d": "2026-10-28",
+      "g": "Flávio e campanha",
+      "who": [
+        "Rogério Marinho",
+        "Flávio Bolsonaro"
+      ],
+      "h": "Marinho diz que nem o PL nem ele podem afirmar fraude, \"porque não há prova\", mas defende Flávio na liderança da oposição",
+      "p": "Segundo o Times Brasil, ele também vê \"algum problema\" na redação da primeira versão da carta.",
+      "src": "Times Brasil",
+      "u": "https://timesbrasil.com.br/brasil/rogerio-marinho-ve-problema-em-carta-de-flavio-defende-lideranca-nos-eua-e-afasta-pl-de-acusacao-de-fraude-eleitoral/",
+      "r": "Sem prova, sem fraude, mas com líder: Marinho segura a mão do amigo e solta a tese."
+    },
+    {
+      "d": "2026-10-28",
+      "g": "Flávio e campanha",
+      "who": [
+        "Alexandre de Moraes",
+        "Flávio Bolsonaro"
+      ],
+      "h": "Cúpula da PGR critica ordem de Moraes sobre o passaporte de Flávio, diz a CNN",
+      "p": "Fontes ligadas à PGR chamam a medida de precipitada e dizem que o MPF não foi consultado; a reportagem lembra que isso não anula a decisão. Flávio nega as suspeitas.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/decisao-de-moraes-contra-flavio-gera-criticas-na-cupula-da-pgr/",
+      "r": "Em Brasília, a discussão sobre a forma da ordem já rende mais capítulos que a ordem. É a novela do protocolo."
+    },
     {
       "d": "2026-10-28",
       "g": "Flávio e campanha",
@@ -431,18 +486,6 @@
       "r": "Reconhecer com ressalva virou tamanho único da oposição. Tarcísio, mais prático, optou pelo silêncio: a ressalva que não se escreve não se cita depois."
     },
     {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Sem amparo legal, pedido de anulação feito por Flávio não deve prosperar, dizem juristas",
-      "p": "A reportagem lembra que as duas campanhas pediram a extensão do horário de votação.",
-      "src": "Brasil de Fato",
-      "u": "https://www.brasildefato.com.br/2026/10/26/sem-amparo-legal-pedido-de-flavio-bolsonaro-para-anular-eleicao-nao-deve-prosperar/",
-      "r": "Na hora extra, as duas campanhas bateram o ponto. Na hora de contestar, só uma lembrou do crachá."
-    },
-    {
       "d": "2026-10-27",
       "g": "Flávio e campanha",
       "who": [
@@ -660,19 +703,6 @@
       "g": "Flávio e campanha",
       "who": [
         "Flávio Bolsonaro",
-        "Alexandre de Moraes"
-      ],
-      "h": "PF intima Flávio a entregar os passaportes por ordem de Moraes, diz o senador",
-      "p": "Segundo Flávio, a decisão cita a fala de Eduardo e o proíbe de deixar o país e de contatar o advogado Willer Tomaz; o STF não havia dado informações. A defesa nega irregularidades.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/",
-      "r": "Segundo Flávio, a ordem cita a fala de Eduardo. Tem irmão que empresta o carro; esse empresta assunto para o Supremo."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
         "Eduardo Bolsonaro"
       ],
       "h": "Flávio diz que vai entregar os passaportes, nega ter falado em sair do país e acusa a PF de intimidação",
@@ -694,31 +724,6 @@
       "src": "Metrópoles",
       "u": "https://www.metropoles.com/brasil/flavio-nao-vai-mais-pedir-anulacao-da-eleicao-dizem-aliados-e-juridico",
       "r": "Anulação durou do domingo à segunda. Agora o prato se chama cassação: nome mais chique, mesma cozinha e os mesmos 4,4 milhões de votos na conta."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Derrota por larga margem torna improvável a anulação da eleição, dizem fontes e analistas",
-      "p": "A reportagem lembra que a campanha de Flávio também havia pedido extensão do horário em municípios; não há pedido protocolado confirmado.",
-      "src": "Antena 1",
-      "u": "https://www.antena1.com.br/noticias/derrota-expressiva-de-flavio-bolsonaro-torna-improvavel-anulacao-da-eleicao-dizem-fontes-e-analistas",
-      "r": "Pedir anulação com 4,4 milhões de votos de diferença é como reclamar do juiz depois de levar de goleada. Mas o VAR do bolsonarismo continua ligado."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre Frota"
-      ],
-      "h": "Entenda os pedidos para barrar uma eventual viagem de Flávio ao exterior",
-      "p": "Pedidos foram feitos ao STF e à PGR; a reportagem não apresenta prova de plano de saída nem decisão sobre o passaporte.",
-      "src": "Estado de Minas",
-      "u": "https://www.em.com.br/politica/2026/10/7528167-flavio-bolsonaro-pode-deixar-o-pais-entenda-os-pedidos-para-barrar-viagem.html",
-      "r": "Todo mundo querendo o passaporte do homem sem ele ter feito mala. Até agora a única viagem confirmada é a da imaginação alheia."
     }
   ]
 }

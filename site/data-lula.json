@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-30T10:03:21-03:00",
-  "updated_label": "30/10/2026, 10h",
+  "updated": "2026-10-31T10:02:21-03:00",
+  "updated_label": "31/10/2026, 10h",
   "news": [
+    {
+      "d": "2026-10-30",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Hugo Motta",
+        "Davi Alcolumbre",
+        "André Janones"
+      ],
+      "h": "Lula começa a reorganizar o governo, sinaliza apoio a Motta e Alcolumbre e quer ministros definidos na segunda quinzena de novembro",
+      "p": "Segundo a BNews, ele também conversou com André Janones sobre a comunicação do governo.",
+      "src": "BNews",
+      "u": "https://www.bnewsrn.com.br/noticias/politica/lula-articula-reforma-ministerial-e-negocia-apoio-no-congresso-apos-reeleicao.html",
+      "r": "Antes de arrumar o ministério, arrumou as cadeiras do Congresso. O quarto mandato começa com a pergunta de sempre: quem fica com a mesa de quem?"
+    },
+    {
+      "d": "2026-10-30",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Camilo Santana",
+        "Fernando Haddad",
+        "Geraldo Alckmin"
+      ],
+      "h": "Lula viaja à Turquia (COP31) e às Filipinas entre 9 e 16 de novembro, e o ministério só fecha na volta, diz reportagem",
+      "p": "Segundo o Plantão Brasil, Camilo Santana e Haddad aparecem para a Casa Civil, e Alckmin e Rafael Fonteles para a Fazenda; nada está confirmado.",
+      "src": "Plantão Brasil",
+      "u": "https://www.plantaobrasil.net/noticias/160822-agenda-internacional-de-lula-em-novembro-marca-inicio-de-transicao-para-o-novo-mandato",
+      "r": "Antes de nomear ministro, Lula vai ver o clima na Turquia e a política na Ásia. Casa Civil e Fazenda que esperem o fuso."
+    },
+    {
+      "d": "2026-10-30",
+      "g": "Lula e governo",
+      "who": [
+        "Wellington Dias",
+        "Rafael Fonteles",
+        "Lula"
+      ],
+      "h": "Wellington Dias diz que ministros só serão anunciados depois de 20 de novembro e confirma Fonteles entre os cogitados",
+      "p": "Segundo o WebPiauí, ele diz que Lula está animado e promete um mandato histórico.",
+      "src": "WebPiauí",
+      "u": "https://www.webpiaui.com.br/politica/wellington-diz-que-lula-deve-anunciar-ministros-apos-cop31/",
+      "r": "Os cotados ganharam um prazo: três semanas de \"estou sendo cogitado\" no currículo. Em Brasília, esperar também é um cargo."
+    },
     {
       "d": "2026-10-29",
       "g": "Lula e governo",
