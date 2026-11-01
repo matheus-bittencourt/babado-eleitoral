@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T10:02:21-03:00",
-  "updated_label": "31/10/2026, 10h",
+  "updated": "2026-11-01T20:42:03-03:00",
+  "updated_label": "01/11/2026, 20h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -186,6 +186,19 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-10-30",
+      "g": "Flávio e campanha",
+      "who": [
+        "Donald Trump",
+        "Flávio Bolsonaro"
+      ],
+      "h": "Governo Trump não pretende apoiar Flávio como líder do Brasil, diz Reuters",
+      "p": "Duas autoridades americanas, sob anonimato, disseram que Trump poderia mudar de ideia; ele já disse que a eleição deixou má impressão e que se dá bem com Lula.",
+      "src": "CNN Brasil",
+      "u": "https://cnnbrasil.com.br/internacional/reuters-trump-nao-apoia-flavio-bolsonaro-lider-brasil",
+      "r": "Trocou de país para liderar a oposição, mas o aval de Washington ao título de líder ainda não saiu, segundo a Reuters. Por ora, a liderança está só na carta."
+    },
     {
       "d": "2026-10-30",
       "g": "Flávio e campanha",
@@ -710,20 +723,6 @@
       "src": "CartaCapital",
       "u": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/",
       "r": "Ele nunca falou em sair, quem sugeriu foi o irmão, em público. Agora a família divide a tarefa: um dá a ideia, o outro entrega o documento."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Tarcísio de Freitas",
-        "Rogério Marinho"
-      ],
-      "h": "Aliados e equipe jurídica de Flávio dizem que ele não pedirá mais a anulação, e sim a cassação da chapa de Lula",
-      "p": "A campanha fala em 20 ações já apresentadas e em priorizar a oposição no Congresso a partir de 2027.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/brasil/flavio-nao-vai-mais-pedir-anulacao-da-eleicao-dizem-aliados-e-juridico",
-      "r": "Anulação durou do domingo à segunda. Agora o prato se chama cassação: nome mais chique, mesma cozinha e os mesmos 4,4 milhões de votos na conta."
     }
   ]
 }

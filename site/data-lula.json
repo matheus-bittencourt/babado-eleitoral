@@ -1,7 +1,45 @@
 {
-  "updated": "2026-10-31T10:02:21-03:00",
-  "updated_label": "31/10/2026, 10h",
+  "updated": "2026-11-01T20:42:03-03:00",
+  "updated_label": "01/11/2026, 20h",
   "news": [
+    {
+      "d": "2026-11-01",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula adia o anúncio dos ministros para dezembro e promete cobrar mais fidelidade dos partidos aliados no quarto mandato",
+      "p": "Segundo o Diário ESP, as conversas com os partidos começam nesta semana; no mandato anterior, aliados com cargos votaram contra o governo no Congresso.",
+      "src": "Diário ESP",
+      "u": "https://diarioesp.com.br/brasil/2026/11/01/lula-posterga-anuncio-de-ministros-e-exigira-fidelidade-partidaria-no-quarto-mandato.html",
+      "r": "Fidelidade partidária no Centrão: promessa que, em Brasília, costuma valer até a primeira votação. Desta vez o contrato vem antes do cargo, pelo menos no discurso."
+    },
+    {
+      "d": "2026-10-31",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Janja",
+        "Paulo Vieira"
+      ],
+      "h": "Janja publica foto com Lula e o ator Paulo Vieira na Granja do Torto: \"Sábado de merecido descanso\"",
+      "p": "O Poder360 informa que Lula fica em Brasília e deve retomar a agenda em 4 de novembro.",
+      "src": "Poder360",
+      "u": "https://www.poder360.com.br/poder-gente/lula-aproveita-sabado-de-descanso-com-janja-e-o-ator-paulo-vieira/",
+      "r": "Brasília aposta em nomes de ministros, e o único anúncio do fim de semana veio da primeira-dama: o descanso é merecido e tem convidado."
+    },
+    {
+      "d": "2026-10-31",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Reeleito, Lula fica \"off\" e estende o feriado de Finados para descansar na Granja do Torto",
+      "p": "Segundo o Poder360, a agenda volta em 4 de novembro; os primeiros nomes de ministros só devem sair a partir de dezembro.",
+      "src": "Poder360",
+      "u": "https://www.poder360.com.br/poder-governo/reeleito-lula-fica-off-e-vai-estender-o-feriadao-para-descansar/",
+      "r": "Seis dias depois da vitória, o presidente decretou o feriadão estendido. A Esplanada espera o anúncio, e o anúncio espera a quarta-feira."
+    },
     {
       "d": "2026-10-30",
       "g": "Lula e governo",
