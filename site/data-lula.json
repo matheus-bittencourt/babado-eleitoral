@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-01T20:42:03-03:00",
-  "updated_label": "01/11/2026, 20h",
+  "updated": "2026-11-02T10:03:10-03:00",
+  "updated_label": "02/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-01",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula diz que nenhum programa social será extinto no novo mandato e admite criar outros",
+      "p": "Em vídeo nas redes, ele desmentiu boatos de corte no Bolsa Família e no Gás do Povo e atribuiu a boataria a adversários; planeja viajar pelos estados para agradecer aos eleitores.",
+      "src": "Agência Brasil",
+      "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-garante-que-programas-sociais-serao-mantidos",
+      "r": "Recuperada a voz, o primeiro assunto foi desmentir o que dizem que ele vai cortar. Quarto mandato começando pelo velho esporte nacional: apagar incêndio de WhatsApp antes da posse."
+    },
     {
       "d": "2026-11-01",
       "g": "Lula e governo",
