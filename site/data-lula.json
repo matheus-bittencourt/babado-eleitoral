@@ -1,7 +1,22 @@
 {
-  "updated": "2026-11-02T10:03:10-03:00",
-  "updated_label": "02/11/2026, 10h",
+  "updated": "2026-11-03T20:26:38-03:00",
+  "updated_label": "03/11/2026, 20h",
   "news": [
+    {
+      "d": "2026-11-03",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Miriam Belchior",
+        "João Paulo Capobianco",
+        "Márcio Elias Rosa"
+      ],
+      "h": "Lula recebe Casa Civil, Meio Ambiente e Indústria no Alvorada, em dia de agenda de despachos",
+      "p": "Segundo o Poder360, são quatro compromissos oficiais; a Plantão Brasil, citando a Folha, diz que depois ele viaja a São Paulo para exames de rotina e volta na quarta (4).",
+      "src": "Poder360",
+      "u": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-3a-feira-5/",
+      "r": "Voltou do descanso e já despacha com três ministros num dia só. A transição que não existe tem a agenda mais cheia do que as que existem."
+    },
     {
       "d": "2026-11-01",
       "g": "Lula e governo",
