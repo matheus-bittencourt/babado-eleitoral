@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-03T20:26:38-03:00",
-  "updated_label": "03/11/2026, 20h",
+  "updated": "2026-11-04T10:02:34-03:00",
+  "updated_label": "04/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-03",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "José Múcio Monteiro"
+      ],
+      "h": "Governo estuda criar um ministério da Segurança Pública separado da Justiça, diz O Brasilianista",
+      "p": "Segundo a reportagem, os nomes para Casa Civil e Fazenda ainda não foram oficializados e o ministro da Defesa, José Múcio, pretende deixar o cargo.",
+      "src": "O Brasilianista",
+      "u": "https://obrasilianista.com.br/2026/11/03/politica/lula-negocia-novo-ministerio-com-aliados-e-centrao-veja-o-que-esta-em-jogo-em-cada-pasta",
+      "r": "Ministério novo para a segurança antes do ministro novo. Em Brasília, primeiro se desenha a caixa do organograma e depois se procura quem caiba nela."
+    },
+    {
+      "d": "2026-10-29",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "TSE marca a diplomação de Lula e Alckmin para 12 de dezembro",
+      "p": "A data foi divulgada em 29/10, segundo a TV Sim.",
+      "src": "TV Sim",
+      "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/10/29/tse-marca-diplomacao-lula-alckmin-12-dezembro",
+      "r": "O presidente já teve bolo, trio elétrico e comemoração na Paulista; só agora marcam a entrega do diploma. A burocracia é sempre a última a saber que a festa acabou."
+    },
+    {
+      "d": "2026-10-29",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "André Janones"
+      ],
+      "h": "Lula anuncia pronunciamento à nação e live com Janones: \"Devo essa eleição ao povo\"",
+      "p": "Segundo o Brasil de Fato, o anúncio veio em áudio no canal Exército do Lula; as reportagens consultadas não trazem data confirmada.",
+      "src": "Brasil de Fato",
+      "u": "https://www.brasildefato.com.br/2026/10/29/lula-anuncia-pronunciamento-a-nacao-na-proxima-semana-devo-essa-eleicao-ao-povo/",
+      "r": "Pronunciamento à nação anunciado em áudio num canal chamado Exército do Lula. A cerimônia oficial vem depois do grupo de WhatsApp, como manda a tradição."
+    },
     {
       "d": "2026-11-03",
       "g": "Lula e governo",
