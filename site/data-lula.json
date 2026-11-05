@@ -1,7 +1,69 @@
 {
-  "updated": "2026-11-04T22:09:31-03:00",
-  "updated_label": "04/11/2026, 22h",
+  "updated": "2026-11-05T10:13:50-03:00",
+  "updated_label": "05/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-05",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "André Janones",
+        "Geraldo Alckmin",
+        "Sidônio Palmeira",
+        "Miriam Belchior"
+      ],
+      "h": "Lula tem live com Janones às 19h, reunião do conselho de minerais críticos com Alckmin e despachos no Planalto nesta quinta",
+      "p": "Segundo A Crítica, a live foi anunciada como conversa para celebrar o resultado e manter contato com apoiadores nas redes.",
+      "src": "A Crítica",
+      "u": "https://acritica.net/politica/lula-agenda-quinta-5-minerais-estrategicos-live-janones/",
+      "r": "Minerais críticos de tarde, Janones à noite: o governo mistura política industrial e live no mesmo expediente. Lula não largou o modo campanha, só trocou o palanque pelo YouTube."
+    },
+    {
+      "d": "2026-11-05",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Edinho Silva"
+      ],
+      "h": "PT pede aos partidos planos para os ministérios e estimativa de votos no Congresso antes de definir o governo Lula 4",
+      "p": "Segundo a Folhapress, republicada por A Notícia do Vale, Edinho Silva conduz as conversas por delegação de Lula e os nomes só devem sair a partir do fim de novembro.",
+      "src": "A Notícia do Vale",
+      "u": "https://anoticiadovale.com/2026/11/05/pt-pede-a-partidos-planos-para-ministerios-e-estimativa-de-votos-para-desenhar-governo-lula-4/",
+      "r": "Candidato a ministro agora entrega plano de trabalho e contagem de votos. Em Brasília, o currículo virou prova com gabarito, e a planilha de votos é o critério de desempate."
+    },
+    {
+      "d": "2026-11-04",
+      "g": "Música",
+      "who": [
+        "Ivete Sangalo",
+        "Luísa Sonza",
+        "Alceu Valença",
+        "Martinho da Vila",
+        "Mart'nália",
+        "Diogo Nogueira",
+        "Jorge"
+      ],
+      "h": "Dez atrações do réveillon de Fortaleza apoiaram Lula em 2026; só Jorge, da dupla com Mateus, apoiou Flávio, diz levantamento",
+      "p": "Segundo o O POVO+, das 26 atrações anunciadas, 15 não tiveram posição política identificada; a prefeitura anunciou a saída da dupla.",
+      "src": "O POVO+",
+      "u": "https://mais.opovo.com.br/reportagens-especiais/2026/11/04/reveillon-de-fortaleza-10-atracoes-apoiaram-lula-em-2026.html",
+      "r": "Dez a um no palco do réveillon: a virada de Fortaleza já tem placar antes da contagem regressiva. Artista que declara voto descobre que a plateia também conta."
+    },
+    {
+      "d": "2026-10-29",
+      "g": "TV e cinema",
+      "who": [
+        "Wagner Moura",
+        "Chico César",
+        "Maria Marighella",
+        "Margareth Menezes"
+      ],
+      "h": "Wagner Moura é cotado para o Ministério da Cultura no quarto governo Lula, diz O Globo",
+      "p": "Segundo O Globo, citado pelo Alô Alô Bahia, Chico César e Maria Marighella também são cotados; não há nomeação confirmada.",
+      "src": "Alô Alô Bahia",
+      "u": "https://aloalobahia.com/noticias/2026/10/29/wagner-moura-e-cotado-para-assumir-ministerio-da-cultura-no-quarto-governo-lula/",
+      "r": "Cotado para a Cultura, o ex-Capitão Nascimento pode ganhar uma missão nova: edital, ofício e reunião de colegiado. Dessa o BOPE não prepara."
+    },
     {
       "d": "2026-11-03",
       "g": "Lula e governo",
