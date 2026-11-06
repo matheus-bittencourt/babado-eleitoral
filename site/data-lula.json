@@ -1,7 +1,34 @@
 {
-  "updated": "2026-11-05T10:13:50-03:00",
-  "updated_label": "05/11/2026, 10h",
+  "updated": "2026-11-06T10:07:25-03:00",
+  "updated_label": "06/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-06",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Wellington Dias",
+        "Geraldo Alckmin"
+      ],
+      "h": "Wellington Dias diz que Lula só define os ministros depois da COP 31, na Turquia",
+      "p": "Segundo o Metrópoles, a escolha vai considerar as metas de cada pasta e os resultados do governo atual; Alckmin coordena a transição entre o plano que acaba em 2026 e o de 2027 a 2030.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/colunas/grande-angular/wellington-dias-diz-que-lula-decidira-equipe-ministerial-apos-a-cop-31",
+      "r": "Ministério só depois da COP 31: a fila de cotados vai ter que treinar cara de paisagem por mais duas semanas."
+    },
+    {
+      "d": "2026-11-04",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "Lula reúne Alckmin e ministros para discutir ações ambientais e de energia antes da COP31",
+      "p": "Segundo O Tempo, ele publicou no X que o Brasil quer manter papel de destaque no clima, mas não detalhou as medidas.",
+      "src": "O Tempo",
+      "u": "https://www.otempo.com.br/politica/congresso/2026/11/4/lula-se-reune-com-alckmin-e-ministros-para-definir-acoes-ambientais-antes-da-cop31",
+      "r": "Reunião para decidir ações ambientais sem detalhar nenhuma ação: o anúncio do anúncio, especialidade de Brasília."
+    },
     {
       "d": "2026-11-05",
       "g": "Lula e governo",
