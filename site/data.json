@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T10:07:25-03:00",
-  "updated_label": "06/11/2026, 10h",
+  "updated": "2026-11-07T10:02:33-03:00",
+  "updated_label": "07/11/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -214,6 +214,37 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-11-07",
+      "g": "Música",
+      "who": [
+        "Gusttavo Lima",
+        "Amado Batista",
+        "Bruno & Marrone",
+        "Murilo Huff",
+        "Zezé Di Camargo",
+        "Jorge & Mateus"
+      ],
+      "h": "Prefeituras do Nordeste contrataram onze sertanejos pró-Flávio por cerca de R$ 38 milhões em 2026, e Gusttavo Lima lidera",
+      "p": "Segundo o Metrópoles, com base em contratos do Portal Nacional de Contratações Públicas, os valores podem não incluir todos os pagamentos; a reportagem veio depois do cancelamento dos shows de réveillon de Jorge & Mateus em Fortaleza e Recife.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/entretenimento/nordeste-pagou-r-38-milhoes-a-sertanejos-que-apoiaram-flavio-bolsonaro",
+      "r": "Palanque de um lado, agenda de prefeitura do outro: o sertanejo é de direita, mas o cachê é suprapartidário. A sofrência agora vem em nota de empenho."
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Eduardo Bolsonaro",
+        "Marco Rubio"
+      ],
+      "h": "Flávio reaparece no gala da CPAC em Mar-a-Lago ao lado de Eduardo e diz que tudo estava sob o controle de Deus",
+      "p": "Segundo a CNN em Espanhol, com base na EFE, o evento foi fechado à imprensa e o conteúdo veio de vídeos de convidados; o NYT e o WSJ ligaram um assessor da Casa Branca ao jato, e Rubio negou que Washington tenha facilitado a saída.",
+      "src": "CNN em Espanhol",
+      "u": "https://cnnespanol.cnn.com/2026/11/06/eeuu/flavio-bolsonaro-reaparece-cpac-mar-a-largo-efe",
+      "r": "Primeira grande aparição como líder da oposição: gala fechado à imprensa e conteúdo por vídeo de convidado. A resistência chega ao público em versão bastidor."
+    },
     {
       "d": "2026-11-06",
       "g": "Flávio e campanha",
@@ -730,33 +761,6 @@
       "src": "CNN Brasil",
       "u": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/",
       "r": "A entrega dos passaportes virou o prazo mais acompanhado do país desde a prorrogação da votação. Até agora, só o suspense cumpriu o horário."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Advogados de Flávio dizem que não conseguiram localizá-lo para recolher os passaportes",
-      "p": "Segundo a Gazeta do Povo, a defesa não cumpriu a entrega; a reportagem não confirma onde ele está.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/",
-      "r": "Defesa que não acha o próprio cliente é o tipo de drama que nem o horário eleitoral ousou roteirizar. Enquanto isso, os aliados garantem que está tudo sob controle, só não dizem onde."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Rogério Marinho",
-        "Fabio Wajngarten"
-      ],
-      "h": "Site argentino diz que Flávio embarcou rumo à Argentina e aos EUA; Marinho e Wajngarten negam",
-      "p": "O relato do Infobae não tem confirmação independente; em vídeo, Flávio disse que nunca pensou em sair do país. A PF acionou autoridades argentinas para checar.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/brasil/flavio-teria-deixado-o-pais-rumo-aos-eua-diz-site-argentino-aliados-negam",
-      "check": true,
-      "r": "Um jato, um boato e três desmentidos antes do almoço. A única coisa que decolou com folga foi o assunto."
     }
   ]
 }

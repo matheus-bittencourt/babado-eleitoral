@@ -1,7 +1,32 @@
 {
-  "updated": "2026-11-06T10:07:25-03:00",
-  "updated_label": "06/11/2026, 10h",
+  "updated": "2026-11-07T10:02:33-03:00",
+  "updated_label": "07/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-06",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "André Janones"
+      ],
+      "h": "Lula anuncia em live com Janones que enviará uma MP para criar o Ministério da Segurança Pública",
+      "p": "Segundo o Poder360, ainda não há data para a MP, e as atribuições terão de ser divididas com a Justiça; o governo quer a pasta funcionando em novembro, com estrutura orçamentária talvez só em 2027.",
+      "r": "Anunciou o ministério numa live, antes do Diário Oficial: no Planalto, o YouTube vem primeiro e a burocracia fica sabendo depois.",
+      "src": "Poder360",
+      "u": "https://www.poder360.com.br/poder-governo/lula-anuncia-mp-para-criar-ministerio-da-seguranca-publica/"
+    },
+    {
+      "d": "2026-11-03",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Senado aprova a PEC da Segurança Pública em dois turnos, e Lula comemora e confirma o novo ministério",
+      "p": "Segundo a Metrópoles, foram 73 votos no primeiro turno e 75 no segundo; a emenda segue para promulgação.",
+      "r": "Senado quase unânime e Lula comemorando nas redes: em Brasília, raro como eclipse. O ministério ainda não tem ministro, mas já tem festa, que é a parte mais bem acabada do projeto.",
+      "src": "Brasil de Fato",
+      "u": "https://www.brasildefato.com.br/2026/11/03/em-vitoria-de-lula-senado-aprova-pec-da-seguranca-publica-em-dois-turnos/"
+    },
     {
       "d": "2026-11-06",
       "g": "Lula e governo",
@@ -524,30 +549,6 @@
       "r": "Prometeu festa de 1º turno na Paulista. Veio o 2º turno, e quem teve que engolir foi o calendário: a comemoração atrasou três semanas.",
       "src": "Terra",
       "u": "https://www.terra.com.br/noticias/eleicoes/janja-manda-recado-para-nunes-apos-proibicao-de-ato-de-lula-na-paulista-e-diz-que-vai-comemorar-vitoria-em-sp-vai-ter-que-nos-engolir,366c7a7344ac3a11e0e11c8e596bc5ffewa53xv8.html"
-    },
-    {
-      "d": "2026-09-28",
-      "g": "TV e cinema",
-      "who": [
-        "Wagner Moura"
-      ],
-      "h": "Wagner Moura declara apoio à reeleição de Lula em vídeo da campanha",
-      "p": "Em 23/10 voltou a aparecer, num vídeo coletivo com Fernanda Torres, Bruna Marquezine e Sônia Braga.",
-      "r": "O ex-Capitão Nascimento agora pede voto com a mesma cara séria de quem manda o aspirante pedir pra sair. Só que, desta vez, o pedido é pra ficar mais quatro anos.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/"
-    },
-    {
-      "d": "2026-09-12",
-      "g": "Música",
-      "who": [
-        "Maria Bethânia"
-      ],
-      "h": "Maria Bethânia declara voto em Lula no palco do Coala Festival, em São Paulo",
-      "p": "",
-      "r": "Bethânia declarou voto num festival cheio de gente de boné e pochete. O público foi pelo show e saiu com santinho de brinde.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/"
     }
   ]
 }
