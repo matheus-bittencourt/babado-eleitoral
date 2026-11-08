@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T10:02:33-03:00",
-  "updated_label": "07/11/2026, 10h",
+  "updated": "2026-11-08T10:03:02-03:00",
+  "updated_label": "08/11/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -230,6 +230,18 @@
       "src": "Metrópoles",
       "u": "https://www.metropoles.com/entretenimento/nordeste-pagou-r-38-milhoes-a-sertanejos-que-apoiaram-flavio-bolsonaro",
       "r": "Palanque de um lado, agenda de prefeitura do outro: o sertanejo é de direita, mas o cachê é suprapartidário. A sofrência agora vem em nota de empenho."
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Flávio vai a um salão de Miami frequentado por famosos brasileiros, com corte a R$ 820, pouco antes da entrevista ao New York Times",
+      "p": "Segundo o ND Mais, o salão é popular entre celebridades como Neymar; na entrevista, Flávio nega ter recebido ajuda de governos para chegar aos EUA.",
+      "r": "O segredo da rota vai para o túmulo, mas o preço do corte já está em reportagem. Prioridades de quem lidera a oposição de longe.",
+      "src": "ND Mais",
+      "u": "https://ndmais.com.br/politica/flavio-bolsonaro-salao-luxo-eua-entrevista-new-york-times/"
     },
     {
       "d": "2026-11-06",
@@ -654,20 +666,6 @@
       "src": "CNN Brasil",
       "u": "https://www.cnnbrasil.com.br/politica/fuga-de-flavio-pode-motivar-prisao-preventiva-dizem-especialistas/",
       "r": "O debate sobre o que fazer já está pronto; falta só confirmar o que aconteceu. Em Brasília, a hipótese costuma chegar antes do fato e com mais convidados."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes",
-        "Lula"
-      ],
-      "h": "Decisão sobre o passaporte de Flávio alimenta discurso de perseguição e incomoda o governo Lula, diz reportagem",
-      "p": "Segundo o ND Mais, o Planalto considera a ordem precipitada.",
-      "src": "ND Mais",
-      "u": "https://ndmais.com.br/politica/flavio-bolsonaro-sendor-eua-stf-moraes-lula/",
-      "r": "Quem ganhou a eleição passa o dia explicando que o Supremo não é o setor de atendimento do Planalto. Ganhar é ótimo, mas vem com SAC."
     },
     {
       "d": "2026-10-27",

@@ -1,7 +1,45 @@
 {
-  "updated": "2026-11-07T10:02:33-03:00",
-  "updated_label": "07/11/2026, 10h",
+  "updated": "2026-11-08T10:03:02-03:00",
+  "updated_label": "08/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-07",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula planeja começar o quarto mandato com 40 ministérios, dois a mais que hoje, aponta resumo do Quenty",
+      "p": "O resumo cita Folha e Agência Brasil: a estrutura atual tem 38 pastas, a nova Segurança Pública sairia por medida provisória e a composição ainda está em negociação com os partidos.",
+      "r": "De 38 para 40 pastas: o governo reeleito descobriu que organograma, como grupo de família, só cresce. Resta saber quem paga o café.",
+      "src": "Quenty",
+      "u": "https://quenty.com.br/resumo/7-novembro-2026/lula-planeja-40-ministerios-para-2027-e-reacende-debate-sobre-custos-e-governabilidade"
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Alckmin"
+      ],
+      "h": "Lula quer definir os nomes do ministério até 25/11 e anunciar a equipe até 5/12, diz a CNN Brasil",
+      "p": "A divisão preliminar dá três pastas ao MDB, duas a cada um de Republicanos, União Brasil, PP e PSD e uma ao Podemos; o arranjo não está fechado, e o Planalto mira 340 votos na Câmara contra cerca de 265 estimados pelo centrão.",
+      "r": "Ministério na tabela, com meta de votos: o centrão estima 265, o Planalto sonha com 340. A diferença entre os dois números é a parte divertida da novela.",
+      "src": "CNN Brasil",
+      "u": "https://cnnbrasil.com.br/blogs/taina-falcao/politica/lula-deve-anunciar-novo-governo-ate-5-de-dezembro"
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Erdogan"
+      ],
+      "h": "Lula leva à COP31, na Turquia, dados sobre a queda do desmatamento e discursa na Cúpula de Líderes em 11/11",
+      "p": "Segundo a Agência Brasil, ele pode ter encontros bilaterais, como um com Erdogan, e depois segue para as Filipinas, para a cúpula da Asean.",
+      "r": "O quarto mandato nem começou e o presidente já planeja escala dupla: Turquia e Filipinas. A transição que espere o jet lag.",
+      "src": "Agência Brasil",
+      "u": "https://www.acessa.com/noticias/2026/11/343801-lula-apresentara-avancos-ambientais-na-cop31-na-turquia.html"
+    },
     {
       "d": "2026-11-06",
       "g": "Lula e governo",
@@ -511,44 +549,6 @@
       "r": "Serginho Groisman numa live com o presidente: o Altas Horas mais comprido da história, sem banda e com um só convidado falando.",
       "src": "Gazeta do Povo",
       "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/"
-    },
-    {
-      "d": "2026-10-19",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Depois do debate da Band, Lula diz em vídeo que se sentiu incomodado de debater com um \"miliciano\"",
-      "p": "Também afirmou que Flávio \"foi preparado para mentir\"; a reportagem não traz resposta do senador.",
-      "r": "Reclamou do nível do debate num vídeo que manteve o nível do debate. Em campanha, a coerência também tira folga.",
-      "src": "Diário do Grande ABC",
-      "u": "https://www.dgabc.com.br/Noticia/4353603/lula-me-senti-muito-incomodado-de-participar-de-um-debate-com-um-miliciano"
-    },
-    {
-      "d": "2026-10-09",
-      "g": "Música",
-      "who": [
-        "Anitta"
-      ],
-      "h": "Anitta grava vídeo de apoio a Lula dois dias depois de dizer que não gravaria",
-      "p": "Admitiu que estava \"convencida de que o Lula ia ganhar no primeiro turno\" e que é preciso \"descer do salto\".",
-      "r": "Na quarta, vídeo de apoio não funcionava; na sexta, estava gravado. Anitta vira voto do mesmo jeito que vira opinião: em 48 horas.",
-      "src": "Correio Braziliense",
-      "u": "https://www.correiobraziliense.com.br/politica/2026/10/7518294-anitta-publica-video-de-apoio-a-lula-apos-criticas-de-fas.html"
-    },
-    {
-      "d": "2026-10-03",
-      "g": "Lula e governo",
-      "who": [
-        "Janja",
-        "Ricardo Nunes"
-      ],
-      "h": "Janja promete a Nunes comemorar a vitória no 1º turno na Paulista: \"Vai ter que nos engolir\"",
-      "p": "O ato daquele dia foi transferido para a Rua Augusta depois de restrições ao uso da Paulista.",
-      "r": "Prometeu festa de 1º turno na Paulista. Veio o 2º turno, e quem teve que engolir foi o calendário: a comemoração atrasou três semanas.",
-      "src": "Terra",
-      "u": "https://www.terra.com.br/noticias/eleicoes/janja-manda-recado-para-nunes-apos-proibicao-de-ato-de-lula-na-paulista-e-diz-que-vai-comemorar-vitoria-em-sp-vai-ter-que-nos-engolir,366c7a7344ac3a11e0e11c8e596bc5ffewa53xv8.html"
     }
   ]
 }
