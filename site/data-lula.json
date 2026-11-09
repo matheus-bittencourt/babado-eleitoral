@@ -1,7 +1,32 @@
 {
-  "updated": "2026-11-08T10:03:02-03:00",
-  "updated_label": "08/11/2026, 10h",
+  "updated": "2026-11-09T10:04:36-03:00",
+  "updated_label": "09/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-09",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Em pronunciamento em rede nacional, Lula defende reformas política e do Judiciário, critica big techs e cobra responsabilidade fiscal",
+      "p": "Segundo O Hoje, ele também disse que a meta é elevar o investimento a 20% do PIB e que o governo vai propor por medida provisória o Ministério da Segurança Pública.",
+      "src": "O Hoje",
+      "u": "https://ohoje.com/2026/11/09/em-pronunciamento-na-tv-lula-defende-reformas-critica-big-techs-e-cobra-responsabilidade-fiscal/",
+      "r": "Reforma política, reforma do Judiciário, big techs e fiscal em um pronunciamento só. Para quem ainda nem escolheu ministro, a lista de tarefas é de quatro mandatos."
+    },
+    {
+      "d": "2026-11-08",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Janja"
+      ],
+      "h": "Lula estuda passar ao Gabinete Pessoal a gestão das redes sociais dele, o que ampliaria a influência de Janja, diz a Folha",
+      "p": "Segundo a TV Sim Brasil, com base na Folha, o plano não prevê cargo formal para ela e ainda não foi formalizado; surge em meio à ação no TSE que questiona o uso da Secom na campanha.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/08/lula-planeja-remodelar-gabinete-pessoal-poder-janja",
+      "r": "Redes do presidente indo para o Gabinete Pessoal e a Secom virando segunda tela. O Planalto decide tudo por engajamento agora, e o ministério que se vire com o algoritmo."
+    },
     {
       "d": "2026-11-07",
       "g": "Lula e governo",
@@ -54,18 +79,6 @@
       "u": "https://www.poder360.com.br/poder-governo/lula-anuncia-mp-para-criar-ministerio-da-seguranca-publica/"
     },
     {
-      "d": "2026-11-03",
-      "g": "Lula e governo",
-      "who": [
-        "Lula"
-      ],
-      "h": "Senado aprova a PEC da Segurança Pública em dois turnos, e Lula comemora e confirma o novo ministério",
-      "p": "Segundo a Metrópoles, foram 73 votos no primeiro turno e 75 no segundo; a emenda segue para promulgação.",
-      "r": "Senado quase unânime e Lula comemorando nas redes: em Brasília, raro como eclipse. O ministério ainda não tem ministro, mas já tem festa, que é a parte mais bem acabada do projeto.",
-      "src": "Brasil de Fato",
-      "u": "https://www.brasildefato.com.br/2026/11/03/em-vitoria-de-lula-senado-aprova-pec-da-seguranca-publica-em-dois-turnos/"
-    },
-    {
       "d": "2026-11-06",
       "g": "Lula e governo",
       "who": [
@@ -78,19 +91,6 @@
       "src": "Metrópoles",
       "u": "https://www.metropoles.com/colunas/grande-angular/wellington-dias-diz-que-lula-decidira-equipe-ministerial-apos-a-cop-31",
       "r": "Ministério só depois da COP 31: a fila de cotados vai ter que treinar cara de paisagem por mais duas semanas."
-    },
-    {
-      "d": "2026-11-04",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Geraldo Alckmin"
-      ],
-      "h": "Lula reúne Alckmin e ministros para discutir ações ambientais e de energia antes da COP31",
-      "p": "Segundo O Tempo, ele publicou no X que o Brasil quer manter papel de destaque no clima, mas não detalhou as medidas.",
-      "src": "O Tempo",
-      "u": "https://www.otempo.com.br/politica/congresso/2026/11/4/lula-se-reune-com-alckmin-e-ministros-para-definir-acoes-ambientais-antes-da-cop31",
-      "r": "Reunião para decidir ações ambientais sem detalhar nenhuma ação: o anúncio do anúncio, especialidade de Brasília."
     },
     {
       "d": "2026-11-05",
@@ -123,6 +123,19 @@
     },
     {
       "d": "2026-11-04",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "Lula reúne Alckmin e ministros para discutir ações ambientais e de energia antes da COP31",
+      "p": "Segundo O Tempo, ele publicou no X que o Brasil quer manter papel de destaque no clima, mas não detalhou as medidas.",
+      "src": "O Tempo",
+      "u": "https://www.otempo.com.br/politica/congresso/2026/11/4/lula-se-reune-com-alckmin-e-ministros-para-definir-acoes-ambientais-antes-da-cop31",
+      "r": "Reunião para decidir ações ambientais sem detalhar nenhuma ação: o anúncio do anúncio, especialidade de Brasília."
+    },
+    {
+      "d": "2026-11-04",
       "g": "Música",
       "who": [
         "Ivete Sangalo",
@@ -140,19 +153,16 @@
       "r": "Dez a um no palco do réveillon: a virada de Fortaleza já tem placar antes da contagem regressiva. Artista que declara voto descobre que a plateia também conta."
     },
     {
-      "d": "2026-10-29",
-      "g": "TV e cinema",
+      "d": "2026-11-03",
+      "g": "Lula e governo",
       "who": [
-        "Wagner Moura",
-        "Chico César",
-        "Maria Marighella",
-        "Margareth Menezes"
+        "Lula"
       ],
-      "h": "Wagner Moura é cotado para o Ministério da Cultura no quarto governo Lula, diz O Globo",
-      "p": "Segundo O Globo, citado pelo Alô Alô Bahia, Chico César e Maria Marighella também são cotados; não há nomeação confirmada.",
-      "src": "Alô Alô Bahia",
-      "u": "https://aloalobahia.com/noticias/2026/10/29/wagner-moura-e-cotado-para-assumir-ministerio-da-cultura-no-quarto-governo-lula/",
-      "r": "Cotado para a Cultura, o ex-Capitão Nascimento pode ganhar uma missão nova: edital, ofício e reunião de colegiado. Dessa o BOPE não prepara."
+      "h": "Senado aprova a PEC da Segurança Pública em dois turnos, e Lula comemora e confirma o novo ministério",
+      "p": "Segundo a Metrópoles, foram 73 votos no primeiro turno e 75 no segundo; a emenda segue para promulgação.",
+      "r": "Senado quase unânime e Lula comemorando nas redes: em Brasília, raro como eclipse. O ministério ainda não tem ministro, mas já tem festa, que é a parte mais bem acabada do projeto.",
+      "src": "Brasil de Fato",
+      "u": "https://www.brasildefato.com.br/2026/11/03/em-vitoria-de-lula-senado-aprova-pec-da-seguranca-publica-em-dois-turnos/"
     },
     {
       "d": "2026-11-03",
@@ -166,32 +176,6 @@
       "src": "O Brasilianista",
       "u": "https://obrasilianista.com.br/2026/11/03/politica/lula-negocia-novo-ministerio-com-aliados-e-centrao-veja-o-que-esta-em-jogo-em-cada-pasta",
       "r": "Ministério novo para a segurança antes do ministro novo. Em Brasília, primeiro se desenha a caixa do organograma e depois se procura quem caiba nela."
-    },
-    {
-      "d": "2026-10-29",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Geraldo Alckmin"
-      ],
-      "h": "TSE marca a diplomação de Lula e Alckmin para 12 de dezembro",
-      "p": "A data foi divulgada em 29/10, segundo a TV Sim.",
-      "src": "TV Sim",
-      "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/10/29/tse-marca-diplomacao-lula-alckmin-12-dezembro",
-      "r": "O presidente já teve bolo, trio elétrico e comemoração na Paulista; só agora marcam a entrega do diploma. A burocracia é sempre a última a saber que a festa acabou."
-    },
-    {
-      "d": "2026-10-29",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "André Janones"
-      ],
-      "h": "Lula anuncia pronunciamento à nação e live com Janones: \"Devo essa eleição ao povo\"",
-      "p": "Segundo o Brasil de Fato, o anúncio veio em áudio no canal Exército do Lula; as reportagens consultadas não trazem data confirmada.",
-      "src": "Brasil de Fato",
-      "u": "https://www.brasildefato.com.br/2026/10/29/lula-anuncia-pronunciamento-a-nacao-na-proxima-semana-devo-essa-eleicao-ao-povo/",
-      "r": "Pronunciamento à nação anunciado em áudio num canal chamado Exército do Lula. A cerimônia oficial vem depois do grupo de WhatsApp, como manda a tradição."
     },
     {
       "d": "2026-11-03",
@@ -304,6 +288,47 @@
     },
     {
       "d": "2026-10-29",
+      "g": "TV e cinema",
+      "who": [
+        "Wagner Moura",
+        "Chico César",
+        "Maria Marighella",
+        "Margareth Menezes"
+      ],
+      "h": "Wagner Moura é cotado para o Ministério da Cultura no quarto governo Lula, diz O Globo",
+      "p": "Segundo O Globo, citado pelo Alô Alô Bahia, Chico César e Maria Marighella também são cotados; não há nomeação confirmada.",
+      "src": "Alô Alô Bahia",
+      "u": "https://aloalobahia.com/noticias/2026/10/29/wagner-moura-e-cotado-para-assumir-ministerio-da-cultura-no-quarto-governo-lula/",
+      "r": "Cotado para a Cultura, o ex-Capitão Nascimento pode ganhar uma missão nova: edital, ofício e reunião de colegiado. Dessa o BOPE não prepara."
+    },
+    {
+      "d": "2026-10-29",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "TSE marca a diplomação de Lula e Alckmin para 12 de dezembro",
+      "p": "A data foi divulgada em 29/10, segundo a TV Sim.",
+      "src": "TV Sim",
+      "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/10/29/tse-marca-diplomacao-lula-alckmin-12-dezembro",
+      "r": "O presidente já teve bolo, trio elétrico e comemoração na Paulista; só agora marcam a entrega do diploma. A burocracia é sempre a última a saber que a festa acabou."
+    },
+    {
+      "d": "2026-10-29",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "André Janones"
+      ],
+      "h": "Lula anuncia pronunciamento à nação e live com Janones: \"Devo essa eleição ao povo\"",
+      "p": "Segundo o Brasil de Fato, o anúncio veio em áudio no canal Exército do Lula; as reportagens consultadas não trazem data confirmada.",
+      "src": "Brasil de Fato",
+      "u": "https://www.brasildefato.com.br/2026/10/29/lula-anuncia-pronunciamento-a-nacao-na-proxima-semana-devo-essa-eleicao-ao-povo/",
+      "r": "Pronunciamento à nação anunciado em áudio num canal chamado Exército do Lula. A cerimônia oficial vem depois do grupo de WhatsApp, como manda a tradição."
+    },
+    {
+      "d": "2026-10-29",
       "g": "Lula e governo",
       "who": [
         "Lula",
@@ -326,19 +351,6 @@
       "src": "TV Sim",
       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/10/29/lula-articula-novo-ministerio-proximo-governo",
       "r": "Todo mundo cotado, ninguém confirmado. Em Brasília, atender o celular na primeira chamada virou prova de lealdade."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "José Múcio Monteiro"
-      ],
-      "h": "Lula recebe o ministro da Defesa, José Múcio, que não deve seguir no quarto mandato",
-      "p": "Segundo a InfoMoney, o encontro foi no Alvorada e indica a saída dele; a escolha do sucessor ainda não foi anunciada.",
-      "src": "InfoMoney",
-      "u": "https://www.infomoney.com.br/politica/lula-se-reune-com-ministro-da-defesa-que-nao-deve-permanecer-em-novo-governo/",
-      "r": "A Defesa é a pasta em que o ministro vai saindo e metade de Brasília já se candidata a entrar. A vaga nem abriu e a fila já tem número de senha."
     },
     {
       "d": "2026-10-29",
@@ -369,16 +381,17 @@
       "u": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/lula-orienta-ministros-a-nao-explorar-fuga-de-flavio/"
     },
     {
-      "d": "2026-10-26",
+      "d": "2026-10-27",
       "g": "Lula e governo",
       "who": [
-        "Lula"
+        "Lula",
+        "José Múcio Monteiro"
       ],
-      "h": "Reeleito, Lula pode indicar quatro ministros ao STF e seis ao STJ até o fim do mandato",
-      "p": "A vaga de Barroso segue aberta depois que o Senado rejeitou Jorge Messias; o STJ terá duas vagas até o fim do ano.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/brasil/reeleito-lula-podera-indicar-4-ministros-ao-stf-e-6-ao-stj",
-      "r": "Ainda nem tomou posse do quarto mandato e Lula já tem uma lista de cadeiras para preencher. Em Brasília, a fila de quem jura ser só técnico já dobra o quarteirão."
+      "h": "Lula recebe o ministro da Defesa, José Múcio, que não deve seguir no quarto mandato",
+      "p": "Segundo a InfoMoney, o encontro foi no Alvorada e indica a saída dele; a escolha do sucessor ainda não foi anunciada.",
+      "src": "InfoMoney",
+      "u": "https://www.infomoney.com.br/politica/lula-se-reune-com-ministro-da-defesa-que-nao-deve-permanecer-em-novo-governo/",
+      "r": "A Defesa é a pasta em que o ministro vai saindo e metade de Brasília já se candidata a entrar. A vaga nem abriu e a fila já tem número de senha."
     },
     {
       "d": "2026-10-27",
@@ -408,19 +421,6 @@
       "u": "https://www.terra.com.br/noticias/brasil/politica/lula-diz-que-flavio-sair-do-brasil-e-vergonhoso-quando-pediram-meu-passaporte-entreguei,d19f9efcfc83fec7cdd8a0e8c40f063favzo16et.html"
     },
     {
-      "d": "2026-10-25",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Geraldo Alckmin"
-      ],
-      "h": "Sem transição formal, Lula toma posse de novo em 5 de janeiro e pode trocar ministros até lá",
-      "p": "A InfoMoney explica que a lei de transição não vale para reeleição e que o novo mandato vai até janeiro de 2031.",
-      "r": "Transição sem transição: Lula muda de governo sem sair da cadeira. A parte mais difícil da mudança de casa é não ter casa para mudar.",
-      "src": "InfoMoney",
-      "u": "https://www.infomoney.com.br/politica/com-lula-reeleito-havera-troca-de-ministros-e-nova-posse-entenda/"
-    },
-    {
       "d": "2026-10-27",
       "g": "Lula e governo",
       "who": [
@@ -433,6 +433,18 @@
       "r": "Pediu o fim do ódio em cima de um trio elétrico, com microfone e banda ao vivo. Nada diz \"vamos baixar a temperatura\" como um carnaval no estacionamento do palácio.",
       "src": "Bahia Notícias",
       "u": "https://www.bahianoticias.com.br/noticia/323067-lula-comemora-81-anos-com-musica-bolo-militantes-e-choro-ao-lembrar-dos-velhinhos-indo-votar-no-2o-turno"
+    },
+    {
+      "d": "2026-10-26",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Reeleito, Lula pode indicar quatro ministros ao STF e seis ao STJ até o fim do mandato",
+      "p": "A vaga de Barroso segue aberta depois que o Senado rejeitou Jorge Messias; o STJ terá duas vagas até o fim do ano.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/brasil/reeleito-lula-podera-indicar-4-ministros-ao-stf-e-6-ao-stj",
+      "r": "Ainda nem tomou posse do quarto mandato e Lula já tem uma lista de cadeiras para preencher. Em Brasília, a fila de quem jura ser só técnico já dobra o quarteirão."
     },
     {
       "d": "2026-10-26",
@@ -508,6 +520,19 @@
       "g": "Lula e governo",
       "who": [
         "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "Sem transição formal, Lula toma posse de novo em 5 de janeiro e pode trocar ministros até lá",
+      "p": "A InfoMoney explica que a lei de transição não vale para reeleição e que o novo mandato vai até janeiro de 2031.",
+      "r": "Transição sem transição: Lula muda de governo sem sair da cadeira. A parte mais difícil da mudança de casa é não ter casa para mudar.",
+      "src": "InfoMoney",
+      "u": "https://www.infomoney.com.br/politica/com-lula-reeleito-havera-troca-de-ministros-e-nova-posse-entenda/"
+    },
+    {
+      "d": "2026-10-25",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
         "Janja",
         "Geraldo Alckmin",
         "Fernando Haddad",
@@ -518,37 +543,6 @@
       "r": "Óculos de estrela, pulinho na sala e beijo na primeira-dama: o presidente comemorou o quarto mandato como quem ganhou o BBB. Falta só o anjo da semana.",
       "src": "Terra",
       "u": "https://www.terra.com.br/noticias/eleicoes/com-direito-a-beijo-em-janja-lula-comemora-a-vitoria-no-segundo-turno-das-eleicoes,715fe726654f0123bce52ec38034cca0kk03zt44.html"
-    },
-    {
-      "d": "2026-10-25",
-      "g": "TV e cinema",
-      "who": [
-        "Bruno Gagliasso",
-        "Thiago Gagliasso",
-        "Daniela Mercury",
-        "Pabllo Vittar"
-      ],
-      "h": "Bruno Gagliasso comemora que \"o amor venceu\"; o irmão Thiago diz que o resultado não o convence",
-      "p": "Na mesma reportagem, Daniela Mercury chamou Salvador às ruas e Pabllo Vittar postou vídeo da apuração em clima de festa.",
-      "r": "Na família Gagliasso, o amor venceu e a desconfiança também, cada um no seu perfil. O almoço de domingo vai precisar de mediador do TSE.",
-      "src": "O Povo",
-      "u": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/25/famosos-reagem-a-vitoria-de-lula-e-comemoram-nas-redes.html"
-    },
-    {
-      "d": "2026-10-22",
-      "g": "Influenciadores",
-      "who": [
-        "Jão",
-        "Nath Finanças",
-        "Leandra Leal",
-        "Camila Pitanga",
-        "Serginho Groisman"
-      ],
-      "h": "Jão, Nath Finanças, Leandra Leal, Camila Pitanga e Serginho Groisman fazem live com Lula",
-      "p": "A transmissão ao vivo foi três dias antes da votação, segundo a lista da Gazeta do Povo.",
-      "r": "Serginho Groisman numa live com o presidente: o Altas Horas mais comprido da história, sem banda e com um só convidado falando.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/eleicoes/2026/famosos-declaram-apoio-flavio-lula-segundo-turno-veja-lista/"
     }
   ]
 }

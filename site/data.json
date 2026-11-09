@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T10:03:02-03:00",
-  "updated_label": "08/11/2026, 10h",
+  "updated": "2026-11-09T10:04:36-03:00",
+  "updated_label": "09/11/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
-    "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. O presidente do TSE afirmou ter \"absoluta segurança\" no processo, e o TSE chamou de falsa a alegação de que fiscais do PL foram retirados da sala de apuração. Na segunda (26), o Metrópoles informou que aliados e a equipe jurídica deixaram de falar em anulação e miram a cassação da chapa de Lula e Alckmin no TSE, por suposto abuso de poder; o próprio Flávio disse que vai pedir a cassação e segue sem reconhecer o resultado. No mesmo dia, o PL, partido dele, reconheceu o resultado proclamado pelo TSE, mas pediu esclarecimentos sobre o processo. Na quarta (28), depois da carta de Flávio, o presidente do TSE disse que a eleição transcorreu \"dentro da mais absoluta normalidade\". Nenhuma reportagem confirma pedido de anulação protocolado.",
+    "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. O presidente do TSE afirmou ter \"absoluta segurança\" no processo, e o TSE chamou de falsa a alegação de que fiscais do PL foram retirados da sala de apuração. Na segunda (26), o Metrópoles informou que aliados e a equipe jurídica deixaram de falar em anulação e miram a cassação da chapa de Lula e Alckmin no TSE, por suposto abuso de poder; o próprio Flávio disse que vai pedir a cassação e segue sem reconhecer o resultado. No mesmo dia, o PL, partido dele, reconheceu o resultado proclamado pelo TSE, mas pediu esclarecimentos sobre o processo. Na quarta (28), depois da carta de Flávio, o presidente do TSE disse que a eleição transcorreu \"dentro da mais absoluta normalidade\". Nenhuma reportagem confirma pedido de anulação protocolado. Na sexta (6), em entrevista à Folha, Flávio admitiu não ter provas de fraude e disse que não vai contestar o resultado na Justiça; a estratégia jurídica dele mira o uso da máquina pública. Em 5/11, segundo a SBT News, o corregedor do TSE admitiu ações dele e do Novo contra a chapa por suposto abuso de poder, com cinco dias para a defesa.",
     "r": "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação. É o \"eu pedi, mas não era pra me darem\" mais caro da história da República. Do outro lado, Lula fecha o quarto mandato e já está naquele ponto em que o Planalto devia cobrar IPTU dele.",
     "s": [
       [
@@ -18,6 +18,14 @@
       [
         "Terra",
         "https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html"
+      ],
+      [
+        "BNC Amazonas",
+        "https://bncamazonas.com.br/poder/nao-tenho-provas-admite-flavio-ao-insistir-em-questionar-urnas"
+      ],
+      [
+        "SBT News",
+        "https://sbtnews.sbt.com.br/noticia/politica/tse-admite-acoes-contra-lula-alckmin-por-abuso-de-poder"
       ]
     ]
   },
@@ -55,7 +63,7 @@
       "st": "yes",
       "stl": "Carta diz que lidera a oposição dos EUA",
       "q": "Eu nunca falei isso.",
-      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Em 28/10, a Gazeta do Povo relatou que ele foi de jatinho à Argentina e seguiu para Miami, e o Correio Braziliense, citando a BBC, que ele chegou à Flórida e foi recebido por Eduardo; fontes da PF falam em passaporte italiano. Não há confirmação oficial nem declaração dele ou da defesa sobre a viagem, e o governo argentino havia negado entrada e pedido de asilo. Na tarde de 28/10, a PF disse em nota que a decisão de Moraes não autorizava prisão nem o caracteriza como foragido, que cancelou os passaportes comum e diplomático e que não há registro oficial de saída pelos postos de migração brasileiros. Em 28/10, uma carta dele divulgada nos EUA o apresentou como \"verdadeiro presidente eleito do Brasil\" (o trecho foi trocado depois por \"líder do Brasil\"), agradeceu a Trump e a Milei e disse que vai liderar a oposição de lá, segundo o Metrópoles. A CNN Brasil informou que ele entrou em Miami com o passaporte diplomático cancelado na véspera, com base em registros da fronteira americana, e que passou antes pela Argentina com passaporte italiano, segundo suas fontes. Trump disse ter autorizado a entrada dele e não quis comentar a carta; o presidente do TSE respondeu que a eleição ocorreu \"dentro da mais absoluta normalidade\". Em 30/10, numa live de Miami, voltou a questionar o resultado sem apresentar provas, segundo o Metrópoles. Em 2/11, segundo o Metrópoles, apareceu num culto em igreja brasileira na Flórida ao lado de Eduardo, a primeira aparição pública dele nos EUA. Em 2/11, segundo a CartaCapital, a defesa recorreu ao STF para anular a ordem sobre os passaportes e afastar Moraes do inquérito; não há decisão. Em 3/11, segundo o Metrópoles, tentou votar a PEC da Segurança a distância, mas o número novo não estava cadastrado no Senado; depois da reportagem, acessou o aplicativo e votou a favor. Em 4/11, segundo o Poder360, o senador Rogério Marinho defendeu a saída como \"decisão difícil\" e citou ameaças que Flávio teria recebido; segundo a Gazeta do Povo, Flávio usa a CPAC, na Flórida, para reorganizar a oposição. Em 5/11, segundo o Poder360, discursou no jantar da CPAC em Mar-a-Lago. Em entrevista ao New York Times, segundo o Gizmodo Brasil, disse ter organizado sozinho a saída, sem ajuda de governos ou aliados, e que não revelará a rota.",
+      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Em 28/10, a Gazeta do Povo relatou que ele foi de jatinho à Argentina e seguiu para Miami, e o Correio Braziliense, citando a BBC, que ele chegou à Flórida e foi recebido por Eduardo; fontes da PF falam em passaporte italiano. Não há confirmação oficial nem declaração dele ou da defesa sobre a viagem, e o governo argentino havia negado entrada e pedido de asilo. Na tarde de 28/10, a PF disse em nota que a decisão de Moraes não autorizava prisão nem o caracteriza como foragido, que cancelou os passaportes comum e diplomático e que não há registro oficial de saída pelos postos de migração brasileiros. Em 28/10, uma carta dele divulgada nos EUA o apresentou como \"verdadeiro presidente eleito do Brasil\" (o trecho foi trocado depois por \"líder do Brasil\"), agradeceu a Trump e a Milei e disse que vai liderar a oposição de lá, segundo o Metrópoles. A CNN Brasil informou que ele entrou em Miami com o passaporte diplomático cancelado na véspera, com base em registros da fronteira americana, e que passou antes pela Argentina com passaporte italiano, segundo suas fontes. Trump disse ter autorizado a entrada dele e não quis comentar a carta; o presidente do TSE respondeu que a eleição ocorreu \"dentro da mais absoluta normalidade\". Em 30/10, numa live de Miami, voltou a questionar o resultado sem apresentar provas, segundo o Metrópoles. Em 2/11, segundo o Metrópoles, apareceu num culto em igreja brasileira na Flórida ao lado de Eduardo, a primeira aparição pública dele nos EUA. Em 2/11, segundo a CartaCapital, a defesa recorreu ao STF para anular a ordem sobre os passaportes e afastar Moraes do inquérito; não há decisão. Em 3/11, segundo o Metrópoles, tentou votar a PEC da Segurança a distância, mas o número novo não estava cadastrado no Senado; depois da reportagem, acessou o aplicativo e votou a favor. Em 4/11, segundo o Poder360, o senador Rogério Marinho defendeu a saída como \"decisão difícil\" e citou ameaças que Flávio teria recebido; segundo a Gazeta do Povo, Flávio usa a CPAC, na Flórida, para reorganizar a oposição. Em 5/11, segundo o Poder360, discursou no jantar da CPAC em Mar-a-Lago. Em 6/11, em entrevista à Folha publicada pelo BNC Amazonas, disse não ter provas de fraude e que não vai contestar o resultado na Justiça. Em entrevista ao New York Times, segundo o Gizmodo Brasil, disse ter organizado sozinho a saída, sem ajuda de governos ou aliados, e que não revelará a rota.",
       "s": [
         [
           "Exame",
@@ -180,6 +188,10 @@
         [
           "Gizmodo Brasil",
           "https://www.gizmodo.com.br/flavio-bolsonaro-diz-que-levara-para-o-tumulo-segredo-sobre-sua-saida-do-pais-74315"
+        ],
+        [
+          "BNC Amazonas",
+          "https://bncamazonas.com.br/poder/nao-tenho-provas-admite-flavio-ao-insistir-em-questionar-urnas"
         ]
       ],
       "r": "\"Eu nunca falei isso\" deu lugar a uma carta que fala bastante. Do exílio autodeclarado, o \"verdadeiro presidente eleito\" virou \"líder do Brasil\" em poucas horas: o único cargo da República que se muda no corretor."
@@ -216,6 +228,34 @@
   "news": [
     {
       "d": "2026-11-07",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Tarcísio de Freitas",
+        "Rogério Marinho",
+        "Valdemar Costa Neto"
+      ],
+      "h": "Em entrevista à Folha, Flávio admite que não tem provas de fraude e diz que não vai contestar o resultado na Justiça",
+      "p": "Segundo o BNC Amazonas, ele disse \"Não tenho provas e nem terei\" e que a estratégia jurídica mira o uso da máquina pública por Lula; Tarcísio, Rogério Marinho e Valdemar Costa Neto criticaram a carta em que ele se dizia presidente eleito.",
+      "src": "BNC Amazonas",
+      "u": "https://bncamazonas.com.br/poder/nao-tenho-provas-admite-flavio-ao-insistir-em-questionar-urnas",
+      "r": "Da carta de \"presidente eleito\" ao \"não tenho provas e nem terei\" em nove dias. Rara campanha que se desmente sem precisar de ajuda do TSE."
+    },
+    {
+      "d": "2026-11-07",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Tarcísio de Freitas"
+      ],
+      "h": "Flávio diz que não concorda com o reconhecimento da vitória de Lula feito por Tarcísio e quer ser o candidato da direita em 2030",
+      "p": "Segundo A Notícia do Vale, ele disse não ser obrigado a concordar com tudo que o governador fala e que comunicou a ele a pretensão de disputar em 2030.",
+      "src": "A Notícia do Vale",
+      "u": "https://anoticiadovale.com/2026/11/07/flavio-admite-nao-ter-prova-de-fraude-critica-volta-de-jair-ao-brasil-e-diz-querer-2030-assim-como-tarcisio/",
+      "r": "Perdeu em 2026 e já reservou a vaga de 2030, avisando o colega de direita com antecedência. Planejamento de longo prazo, feito de longe."
+    },
+    {
+      "d": "2026-11-07",
       "g": "Música",
       "who": [
         "Gusttavo Lima",
@@ -239,9 +279,9 @@
       ],
       "h": "Flávio vai a um salão de Miami frequentado por famosos brasileiros, com corte a R$ 820, pouco antes da entrevista ao New York Times",
       "p": "Segundo o ND Mais, o salão é popular entre celebridades como Neymar; na entrevista, Flávio nega ter recebido ajuda de governos para chegar aos EUA.",
-      "r": "O segredo da rota vai para o túmulo, mas o preço do corte já está em reportagem. Prioridades de quem lidera a oposição de longe.",
       "src": "ND Mais",
-      "u": "https://ndmais.com.br/politica/flavio-bolsonaro-salao-luxo-eua-entrevista-new-york-times/"
+      "u": "https://ndmais.com.br/politica/flavio-bolsonaro-salao-luxo-eua-entrevista-new-york-times/",
+      "r": "O segredo da rota vai para o túmulo, mas o preço do corte já está em reportagem. Prioridades de quem lidera a oposição de longe."
     },
     {
       "d": "2026-11-06",
@@ -268,6 +308,21 @@
       "src": "Gizmodo Brasil",
       "u": "https://www.gizmodo.com.br/flavio-bolsonaro-diz-que-levara-para-o-tumulo-segredo-sobre-sua-saida-do-pais-74315",
       "r": "Diz que levará o segredo para o túmulo, mas o assunto já rendeu reportagem demais para caber num caixão."
+    },
+    {
+      "d": "2026-11-05",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Lula",
+        "Geraldo Alckmin",
+        "Partido Novo"
+      ],
+      "h": "Corregedor do TSE admite ações de Flávio e do Novo contra a chapa Lula-Alckmin por suposto abuso de poder e dá cinco dias para a defesa",
+      "p": "Segundo a SBT News, a Revista Fórum contabiliza 14 ações na corregedoria; admitir a ação não significa julgar o mérito.",
+      "src": "SBT News",
+      "u": "https://sbtnews.sbt.com.br/noticia/politica/tse-admite-acoes-contra-lula-alckmin-por-abuso-de-poder",
+      "r": "Catorze ações no TSE: o terceiro turno já tem mais protocolo do que a campanha teve de comício. Prazo de cinco dias, e a torcida contando nos dedos."
     },
     {
       "d": "2026-11-05",
@@ -338,19 +393,6 @@
       "r": "A prefeitura garante que a saída foi combinada com meses de antecedência, e o vídeo viral entra como mera trilha sonora. Refrão cantado em palanque tem validade: vai até o próximo contrato."
     },
     {
-      "d": "2026-10-30",
-      "g": "Flávio e campanha",
-      "who": [
-        "Nikolas Ferreira",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Nikolas não comenta a carta de Flávio e defende boicote a comércios ligados à esquerda, relata a Folha Press",
-      "p": "Em vídeo de 19 segundos no X, ele escreveu \"faz o L e engole o choro\"; o Ministério da Justiça notificou ao menos quatro empresas que teriam recusado atendimento a eleitores de Lula.",
-      "src": "Santa Portal",
-      "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/nikolas-ignora-carta-golpista-de-flavio-bolsonaro-e-defende-boicote-a-empresas-de-petistas/",
-      "r": "Silêncio sobre a carta do senador, barulho sobre o boicote. O país pediu pacificação e a oposição entregou um slogan de torcida."
-    },
-    {
       "d": "2026-11-02",
       "g": "Flávio e campanha",
       "who": [
@@ -391,6 +433,19 @@
       "src": "Estado de Minas",
       "u": "https://www.em.com.br/politica/2026/11/7531634-fuga-de-flavio-bolsonaro-do-pais-deixa-vacuo-na-lideranca-da-oposicao.html",
       "r": "Com o titular na Flórida, a vaga de líder da oposição virou concurso, e as colunas políticas já distribuíram o currículo de todo mundo. Falta combinar com a banca."
+    },
+    {
+      "d": "2026-10-30",
+      "g": "Flávio e campanha",
+      "who": [
+        "Nikolas Ferreira",
+        "Flávio Bolsonaro"
+      ],
+      "h": "Nikolas não comenta a carta de Flávio e defende boicote a comércios ligados à esquerda, relata a Folha Press",
+      "p": "Em vídeo de 19 segundos no X, ele escreveu \"faz o L e engole o choro\"; o Ministério da Justiça notificou ao menos quatro empresas que teriam recusado atendimento a eleitores de Lula.",
+      "src": "Santa Portal",
+      "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/nikolas-ignora-carta-golpista-de-flavio-bolsonaro-e-defende-boicote-a-empresas-de-petistas/",
+      "r": "Silêncio sobre a carta do senador, barulho sobre o boicote. O país pediu pacificação e a oposição entregou um slogan de torcida."
     },
     {
       "d": "2026-10-30",
@@ -551,10 +606,10 @@
       ],
       "h": "CNN: Flávio entrou em Miami com o passaporte diplomático que a PF havia cancelado na véspera",
       "p": "A entrada consta de registros da agência americana de fronteiras; fontes da CNN dizem que ele antes passou pela Argentina com passaporte italiano e seguiu em voo privado; não há declaração dele nem da defesa.",
-      "r": "Passaporte cancelado, passaporte italiano, voo privado: a viagem tem mais documento do que a carta tem prova. Pelo menos desta vez o carimbo apareceu.",
       "src": "CNN Brasil",
       "u": "https://www.cnnbrasil.com.br/internacional/flavio-bolsonaro-entrou-nos-eua-com-passaporte-diplomatico-que-pf-cancelou/",
-      "check": true
+      "check": true,
+      "r": "Passaporte cancelado, passaporte italiano, voo privado: a viagem tem mais documento do que a carta tem prova. Pelo menos desta vez o carimbo apareceu."
     },
     {
       "d": "2026-10-28",
@@ -565,9 +620,9 @@
       ],
       "h": "Depois da carta de Flávio, presidente do TSE diz que a eleição ocorreu \"dentro da mais absoluta normalidade\"",
       "p": "Kassio Nunes Marques afirmou que questionamentos feitos por meios legais serão analisados e respondidos.",
-      "r": "A carta pedia o mundo em alerta e o TSE respondeu com um \"tá tudo normal\" em formato de nota. Entre o drama e o protocolo, venceu o protocolo.",
       "src": "BNews",
-      "u": "https://www.bnewsrn.com.br/noticias/politica/apos-carta-de-flavio-bolsonaro-com-acusacao-de-fraude-presidente-do-tse-afirma-que-eleicao-foi-normal.html"
+      "u": "https://www.bnewsrn.com.br/noticias/politica/apos-carta-de-flavio-bolsonaro-com-acusacao-de-fraude-presidente-do-tse-afirma-que-eleicao-foi-normal.html",
+      "r": "A carta pedia o mundo em alerta e o TSE respondeu com um \"tá tudo normal\" em formato de nota. Entre o drama e o protocolo, venceu o protocolo."
     },
     {
       "d": "2026-10-28",
@@ -579,9 +634,9 @@
       ],
       "h": "Trump diz ter autorizado a entrada de Flávio nos EUA, mas não quer comentar a carta; Tarcísio defende respeitar as urnas",
       "p": "Segundo o Metrópoles, Trump disse \"Não vou me envolver\" e chamou a eleição de \"muito estranha\", sem apresentar provas.",
-      "r": "Trump abre a porta, mas na hora da carta vira o porteiro: \"não vou me envolver\". Tarcísio, por sua vez, descobriu o respeito às urnas na quarta-feira.",
       "src": "Metrópoles",
-      "u": "https://www.metropoles.com/colunas/matheus-leitao/cade-os-aliados-de-flavio-trump-kassio-e-tarcisio-deixam-senador-so"
+      "u": "https://www.metropoles.com/colunas/matheus-leitao/cade-os-aliados-de-flavio-trump-kassio-e-tarcisio-deixam-senador-so",
+      "r": "Trump abre a porta, mas na hora da carta vira o porteiro: \"não vou me envolver\". Tarcísio, por sua vez, descobriu o respeito às urnas na quarta-feira."
     },
     {
       "d": "2026-10-28",
@@ -594,9 +649,9 @@
       ],
       "h": "Em carta divulgada nos EUA, Flávio se diz \"verdadeiro presidente eleito do Brasil\"; o trecho foi trocado depois por \"líder do Brasil\"",
       "p": "Segundo o Metrópoles, ele agradece a Trump e a Milei, acusa Zanin e Moraes e diz que vai liderar a oposição de lá; o TSE registrou cerca de 34 mil votos depois das 17h, e o resultado foi reconhecido pelo Judiciário e pelo PL.",
-      "r": "Rebaixado de \"presidente eleito\" a \"líder do Brasil\" sem nem tomar posse: a carreira mais veloz da República, concluída por edição de texto.",
       "src": "Metrópoles",
-      "u": "https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil"
+      "u": "https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil",
+      "r": "Rebaixado de \"presidente eleito\" a \"líder do Brasil\" sem nem tomar posse: a carreira mais veloz da República, concluída por edição de texto."
     },
     {
       "d": "2026-10-28",
@@ -607,9 +662,9 @@
       ],
       "h": "PF diz que a ordem sobre os passaportes de Flávio não autorizava prisão e não o torna foragido",
       "p": "Em nota, a PF afirma que cancelou os passaportes e que não há registro oficial de saída pelos postos de migração; investiga o descumprimento da ordem de entregar outros passaportes.",
-      "r": "A PF precisou explicar que ordem sobre passaporte não é ordem de prisão. Em Brasília, até a nota oficial agora vem com legenda para quem chegou atrasado na novela.",
       "src": "Poder360",
-      "u": "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/"
+      "u": "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/",
+      "r": "A PF precisou explicar que ordem sobre passaporte não é ordem de prisão. Em Brasília, até a nota oficial agora vem com legenda para quem chegou atrasado na novela."
     },
     {
       "d": "2026-10-28",
@@ -621,9 +676,9 @@
       ],
       "h": "Malafaia defende a ida de Flávio aos EUA: \"Ficasse para ser preso?\"",
       "p": "Em vídeo, acusa Moraes de perseguição política; o Jornal de Brasília observa que são alegações dele e que o vídeo não mostra ordem de prisão contra Flávio.",
-      "r": "Malafaia já criticou a viagem de Bolsonaro aos EUA e agora a defende. Em política, convicção tem prazo de validade e o dele venceu rápido.",
       "src": "Jornal de Brasília",
-      "u": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/silas-malafaia-defende-fuga-de-flavio-bolsonaro-ficasse-para-ser-preso/"
+      "u": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/silas-malafaia-defende-fuga-de-flavio-bolsonaro-ficasse-para-ser-preso/",
+      "r": "Malafaia já criticou a viagem de Bolsonaro aos EUA e agora a defende. Em política, convicção tem prazo de validade e o dele venceu rápido."
     },
     {
       "d": "2026-10-28",
@@ -719,46 +774,6 @@
       "src": "CNN Brasil",
       "u": "https://www.cnnbrasil.com.br/politica/autoridade-dos-eua-diz-a-reuters-que-flavio-esta-a-caminho-do-pais/",
       "r": "Da urna ao aeroporto, só o suspense chegou na hora. A Reuters ao menos avisou o que não sabe, coisa rara na reta final."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "h": "Aliados dizem que Flávio deixou o Brasil; entenda o que se sabe e o que não foi confirmado",
-      "p": "A defesa diz que o último contato foi na segunda, às 16h30; o governo argentino nega que ele tenha entrado no país.",
-      "src": "CNN Brasil",
-      "u": "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/",
-      "r": "Quando até o relato dos aliados vem com ressalva, o bolsonarismo descobre o que é checar antes de publicar."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes",
-        "Eduardo Bolsonaro"
-      ],
-      "h": "PF disse a Moraes haver risco concreto de Flávio sair do país ao pedir a apreensão do passaporte",
-      "p": "A PF citou a saída do advogado Willer Tomaz em agosto e a permanência de Eduardo nos EUA; Moraes cancelou os passaportes brasileiros.",
-      "src": "Jornal de Brasília",
-      "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/",
-      "r": "A PF citou Eduardo e Willer Tomaz como exemplos; o time Bolsonaro, que costuma reclamar de perseguição, agora tem que explicar as próprias referências."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes"
-      ],
-      "h": "PF cancela os passaportes de Flávio, inclusive o diplomático, e apura se ele deixou o país",
-      "p": "A medida vem de ordem de Moraes depois que o prazo para a entrega terminou sem o senador aparecer; a reportagem diz que o paradeiro não está confirmado e não há mandado de prisão.",
-      "src": "CNN Brasil",
-      "u": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/",
-      "r": "A entrega dos passaportes virou o prazo mais acompanhado do país desde a prorrogação da votação. Até agora, só o suspense cumpriu o horário."
     }
   ]
 }
