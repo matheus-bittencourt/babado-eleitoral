@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-10T10:04:55-03:00",
-  "updated_label": "10/11/2026, 10h",
+  "updated": "2026-11-11T17:45:18-03:00",
+  "updated_label": "11/11/2026, 17h",
   "news": [
+    {
+      "d": "2026-11-11",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Casa Civil"
+      ],
+      "h": "Sem equipe de transição, Casa Civil pede relatórios a 38 ministérios para planejar o quarto mandato",
+      "p": "Segundo o Piranot, por ser reeleição não haverá equipe formal de transição, e a reorganização fica por conta do corpo técnico do próprio governo.",
+      "src": "Piranot",
+      "u": "https://www.piranot.com.br/2026/11/11/noticias/politica/eleicoes/casa-civil-relatorios-ministerios-mandato-lula/",
+      "r": "Transição sem equipe de transição: o governo conta o que fez em 38 relatórios e ainda sobra capítulo para o que vem a seguir."
+    },
+    {
+      "d": "2026-11-10",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "Lula mantém suspense sobre os ministros do próximo mandato, e a lista de cotados só cresce, diz O Tempo",
+      "p": "Segundo o jornal, os nomes principais devem sair só no fim de novembro, depois da viagem internacional; Alckmin aparece em conversas sobre quatro pastas, sem ter apresentado pleitos.",
+      "src": "O Tempo",
+      "u": "https://www.otempo.com.br/politica/governo/2026/11/10/lula-esconde-o-jogo-sobre-ministros-do-proximo-mandato-e-cotados-se-acumulam-veja-nomes",
+      "r": "Alckmin cotado para quatro ministérios sem ter pedido nenhum: o vice virou a vaga que todo mundo quer preencher com ele."
+    },
     {
       "d": "2026-11-09",
       "g": "Lula e governo",
@@ -14,20 +40,6 @@
       "src": "O Antagonista",
       "u": "https://oantagonista.com.br/brasil/lula-viaja-a-cop-31-e-deixa-alckmin-sob-pressao-por-ministerios/",
       "r": "Lula embarca para Turquia e Filipinas, Alckmin fica no leme e a fila do ministério ganha mais uma semana de suspense."
-    },
-    {
-      "d": "2026-11-07",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Geraldo Alckmin",
-        "PT"
-      ],
-      "h": "Governo e PT tratam as ações no TSE como \"não assunto\", diz coluna do SBT News",
-      "p": "Segundo a coluna, o Planalto e o partido não demonstram preocupação com a possibilidade de cassação, e ministros do tribunal avaliam que as ações devem ser arquivadas; não há decisão.",
-      "src": "SBT News",
-      "u": "https://sbtnews.sbt.com.br/colunas/coluna-da-carla/ministros-do-tse-nao-creem-em-punicao-de-chapa-lula-alckmin",
-      "r": "Para o governo, 39 ações no TSE são \"não assunto\"; os 40 ministérios do quarto mandato, esses sim, rendem reunião."
     },
     {
       "d": "2026-11-09",
@@ -53,6 +65,20 @@
       "src": "TV Sim Brasil",
       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/08/lula-planeja-remodelar-gabinete-pessoal-poder-janja",
       "r": "Redes do presidente indo para o Gabinete Pessoal e a Secom virando segunda tela. O Planalto decide tudo por engajamento agora, e o ministério que se vire com o algoritmo."
+    },
+    {
+      "d": "2026-11-07",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin",
+        "PT"
+      ],
+      "h": "Governo e PT tratam as ações no TSE como \"não assunto\", diz coluna do SBT News",
+      "p": "Segundo a coluna, o Planalto e o partido não demonstram preocupação com a possibilidade de cassação, e ministros do tribunal avaliam que as ações devem ser arquivadas; não há decisão.",
+      "src": "SBT News",
+      "u": "https://sbtnews.sbt.com.br/colunas/coluna-da-carla/ministros-do-tse-nao-creem-em-punicao-de-chapa-lula-alckmin",
+      "r": "Para o governo, 39 ações no TSE são \"não assunto\"; os 40 ministérios do quarto mandato, esses sim, rendem reunião."
     },
     {
       "d": "2026-11-07",
@@ -515,32 +541,6 @@
       "r": "Felipe Neto pulou na piscina para comemorar. Primeira vez em anos que ele mergulha em alguma coisa sem abrir uma treta no X antes.",
       "src": "ND Mais",
       "u": "https://ndmais.com.br/politica/artistas-celebram-a-vitoria-de-lula-nas-redes-sociais/"
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Lula e governo",
-      "who": [
-        "Lula"
-      ],
-      "h": "No discurso da vitória, Lula promete governar para todos e regulamentar as plataformas digitais",
-      "p": "Defendeu diálogo com um Congresso mais conservador, \"foi o povo que escolheu\", e acusou plataformas estrangeiras de tentar influenciar o resultado, o que a reportagem diz não ter sido demonstrado.",
-      "r": "Prometeu governar para todos e, no mesmo fôlego, avisou que o Congresso não foi escolha dele. A lua de mel com o Legislativo durou menos que o discurso.",
-      "src": "Tribuna de Jundiaí",
-      "u": "https://tribunadejundiai.com.br/politica/eleicoes-2026/lula-reeleicao-discurso-plataformas-digitais/"
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Música",
-      "who": [
-        "Jão",
-        "Emicida",
-        "Jota.pê"
-      ],
-      "h": "Jão, Emicida e Jota.pê comemoram a reeleição de Lula na Avenida Paulista",
-      "p": "No sábado anterior, Jão subiu num trio com Manu Gavassi, Luedji Luna e Caio Blat no ato pela democracia.",
-      "r": "Jão foi ao ato no sábado e à festa no domingo. Se tiver posse em janeiro, já pode pedir crachá de staff.",
-      "src": "POPline",
-      "u": "https://portalpopline.com.br/jao-emicida-jota-pe-comemoram-reeleicao-lula-avenida-paulista/"
     }
   ]
 }

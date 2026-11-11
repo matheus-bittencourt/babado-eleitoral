@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T10:04:55-03:00",
-  "updated_label": "10/11/2026, 10h",
+  "updated": "2026-11-11T17:45:18-03:00",
+  "updated_label": "11/11/2026, 17h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -226,6 +226,33 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-11-11",
+      "g": "Flávio e campanha",
+      "who": [
+        "Nikolas Ferreira",
+        "Hugo Motta"
+      ],
+      "h": "Nikolas rejeita apoio a Motta e defende que o PL tenha nome próprio na disputa pela Presidência da Câmara",
+      "p": "Segundo o Metrópoles, ele criticou a gestão de Motta e disse que o presidente da Câmara tomou posição veemente de apoio a Lula na eleição; a afirmação é dele.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/brasil/nikolas-rejeita-apoio-a-motta-e-defende-nome-do-pl-a-presidencia-da-camara",
+      "r": "Nikolas recusa o acordo com Motta e quer nome próprio: o PL tem a maior bancada e agora precisa de alguém que queira ser o nome."
+    },
+    {
+      "d": "2026-11-11",
+      "g": "Flávio e campanha",
+      "who": [
+        "Hugo Motta",
+        "Nikolas Ferreira",
+        "Valdemar Costa Neto"
+      ],
+      "h": "Sem consenso, bancada do PL adia decisão sobre apoiar a reeleição de Hugo Motta na Câmara",
+      "p": "Segundo a CNN Brasil, na primeira reunião da bancada eleita o partido não definiu se lança candidato próprio ou apoia Motta, e o impasse interno segue.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/politica/sem-consenso-pl-adia-decisao-sobre-apoio-a-reeleicao-de-hugo-motta/",
+      "r": "A reunião marcada para decidir terminou decidindo marcar outra: no PL, o consenso também passa por segundo turno."
+    },
     {
       "d": "2026-11-09",
       "g": "Flávio e campanha",
@@ -752,32 +779,6 @@
       "u": "https://www.correiobraziliense.com.br/politica/2026/10/7529196-flavio-bolsonaro-teria-chegado-aos-eua-pela-florida-diz-bbc.html",
       "check": true,
       "r": "Em quatro dias, a pauta foi de anulação para cassação, passaporte e Flórida. O condicional \"teria chegado\" está trabalhando mais que muito assessor de campanha."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes"
-      ],
-      "h": "Especialistas ouvidos pela CNN dizem que uma eventual saída de Flávio do país poderia justificar prisão preventiva",
-      "p": "Moraes ainda não decretou a prisão; a avaliação é de juristas e não uma decisão.",
-      "src": "CNN Brasil",
-      "u": "https://www.cnnbrasil.com.br/politica/fuga-de-flavio-pode-motivar-prisao-preventiva-dizem-especialistas/",
-      "r": "O debate sobre o que fazer já está pronto; falta só confirmar o que aconteceu. Em Brasília, a hipótese costuma chegar antes do fato e com mais convidados."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Fontes ligadas à PF dizem à Gazeta do Povo que Flávio deixou o Brasil rumo aos EUA",
-      "p": "Uma fonte próxima ao senador falou em Miami e pedido de asilo; a reportagem trata tudo como preliminar e não traz declaração direta de Flávio. Marinho e Eduardo negam.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/republica/pf-confirma-flavio-bolsonaro-deixou-brasil/",
-      "check": true,
-      "r": "Primeiro era o rumor, depois o desmentido, agora a \"fonte próxima\": só falta alguém dizer em que fuso horário o senador está se explicando."
     }
   ]
 }
