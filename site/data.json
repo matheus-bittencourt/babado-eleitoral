@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T17:45:18-03:00",
-  "updated_label": "11/11/2026, 17h",
+  "updated": "2026-11-12T10:03:12-03:00",
+  "updated_label": "12/11/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -230,6 +230,32 @@
       "d": "2026-11-11",
       "g": "Flávio e campanha",
       "who": [
+        "Flávio Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "h": "Ativista democrata americano critica Flávio por se fazer de vítima nos EUA e quer cortar o que, diz ele, banca os irmãos",
+      "p": "Segundo o Metrópoles, Isaiah Martin, opositor de Trump, fez as críticas nas redes e afirmou que Trump financia o estilo de vida dos irmãos; a afirmação é dele, e o texto não registra reação dos Bolsonaro.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/mundo/ativista-democrata-acusa-flavio-bolsonaro-de-se-fazer-de-vitima-nos-eua",
+      "r": "Flávio chegou aos EUA para liderar a oposição e já ganhou uma oposição só para ele, de brinde. Ninguém disse que exílio vinha sem caixa de comentários."
+    },
+    {
+      "d": "2026-11-11",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Flávio Dino"
+      ],
+      "h": "Blog relata inquérito da PF, aberto por ordem de Dino, sobre possível dinheiro estrangeiro na campanha de Flávio",
+      "p": "Segundo o Claudio Dantas, a apuração trata de suspeita, sem conclusão, e inclui a viagem aos EUA; a informação não foi confirmada por outro veículo na nossa checagem.",
+      "src": "Claudio Dantas",
+      "u": "https://claudiodantas.com.br/pf-investiga-suspeita-de-dinheiro-estrangeiro-na-campanha-de-flavio",
+      "r": "Inquérito não é condenação, e por ora o que existe é suspeita, um blog e a promessa de capítulo novo. Quem gosta de suspense já pode abrir a pipoca."
+    },
+    {
+      "d": "2026-11-11",
+      "g": "Flávio e campanha",
+      "who": [
         "Nikolas Ferreira",
         "Hugo Motta"
       ],
@@ -341,6 +367,20 @@
       "src": "Metrópoles",
       "u": "https://www.metropoles.com/entretenimento/nordeste-pagou-r-38-milhoes-a-sertanejos-que-apoiaram-flavio-bolsonaro",
       "r": "Palanque de um lado, agenda de prefeitura do outro: o sertanejo é de direita, mas o cachê é suprapartidário. A sofrência agora vem em nota de empenho."
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Davi Alcolumbre",
+        "Randolfe Rodrigues"
+      ],
+      "h": "Dez dias depois da viagem de Flávio, Senado segue sem dizer como trata ausência, faltas e salário dele",
+      "p": "Segundo a Agência Brasil, a Mesa não respondeu às perguntas; Randolfe pediu esclarecimento e Alcolumbre disse que vai analisar. Há ação popular na Justiça Federal do Rio contra os pagamentos ao senador.",
+      "src": "Agência Brasil",
+      "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/sem-posicao-do-senado-regras-sobre-flavio-seguem-indefinidas",
+      "r": "O Senado tem regimento grosso para tudo, menos para este caso, que ganhou o botão de silenciar. O voto chegou pelo aplicativo; a Mesa é que ainda está sem sinal."
     },
     {
       "d": "2026-11-06",
@@ -736,49 +776,6 @@
       "src": "Poder360",
       "u": "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/",
       "r": "A PF precisou explicar que ordem sobre passaporte não é ordem de prisão. Em Brasília, até a nota oficial agora vem com legenda para quem chegou atrasado na novela."
-    },
-    {
-      "d": "2026-10-28",
-      "g": "Religiosos",
-      "who": [
-        "Silas Malafaia",
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes"
-      ],
-      "h": "Malafaia defende a ida de Flávio aos EUA: \"Ficasse para ser preso?\"",
-      "p": "Em vídeo, acusa Moraes de perseguição política; o Jornal de Brasília observa que são alegações dele e que o vídeo não mostra ordem de prisão contra Flávio.",
-      "src": "Jornal de Brasília",
-      "u": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/silas-malafaia-defende-fuga-de-flavio-bolsonaro-ficasse-para-ser-preso/",
-      "r": "Malafaia já criticou a viagem de Bolsonaro aos EUA e agora a defende. Em política, convicção tem prazo de validade e o dele venceu rápido."
-    },
-    {
-      "d": "2026-10-28",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Eduardo Bolsonaro",
-        "Alexandre de Moraes"
-      ],
-      "h": "Gazeta do Povo diz que Flávio foi de jatinho à Argentina e seguiu para Miami, onde o irmão o recebeu",
-      "p": "A reportagem não traz declaração de Flávio nem da defesa e aponta divergências sobre como ele cruzou a fronteira; o PT pediu a prisão preventiva e Moraes não decidiu.",
-      "src": "Gazeta do Povo",
-      "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-desembarca-nos-estados-unidos-apos-proibicao-judicial/",
-      "check": true,
-      "r": "A novela do passaporte ganhou o capítulo de jatinho e Miami, contado por fontes, enquanto a versão oficial do protagonista segue em modo avião."
-    },
-    {
-      "d": "2026-10-28",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "h": "BBC relata que Flávio chegou à Flórida; rota e passaporte usado seguem sem confirmação oficial",
-      "p": "Segundo o Correio Braziliense, fontes da PF falam em passaporte italiano e o relato do encontro com Eduardo é tratado como não verificado; criminalistas dizem que ele só seria foragido com ordem de prisão.",
-      "src": "Correio Braziliense",
-      "u": "https://www.correiobraziliense.com.br/politica/2026/10/7529196-flavio-bolsonaro-teria-chegado-aos-eua-pela-florida-diz-bbc.html",
-      "check": true,
-      "r": "Em quatro dias, a pauta foi de anulação para cassação, passaporte e Flórida. O condicional \"teria chegado\" está trabalhando mais que muito assessor de campanha."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T17:45:18-03:00",
-  "updated_label": "11/11/2026, 17h",
+  "updated": "2026-11-12T10:03:12-03:00",
+  "updated_label": "12/11/2026, 10h",
   "news": [
     {
       "d": "2026-11-11",
@@ -173,6 +173,20 @@
       "src": "A Notícia do Vale",
       "u": "https://anoticiadovale.com/2026/11/05/pt-pede-a-partidos-planos-para-ministerios-e-estimativa-de-votos-para-desenhar-governo-lula-4/",
       "r": "Candidato a ministro agora entrega plano de trabalho e contagem de votos. Em Brasília, o currículo virou prova com gabarito, e a planilha de votos é o critério de desempate."
+    },
+    {
+      "d": "2026-11-04",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Camilo Santana",
+        "Fernando Haddad"
+      ],
+      "h": "Lula começa a desenhar a reforma ministerial logo depois da vitória, e Camilo Santana e Haddad aparecem como cotados",
+      "p": "Segundo a TV Sim Brasil, as primeiras definições são esperadas na segunda quinzena de novembro, e aliados dizem que as articulações estão em fase inicial.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/04/lula-articula-reforma-ministerial-camilo-santana-haddad",
+      "r": "Quarto mandato e a lista de cotados já está mais cheia que reunião de condomínio. Em Brasília, 'fase inicial' costuma durar até o decreto sair no Diário Oficial."
     },
     {
       "d": "2026-11-04",
@@ -527,20 +541,6 @@
       "r": "Chico, Caetano e Gil postando na mesma noite: a MPB não se reunia tão afinada desde os festivais da Record. Só faltou o júri.",
       "src": "Poder360",
       "u": "https://www.poder360.com.br/poder-eleicoes-2026/artistas-e-atletas-comemoram-vitoria-de-lula-no-2o-turno/"
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Influenciadores",
-      "who": [
-        "Felipe Neto",
-        "Sophia Abrahão",
-        "Juliano Floss"
-      ],
-      "h": "Felipe Neto comemora com amigos e pula na piscina depois da vitória de Lula",
-      "p": "Na legenda, pediu que o \"grito de felicidade\" fosse ouvido em toda a nação; Sophia Abrahão e Juliano Floss também postaram.",
-      "r": "Felipe Neto pulou na piscina para comemorar. Primeira vez em anos que ele mergulha em alguma coisa sem abrir uma treta no X antes.",
-      "src": "ND Mais",
-      "u": "https://ndmais.com.br/politica/artistas-celebram-a-vitoria-de-lula-nas-redes-sociais/"
     }
   ]
 }
