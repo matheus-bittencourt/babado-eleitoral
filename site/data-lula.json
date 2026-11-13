@@ -1,7 +1,34 @@
 {
-  "updated": "2026-11-12T10:03:12-03:00",
-  "updated_label": "12/11/2026, 10h",
+  "updated": "2026-11-13T10:06:21-03:00",
+  "updated_label": "13/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-13",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Hugo Motta",
+        "Ricardo Barros"
+      ],
+      "h": "PP e Republicanos, que apoiaram Flávio no 2º turno, pedem ministérios maiores no governo Lula 4, como a Saúde",
+      "p": "Segundo a TV Sim Brasil, o PP articula a Saúde, com nome ligado a Ricardo Barros, e o Republicanos quer uma segunda pasta; o PT prefere manter o Desenvolvimento Social com petistas, e a Esplanada deve chegar a 40 ministérios.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/13/pp-republicanos-miram-ministerios-no-governo-lula-4-esplanada",
+      "r": "Torceram por Flávio no segundo turno e já mandam o currículo da Saúde ao Planalto. Em Brasília, a fidelidade tem prazo de validade, e o prazo é o tamanho da pasta."
+    },
+    {
+      "d": "2026-11-10",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Erdogan"
+      ],
+      "h": "Em Antalya, Lula e Erdogan falam de defesa, comércio e minerais críticos à margem da COP31",
+      "p": "Segundo a Band, a defesa foi tema central e os dois acertaram ampliar o comércio e uma visita de Erdogan ao Brasil; a escolha do sucessor de Múcio na Defesa ainda não foi anunciada.",
+      "src": "Band",
+      "u": "https://www.band.com.br/internacional/lula-e-erdogan-discutem-comercio-defesa-e-parceria-sobre-minerais-criticos",
+      "r": "Ainda sem dizer quem comanda a Defesa no quarto mandato, o presidente já negocia defesa com a Turquia: a diplomacia passa na frente do organograma."
+    },
     {
       "d": "2026-11-11",
       "g": "Lula e governo",
@@ -512,35 +539,6 @@
       "src": "Metrópoles",
       "u": "https://www.metropoles.com/brasil/reeleito-lula-podera-indicar-4-ministros-ao-stf-e-6-ao-stj",
       "r": "Ainda nem tomou posse do quarto mandato e Lula já tem uma lista de cadeiras para preencher. Em Brasília, a fila de quem jura ser só técnico já dobra o quarteirão."
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Música",
-      "who": [
-        "Anitta"
-      ],
-      "h": "Anitta comemora a reeleição, mas lamenta a divisão do país e manda cobrar os políticos",
-      "p": "Em vídeos nas redes, disse que, com tanto ódio, \"ninguém ganha realmente\" e que deputados e senadores \"têm que trabalhar por nós\".",
-      "r": "Comemorou, ficou triste e cobrou deputado, tudo na mesma sequência de stories. Anitta é a única eleitora que começa o mandato já fazendo oposição.",
-      "src": "Alô Alô Bahia",
-      "u": "https://aloalobahia.com/noticias/2026/10/26/anitta-reage-apos-resultado-das-eleicoes-os-politicos-tem-que-trabalhar-por-nos/"
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Música",
-      "who": [
-        "Chico Buarque",
-        "Caetano Veloso",
-        "Gilberto Gil",
-        "Paulinho da Viola",
-        "Bruna Marquezine",
-        "Richarlison"
-      ],
-      "h": "Chico, Caetano, Gil, Marquezine e Richarlison celebram a vitória de Lula nas redes",
-      "p": "A lista do Poder360 inclui ainda Pedro Sampaio, Alcione, Marieta Severo e a atriz americana Viola Davis.",
-      "r": "Chico, Caetano e Gil postando na mesma noite: a MPB não se reunia tão afinada desde os festivais da Record. Só faltou o júri.",
-      "src": "Poder360",
-      "u": "https://www.poder360.com.br/poder-eleicoes-2026/artistas-e-atletas-comemoram-vitoria-de-lula-no-2o-turno/"
     }
   ]
 }
