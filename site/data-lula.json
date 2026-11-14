@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-13T10:06:21-03:00",
-  "updated_label": "13/11/2026, 10h",
+  "updated": "2026-11-14T10:04:03-03:00",
+  "updated_label": "14/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-13",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "TSE dá três dias para Lula e Alckmin explicarem gastos da campanha de 2026",
+      "p": "Segundo O Tempo, trata-se de pedido de esclarecimentos sobre a prestação de contas; a notícia não indica julgamento nem irregularidade comprovada.",
+      "src": "O Tempo",
+      "u": "https://otempo.com.br/politica/congresso/2026/11/13/tse-da-tres-dias-para-lula-e-alckmin-explicarem-gastos-da-campanha-de-2026",
+      "r": "Três dias para explicar a conta: é o boleto mais urgente do quarto mandato, e olha que a posse nem chegou. Pedir esclarecimento não é condenação, mas o PT vai caçar recibo com pressa de fim de mês."
+    },
+    {
+      "d": "2026-11-13",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "Com dívida de R$ 11,1 tri, Lula decide o ministro da Fazenda entre quatro nomes, diz reportagem",
+      "p": "Segundo a TV Sim Brasil, a escolha deve vir depois da volta de Lula da viagem à Turquia e às Filipinas, prevista para segunda (16).",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/13/divida-11-1-tri-lula-decide-ministro-fazenda-4-nomes",
+      "r": "Quatro nomes, uma vaga e R$ 11,1 trilhões de dívida: o concurso mais concorrido da Esplanada tem prova prática de herdar a conta."
+    },
     {
       "d": "2026-11-13",
       "g": "Lula e governo",
@@ -513,32 +539,6 @@
       "r": "Aos 81 anos, transformou a própria festa de aniversário em aula sobre passaporte alheio. Parabéns pra você, nesta data querida, e o resto do país que tire as conclusões.",
       "src": "Terra",
       "u": "https://www.terra.com.br/noticias/brasil/politica/lula-diz-que-flavio-sair-do-brasil-e-vergonhoso-quando-pediram-meu-passaporte-entreguei,d19f9efcfc83fec7cdd8a0e8c40f063favzo16et.html"
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Janja",
-        "Geraldo Alckmin"
-      ],
-      "h": "Lula comemora 81 anos no Alvorada com bolo, trio elétrico e choro ao lembrar de idosos indo votar",
-      "p": "Mais de 2 mil pessoas, segundo a reportagem; chegou num carrinho de golfe dirigido por Janja e pediu: \"Precisamos acabar com o ódio nesse país\".",
-      "r": "Pediu o fim do ódio em cima de um trio elétrico, com microfone e banda ao vivo. Nada diz \"vamos baixar a temperatura\" como um carnaval no estacionamento do palácio.",
-      "src": "Bahia Notícias",
-      "u": "https://www.bahianoticias.com.br/noticia/323067-lula-comemora-81-anos-com-musica-bolo-militantes-e-choro-ao-lembrar-dos-velhinhos-indo-votar-no-2o-turno"
-    },
-    {
-      "d": "2026-10-26",
-      "g": "Lula e governo",
-      "who": [
-        "Lula"
-      ],
-      "h": "Reeleito, Lula pode indicar quatro ministros ao STF e seis ao STJ até o fim do mandato",
-      "p": "A vaga de Barroso segue aberta depois que o Senado rejeitou Jorge Messias; o STJ terá duas vagas até o fim do ano.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/brasil/reeleito-lula-podera-indicar-4-ministros-ao-stf-e-6-ao-stj",
-      "r": "Ainda nem tomou posse do quarto mandato e Lula já tem uma lista de cadeiras para preencher. Em Brasília, a fila de quem jura ser só técnico já dobra o quarteirão."
     }
   ]
 }

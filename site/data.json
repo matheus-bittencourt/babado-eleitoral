@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T10:06:21-03:00",
-  "updated_label": "13/11/2026, 10h",
+  "updated": "2026-11-14T10:04:03-03:00",
+  "updated_label": "14/11/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -226,6 +226,30 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-11-13",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Em fala à Reuters, Flávio diz estar pronto para voltar ao Brasil e disputar de novo, e segue reivindicando o título de presidente eleito",
+      "p": "Segundo a CartaCapital, ele não revelou com quem se reuniu em Washington nem quem ajudou a organizar a viagem da família; o relato sobre a fala à Reuters vem da reportagem.",
+      "src": "CartaCapital",
+      "u": "https://www.cartacapital.com.br/politica/nos-eua-flavio-bolsonaro-fantasia-com-nova-eleicao-e-reivindica-titulo-de-presidente-eleito/",
+      "r": "Não reconhece a eleição que perdeu, mas já avisa que topa disputar a próxima. É a pré-campanha mais antecipada do país, e o título de presidente eleito continua só no papel dele."
+    },
+    {
+      "d": "2026-11-12",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Reportagem lembra que Flávio prometeu respeitar o resultado três vezes antes de contestar a eleição",
+      "p": "Segundo o título da TV Sim Brasil, foram três promessas de respeitar o resultado feitas antes da contestação.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/12/flavio-prometeu-respeitar-resultado-3-vezes-contesta-eleicao",
+      "r": "Prometeu respeitar o resultado três vezes e cumpriu com o rigor de promessa de ano novo: a intenção era sincera até o placar sair."
+    },
     {
       "d": "2026-11-12",
       "g": "Flávio e campanha",
@@ -749,33 +773,6 @@
       "u": "https://www.cnnbrasil.com.br/internacional/flavio-bolsonaro-entrou-nos-eua-com-passaporte-diplomatico-que-pf-cancelou/",
       "check": true,
       "r": "Passaporte cancelado, passaporte italiano, voo privado: a viagem tem mais documento do que a carta tem prova. Pelo menos desta vez o carimbo apareceu."
-    },
-    {
-      "d": "2026-10-28",
-      "g": "Flávio e campanha",
-      "who": [
-        "Kassio Nunes Marques",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Depois da carta de Flávio, presidente do TSE diz que a eleição ocorreu \"dentro da mais absoluta normalidade\"",
-      "p": "Kassio Nunes Marques afirmou que questionamentos feitos por meios legais serão analisados e respondidos.",
-      "src": "BNews",
-      "u": "https://www.bnewsrn.com.br/noticias/politica/apos-carta-de-flavio-bolsonaro-com-acusacao-de-fraude-presidente-do-tse-afirma-que-eleicao-foi-normal.html",
-      "r": "A carta pedia o mundo em alerta e o TSE respondeu com um \"tá tudo normal\" em formato de nota. Entre o drama e o protocolo, venceu o protocolo."
-    },
-    {
-      "d": "2026-10-28",
-      "g": "Flávio e campanha",
-      "who": [
-        "Donald Trump",
-        "Tarcísio de Freitas",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Trump diz ter autorizado a entrada de Flávio nos EUA, mas não quer comentar a carta; Tarcísio defende respeitar as urnas",
-      "p": "Segundo o Metrópoles, Trump disse \"Não vou me envolver\" e chamou a eleição de \"muito estranha\", sem apresentar provas.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/colunas/matheus-leitao/cade-os-aliados-de-flavio-trump-kassio-e-tarcisio-deixam-senador-so",
-      "r": "Trump abre a porta, mas na hora da carta vira o porteiro: \"não vou me envolver\". Tarcísio, por sua vez, descobriu o respeito às urnas na quarta-feira."
     }
   ]
 }
