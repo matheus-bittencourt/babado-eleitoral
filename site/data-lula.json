@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-14T10:04:03-03:00",
-  "updated_label": "14/11/2026, 10h",
+  "updated": "2026-11-15T10:03:03-03:00",
+  "updated_label": "15/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-13",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Depois da Turquia, Lula chega às Filipinas para a cúpula da Asean, em viagem que marca 80 anos de relações diplomáticas",
+      "p": "Segundo a CNN Brasil, a viagem faz parte da aposta em diversificar parceiros comerciais depois do tarifaço de Trump.",
+      "r": "Lula abre o quarto mandato com mais carimbos no passaporte do que nomes anunciados no ministério.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/internacional/depois-da-turquia-lula-chega-as-filipinas-para-cupula-da-asean/"
+    },
     {
       "d": "2026-11-13",
       "g": "Lula e governo",
@@ -526,19 +538,6 @@
       "r": "Governo novo, mas o assunto que sobra é quem fica perto do presidente. Reforma ministerial em Brasília sempre começa pelo cargo que tem acesso à agenda.",
       "src": "Metrópoles",
       "u": "https://www.metropoles.com/colunas/milena-teixeira/sem-marcola-nome-de-janja-ganha-forca-para-chefia-de-gabinete-de-lula"
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Lula chama de vergonhosa a saída de Flávio do país e lembra que entregou o próprio passaporte em 2018",
-      "p": "Falou na festa de 81 anos no Alvorada e disse que \"quem não deve não teme\"; a reportagem não detalha a viagem de Flávio.",
-      "r": "Aos 81 anos, transformou a própria festa de aniversário em aula sobre passaporte alheio. Parabéns pra você, nesta data querida, e o resto do país que tire as conclusões.",
-      "src": "Terra",
-      "u": "https://www.terra.com.br/noticias/brasil/politica/lula-diz-que-flavio-sair-do-brasil-e-vergonhoso-quando-pediram-meu-passaporte-entreguei,d19f9efcfc83fec7cdd8a0e8c40f063favzo16et.html"
     }
   ]
 }

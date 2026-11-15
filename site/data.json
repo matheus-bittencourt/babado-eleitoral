@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T10:04:03-03:00",
-  "updated_label": "14/11/2026, 10h",
+  "updated": "2026-11-15T10:03:03-03:00",
+  "updated_label": "15/11/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -226,6 +226,20 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-11-14",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Hugo Motta",
+        "Valdemar Costa Neto"
+      ],
+      "h": "Flávio se opõe do exterior à reeleição de Hugo Motta, e Valdemar vai consultar os diretórios do PL por questionário por cerca de 15 dias",
+      "p": "Segundo a Tribuna do Agreste, a reunião da bancada terminou sem consenso; analistas citados dizem que, se a posição dele não prevalecer, Flávio pode concluir que não dá para liderar a oposição à distância.",
+      "src": "Tribuna do Agreste",
+      "u": "https://www.tribunadoagreste.com.br/geral/2026/11/14/1021850-tensao-no-pl-flavio-bolsonaro-se-opoe-a-reeleicao-de-hugo-motta",
+      "r": "Flávio vetou Motta por live, e Valdemar respondeu com um questionário de 15 dias. A direita descobre que a democracia interna também tem prazo de resposta."
+    },
     {
       "d": "2026-11-13",
       "g": "Flávio e campanha",
@@ -759,20 +773,6 @@
       "src": "ND Mais",
       "u": "https://ndmais.com.br/politica/flavio-bolsonaro-saiu-do-brasil-o-que-acontece-com-os-pedidos-de-cassacao-da-chapa-lula-alckmin-no-tse/",
       "r": "O pedido de cassação entrou na fila do TSE, onde nem carta com selo de presidente eleito fura a ordem de análise."
-    },
-    {
-      "d": "2026-10-28",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes"
-      ],
-      "h": "CNN: Flávio entrou em Miami com o passaporte diplomático que a PF havia cancelado na véspera",
-      "p": "A entrada consta de registros da agência americana de fronteiras; fontes da CNN dizem que ele antes passou pela Argentina com passaporte italiano e seguiu em voo privado; não há declaração dele nem da defesa.",
-      "src": "CNN Brasil",
-      "u": "https://www.cnnbrasil.com.br/internacional/flavio-bolsonaro-entrou-nos-eua-com-passaporte-diplomatico-que-pf-cancelou/",
-      "check": true,
-      "r": "Passaporte cancelado, passaporte italiano, voo privado: a viagem tem mais documento do que a carta tem prova. Pelo menos desta vez o carimbo apareceu."
     }
   ]
 }
