@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-15T10:03:03-03:00",
-  "updated_label": "15/11/2026, 10h",
+  "updated": "2026-11-16T10:04:36-03:00",
+  "updated_label": "16/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-16",
+      "g": "Lula e governo",
+      "who": [
+        "Geraldo Alckmin",
+        "Lula"
+      ],
+      "h": "Alckmin diz que Lula deve priorizar a reorganização dos ministérios assim que voltar das Filipinas",
+      "p": "Segundo o Portal BR230, a declaração foi feita com Alckmin à frente do governo durante a viagem; a lista de ministros ainda não foi divulgada.",
+      "src": "Portal BR230",
+      "u": "https://www.br230.com.br/lula-deve-priorizar-reforma-ministerial-apos-voltar-ao-brasil-diz-alckmin/",
+      "r": "Alckmin segura a cadeira e anuncia que o dono volta e mexe nos móveis. A Esplanada passa a semana de celular na mão, esperando o presidente aterrissar."
+    },
+    {
+      "d": "2026-11-15",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "André Janones"
+      ],
+      "h": "Senado aprova ajuste fiscal de até R$ 60 bilhões em 2027; mercado vê pacote tímido e parte da esquerda reclama",
+      "p": "Segundo a Terra, o texto ainda depende da Câmara; Mansueto Almeida o chamou de \"muito pequeno\", e Janones defendeu o governo contra quem chama o pacote de \"tesouraço\".",
+      "src": "Terra",
+      "u": "https://www.terra.com.br/noticias/brasil/politica/ajuste-fiscal-de-lula-e-considerado-timido-pelo-mercado-mas-racha-esquerda-que-enxerga-tesouraco,a7e8292ec256124bd3009ebcfeaf1138ym5erxgd.html",
+      "r": "Para o mercado o corte é pequeno demais, para a esquerda é grande demais: o governo conseguiu a rara unanimidade de desagradar os dois lados. O \"tesouraço\", que era grito de campanha contra a oposição, agora volta como crítica de casa."
+    },
     {
       "d": "2026-11-13",
       "g": "Lula e governo",
@@ -511,33 +537,6 @@
       "r": "Lula pede aos ministros que parem de comentar o caso Flávio, missão tão simples quanto pedir silêncio num trio elétrico. O Planalto só precisa combinar com a Esplanada inteira.",
       "src": "CNN Brasil",
       "u": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/lula-orienta-ministros-a-nao-explorar-fuga-de-flavio/"
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "José Múcio Monteiro"
-      ],
-      "h": "Lula recebe o ministro da Defesa, José Múcio, que não deve seguir no quarto mandato",
-      "p": "Segundo a InfoMoney, o encontro foi no Alvorada e indica a saída dele; a escolha do sucessor ainda não foi anunciada.",
-      "src": "InfoMoney",
-      "u": "https://www.infomoney.com.br/politica/lula-se-reune-com-ministro-da-defesa-que-nao-deve-permanecer-em-novo-governo/",
-      "r": "A Defesa é a pasta em que o ministro vai saindo e metade de Brasília já se candidata a entrar. A vaga nem abriu e a fila já tem número de senha."
-    },
-    {
-      "d": "2026-10-27",
-      "g": "Lula e governo",
-      "who": [
-        "Janja",
-        "Márcio Tavares",
-        "Lula"
-      ],
-      "h": "Márcio Tavares, aliado de Janja, é cotado para chefiar o gabinete de Lula no quarto mandato",
-      "p": "Segundo o Metrópoles, ele é secretário-executivo da Cultura e Janja apoia o nome; não há nomeação confirmada.",
-      "r": "Governo novo, mas o assunto que sobra é quem fica perto do presidente. Reforma ministerial em Brasília sempre começa pelo cargo que tem acesso à agenda.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/colunas/milena-teixeira/sem-marcola-nome-de-janja-ganha-forca-para-chefia-de-gabinete-de-lula"
     }
   ]
 }
