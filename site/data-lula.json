@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-16T10:04:36-03:00",
-  "updated_label": "16/11/2026, 10h",
+  "updated": "2026-11-17T10:05:40-03:00",
+  "updated_label": "17/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-16",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Janja",
+        "Pedro Sánchez",
+        "Wellington Dias"
+      ],
+      "h": "Lula encerra viagem com encontro com Sánchez em Madri e volta ao Brasil, enquanto Janja segue para Roma para eventos da FAO",
+      "p": "Segundo a Gazeta do Povo, a viagem passou por Turquia, Filipinas e Espanha; em Roma, a primeira-dama deve ficar na Embaixada do Brasil e ser acompanhada pelos ministros Wellington Dias e Fernanda Machiaveli.",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/republica/lula-volta-ao-brasil-e-janja-desembarca-em-roma-para-evento-da-onu/",
+      "r": "Lula pousa em Brasília com a pauta acumulada e Janja segue para Roma: o casal aprendeu a dividir o mapa-múndi e a deixar a Esplanada esperando nos dois fusos."
+    },
+    {
+      "d": "2026-11-17",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Camilo Santana",
+        "Gleisi Hoffmann"
+      ],
+      "h": "Depois de voltar da viagem, Lula enfrenta semana decisiva com ajuste fiscal, ministérios e vaga aberta no STF",
+      "p": "Segundo O POVO, os destaques do ajuste fiscal vão a votação no Senado na terça (17), Lula já teria ligado a aliados como Camilo Santana e Gleisi Hoffmann, e a equipe só deve ser oficializada em dezembro.",
+      "src": "O POVO",
+      "u": "https://mais.opovo.com.br/jornal/politica/2026/11/17/apos-retornar-ao-brasil-lula-tem-semana-decisiva-para-resolver-pendencias-do-quarto-mandato.html",
+      "r": "Ajuste fiscal, ministério e vaga no STF na mesma semana: tem mais pendência que cardápio de buffet. O presidente quer que tudo ande mais rápido; o Congresso, como sempre, usa outro relógio."
+    },
+    {
+      "d": "2026-11-15",
+      "g": "Lula e governo",
+      "who": [
+        "Geraldo Alckmin",
+        "Lula",
+        "Dario Durigan",
+        "Fernando Haddad",
+        "Alexandre Padilha"
+      ],
+      "h": "Alckmin diz que Lula decide os ministérios na semana da volta; Fazenda e Casa Civil têm nomes cotados",
+      "p": "Segundo o SBT News, Alckmin, Dario Durigan e Fernando Haddad aparecem para a Fazenda, Camilo Santana e Haddad para a Casa Civil, e Lula avalia manter Padilha na Saúde; nada está confirmado.",
+      "src": "SBT News",
+      "u": "https://sbtnews.sbt.com.br/noticia/politica/lula-definira-ministerios-apos-voltar-de-viagem-diz-alckmin",
+      "r": "Alckmin cotado para a Fazenda, ao lado de Durigan e Haddad: o vice virou o coringa do baralho, aquele que o dono da mesa guarda para a última rodada."
+    },
     {
       "d": "2026-11-16",
       "g": "Lula e governo",
@@ -497,46 +542,6 @@
       "src": "Band",
       "u": "https://www.band.com.br/politica/lula-discute-ministerios-e-espaco-do-centrao-com-janones-em-brasilia",
       "r": "Centrão, comunicação e ministérios na mesma conversa: o quarto mandato começa com o velho esporte de pesar cadeira por bancada."
-    },
-    {
-      "d": "2026-10-29",
-      "g": "Lula e governo",
-      "who": [
-        "Lula"
-      ],
-      "h": "Lula articula o novo ministério do governo que começa em 2027",
-      "p": "As reportagens tratam os nomes como cotações, não decisões; a reforma deve ser concluída só na segunda quinzena de novembro.",
-      "src": "TV Sim",
-      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/10/29/lula-articula-novo-ministerio-proximo-governo",
-      "r": "Todo mundo cotado, ninguém confirmado. Em Brasília, atender o celular na primeira chamada virou prova de lealdade."
-    },
-    {
-      "d": "2026-10-29",
-      "g": "Lula e governo",
-      "who": [
-        "Edinho Silva",
-        "Lula",
-        "Hugo Motta",
-        "Davi Alcolumbre"
-      ],
-      "h": "Presidente do PT diz que Lula prioriza votações no Congresso antes de definir os ministros do quarto mandato",
-      "p": "Edinho Silva cita a PEC da Segurança e diz que as conversas sobre ministérios devem avançar depois da COP31, em novembro.",
-      "src": "Brasil 247",
-      "u": "https://www.brasil247.com/poder/lula-prioriza-votacoes-no-congresso-antes-de-definir-ministros-do-proximo-governo-diz-edinho-silva/",
-      "r": "Lula quer votar primeiro e escolher ministro depois. Pelo cronograma, os cotados têm tempo de sobra para ensaiar a cara de surpresa."
-    },
-    {
-      "d": "2026-10-28",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Lula orienta ministros a evitar comentários recorrentes sobre a saída de Flávio para os EUA, diz a CNN",
-      "p": "O Planalto teme reforçar a narrativa de perseguição e quer deixar o caso com a PF e o Ministério da Justiça; Lula já havia dito \"quem não deve, não teme\".",
-      "r": "Lula pede aos ministros que parem de comentar o caso Flávio, missão tão simples quanto pedir silêncio num trio elétrico. O Planalto só precisa combinar com a Esplanada inteira.",
-      "src": "CNN Brasil",
-      "u": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/lula-orienta-ministros-a-nao-explorar-fuga-de-flavio/"
     }
   ]
 }
