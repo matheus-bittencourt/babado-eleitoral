@@ -1,7 +1,50 @@
 {
-  "updated": "2026-11-17T10:05:40-03:00",
-  "updated_label": "17/11/2026, 10h",
+  "updated": "2026-11-18T10:03:16-03:00",
+  "updated_label": "18/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-17",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Luiz Marinho",
+        "Guilherme Boulos"
+      ],
+      "h": "Lula pede ajustes e adia para quinta (19) a assinatura do decreto que regulamenta o fim da escala 6x1",
+      "p": "Segundo a CNN Brasil, Marinho disse que a cerimônia está prevista para as 9h no Planalto e que a nova regra vale a partir de 16 de dezembro; o conteúdo das mudanças não foi divulgado.",
+      "r": "O decreto do fim da 6x1 pediu mais um dia para ajustes: até o texto que acaba com a escala cansada ganhou prorrogação.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/politica/fim-da-6x1-lula-assinara-decreto-com-regulamentacao-na-quinta-diz-marinho/"
+    },
+    {
+      "d": "2026-11-17",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Davi Alcolumbre",
+        "Eduardo Braga"
+      ],
+      "h": "Senado adia para quarta (18) a votação dos destaques do ajuste fiscal do governo por falta de acordo entre as bancadas",
+      "p": "Segundo o Hoje em Dia, Alcolumbre adiou e o relator Eduardo Braga pediu mais tempo; o texto-base passou em 12/11 por 45 a 31 e, depois dos destaques, o projeto segue para a Câmara.",
+      "r": "Quatro destaques, zero acordo e um adiamento: cortar gasto é fácil de aprovar no discurso e difícil de votar na bancada.",
+      "src": "Hoje em Dia",
+      "u": "https://www.hojeemdia.com.br/politica/senado-adia-votac-o-de-destaques-do-projeto-de-ajuste-fiscal-do-governo-lula-1.1141276"
+    },
+    {
+      "d": "2026-11-17",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Rui Costa",
+        "Camilo Santana",
+        "Rafael Fonteles"
+      ],
+      "h": "Lula reúne aliados para retomar a montagem do governo depois da viagem; Rui Costa, Camilo Santana e Rafael Fonteles são cotados",
+      "p": "Segundo o Metrópoles, nenhum nome foi anunciado até agora, e Camilo é citado para a Casa Civil.",
+      "r": "Nenhum nome anunciado e três já cotados: em Brasília, o ministro vive mais antes da nomeação do que depois dela.",
+      "src": "Metrópoles",
+      "u": "https://metropoles.com/brasil/lula-reune-aliados-para-retomar-discussoes-sobre-montagem-de-governo"
+    },
     {
       "d": "2026-11-16",
       "g": "Lula e governo",
@@ -503,45 +546,6 @@
       "src": "Alô Alô Bahia",
       "u": "https://aloalobahia.com/noticias/2026/10/29/wagner-moura-e-cotado-para-assumir-ministerio-da-cultura-no-quarto-governo-lula/",
       "r": "Cotado para a Cultura, o ex-Capitão Nascimento pode ganhar uma missão nova: edital, ofício e reunião de colegiado. Dessa o BOPE não prepara."
-    },
-    {
-      "d": "2026-10-29",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Geraldo Alckmin"
-      ],
-      "h": "TSE marca a diplomação de Lula e Alckmin para 12 de dezembro",
-      "p": "A data foi divulgada em 29/10, segundo a TV Sim.",
-      "src": "TV Sim",
-      "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/10/29/tse-marca-diplomacao-lula-alckmin-12-dezembro",
-      "r": "O presidente já teve bolo, trio elétrico e comemoração na Paulista; só agora marcam a entrega do diploma. A burocracia é sempre a última a saber que a festa acabou."
-    },
-    {
-      "d": "2026-10-29",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "André Janones"
-      ],
-      "h": "Lula anuncia pronunciamento à nação e live com Janones: \"Devo essa eleição ao povo\"",
-      "p": "Segundo o Brasil de Fato, o anúncio veio em áudio no canal Exército do Lula; as reportagens consultadas não trazem data confirmada.",
-      "src": "Brasil de Fato",
-      "u": "https://www.brasildefato.com.br/2026/10/29/lula-anuncia-pronunciamento-a-nacao-na-proxima-semana-devo-essa-eleicao-ao-povo/",
-      "r": "Pronunciamento à nação anunciado em áudio num canal chamado Exército do Lula. A cerimônia oficial vem depois do grupo de WhatsApp, como manda a tradição."
-    },
-    {
-      "d": "2026-10-29",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "André Janones"
-      ],
-      "h": "Lula recebe André Janones em Brasília para discutir ministérios e o espaço do Centrão",
-      "p": "Segundo a Band, uma das opções em análise é entregar a Secretaria de Relações Institucionais a uma bancada do Centrão.",
-      "src": "Band",
-      "u": "https://www.band.com.br/politica/lula-discute-ministerios-e-espaco-do-centrao-com-janones-em-brasilia",
-      "r": "Centrão, comunicação e ministérios na mesma conversa: o quarto mandato começa com o velho esporte de pesar cadeira por bancada."
     }
   ]
 }

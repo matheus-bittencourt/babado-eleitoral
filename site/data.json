@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T10:05:40-03:00",
-  "updated_label": "17/11/2026, 10h",
+  "updated": "2026-11-18T10:03:16-03:00",
+  "updated_label": "18/11/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -234,6 +234,34 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-11-17",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "JD Vance",
+        "Tallis Gomes"
+      ],
+      "h": "Washington Post: PF investiga se a Rockbridge, rede cofundada por Vance, ajudou a campanha de Flávio; ele e Tallis Gomes negam",
+      "p": "Segundo o jornal, a apuração foi aberta em 27/10 por ordem de Flávio Dino; a Rockbridge diz que brasileiros usaram o nome dela sem consentimento, e as informações divulgadas não mostram repasse de dinheiro.",
+      "src": "The Washington Post",
+      "u": "https://www.washingtonpost.com/world/2026/11/17/brazilian-federal-police-are-investigating-jd-vance-donor-network/",
+      "r": "Flávio nega, Tallis nega e a Rockbridge diz que não autorizou o uso do nome: quando todo mundo nega a mesma coisa, o coro fica afinado e o Washington Post vira a plateia."
+    },
+    {
+      "d": "2026-11-17",
+      "g": "Flávio e campanha",
+      "who": [
+        "Nikolas Ferreira",
+        "Hugo Motta",
+        "Valdemar Costa Neto"
+      ],
+      "h": "Nikolas ameaça deixar o PL se o partido apoiar a reeleição de Hugo Motta na Câmara",
+      "p": "Segundo o Metrópoles, ele cita o apoio de Motta à candidatura de Lula e a falta de avanço da anistia aos condenados do 8 de janeiro; o racha opõe a ala bolsonarista ao grupo de Valdemar, favorável a um acordo com Motta.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/brasil/nikolas-ameaca-sair-do-pl-se-partido-apoiar-reeleicao-de-motta-na-camara",
+      "r": "A oposição quer enfrentar o governo Lula, mas primeiro precisa decidir se cabe na mesma sala: Flávio de longe, Nikolas ameaçando a saída e Valdemar de calculadora na mão."
+    },
     {
       "d": "2026-11-16",
       "g": "Flávio e campanha",
@@ -750,32 +778,6 @@
       "src": "Times Brasil",
       "u": "https://timesbrasil.com.br/brasil/rogerio-marinho-ve-problema-em-carta-de-flavio-defende-lideranca-nos-eua-e-afasta-pl-de-acusacao-de-fraude-eleitoral/",
       "r": "Sem prova, sem fraude, mas com líder: Marinho segura a mão do amigo e solta a tese."
-    },
-    {
-      "d": "2026-10-28",
-      "g": "Flávio e campanha",
-      "who": [
-        "Alexandre de Moraes",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Cúpula da PGR critica ordem de Moraes sobre o passaporte de Flávio, diz a CNN",
-      "p": "Fontes ligadas à PGR chamam a medida de precipitada e dizem que o MPF não foi consultado; a reportagem lembra que isso não anula a decisão. Flávio nega as suspeitas.",
-      "src": "CNN Brasil",
-      "u": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/decisao-de-moraes-contra-flavio-gera-criticas-na-cupula-da-pgr/",
-      "r": "Em Brasília, a discussão sobre a forma da ordem já rende mais capítulos que a ordem. É a novela do protocolo."
-    },
-    {
-      "d": "2026-10-28",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Paulo Figueiredo"
-      ],
-      "h": "Washington Post: Flávio pousa em Miami, alega fraude e se declara \"líder\" do Brasil",
-      "p": "O jornal diz que ele chegou aos EUA sem ter entregue os passaportes; o aliado Paulo Figueiredo afirma que ele está seguro e descansando com a família.",
-      "src": "The Washington Post",
-      "u": "https://www.washingtonpost.com/world/2026/10/28/flvio-bolsonaro-lands-miami-after-fleeing-brazil-following-election-loss/",
-      "r": "Pousou em Miami, se declarou líder do Brasil e foi descansar. Liderar a oposição de longe é o home office da política."
     }
   ]
 }
