@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T10:03:16-03:00",
-  "updated_label": "18/11/2026, 10h",
+  "updated": "2026-11-19T10:03:52-03:00",
+  "updated_label": "19/11/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -234,6 +234,19 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-11-17",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Paulo Gonet"
+      ],
+      "h": "PGR defende no STF prorrogar por 90 dias o inquérito sobre o financiamento do filme Dark Horse, que investiga Flávio",
+      "p": "Segundo a SBT News, a PF pede mais tempo para perícias e para a cooperação com os EUA; Flávio, incluído no inquérito em julho, nega irregularidades e diz que os recursos eram privados. A decisão cabe ao relator.",
+      "src": "SBT News",
+      "u": "https://sbtnews.sbt.com.br/noticia/politica/pgr-defende-prorrogacao-de-90-dias-no-caso-dark-horse",
+      "r": "Mais 90 dias de suspense: o filme não estreou, mas a sequência de manchetes já tem temporada garantida. Flávio diz que o dinheiro era privado, e a Justiça segue sem pressa de dar spoiler."
+    },
     {
       "d": "2026-11-17",
       "g": "Flávio e campanha",
@@ -765,19 +778,6 @@
       "src": "BNC Amazonas",
       "u": "https://bncamazonas.com.br/poder/filhos-de-bolsonaro-sao-uns-jumentos-diz-malafaia-apos-carta-de-flavio/",
       "r": "Aplaudiu a viagem, reprova a redação: a carta tirou nota baixa até de quem estava na torcida."
-    },
-    {
-      "d": "2026-10-28",
-      "g": "Flávio e campanha",
-      "who": [
-        "Rogério Marinho",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Marinho diz que nem o PL nem ele podem afirmar fraude, \"porque não há prova\", mas defende Flávio na liderança da oposição",
-      "p": "Segundo o Times Brasil, ele também vê \"algum problema\" na redação da primeira versão da carta.",
-      "src": "Times Brasil",
-      "u": "https://timesbrasil.com.br/brasil/rogerio-marinho-ve-problema-em-carta-de-flavio-defende-lideranca-nos-eua-e-afasta-pl-de-acusacao-de-fraude-eleitoral/",
-      "r": "Sem prova, sem fraude, mas com líder: Marinho segura a mão do amigo e solta a tese."
     }
   ]
 }
