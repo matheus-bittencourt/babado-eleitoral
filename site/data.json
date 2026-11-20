@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T10:03:52-03:00",
-  "updated_label": "19/11/2026, 10h",
+  "updated": "2026-11-20T10:04:36-03:00",
+  "updated_label": "20/11/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -234,6 +234,34 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-11-19",
+      "g": "Flávio e campanha",
+      "who": [
+        "Nikolas Ferreira",
+        "Hugo Motta",
+        "Valdemar Costa Neto"
+      ],
+      "h": "Aliados de Nikolas dizem não acreditar que ele vá deixar o PL e veem a ameaça como pressão interna",
+      "p": "Segundo o NC News, a ameaça de sair do partido caso o PL apoie a reeleição de Hugo Motta é lida por aliados como estratégia de pressão; a decisão da bancada ainda não saiu.",
+      "src": "NC News",
+      "u": "https://ncnews.com.br/2026/11/19/aliados-nikolas-ferreira-nao-acreditam-saida-pl-hugo-motta/",
+      "r": "Aliados dizem que a ameaça de Nikolas é só pressão. Ameaçar sair do partido e ninguém acreditar é o equivalente político de gritar \"eu vou embora\" e ficar parado na porta."
+    },
+    {
+      "d": "2026-11-18",
+      "g": "Flávio e campanha",
+      "who": [
+        "Valdemar Costa Neto",
+        "Nikolas Ferreira",
+        "Hugo Motta"
+      ],
+      "h": "Valdemar chama de \"loucura\" a ideia de lançar Nikolas à presidência da Câmara, e o deputado ameaça deixar o PL se o partido apoiar Motta",
+      "p": "Segundo o Ohoje, Valdemar citou a idade de Nikolas, 30 anos, como obstáculo; a eleição da Câmara é em fevereiro de 2027 e o PL ainda não decidiu o rumo.",
+      "src": "Ohoje",
+      "u": "https://ohoje.com/2026/11/18/valdemar-diz-que-candidatura-de-nikolas-e-loucura-e-deputado-ameaca-sair-do-pl-caso-partido-apoie-motta/",
+      "r": "A oposição ainda nem entrou em 2027 e já está brigando pelo controle remoto da sala. A direita que prometeu unir o país está ocupada em unir a própria bancada."
+    },
     {
       "d": "2026-11-17",
       "g": "Flávio e campanha",
@@ -753,31 +781,6 @@
       "src": "CNN Brasil",
       "u": "https://cnnbrasil.com.br/internacional/reuters-trump-nao-apoia-flavio-bolsonaro-lider-brasil",
       "r": "Trocou de país para liderar a oposição, mas o aval de Washington ao título de líder ainda não saiu, segundo a Reuters. Por ora, a liderança está só na carta."
-    },
-    {
-      "d": "2026-10-30",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Em live de Miami, Flávio volta a questionar o resultado e critica o STF, sem apresentar provas",
-      "p": "Foi a primeira fala ao vivo dele desde a carta de 28/10; o Metrópoles registra que ele disse haver números inexplicáveis sem interferência, sem provas.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/mundo/em-live-nos-eua-flavio-volta-a-questionar-resultado-das-eleicoes",
-      "r": "Da Flórida, Flávio fez live para falar em números inexplicáveis, e as provas seguem sem explicação. Liderar a oposição por Instagram é o grupo de WhatsApp da política."
-    },
-    {
-      "d": "2026-10-29",
-      "g": "Religiosos",
-      "who": [
-        "Silas Malafaia",
-        "Flávio Bolsonaro"
-      ],
-      "h": "Malafaia critica a carta de Flávio em mensagens reservadas: \"Só se aconselham com gente errada!\"",
-      "p": "Segundo o BNC Amazonas, ele apontou brasão antigo e correções posteriores e disse que Trump teria retirado o apoio; Malafaia havia defendido a viagem.",
-      "src": "BNC Amazonas",
-      "u": "https://bncamazonas.com.br/poder/filhos-de-bolsonaro-sao-uns-jumentos-diz-malafaia-apos-carta-de-flavio/",
-      "r": "Aplaudiu a viagem, reprova a redação: a carta tirou nota baixa até de quem estava na torcida."
     }
   ]
 }

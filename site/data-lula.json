@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-19T10:03:52-03:00",
-  "updated_label": "19/11/2026, 10h",
+  "updated": "2026-11-20T10:04:36-03:00",
+  "updated_label": "20/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-19",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula diz que controle fiscal é prioridade do governo, promete manter direitos sociais e critica especulações sobre os ministérios",
+      "p": "Segundo a Agência Brasil, ele afirmou que a escolha dos nomes da equipe cabe só a ele; a fala foi dada na cerimônia do decreto da escala 5x2.",
+      "src": "Agência Brasil",
+      "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-promete-manter-direitos-e-diz-que-controle-fiscal-e-prioridade",
+      "r": "Lula jura que o aperto fiscal foi ideia dele, não do mercado, e que ninguém perde direito. É a primeira vez que um presidente briga para ficar com o crédito pelo ajuste."
+    },
     {
       "d": "2026-11-19",
       "g": "Lula e governo",
@@ -529,20 +541,6 @@
       "src": "Plantão Brasil",
       "u": "https://www.plantaobrasil.net/noticias/160822-agenda-internacional-de-lula-em-novembro-marca-inicio-de-transicao-para-o-novo-mandato",
       "r": "Antes de nomear ministro, Lula vai ver o clima na Turquia e a política na Ásia. Casa Civil e Fazenda que esperem o fuso."
-    },
-    {
-      "d": "2026-10-30",
-      "g": "Lula e governo",
-      "who": [
-        "Wellington Dias",
-        "Rafael Fonteles",
-        "Lula"
-      ],
-      "h": "Wellington Dias diz que ministros só serão anunciados depois de 20 de novembro e confirma Fonteles entre os cogitados",
-      "p": "Segundo o WebPiauí, ele diz que Lula está animado e promete um mandato histórico.",
-      "src": "WebPiauí",
-      "u": "https://www.webpiaui.com.br/politica/wellington-diz-que-lula-deve-anunciar-ministros-apos-cop31/",
-      "r": "Os cotados ganharam um prazo: três semanas de \"estou sendo cogitado\" no currículo. Em Brasília, esperar também é um cargo."
     }
   ]
 }
