@@ -1,7 +1,44 @@
 {
-  "updated": "2026-11-20T10:04:36-03:00",
-  "updated_label": "20/11/2026, 10h",
+  "updated": "2026-11-21T10:02:38-03:00",
+  "updated_label": "21/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-21",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula confirma a criação do Ministério dos Idosos e mira 40 pastas em 2027",
+      "p": "Segundo a TV Sim Brasil, a estrutura iria de 38 para 40 ministérios, número que depende da divisão da Segurança Pública; nome e comando da nova pasta ainda estão indefinidos.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/21/lula-confirma-ministerio-dos-idosos-mira-40-ministerios",
+      "r": "Ajuste fiscal aprovado de um lado, ministério novo do outro: a conta de 38 para 40 pastas só fecha em Brasília, onde 2 + 2 depende do partido."
+    },
+    {
+      "d": "2026-11-20",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula critica especulações sobre ministérios e diz que anuncia a equipe quando quiser",
+      "p": "Segundo O Povo, ele também falou em criar uma pasta voltada aos idosos; em fala do dia 19, disse que escolhe os nomes \"na hora que eu quiser\".",
+      "src": "O Povo",
+      "u": "https://mais.opovo.com.br/jornal/politica/2026/11/20/lula-critica-especulacoes-para-ministerios-e-fala-em-criar-pasta-voltada-aos-idosos.html",
+      "r": "Ministeriável é o único profissional do país cuja entrevista de emprego dura semanas e o retorno do RH é uma coletiva \"quando eu quiser\"."
+    },
+    {
+      "d": "2026-11-19",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Wellington Dias"
+      ],
+      "h": "Lula exonera Wellington Dias do Desenvolvimento Social a pedido; a saída é temporária",
+      "p": "Segundo o InfoMoney, o ministro quer voltar ao Senado para cuidar de emendas ao Orçamento de 2027, e o retorno ao cargo é esperado na semana seguinte.",
+      "src": "InfoMoney",
+      "u": "https://www.infomoney.com.br/politica/lula-exonera-wellington-dias-do-ministerio-de-desenvolvimento-social-a-pedido/",
+      "r": "A demissão mais curta da Esplanada: sai para cuidar de emenda e volta na semana que vem, quase um intervalo do lanche."
+    },
     {
       "d": "2026-11-19",
       "g": "Lula e governo",
@@ -70,6 +107,20 @@
       "u": "https://metropoles.com/brasil/lula-reune-aliados-para-retomar-discussoes-sobre-montagem-de-governo"
     },
     {
+      "d": "2026-11-17",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Camilo Santana",
+        "Gleisi Hoffmann"
+      ],
+      "h": "Depois de voltar da viagem, Lula enfrenta semana decisiva com ajuste fiscal, ministérios e vaga aberta no STF",
+      "p": "Segundo O POVO, os destaques do ajuste fiscal vão a votação no Senado na terça (17), Lula já teria ligado a aliados como Camilo Santana e Gleisi Hoffmann, e a equipe só deve ser oficializada em dezembro.",
+      "src": "O POVO",
+      "u": "https://mais.opovo.com.br/jornal/politica/2026/11/17/apos-retornar-ao-brasil-lula-tem-semana-decisiva-para-resolver-pendencias-do-quarto-mandato.html",
+      "r": "Ajuste fiscal, ministério e vaga no STF na mesma semana: tem mais pendência que cardápio de buffet. O presidente quer que tudo ande mais rápido; o Congresso, como sempre, usa outro relógio."
+    },
+    {
       "d": "2026-11-16",
       "g": "Lula e governo",
       "who": [
@@ -85,18 +136,17 @@
       "r": "Lula pousa em Brasília com a pauta acumulada e Janja segue para Roma: o casal aprendeu a dividir o mapa-múndi e a deixar a Esplanada esperando nos dois fusos."
     },
     {
-      "d": "2026-11-17",
+      "d": "2026-11-16",
       "g": "Lula e governo",
       "who": [
-        "Lula",
-        "Camilo Santana",
-        "Gleisi Hoffmann"
+        "Geraldo Alckmin",
+        "Lula"
       ],
-      "h": "Depois de voltar da viagem, Lula enfrenta semana decisiva com ajuste fiscal, ministérios e vaga aberta no STF",
-      "p": "Segundo O POVO, os destaques do ajuste fiscal vão a votação no Senado na terça (17), Lula já teria ligado a aliados como Camilo Santana e Gleisi Hoffmann, e a equipe só deve ser oficializada em dezembro.",
-      "src": "O POVO",
-      "u": "https://mais.opovo.com.br/jornal/politica/2026/11/17/apos-retornar-ao-brasil-lula-tem-semana-decisiva-para-resolver-pendencias-do-quarto-mandato.html",
-      "r": "Ajuste fiscal, ministério e vaga no STF na mesma semana: tem mais pendência que cardápio de buffet. O presidente quer que tudo ande mais rápido; o Congresso, como sempre, usa outro relógio."
+      "h": "Alckmin diz que Lula deve priorizar a reorganização dos ministérios assim que voltar das Filipinas",
+      "p": "Segundo o Portal BR230, a declaração foi feita com Alckmin à frente do governo durante a viagem; a lista de ministros ainda não foi divulgada.",
+      "src": "Portal BR230",
+      "u": "https://www.br230.com.br/lula-deve-priorizar-reforma-ministerial-apos-voltar-ao-brasil-diz-alckmin/",
+      "r": "Alckmin segura a cadeira e anuncia que o dono volta e mexe nos móveis. A Esplanada passa a semana de celular na mão, esperando o presidente aterrissar."
     },
     {
       "d": "2026-11-15",
@@ -113,19 +163,6 @@
       "src": "SBT News",
       "u": "https://sbtnews.sbt.com.br/noticia/politica/lula-definira-ministerios-apos-voltar-de-viagem-diz-alckmin",
       "r": "Alckmin cotado para a Fazenda, ao lado de Durigan e Haddad: o vice virou o coringa do baralho, aquele que o dono da mesa guarda para a última rodada."
-    },
-    {
-      "d": "2026-11-16",
-      "g": "Lula e governo",
-      "who": [
-        "Geraldo Alckmin",
-        "Lula"
-      ],
-      "h": "Alckmin diz que Lula deve priorizar a reorganização dos ministérios assim que voltar das Filipinas",
-      "p": "Segundo o Portal BR230, a declaração foi feita com Alckmin à frente do governo durante a viagem; a lista de ministros ainda não foi divulgada.",
-      "src": "Portal BR230",
-      "u": "https://www.br230.com.br/lula-deve-priorizar-reforma-ministerial-apos-voltar-ao-brasil-diz-alckmin/",
-      "r": "Alckmin segura a cadeira e anuncia que o dono volta e mexe nos móveis. A Esplanada passa a semana de celular na mão, esperando o presidente aterrissar."
     },
     {
       "d": "2026-11-15",
@@ -193,19 +230,6 @@
       "r": "Torceram por Flávio no segundo turno e já mandam o currículo da Saúde ao Planalto. Em Brasília, a fidelidade tem prazo de validade, e o prazo é o tamanho da pasta."
     },
     {
-      "d": "2026-11-10",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Erdogan"
-      ],
-      "h": "Em Antalya, Lula e Erdogan falam de defesa, comércio e minerais críticos à margem da COP31",
-      "p": "Segundo a Band, a defesa foi tema central e os dois acertaram ampliar o comércio e uma visita de Erdogan ao Brasil; a escolha do sucessor de Múcio na Defesa ainda não foi anunciada.",
-      "src": "Band",
-      "u": "https://www.band.com.br/internacional/lula-e-erdogan-discutem-comercio-defesa-e-parceria-sobre-minerais-criticos",
-      "r": "Ainda sem dizer quem comanda a Defesa no quarto mandato, o presidente já negocia defesa com a Turquia: a diplomacia passa na frente do organograma."
-    },
-    {
       "d": "2026-11-11",
       "g": "Lula e governo",
       "who": [
@@ -217,6 +241,19 @@
       "src": "Piranot",
       "u": "https://www.piranot.com.br/2026/11/11/noticias/politica/eleicoes/casa-civil-relatorios-ministerios-mandato-lula/",
       "r": "Transição sem equipe de transição: o governo conta o que fez em 38 relatórios e ainda sobra capítulo para o que vem a seguir."
+    },
+    {
+      "d": "2026-11-10",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Erdogan"
+      ],
+      "h": "Em Antalya, Lula e Erdogan falam de defesa, comércio e minerais críticos à margem da COP31",
+      "p": "Segundo a Band, a defesa foi tema central e os dois acertaram ampliar o comércio e uma visita de Erdogan ao Brasil; a escolha do sucessor de Múcio na Defesa ainda não foi anunciada.",
+      "src": "Band",
+      "u": "https://www.band.com.br/internacional/lula-e-erdogan-discutem-comercio-defesa-e-parceria-sobre-minerais-criticos",
+      "r": "Ainda sem dizer quem comanda a Defesa no quarto mandato, o presidente já negocia defesa com a Turquia: a diplomacia passa na frente do organograma."
     },
     {
       "d": "2026-11-10",
@@ -499,48 +536,6 @@
       "src": "Poder360",
       "u": "https://www.poder360.com.br/poder-gente/lula-aproveita-sabado-de-descanso-com-janja-e-o-ator-paulo-vieira/",
       "r": "Brasília aposta em nomes de ministros, e o único anúncio do fim de semana veio da primeira-dama: o descanso é merecido e tem convidado."
-    },
-    {
-      "d": "2026-10-31",
-      "g": "Lula e governo",
-      "who": [
-        "Lula"
-      ],
-      "h": "Reeleito, Lula fica \"off\" e estende o feriado de Finados para descansar na Granja do Torto",
-      "p": "Segundo o Poder360, a agenda volta em 4 de novembro; os primeiros nomes de ministros só devem sair a partir de dezembro.",
-      "src": "Poder360",
-      "u": "https://www.poder360.com.br/poder-governo/reeleito-lula-fica-off-e-vai-estender-o-feriadao-para-descansar/",
-      "r": "Seis dias depois da vitória, o presidente decretou o feriadão estendido. A Esplanada espera o anúncio, e o anúncio espera a quarta-feira."
-    },
-    {
-      "d": "2026-10-30",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Hugo Motta",
-        "Davi Alcolumbre",
-        "André Janones"
-      ],
-      "h": "Lula começa a reorganizar o governo, sinaliza apoio a Motta e Alcolumbre e quer ministros definidos na segunda quinzena de novembro",
-      "p": "Segundo a BNews, ele também conversou com André Janones sobre a comunicação do governo.",
-      "src": "BNews",
-      "u": "https://www.bnewsrn.com.br/noticias/politica/lula-articula-reforma-ministerial-e-negocia-apoio-no-congresso-apos-reeleicao.html",
-      "r": "Antes de arrumar o ministério, arrumou as cadeiras do Congresso. O quarto mandato começa com a pergunta de sempre: quem fica com a mesa de quem?"
-    },
-    {
-      "d": "2026-10-30",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Camilo Santana",
-        "Fernando Haddad",
-        "Geraldo Alckmin"
-      ],
-      "h": "Lula viaja à Turquia (COP31) e às Filipinas entre 9 e 16 de novembro, e o ministério só fecha na volta, diz reportagem",
-      "p": "Segundo o Plantão Brasil, Camilo Santana e Haddad aparecem para a Casa Civil, e Alckmin e Rafael Fonteles para a Fazenda; nada está confirmado.",
-      "src": "Plantão Brasil",
-      "u": "https://www.plantaobrasil.net/noticias/160822-agenda-internacional-de-lula-em-novembro-marca-inicio-de-transicao-para-o-novo-mandato",
-      "r": "Antes de nomear ministro, Lula vai ver o clima na Turquia e a política na Ásia. Casa Civil e Fazenda que esperem o fuso."
     }
   ]
 }
