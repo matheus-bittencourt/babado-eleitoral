@@ -1,791 +1,795 @@
 {
- "updated": "2026-11-22T10:02:21-03:00",
- "updated_label": "22/11/2026, 10h",
- "result": {
-  "lula": 51.79,
-  "flavio": 48.21,
-  "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. O presidente do TSE afirmou ter \"absoluta segurança\" no processo, e o TSE chamou de falsa a alegação de que fiscais do PL foram retirados da sala de apuração. Na segunda (26), o Metrópoles informou que aliados e a equipe jurídica deixaram de falar em anulação e miram a cassação da chapa de Lula e Alckmin no TSE, por suposto abuso de poder; o próprio Flávio disse que vai pedir a cassação e segue sem reconhecer o resultado. No mesmo dia, o PL, partido dele, reconheceu o resultado proclamado pelo TSE, mas pediu esclarecimentos sobre o processo. Na quarta (28), depois da carta de Flávio, o presidente do TSE disse que a eleição transcorreu \"dentro da mais absoluta normalidade\". Nenhuma reportagem confirma pedido de anulação protocolado. Na sexta (6), em entrevista à Folha, Flávio admitiu não ter provas de fraude e disse que não vai contestar o resultado na Justiça; a estratégia jurídica dele mira o uso da máquina pública. Em 5/11, segundo a SBT News, o corregedor do TSE admitiu ações dele e do Novo contra a chapa por suposto abuso de poder, com cinco dias para a defesa. Na quinta (12), em live, Flávio voltou a dizer que o PL quer pedir a anulação da chapa de Lula e Alckmin por suposto abuso de poder econômico, segundo a Folha reproduzida pelo Jornal de Brasília.",
-  "r": "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação. É o \"eu pedi, mas não era pra me darem\" mais caro da história da República. Do outro lado, Lula fecha o quarto mandato e já está naquele ponto em que o Planalto devia cobrar IPTU dele.",
-  "s": [
-   [
-    "InfoMoney",
-    "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/"
-   ],
-   [
-    "Gazeta do Povo",
-    "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/"
-   ],
-   [
-    "Terra",
-    "https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html"
-   ],
-   [
-    "BNC Amazonas",
-    "https://bncamazonas.com.br/poder/nao-tenho-provas-admite-flavio-ao-insistir-em-questionar-urnas"
-   ],
-   [
-    "SBT News",
-    "https://sbtnews.sbt.com.br/noticia/politica/tse-admite-acoes-contra-lula-alckmin-por-abuso-de-poder"
-   ]
+  "updated": "2026-11-23T10:22:40-03:00",
+  "updated_label": "23/11/2026, 10h",
+  "result": {
+    "lula": 51.79,
+    "flavio": 48.21,
+    "fact": "Flávio disse no domingo (25) que não reconhece o resultado e que vai pedir a anulação da eleição, por causa da prorrogação de duas horas da votação. O presidente do TSE afirmou ter \"absoluta segurança\" no processo, e o TSE chamou de falsa a alegação de que fiscais do PL foram retirados da sala de apuração. Na segunda (26), o Metrópoles informou que aliados e a equipe jurídica deixaram de falar em anulação e miram a cassação da chapa de Lula e Alckmin no TSE, por suposto abuso de poder; o próprio Flávio disse que vai pedir a cassação e segue sem reconhecer o resultado. No mesmo dia, o PL, partido dele, reconheceu o resultado proclamado pelo TSE, mas pediu esclarecimentos sobre o processo. Na quarta (28), depois da carta de Flávio, o presidente do TSE disse que a eleição transcorreu \"dentro da mais absoluta normalidade\". Nenhuma reportagem confirma pedido de anulação protocolado. Na sexta (6), em entrevista à Folha, Flávio admitiu não ter provas de fraude e disse que não vai contestar o resultado na Justiça; a estratégia jurídica dele mira o uso da máquina pública. Em 5/11, segundo a SBT News, o corregedor do TSE admitiu ações dele e do Novo contra a chapa por suposto abuso de poder, com cinco dias para a defesa. Na quinta (12), em live, Flávio voltou a dizer que o PL quer pedir a anulação da chapa de Lula e Alckmin por suposto abuso de poder econômico, segundo a Folha reproduzida pelo Jornal de Brasília.",
+    "r": "Pediu prorrogação, ganhou prorrogação, perdeu a eleição e culpou a prorrogação. É o \"eu pedi, mas não era pra me darem\" mais caro da história da República. Do outro lado, Lula fecha o quarto mandato e já está naquele ponto em que o Planalto devia cobrar IPTU dele.",
+    "s": [
+      [
+        "InfoMoney",
+        "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/"
+      ],
+      [
+        "Gazeta do Povo",
+        "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/"
+      ],
+      [
+        "Terra",
+        "https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html"
+      ],
+      [
+        "BNC Amazonas",
+        "https://bncamazonas.com.br/poder/nao-tenho-provas-admite-flavio-ao-insistir-em-questionar-urnas"
+      ],
+      [
+        "SBT News",
+        "https://sbtnews.sbt.com.br/noticia/politica/tse-admite-acoes-contra-lula-alckmin-por-abuso-de-poder"
+      ]
+    ]
+  },
+  "exits": [
+    {
+      "n": "Eduardo Bolsonaro",
+      "role": "Irmão de Flávio, ex-deputado; mora nos EUA desde 2025",
+      "st": "yes",
+      "stl": "Defendeu a saída",
+      "q": "Se meu irmão não vencer, sou a favor de que ele deixe o país.",
+      "p": "Disse em 23/10, no programa americano Louder with Crowder, que a derrota deixaria Flávio exposto a processos. A fala veio depois de Lula dizer no debate da Band que Flávio perderia a imunidade. Em 27/10 chamou de mentira o rumor de que Flávio teria saído do país.",
+      "s": [
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/eleicoes/2026/eduardo-bolsonaro-defende-que-flavio-deixe-o-brasil-se-for-derrotado-por-lula/"
+        ],
+        [
+          "CNN Brasil",
+          "https://www.cnnbrasil.com.br/eleicoes/eduardo-defende-saida-de-flavio-bolsonaro-do-pais-em-caso-de-derrota/"
+        ],
+        [
+          "SBT News",
+          "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-deve-deixar-o-brasil-se-perder-diz-eduardo-bolsonaro-1"
+        ],
+        [
+          "ND Mais",
+          "https://ndmais.com.br/politica/eduardo-bolsonaro-nega-suposta-fuga-de-flavio-e-ironiza-elon-musk-mandou-um-foguete/"
+        ]
+      ],
+      "r": "Conselho fraterno direto dos EUA, de quem já testou o produto e deixou avaliação cinco estrelas. E o roteiro tem coautor: foi Lula quem soltou no debate o \"você vai perder a imunidade\". Presidente que dá spoiler do próximo capítulo do adversário."
+    },
+    {
+      "n": "Flávio Bolsonaro",
+      "role": "Candidato derrotado; senador até 31/01/2027",
+      "st": "yes",
+      "stl": "Carta diz que lidera a oposição dos EUA",
+      "q": "Eu nunca falei isso.",
+      "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Em 28/10, a Gazeta do Povo relatou que ele foi de jatinho à Argentina e seguiu para Miami, e o Correio Braziliense, citando a BBC, que ele chegou à Flórida e foi recebido por Eduardo; fontes da PF falam em passaporte italiano. Não há confirmação oficial nem declaração dele ou da defesa sobre a viagem, e o governo argentino havia negado entrada e pedido de asilo. Na tarde de 28/10, a PF disse em nota que a decisão de Moraes não autorizava prisão nem o caracteriza como foragido, que cancelou os passaportes comum e diplomático e que não há registro oficial de saída pelos postos de migração brasileiros. Em 28/10, uma carta dele divulgada nos EUA o apresentou como \"verdadeiro presidente eleito do Brasil\" (o trecho foi trocado depois por \"líder do Brasil\"), agradeceu a Trump e a Milei e disse que vai liderar a oposição de lá, segundo o Metrópoles. A CNN Brasil informou que ele entrou em Miami com o passaporte diplomático cancelado na véspera, com base em registros da fronteira americana, e que passou antes pela Argentina com passaporte italiano, segundo suas fontes. Trump disse ter autorizado a entrada dele e não quis comentar a carta; o presidente do TSE respondeu que a eleição ocorreu \"dentro da mais absoluta normalidade\". Em 30/10, numa live de Miami, voltou a questionar o resultado sem apresentar provas, segundo o Metrópoles. Em 2/11, segundo o Metrópoles, apareceu num culto em igreja brasileira na Flórida ao lado de Eduardo, a primeira aparição pública dele nos EUA. Em 2/11, segundo a CartaCapital, a defesa recorreu ao STF para anular a ordem sobre os passaportes e afastar Moraes do inquérito; não há decisão. Em 3/11, segundo o Metrópoles, tentou votar a PEC da Segurança a distância, mas o número novo não estava cadastrado no Senado; depois da reportagem, acessou o aplicativo e votou a favor. Em 4/11, segundo o Poder360, o senador Rogério Marinho defendeu a saída como \"decisão difícil\" e citou ameaças que Flávio teria recebido; segundo a Gazeta do Povo, Flávio usa a CPAC, na Flórida, para reorganizar a oposição. Em 5/11, segundo o Poder360, discursou no jantar da CPAC em Mar-a-Lago. Em 6/11, em entrevista à Folha publicada pelo BNC Amazonas, disse não ter provas de fraude e que não vai contestar o resultado na Justiça. Em entrevista ao New York Times, segundo o Gizmodo Brasil, disse ter organizado sozinho a saída, sem ajuda de governos ou aliados, e que não revelará a rota. Em 12/11, segundo a Folha reproduzida pelo Jornal de Brasília, esteve em Washington, deu entrevista à Reuters e, em live, disse ser contra a reeleição de Hugo Motta na Câmara. Em 15/11, segundo a Terra, que cita coluna de O Globo, visitou casas num condomínio de Boca Raton, na Flórida, em busca de moradia; ele rejeita o rótulo de fugitivo. Em 16/11, segundo a CartaCapital, o deputado Alencar Santana (PT-SP) e o grupo Prerrogativas pediram ao STF a prisão preventiva dele, o bloqueio do salário e a suspensão cautelar do mandato; as alegações são dos autores e não há decisão. Segundo o Portal do Rosas, que cita entrevista ao Epoch Times, ele disse que pretende pedir residência permanente nos EUA por meios legais. Em 20/11, segundo o Estado de Minas, Moraes votou no plenário virtual da Primeira Turma do STF para manter os passaportes cancelados e a proibição de deixar o país, e disse que a ordem foi descumprida; o julgamento segue aberto, com votos pendentes, e não há decisão final. Em 22/11, segundo o Oh!Hoje, em entrevista à Fox News disse não ter provas de fraude porque é proibido de investigar; segundo o Área VIP, disse que pretende continuar nos EUA e fazer oposição ao governo.",
+      "s": [
+        [
+          "Exame",
+          "https://exame.com/brasil/vamos-pedir-anulacao-dessas-eleicoes-diz-flavio-bolsonaro-apos-vitoria-de-lula/"
+        ],
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/"
+        ],
+        [
+          "ND Mais",
+          "https://ndmais.com.br/politica/flavio-bolsonaro-viajou-para-os-eua-onde-esta/"
+        ],
+        [
+          "Congresso em Foco",
+          "https://www.congressoemfoco.com.br/noticia/128189/deputados-pedem-apreensao-do-passaporte-de-flavio-apos-derrota"
+        ],
+        [
+          "Metrópoles",
+          "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte"
+        ],
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/"
+        ],
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/"
+        ],
+        [
+          "CartaCapital",
+          "https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/"
+        ],
+        [
+          "Metrópoles",
+          "https://www.metropoles.com/brasil/flavio-teria-deixado-o-pais-rumo-aos-eua-diz-site-argentino-aliados-negam"
+        ],
+        [
+          "Terra",
+          "https://www.terra.com.br/noticias/brasil/policia/pf-apura-se-flavio-bolsonaro-deixou-o-brasil-apos-relato-de-site-argentino,c99f6a0890e385b6591e14f88937a02ct0f4g9a2.html"
+        ],
+        [
+          "Jornal Opção",
+          "https://www.jornalopcao.com.br/brasil/flavio-bolsonaro-nao-entrega-passaporte-no-prazo-e-pf-apura-se-senador-deixou-o-brasil-882947/"
+        ],
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/"
+        ],
+        [
+          "CNN Brasil",
+          "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/"
+        ],
+        [
+          "CNN Brasil",
+          "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/"
+        ],
+        [
+          "CNN Brasil",
+          "https://www.cnnbrasil.com.br/politica/autoridade-dos-eua-diz-a-reuters-que-flavio-esta-a-caminho-do-pais/"
+        ],
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/republica/pf-confirma-flavio-bolsonaro-deixou-brasil/"
+        ],
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-desembarca-nos-estados-unidos-apos-proibicao-judicial/"
+        ],
+        [
+          "Correio Braziliense",
+          "https://www.correiobraziliense.com.br/politica/2026/10/7529196-flavio-bolsonaro-teria-chegado-aos-eua-pela-florida-diz-bbc.html"
+        ],
+        [
+          "Poder360",
+          "https://www.poder360.com.br/poder-justica/leia-a-cronologia-dos-fatos-que-levaram-flavio-bolsonaro-deixar-o-brasil/"
+        ],
+        [
+          "Jornal de Brasília",
+          "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/"
+        ],
+        [
+          "Poder360",
+          "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/"
+        ],
+        [
+          "Metrópoles",
+          "https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil"
+        ],
+        [
+          "CNN Brasil",
+          "https://www.cnnbrasil.com.br/internacional/flavio-bolsonaro-entrou-nos-eua-com-passaporte-diplomatico-que-pf-cancelou/"
+        ],
+        [
+          "Metrópoles",
+          "https://www.metropoles.com/mundo/em-live-nos-eua-flavio-volta-a-questionar-resultado-das-eleicoes"
+        ],
+        [
+          "Metrópoles",
+          "https://www.metropoles.com/mundo/ao-lado-de-eduardo-flavio-faz-1a-aparicao-publica-nos-eua-apos-fuga"
+        ],
+        [
+          "CartaCapital",
+          "https://www.cartacapital.com.br/justica/flavio-bolsonaro-recorre-contra-ordem-de-apreensao-de-passaportes-e-pede-impedimento-de-moraes-no-caso/"
+        ],
+        [
+          "Metrópoles",
+          "https://www.metropoles.com/colunas/igor-gadelha/flavio-tenta-votar-pec-da-seguranca-dos-eua-mas-enfrenta-problemas"
+        ],
+        [
+          "Poder360",
+          "https://www.poder360.com.br/poder-partidos-politicos/rogerio-marinho-justifica-fuga-de-flavio-bolsonaro-do-brasil/"
+        ],
+        [
+          "Gazeta do Povo",
+          "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-oposicao-internacional-contra-o-governo-lula-nos-eua/"
+        ],
+        [
+          "Poder360",
+          "https://www.poder360.com.br/poder-internacional/jantar-de-evento-conservador-com-flavio-tem-ingressos-de-ate-r-519-mil/"
+        ],
+        [
+          "Gizmodo Brasil",
+          "https://www.gizmodo.com.br/flavio-bolsonaro-diz-que-levara-para-o-tumulo-segredo-sobre-sua-saida-do-pais-74315"
+        ],
+        [
+          "BNC Amazonas",
+          "https://bncamazonas.com.br/poder/nao-tenho-provas-admite-flavio-ao-insistir-em-questionar-urnas"
+        ],
+        [
+          "CartaCapital",
+          "https://www.cartacapital.com.br/politica/acao-pede-ao-stf-prisao-e-o-bloqueio-do-salario-de-flavio-bolsonaro/"
+        ],
+        [
+          "Portal do Rosas",
+          "https://mail.portaldorosas.com.br/2026/11/16/flavio-bolsonaro-pede-que-eleitores-americanos-mantenham-republicanos-na-casa-branca-em-2028-e-diz-que-buscara-residencia-permanente-nos-eua"
+        ],
+        [
+          "Estado de Minas",
+          "https://www.em.com.br/politica/2026/11/7541832-stf-moraes-vota-para-manter-passaporte-de-flavio-bolsonaro-retido.html"
+        ],
+        [
+          "ND Mais",
+          "https://ndmais.com.br/justica/moraes-decisao-passaportes-flavio-bolsonaro-willer-tomaz/"
+        ],
+        [
+          "Oh!Hoje",
+          "https://ohoje.com/2026/11/23/flavio-bolsonaro-diz-que-nao-apresentou-provas-de-fraude-eleitoral-porque-seria-impedido-de-investigar/"
+        ],
+        [
+          "Área VIP",
+          "https://www.areavip.com.br/noticias/politica/flavio-muda-discurso-e-anuncia-vou-permanecer-nos-eua/"
+        ]
+      ],
+      "r": "\"Eu nunca falei isso\" deu lugar a uma carta que fala bastante. Do exílio autodeclarado, o \"verdadeiro presidente eleito\" virou \"líder do Brasil\" em poucas horas: o único cargo da República que se muda no corretor."
+    },
+    {
+      "n": "Equipe e aliados da campanha",
+      "role": "Nikolas Ferreira, Lucas Pavanato, Alexandre Ramagem e outros",
+      "st": "no",
+      "stl": "Ninguém anunciou saída",
+      "p": "No dia da votação, aliados questionaram a prorrogação antes do resultado, mas nenhum falou em deixar o país. Eduardo e Alexandre Ramagem já vivem nos EUA; Ramagem, condenado a 16 anos pelo STF, disse que só voltaria com Flávio eleito.",
+      "s": [
+        [
+          "Metro 1",
+          "https://www.metro1.com.br/noticias/eleicoes-2026/190424,aliados-de-flavio-bolsonaro-questionam-eleicao-antes-do-resultado-e-levantam-suspeitas-de-golpe"
+        ]
+      ],
+      "r": "Ninguém anunciou mudança. Também, nem precisava: a ala internacional da campanha já estava instalada lá fora antes da primeira urna abrir. É a única campanha com escritório regional em outro país."
+    },
+    {
+      "n": "Pablo Marçal",
+      "role": "Influenciador, organizou o encontro de influenciadores da campanha",
+      "st": "unk",
+      "stl": "Não confirmado",
+      "p": "Circulou nas redes que ele prometeu sair do Brasil se Lula vencesse. A afirmação veio de um perfil de notícias, sem vídeo ou fala dele, e nenhum veículo confirmou. Famosos pró-Lula reagiram com ironia.",
+      "s": [
+        [
+          "BNews",
+          "https://www.bnews.com.br/noticias/entretenimento/famosos-comemoram-suposta-promessa-de-pablo-marcal-de-deixar-o-brasil-caso-lula-venca-eleicao-conte-com-a-gente.html"
+        ]
+      ],
+      "r": "Teve famoso querendo reconhecer firma da promessa em cartório. Marçal, até agora, não reconheceu nem o vídeo, que ninguém achou. Quem já estava com a carona pro aeroporto agendada pode cancelar sem multa."
+    }
+  ],
+  "news": [
+    {
+      "d": "2026-11-23",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Em entrevista à Fox News, Flávio diz não ter provas de fraude porque é \"proibido de investigar\" e defende voto impresso",
+      "p": "Segundo o Oh!Hoje, ele não apontou qual decisão o impediria de investigar e voltou a criticar a urna eletrônica; a fala foi divulgada no domingo (22).",
+      "src": "Oh!Hoje",
+      "u": "https://ohoje.com/2026/11/23/flavio-bolsonaro-diz-que-nao-apresentou-provas-de-fraude-eleitoral-porque-seria-impedido-de-investigar/",
+      "r": "Sem provas porque é \"proibido de investigar\": a tese que só fecha porque ninguém pode conferir a conta. Pelo menos pediu o comprovante impresso, que é o recibo da derrota em papel."
+    },
+    {
+      "d": "2026-11-23",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Tarcísio de Freitas"
+      ],
+      "h": "Flávio diz que o \"problema bom\" da direita é ter muitos craques para 2030",
+      "p": "Segundo o Blog do BG, ao comentar nomes como o de Tarcísio de Freitas, ele afirmou que o campo tem várias opções para a eleição seguinte.",
+      "src": "Blog do BG",
+      "u": "https://www.blogdobgpb.com.br/2026/11/23/flavio-bolsonaro-diz-que-problema-bom-da-direita-e-ter-muitos-craques-para-2030/",
+      "r": "Muitos craques para 2030, diz quem perdeu o jogo de 2026 e já escala o time da próxima. O banco de reservas agradece a confiança, e o técnico segue em outro fuso."
+    },
+    {
+      "d": "2026-11-22",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "h": "Ao marcar um ano da prisão de Jair Bolsonaro, Flávio publica mensagem e pede que os apoiadores não desistam",
+      "p": "Segundo o Área VIP, ele chamou a prisão de injusta; a mesma reportagem diz que ele pretende ficar nos EUA e fazer oposição ao governo Lula.",
+      "src": "Área VIP",
+      "u": "https://www.areavip.com.br/noticias/politica/ao-completar-1-ano-da-prisao-de-jair-bolsonaro-flavio-publica-mensagem-e-faz-pedido-aos-apoiadores/",
+      "r": "\"Não vamos desistir\", avisa Flávio, direto dos EUA. Resistência com fuso diferente é novidade no manual da oposição."
+    },
+    {
+      "d": "2026-11-20",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Alexandre de Moraes",
+        "Willer Tomaz"
+      ],
+      "h": "Moraes vota no STF para manter cancelados os passaportes de Flávio e proibido o contato com o advogado Willer Tomaz",
+      "p": "Segundo o Estado de Minas e o ND Mais, o julgamento é no plenário virtual da Primeira Turma e segue aberto até 30/11, com votos de Dino, Zanin e Cármen Lúcia pendentes; o voto de Moraes ainda não é decisão final.",
+      "src": "Estado de Minas",
+      "u": "https://www.em.com.br/politica/2026/11/7541832-stf-moraes-vota-para-manter-passaporte-de-flavio-bolsonaro-retido.html",
+      "r": "O plenário é virtual, o senador vota por aplicativo e o passaporte está cancelado: a política brasileira finalmente aderiu ao home office."
+    },
+    {
+      "d": "2026-11-19",
+      "g": "Flávio e campanha",
+      "who": [
+        "Nikolas Ferreira",
+        "Hugo Motta",
+        "Valdemar Costa Neto"
+      ],
+      "h": "Aliados de Nikolas dizem não acreditar que ele vá deixar o PL e veem a ameaça como pressão interna",
+      "p": "Segundo o NC News, a ameaça de sair do partido caso o PL apoie a reeleição de Hugo Motta é lida por aliados como estratégia de pressão; a decisão da bancada ainda não saiu.",
+      "src": "NC News",
+      "u": "https://ncnews.com.br/2026/11/19/aliados-nikolas-ferreira-nao-acreditam-saida-pl-hugo-motta/",
+      "r": "Aliados dizem que a ameaça de Nikolas é só pressão. Ameaçar sair do partido e ninguém acreditar é o equivalente político de gritar \"eu vou embora\" e ficar parado na porta."
+    },
+    {
+      "d": "2026-11-18",
+      "g": "Flávio e campanha",
+      "who": [
+        "Valdemar Costa Neto",
+        "Nikolas Ferreira",
+        "Hugo Motta"
+      ],
+      "h": "Valdemar chama de \"loucura\" a ideia de lançar Nikolas à presidência da Câmara, e o deputado ameaça deixar o PL se o partido apoiar Motta",
+      "p": "Segundo o Ohoje, Valdemar citou a idade de Nikolas, 30 anos, como obstáculo; a eleição da Câmara é em fevereiro de 2027 e o PL ainda não decidiu o rumo.",
+      "src": "Ohoje",
+      "u": "https://ohoje.com/2026/11/18/valdemar-diz-que-candidatura-de-nikolas-e-loucura-e-deputado-ameaca-sair-do-pl-caso-partido-apoie-motta/",
+      "r": "A oposição ainda nem entrou em 2027 e já está brigando pelo controle remoto da sala. A direita que prometeu unir o país está ocupada em unir a própria bancada."
+    },
+    {
+      "d": "2026-11-17",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Paulo Gonet"
+      ],
+      "h": "PGR defende no STF prorrogar por 90 dias o inquérito sobre o financiamento do filme Dark Horse, que investiga Flávio",
+      "p": "Segundo a SBT News, a PF pede mais tempo para perícias e para a cooperação com os EUA; Flávio, incluído no inquérito em julho, nega irregularidades e diz que os recursos eram privados. A decisão cabe ao relator.",
+      "src": "SBT News",
+      "u": "https://sbtnews.sbt.com.br/noticia/politica/pgr-defende-prorrogacao-de-90-dias-no-caso-dark-horse",
+      "r": "Mais 90 dias de suspense: o filme não estreou, mas a sequência de manchetes já tem temporada garantida. Flávio diz que o dinheiro era privado, e a Justiça segue sem pressa de dar spoiler."
+    },
+    {
+      "d": "2026-11-17",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "JD Vance",
+        "Tallis Gomes"
+      ],
+      "h": "Washington Post: PF investiga se a Rockbridge, rede cofundada por Vance, ajudou a campanha de Flávio; ele e Tallis Gomes negam",
+      "p": "Segundo o jornal, a apuração foi aberta em 27/10 por ordem de Flávio Dino; a Rockbridge diz que brasileiros usaram o nome dela sem consentimento, e as informações divulgadas não mostram repasse de dinheiro.",
+      "src": "The Washington Post",
+      "u": "https://www.washingtonpost.com/world/2026/11/17/brazilian-federal-police-are-investigating-jd-vance-donor-network/",
+      "r": "Flávio nega, Tallis nega e a Rockbridge diz que não autorizou o uso do nome: quando todo mundo nega a mesma coisa, o coro fica afinado e o Washington Post vira a plateia."
+    },
+    {
+      "d": "2026-11-17",
+      "g": "Flávio e campanha",
+      "who": [
+        "Nikolas Ferreira",
+        "Hugo Motta",
+        "Valdemar Costa Neto"
+      ],
+      "h": "Nikolas ameaça deixar o PL se o partido apoiar a reeleição de Hugo Motta na Câmara",
+      "p": "Segundo o Metrópoles, ele cita o apoio de Motta à candidatura de Lula e a falta de avanço da anistia aos condenados do 8 de janeiro; o racha opõe a ala bolsonarista ao grupo de Valdemar, favorável a um acordo com Motta.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/brasil/nikolas-ameaca-sair-do-pl-se-partido-apoiar-reeleicao-de-motta-na-camara",
+      "r": "A oposição quer enfrentar o governo Lula, mas primeiro precisa decidir se cabe na mesma sala: Flávio de longe, Nikolas ameaçando a saída e Valdemar de calculadora na mão."
+    },
+    {
+      "d": "2026-11-16",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Alencar Santana",
+        "Prerrogativas"
+      ],
+      "h": "Deputado do PT e grupo Prerrogativas pedem ao STF a prisão preventiva de Flávio, o bloqueio do salário e a suspensão do mandato",
+      "p": "Segundo a CartaCapital, o pedido foi protocolado no processo em que ele é investigado e cita o salário bruto de R$ 46.366,19 e a estrutura de gabinete de cerca de R$ 400 mil por mês; as alegações são dos autores, e não há decisão.",
+      "src": "CartaCapital",
+      "u": "https://www.cartacapital.com.br/politica/acao-pede-ao-stf-prisao-e-o-bloqueio-do-salario-de-flavio-bolsonaro/",
+      "r": "A petição chega com o contracheque na mão, centavos incluídos: o salário de senador virou personagem principal da novela. Quem decide é o STF; a pipoca, como sempre, é nossa."
+    },
+    {
+      "d": "2026-11-16",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Em entrevista ao Epoch Times, Flávio diz que pretende pedir residência permanente nos EUA e fala da eleição americana de 2028",
+      "p": "Segundo o Portal do Rosas, que cita a entrevista, ele disse que os eleitores americanos ainda têm dois anos para se arrepender do que fizeram e que busca a residência por meios legais; a permanência atual é amparada por autorização temporária.",
+      "src": "Portal do Rosas",
+      "u": "https://mail.portaldorosas.com.br/2026/11/16/flavio-bolsonaro-pede-que-eleitores-americanos-mantenham-republicanos-na-casa-branca-em-2028-e-diz-que-buscara-residencia-permanente-nos-eua",
+      "r": "Chegou há três semanas, já quer residência permanente e já dá palpite na eleição americana de 2028: o primeiro hóspede que opina na decoração antes de assinar o contrato."
+    },
+    {
+      "d": "2026-11-15",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Flávio visita casas num condomínio de luxo em Boca Raton, na Flórida, em busca de lugar para morar, diz coluna de O Globo",
+      "p": "Segundo a Terra, que cita o colunista Lauro Jardim, aluguéis custam cerca de US$ 15 mil por mês; Flávio rejeita o rótulo de fugitivo e diz querer disputar a Presidência de novo.",
+      "src": "Terra",
+      "u": "https://terra.com.br/noticias/brasil/politica/flavio-bolsonaro-procura-casa-de-luxo-nos-eua-diz-colunista,967c290678e892457f2671d7969d8d963cgad42g.html",
+      "r": "Quer voltar a disputar a Presidência e já está vendo condomínio na Flórida: planejamento de longo prazo, só falta combinar com o eleitor o endereço do comitê. Rótulo ele recusa, mas o corretor de Boca Raton já sabe o nome dele."
+    },
+    {
+      "d": "2026-11-14",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Hugo Motta",
+        "Valdemar Costa Neto"
+      ],
+      "h": "Flávio se opõe do exterior à reeleição de Hugo Motta, e Valdemar vai consultar os diretórios do PL por questionário por cerca de 15 dias",
+      "p": "Segundo a Tribuna do Agreste, a reunião da bancada terminou sem consenso; analistas citados dizem que, se a posição dele não prevalecer, Flávio pode concluir que não dá para liderar a oposição à distância.",
+      "src": "Tribuna do Agreste",
+      "u": "https://www.tribunadoagreste.com.br/geral/2026/11/14/1021850-tensao-no-pl-flavio-bolsonaro-se-opoe-a-reeleicao-de-hugo-motta",
+      "r": "Flávio vetou Motta por live, e Valdemar respondeu com um questionário de 15 dias. A direita descobre que a democracia interna também tem prazo de resposta."
+    },
+    {
+      "d": "2026-11-13",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Em fala à Reuters, Flávio diz estar pronto para voltar ao Brasil e disputar de novo, e segue reivindicando o título de presidente eleito",
+      "p": "Segundo a CartaCapital, ele não revelou com quem se reuniu em Washington nem quem ajudou a organizar a viagem da família; o relato sobre a fala à Reuters vem da reportagem.",
+      "src": "CartaCapital",
+      "u": "https://www.cartacapital.com.br/politica/nos-eua-flavio-bolsonaro-fantasia-com-nova-eleicao-e-reivindica-titulo-de-presidente-eleito/",
+      "r": "Não reconhece a eleição que perdeu, mas já avisa que topa disputar a próxima. É a pré-campanha mais antecipada do país, e o título de presidente eleito continua só no papel dele."
+    },
+    {
+      "d": "2026-11-12",
+      "g": "Religiosos",
+      "who": [
+        "Líderes evangélicos",
+        "Lula"
+      ],
+      "h": "Líderes evangélicos buscam reaproximação com Lula depois da derrota de Flávio",
+      "p": "Segundo o título da reportagem do A Notícia do Vale, o movimento ocorre depois da eleição; a nota não detalha quais lideranças nem em que termos.",
+      "src": "A Notícia do Vale",
+      "u": "https://anoticiadovale.com/2026/11/12/lideres-evangelicos-buscam-reaproximacao-com-lula/",
+      "r": "Terminada a apuração, a palavra mais abençoada do vocabulário passou a ser \"reaproximação\". Conversão rápida que nem o Planalto previa."
+    },
+    {
+      "d": "2026-11-12",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "h": "Dos EUA, Flávio vota contra o ajuste fiscal do governo no Senado, que aprova o texto-base por 45 a 31",
+      "p": "Segundo o Metrópoles, ele votou remotamente contra a urgência e contra o texto-base, e em live criticou a medida com o termo \"estelionato eleitoral\".",
+      "src": "Metrópoles",
+      "u": "https://metropoles.com/brasil/dos-eua-flavio-bolsonaro-vota-contra-ajuste-fiscal-do-governo-lula",
+      "r": "Votou pelo celular, de longe, contra o ajuste do governo, e o texto passou com 45 votos mesmo assim. A bancada à distância tem a vantagem de não pegar fila do cafezinho do Senado."
+    },
+    {
+      "d": "2026-11-12",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Reportagem lembra que Flávio prometeu respeitar o resultado três vezes antes de contestar a eleição",
+      "p": "Segundo o título da TV Sim Brasil, foram três promessas de respeitar o resultado feitas antes da contestação.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/12/flavio-prometeu-respeitar-resultado-3-vezes-contesta-eleicao",
+      "r": "Prometeu respeitar o resultado três vezes e cumpriu com o rigor de promessa de ano novo: a intenção era sincera até o placar sair."
+    },
+    {
+      "d": "2026-11-12",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Hugo Motta",
+        "Alexandre de Moraes"
+      ],
+      "h": "Em live, Flávio diz ser contra a reeleição de Hugo Motta na Câmara e que a oposição vai focar no Congresso",
+      "p": "Segundo a Folha, reproduzida pelo Jornal de Brasília, ele afirmou que Motta prometeu anistia e não entregou, e que o PL quer pedir a anulação da chapa de Lula por abuso de poder econômico; a bancada do PL decide em voto secreto.",
+      "src": "Jornal de Brasília",
+      "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/nos-eua-flavio-bolsonaro-rejeita-apoio-a-motta-apos-racha-no-pl-sobre-eleicao-na-camara/",
+      "r": "Anistia prometida e não entregue: a relação com o presidente da Câmara terminou do jeito que termina toda negociação de balcão, com live e cobrança pública. E o PL ainda vai a voto secreto para saber se acompanha o chefe."
+    },
+    {
+      "d": "2026-11-12",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Flávio Dino",
+        "Tallis Gomes"
+      ],
+      "h": "PF investiga suspeita de financiamento estrangeiro na campanha de Flávio, por ordem de Dino; campanha nega",
+      "p": "Segundo o The Real News, a apuração, aberta em 27/10, mira ligação com a Rockbridge Network e anúncios pagos do exterior; a campanha e Tallis Gomes negam, e nada foi comprovado.",
+      "src": "The Real News",
+      "u": "https://therealnews.com/brazils-federal-police-open-inquiry-into-us-funding-for-flavio-bolsonaros-campaign",
+      "r": "Campanha, empresário e a organização americana negaram tudo em uníssono: o inquérito já tem três negativas e nenhuma conclusão, o que o deixa no primeiro capítulo da novela."
+    },
+    {
+      "d": "2026-11-11",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "h": "Ativista democrata americano critica Flávio por se fazer de vítima nos EUA e quer cortar o que, diz ele, banca os irmãos",
+      "p": "Segundo o Metrópoles, Isaiah Martin, opositor de Trump, fez as críticas nas redes e afirmou que Trump financia o estilo de vida dos irmãos; a afirmação é dele, e o texto não registra reação dos Bolsonaro.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/mundo/ativista-democrata-acusa-flavio-bolsonaro-de-se-fazer-de-vitima-nos-eua",
+      "r": "Flávio chegou aos EUA para liderar a oposição e já ganhou uma oposição só para ele, de brinde. Ninguém disse que exílio vinha sem caixa de comentários."
+    },
+    {
+      "d": "2026-11-11",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Flávio Dino"
+      ],
+      "h": "Blog relata inquérito da PF, aberto por ordem de Dino, sobre possível dinheiro estrangeiro na campanha de Flávio",
+      "p": "Segundo o Claudio Dantas, a apuração trata de suspeita, sem conclusão, e inclui a viagem aos EUA; a informação não foi confirmada por outro veículo na nossa checagem.",
+      "src": "Claudio Dantas",
+      "u": "https://claudiodantas.com.br/pf-investiga-suspeita-de-dinheiro-estrangeiro-na-campanha-de-flavio",
+      "r": "Inquérito não é condenação, e por ora o que existe é suspeita, um blog e a promessa de capítulo novo. Quem gosta de suspense já pode abrir a pipoca."
+    },
+    {
+      "d": "2026-11-11",
+      "g": "Flávio e campanha",
+      "who": [
+        "Nikolas Ferreira",
+        "Hugo Motta"
+      ],
+      "h": "Nikolas rejeita apoio a Motta e defende que o PL tenha nome próprio na disputa pela Presidência da Câmara",
+      "p": "Segundo o Metrópoles, ele criticou a gestão de Motta e disse que o presidente da Câmara tomou posição veemente de apoio a Lula na eleição; a afirmação é dele.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/brasil/nikolas-rejeita-apoio-a-motta-e-defende-nome-do-pl-a-presidencia-da-camara",
+      "r": "Nikolas recusa o acordo com Motta e quer nome próprio: o PL tem a maior bancada e agora precisa de alguém que queira ser o nome."
+    },
+    {
+      "d": "2026-11-11",
+      "g": "Flávio e campanha",
+      "who": [
+        "Hugo Motta",
+        "Nikolas Ferreira",
+        "Valdemar Costa Neto"
+      ],
+      "h": "Sem consenso, bancada do PL adia decisão sobre apoiar a reeleição de Hugo Motta na Câmara",
+      "p": "Segundo a CNN Brasil, na primeira reunião da bancada eleita o partido não definiu se lança candidato próprio ou apoia Motta, e o impasse interno segue.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/politica/sem-consenso-pl-adia-decisao-sobre-apoio-a-reeleicao-de-hugo-motta/",
+      "r": "A reunião marcada para decidir terminou decidindo marcar outra: no PL, o consenso também passa por segundo turno."
+    },
+    {
+      "d": "2026-11-09",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Quaest: 62% acham que Flávio errou ao buscar refúgio nos EUA, e 61% confiam na lisura da eleição",
+      "p": "Segundo a pesquisa com 2.004 entrevistados, 29% veem acerto na viagem, 56% acreditam que ele foi para fugir da Justiça e 35% para escapar de perseguição política; 59% desaprovam as falas dele contra as urnas.",
+      "src": "Jamildo",
+      "u": "https://jamildo.com/politica/quaest-maioria-dos-brasileiros-condenam-ida-de-flavio-bolsonaro-aos-eua-e-confiam-nas-eleicoes.html",
+      "r": "Dos 62% que acham a viagem errada aos 29% que aprovam, a pesquisa achou o que a campanha não achou: um placar que não pede prorrogação."
+    },
+    {
+      "d": "2026-11-09",
+      "g": "Flávio e campanha",
+      "who": [
+        "Rogério Marinho",
+        "Valdemar Costa Neto",
+        "Nikolas Ferreira",
+        "Hugo Motta",
+        "Davi Alcolumbre",
+        "Flávio Bolsonaro"
+      ],
+      "h": "Com Flávio nos EUA, PL oficializa Marinho para a Presidência do Senado, e a bancada decide em 11/11 o rumo na Câmara",
+      "p": "Segundo a Gazeta do Povo, parte do partido quer apoiar a reeleição de Hugo Motta, e outra, liderada por Nikolas Ferreira, defende candidatura própria; a eleição das Mesas é em 1º de fevereiro de 2027.",
+      "src": "Gazeta do Povo",
+      "u": "https://gazetadopovo.com.br/republica/com-flavio-nos-eua-bolsonaro-e-marinho-se-organizam-para-conquistar-o-comando-do-congresso",
+      "r": "Líder nos EUA, candidato ao Senado em Brasília e Nikolas querendo candidatura própria na Câmara: a oposição tem mais cabeças de chapa do que votos."
+    },
+    {
+      "d": "2026-11-07",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Lula",
+        "Geraldo Alckmin",
+        "Kassio Nunes Marques"
+      ],
+      "h": "Ministros do TSE não veem punição à chapa Lula-Alckmin e esperam arquivar as ações, diz coluna do SBT News",
+      "p": "Segundo a coluna, o TSE tem 39 ações do tipo, a maioria da campanha de Flávio; o corregedor pediu manifestação da defesa de Lula em duas delas, medida descrita como protocolar. É a avaliação de bastidor, sem decisão.",
+      "src": "SBT News",
+      "u": "https://sbtnews.sbt.com.br/colunas/coluna-da-carla/ministros-do-tse-nao-creem-em-punicao-de-chapa-lula-alckmin",
+      "r": "Trinta e nove ações e nenhuma pressa: na Justiça Eleitoral, o único prazo que ninguém perde é o de reclamar."
+    },
+    {
+      "d": "2026-11-07",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Tarcísio de Freitas",
+        "Rogério Marinho",
+        "Valdemar Costa Neto"
+      ],
+      "h": "Em entrevista à Folha, Flávio admite que não tem provas de fraude e diz que não vai contestar o resultado na Justiça",
+      "p": "Segundo o BNC Amazonas, ele disse \"Não tenho provas e nem terei\" e que a estratégia jurídica mira o uso da máquina pública por Lula; Tarcísio, Rogério Marinho e Valdemar Costa Neto criticaram a carta em que ele se dizia presidente eleito.",
+      "src": "BNC Amazonas",
+      "u": "https://bncamazonas.com.br/poder/nao-tenho-provas-admite-flavio-ao-insistir-em-questionar-urnas",
+      "r": "Da carta de \"presidente eleito\" ao \"não tenho provas e nem terei\" em nove dias. Rara campanha que se desmente sem precisar de ajuda do TSE."
+    },
+    {
+      "d": "2026-11-07",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Tarcísio de Freitas"
+      ],
+      "h": "Flávio diz que não concorda com o reconhecimento da vitória de Lula feito por Tarcísio e quer ser o candidato da direita em 2030",
+      "p": "Segundo A Notícia do Vale, ele disse não ser obrigado a concordar com tudo que o governador fala e que comunicou a ele a pretensão de disputar em 2030.",
+      "src": "A Notícia do Vale",
+      "u": "https://anoticiadovale.com/2026/11/07/flavio-admite-nao-ter-prova-de-fraude-critica-volta-de-jair-ao-brasil-e-diz-querer-2030-assim-como-tarcisio/",
+      "r": "Perdeu em 2026 e já reservou a vaga de 2030, avisando o colega de direita com antecedência. Planejamento de longo prazo, feito de longe."
+    },
+    {
+      "d": "2026-11-07",
+      "g": "Música",
+      "who": [
+        "Gusttavo Lima",
+        "Amado Batista",
+        "Bruno & Marrone",
+        "Murilo Huff",
+        "Zezé Di Camargo",
+        "Jorge & Mateus"
+      ],
+      "h": "Prefeituras do Nordeste contrataram onze sertanejos pró-Flávio por cerca de R$ 38 milhões em 2026, e Gusttavo Lima lidera",
+      "p": "Segundo o Metrópoles, com base em contratos do Portal Nacional de Contratações Públicas, os valores podem não incluir todos os pagamentos; a reportagem veio depois do cancelamento dos shows de réveillon de Jorge & Mateus em Fortaleza e Recife.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/entretenimento/nordeste-pagou-r-38-milhoes-a-sertanejos-que-apoiaram-flavio-bolsonaro",
+      "r": "Palanque de um lado, agenda de prefeitura do outro: o sertanejo é de direita, mas o cachê é suprapartidário. A sofrência agora vem em nota de empenho."
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Davi Alcolumbre",
+        "Randolfe Rodrigues"
+      ],
+      "h": "Dez dias depois da viagem de Flávio, Senado segue sem dizer como trata ausência, faltas e salário dele",
+      "p": "Segundo a Agência Brasil, a Mesa não respondeu às perguntas; Randolfe pediu esclarecimento e Alcolumbre disse que vai analisar. Há ação popular na Justiça Federal do Rio contra os pagamentos ao senador.",
+      "src": "Agência Brasil",
+      "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/sem-posicao-do-senado-regras-sobre-flavio-seguem-indefinidas",
+      "r": "O Senado tem regimento grosso para tudo, menos para este caso, que ganhou o botão de silenciar. O voto chegou pelo aplicativo; a Mesa é que ainda está sem sinal."
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Flávio vai a um salão de Miami frequentado por famosos brasileiros, com corte a R$ 820, pouco antes da entrevista ao New York Times",
+      "p": "Segundo o ND Mais, o salão é popular entre celebridades como Neymar; na entrevista, Flávio nega ter recebido ajuda de governos para chegar aos EUA.",
+      "src": "ND Mais",
+      "u": "https://ndmais.com.br/politica/flavio-bolsonaro-salao-luxo-eua-entrevista-new-york-times/",
+      "r": "O segredo da rota vai para o túmulo, mas o preço do corte já está em reportagem. Prioridades de quem lidera a oposição de longe."
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Eduardo Bolsonaro",
+        "Marco Rubio"
+      ],
+      "h": "Flávio reaparece no gala da CPAC em Mar-a-Lago ao lado de Eduardo e diz que tudo estava sob o controle de Deus",
+      "p": "Segundo a CNN em Espanhol, com base na EFE, o evento foi fechado à imprensa e o conteúdo veio de vídeos de convidados; o NYT e o WSJ ligaram um assessor da Casa Branca ao jato, e Rubio negou que Washington tenha facilitado a saída.",
+      "src": "CNN em Espanhol",
+      "u": "https://cnnespanol.cnn.com/2026/11/06/eeuu/flavio-bolsonaro-reaparece-cpac-mar-a-largo-efe",
+      "r": "Primeira grande aparição como líder da oposição: gala fechado à imprensa e conteúdo por vídeo de convidado. A resistência chega ao público em versão bastidor."
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Em entrevista ao New York Times, Flávio diz ter organizado sozinho a saída do Brasil e que levará a rota \"para o túmulo\"",
+      "p": "Segundo o Gizmodo Brasil, ele afirma que não teve ajuda de governos, autoridades ou aliados e nega o relato do jornal de que alguém da Casa Branca ajudou com a aeronave.",
+      "src": "Gizmodo Brasil",
+      "u": "https://www.gizmodo.com.br/flavio-bolsonaro-diz-que-levara-para-o-tumulo-segredo-sobre-sua-saida-do-pais-74315",
+      "r": "Diz que levará o segredo para o túmulo, mas o assunto já rendeu reportagem demais para caber num caixão."
+    },
+    {
+      "d": "2026-11-05",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Lula",
+        "Geraldo Alckmin",
+        "Partido Novo"
+      ],
+      "h": "Corregedor do TSE admite ações de Flávio e do Novo contra a chapa Lula-Alckmin por suposto abuso de poder e dá cinco dias para a defesa",
+      "p": "Segundo a SBT News, a Revista Fórum contabiliza 14 ações na corregedoria; admitir a ação não significa julgar o mérito.",
+      "src": "SBT News",
+      "u": "https://sbtnews.sbt.com.br/noticia/politica/tse-admite-acoes-contra-lula-alckmin-por-abuso-de-poder",
+      "r": "Catorze ações no TSE: o terceiro turno já tem mais protocolo do que a campanha teve de comício. Prazo de cinco dias, e a torcida contando nos dedos."
+    },
+    {
+      "d": "2026-11-05",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Eduardo Bolsonaro",
+        "Jim Caviezel"
+      ],
+      "h": "Flávio é um dos palestrantes do jantar de gala da CPAC em Mar-a-Lago, com pacotes de até R$ 519 mil",
+      "p": "Segundo o Poder360, o evento vai de 4 a 7 de novembro, os ingressos estão esgotados e Eduardo e o ator Jim Caviezel também falam.",
+      "src": "Poder360",
+      "u": "https://www.poder360.com.br/poder-internacional/jantar-de-evento-conservador-com-flavio-tem-ingressos-de-ate-r-519-mil/",
+      "r": "Pacote de até R$ 519 mil por um jantar em Mar-a-Lago: o discurso é de povo, mas a cotação é em dólar."
+    },
+    {
+      "d": "2026-11-04",
+      "g": "Flávio e campanha",
+      "who": [
+        "Rogério Marinho",
+        "Flávio Bolsonaro"
+      ],
+      "h": "Marinho diz que Flávio tomou uma \"decisão difícil\" ao deixar o país e anuncia que disputará a Presidência do Senado",
+      "p": "Segundo o Poder360, em reunião do PL em Brasília ele citou mais de 3 mil ameaças que Flávio teria recebido e criticou a reação da PF; as alegações são dele.",
+      "src": "Poder360",
+      "u": "https://www.poder360.com.br/poder-partidos-politicos/rogerio-marinho-justifica-fuga-de-flavio-bolsonaro-do-brasil/",
+      "r": "No mesmo dia em que defendeu a decisão difícil de Flávio, Marinho anunciou a própria candidatura à Presidência do Senado. Lealdade e agenda própria, no mesmo pacote."
+    },
+    {
+      "d": "2026-11-04",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Eduardo Bolsonaro",
+        "Donald Trump",
+        "Ives Gandra Martins"
+      ],
+      "h": "Flávio usa a CPAC na Flórida para reorganizar a oposição, e aliados propõem um \"Gabinete Sombra\", diz a Gazeta do Povo",
+      "p": "Segundo a reportagem, Trump disse que Flávio foi tratado de forma \"muito injusta\" e é bem-vindo; a leitura sobre o papel de Eduardo é da reportagem, não de declaração dos irmãos.",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-oposicao-internacional-contra-o-governo-lula-nos-eua/",
+      "r": "Oposição com gabinete sombra, CPAC e endereço em Miami: o governo paralelo já tem agenda internacional. Só falta combinar o expediente com Brasília."
+    },
+    {
+      "d": "2026-11-03",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro"
+      ],
+      "h": "Flávio tenta votar a PEC da Segurança a distância, e o número novo do celular não estava cadastrado no Senado",
+      "p": "Segundo o Metrópoles, o cadastro só pode ser feito presencialmente; depois da publicação da reportagem, ele acessou o aplicativo e votou a favor da PEC, como os demais senadores presentes.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/colunas/igor-gadelha/flavio-tenta-votar-pec-da-seguranca-dos-eua-mas-enfrenta-problemas",
+      "r": "O senador descobriu que o aplicativo do Senado também exige presença para cadastrar número novo. Acabou votando, e a oposição a distância ganhou seu primeiro caso de suporte técnico."
+    },
+    {
+      "d": "2026-11-03",
+      "g": "Música",
+      "who": [
+        "Jorge & Mateus",
+        "Jorge",
+        "Evandro Leitão"
+      ],
+      "h": "Jorge & Mateus saem do réveillon de Fortaleza depois que vídeo de Jorge no encontro pró-Flávio voltou a circular",
+      "p": "Segundo o Pipoca Moderna, a prefeitura diz que a saída foi combinada com a dupla e que a negociação vinha de meses; o prefeito do Recife manteve o show deles em 27/12.",
+      "src": "Pipoca Moderna",
+      "u": "https://pipocamoderna.com.br/2026/11/jorge-mateus-cancelados-fortaleza",
+      "r": "A prefeitura garante que a saída foi combinada com meses de antecedência, e o vídeo viral entra como mera trilha sonora. Refrão cantado em palanque tem validade: vai até o próximo contrato."
+    },
+    {
+      "d": "2026-11-02",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Alexandre de Moraes"
+      ],
+      "h": "Defesa de Flávio recorre ao STF para anular a ordem sobre os passaportes e afastar Moraes do inquérito",
+      "p": "Segundo a CartaCapital, os advogados dizem que não há risco concreto de fuga e que o MP não foi ouvido; se a ordem ficar, pedem que ele só avise as viagens. A defesa diz não atribuir irregularidade ao ministro. Não há decisão.",
+      "src": "CartaCapital",
+      "u": "https://www.cartacapital.com.br/justica/flavio-bolsonaro-recorre-contra-ordem-de-apreensao-de-passaportes-e-pede-impedimento-de-moraes-no-caso/",
+      "r": "A defesa pede o cardápio completo: anular a ordem, tirar o ministro do caso e, no plano B, só avisar as viagens. Em Brasília, o plano B sempre vem com formulário."
+    }
   ]
- },
- "exits": [
-  {
-   "n": "Eduardo Bolsonaro",
-   "role": "Irmão de Flávio, ex-deputado; mora nos EUA desde 2025",
-   "st": "yes",
-   "stl": "Defendeu a saída",
-   "q": "Se meu irmão não vencer, sou a favor de que ele deixe o país.",
-   "p": "Disse em 23/10, no programa americano Louder with Crowder, que a derrota deixaria Flávio exposto a processos. A fala veio depois de Lula dizer no debate da Band que Flávio perderia a imunidade. Em 27/10 chamou de mentira o rumor de que Flávio teria saído do país.",
-   "s": [
-    [
-     "Gazeta do Povo",
-     "https://www.gazetadopovo.com.br/eleicoes/2026/eduardo-bolsonaro-defende-que-flavio-deixe-o-brasil-se-for-derrotado-por-lula/"
-    ],
-    [
-     "CNN Brasil",
-     "https://www.cnnbrasil.com.br/eleicoes/eduardo-defende-saida-de-flavio-bolsonaro-do-pais-em-caso-de-derrota/"
-    ],
-    [
-     "SBT News",
-     "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-deve-deixar-o-brasil-se-perder-diz-eduardo-bolsonaro-1"
-    ],
-    [
-     "ND Mais",
-     "https://ndmais.com.br/politica/eduardo-bolsonaro-nega-suposta-fuga-de-flavio-e-ironiza-elon-musk-mandou-um-foguete/"
-    ]
-   ],
-   "r": "Conselho fraterno direto dos EUA, de quem já testou o produto e deixou avaliação cinco estrelas. E o roteiro tem coautor: foi Lula quem soltou no debate o \"você vai perder a imunidade\". Presidente que dá spoiler do próximo capítulo do adversário."
-  },
-  {
-   "n": "Flávio Bolsonaro",
-   "role": "Candidato derrotado; senador até 31/01/2027",
-   "st": "yes",
-   "stl": "Carta diz que lidera a oposição dos EUA",
-   "q": "Eu nunca falei isso.",
-   "p": "Em 26/10 disse ter sido intimado pela PF a entregar os passaportes, por ordem de Alexandre de Moraes no inquérito de lavagem que o envolve e ao advogado Willer Tomaz. Segundo ele, a decisão se baseou na fala de Eduardo, e ele nega ter falado em sair do país. Disse que vai cumprir e chamou a medida de tentativa de intimidação. Visitou o pai em Brasília na manhã do mesmo dia. Ao deixar o Senado perde o foro especial. Na terça (27), disse em vídeo que nunca pensou em sair do país. Um site argentino relatou que ele teria embarcado rumo aos EUA; Rogério Marinho e Fabio Wajngarten negam, o governo argentino diz que ele não entrou no país, e a reportagem aponta que o paradeiro não está confirmado. Ele não entregou os passaportes no prazo; os advogados dizem não ter conseguido localizá-lo, e a PF cancelou os passaportes, inclusive o diplomático, por ordem de Moraes. Fontes ligadas à PF disseram à Gazeta do Povo e aliados ao Poder360 que ele saiu rumo aos EUA, mas o Poder360 reforça que não há confirmação oficial da saída; o PT pediu ao STF a prisão preventiva dele. Ainda na terça, aliados disseram à CNN Brasil que ele deixou o país com a família rumo aos EUA, e uma fonte do governo americano disse à Reuters que ele seguia para lá. A defesa diz que o último contato foi às 16h30 de segunda. Em 28/10, a Gazeta do Povo relatou que ele foi de jatinho à Argentina e seguiu para Miami, e o Correio Braziliense, citando a BBC, que ele chegou à Flórida e foi recebido por Eduardo; fontes da PF falam em passaporte italiano. Não há confirmação oficial nem declaração dele ou da defesa sobre a viagem, e o governo argentino havia negado entrada e pedido de asilo. Na tarde de 28/10, a PF disse em nota que a decisão de Moraes não autorizava prisão nem o caracteriza como foragido, que cancelou os passaportes comum e diplomático e que não há registro oficial de saída pelos postos de migração brasileiros. Em 28/10, uma carta dele divulgada nos EUA o apresentou como \"verdadeiro presidente eleito do Brasil\" (o trecho foi trocado depois por \"líder do Brasil\"), agradeceu a Trump e a Milei e disse que vai liderar a oposição de lá, segundo o Metrópoles. A CNN Brasil informou que ele entrou em Miami com o passaporte diplomático cancelado na véspera, com base em registros da fronteira americana, e que passou antes pela Argentina com passaporte italiano, segundo suas fontes. Trump disse ter autorizado a entrada dele e não quis comentar a carta; o presidente do TSE respondeu que a eleição ocorreu \"dentro da mais absoluta normalidade\". Em 30/10, numa live de Miami, voltou a questionar o resultado sem apresentar provas, segundo o Metrópoles. Em 2/11, segundo o Metrópoles, apareceu num culto em igreja brasileira na Flórida ao lado de Eduardo, a primeira aparição pública dele nos EUA. Em 2/11, segundo a CartaCapital, a defesa recorreu ao STF para anular a ordem sobre os passaportes e afastar Moraes do inquérito; não há decisão. Em 3/11, segundo o Metrópoles, tentou votar a PEC da Segurança a distância, mas o número novo não estava cadastrado no Senado; depois da reportagem, acessou o aplicativo e votou a favor. Em 4/11, segundo o Poder360, o senador Rogério Marinho defendeu a saída como \"decisão difícil\" e citou ameaças que Flávio teria recebido; segundo a Gazeta do Povo, Flávio usa a CPAC, na Flórida, para reorganizar a oposição. Em 5/11, segundo o Poder360, discursou no jantar da CPAC em Mar-a-Lago. Em 6/11, em entrevista à Folha publicada pelo BNC Amazonas, disse não ter provas de fraude e que não vai contestar o resultado na Justiça. Em entrevista ao New York Times, segundo o Gizmodo Brasil, disse ter organizado sozinho a saída, sem ajuda de governos ou aliados, e que não revelará a rota. Em 12/11, segundo a Folha reproduzida pelo Jornal de Brasília, esteve em Washington, deu entrevista à Reuters e, em live, disse ser contra a reeleição de Hugo Motta na Câmara. Em 15/11, segundo a Terra, que cita coluna de O Globo, visitou casas num condomínio de Boca Raton, na Flórida, em busca de moradia; ele rejeita o rótulo de fugitivo. Em 16/11, segundo a CartaCapital, o deputado Alencar Santana (PT-SP) e o grupo Prerrogativas pediram ao STF a prisão preventiva dele, o bloqueio do salário e a suspensão cautelar do mandato; as alegações são dos autores e não há decisão. Segundo o Portal do Rosas, que cita entrevista ao Epoch Times, ele disse que pretende pedir residência permanente nos EUA por meios legais. Em 20/11, segundo o Estado de Minas, Moraes votou no plenário virtual da Primeira Turma do STF para manter os passaportes cancelados e a proibição de deixar o país, e disse que a ordem foi descumprida; o julgamento segue aberto, com votos pendentes, e não há decisão final.",
-   "s": [
-    [
-     "Exame",
-     "https://exame.com/brasil/vamos-pedir-anulacao-dessas-eleicoes-diz-flavio-bolsonaro-apos-vitoria-de-lula/"
-    ],
-    [
-     "Gazeta do Povo",
-     "https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/"
-    ],
-    [
-     "ND Mais",
-     "https://ndmais.com.br/politica/flavio-bolsonaro-viajou-para-os-eua-onde-esta/"
-    ],
-    [
-     "Congresso em Foco",
-     "https://www.congressoemfoco.com.br/noticia/128189/deputados-pedem-apreensao-do-passaporte-de-flavio-apos-derrota"
-    ],
-    [
-     "Metrópoles",
-     "https://www.metropoles.com/colunas/neila-guimaraes/flavio-visita-bolsonaro-em-dia-de-tensao-por-risco-de-perder-passaporte"
-    ],
-    [
-     "Gazeta do Povo",
-     "https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/"
-    ],
-    [
-     "Gazeta do Povo",
-     "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/"
-    ],
-    [
-     "CartaCapital",
-     "https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/"
-    ],
-    [
-     "Metrópoles",
-     "https://www.metropoles.com/brasil/flavio-teria-deixado-o-pais-rumo-aos-eua-diz-site-argentino-aliados-negam"
-    ],
-    [
-     "Terra",
-     "https://www.terra.com.br/noticias/brasil/policia/pf-apura-se-flavio-bolsonaro-deixou-o-brasil-apos-relato-de-site-argentino,c99f6a0890e385b6591e14f88937a02ct0f4g9a2.html"
-    ],
-    [
-     "Jornal Opção",
-     "https://www.jornalopcao.com.br/brasil/flavio-bolsonaro-nao-entrega-passaporte-no-prazo-e-pf-apura-se-senador-deixou-o-brasil-882947/"
-    ],
-    [
-     "Gazeta do Povo",
-     "https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/"
-    ],
-    [
-     "CNN Brasil",
-     "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/"
-    ],
-    [
-     "CNN Brasil",
-     "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/"
-    ],
-    [
-     "CNN Brasil",
-     "https://www.cnnbrasil.com.br/politica/autoridade-dos-eua-diz-a-reuters-que-flavio-esta-a-caminho-do-pais/"
-    ],
-    [
-     "Gazeta do Povo",
-     "https://www.gazetadopovo.com.br/republica/pf-confirma-flavio-bolsonaro-deixou-brasil/"
-    ],
-    [
-     "Gazeta do Povo",
-     "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-desembarca-nos-estados-unidos-apos-proibicao-judicial/"
-    ],
-    [
-     "Correio Braziliense",
-     "https://www.correiobraziliense.com.br/politica/2026/10/7529196-flavio-bolsonaro-teria-chegado-aos-eua-pela-florida-diz-bbc.html"
-    ],
-    [
-     "Poder360",
-     "https://www.poder360.com.br/poder-justica/leia-a-cronologia-dos-fatos-que-levaram-flavio-bolsonaro-deixar-o-brasil/"
-    ],
-    [
-     "Jornal de Brasília",
-     "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes/"
-    ],
-    [
-     "Poder360",
-     "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/"
-    ],
-    [
-     "Metrópoles",
-     "https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil"
-    ],
-    [
-     "CNN Brasil",
-     "https://www.cnnbrasil.com.br/internacional/flavio-bolsonaro-entrou-nos-eua-com-passaporte-diplomatico-que-pf-cancelou/"
-    ],
-    [
-     "Metrópoles",
-     "https://www.metropoles.com/mundo/em-live-nos-eua-flavio-volta-a-questionar-resultado-das-eleicoes"
-    ],
-    [
-     "Metrópoles",
-     "https://www.metropoles.com/mundo/ao-lado-de-eduardo-flavio-faz-1a-aparicao-publica-nos-eua-apos-fuga"
-    ],
-    [
-     "CartaCapital",
-     "https://www.cartacapital.com.br/justica/flavio-bolsonaro-recorre-contra-ordem-de-apreensao-de-passaportes-e-pede-impedimento-de-moraes-no-caso/"
-    ],
-    [
-     "Metrópoles",
-     "https://www.metropoles.com/colunas/igor-gadelha/flavio-tenta-votar-pec-da-seguranca-dos-eua-mas-enfrenta-problemas"
-    ],
-    [
-     "Poder360",
-     "https://www.poder360.com.br/poder-partidos-politicos/rogerio-marinho-justifica-fuga-de-flavio-bolsonaro-do-brasil/"
-    ],
-    [
-     "Gazeta do Povo",
-     "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-oposicao-internacional-contra-o-governo-lula-nos-eua/"
-    ],
-    [
-     "Poder360",
-     "https://www.poder360.com.br/poder-internacional/jantar-de-evento-conservador-com-flavio-tem-ingressos-de-ate-r-519-mil/"
-    ],
-    [
-     "Gizmodo Brasil",
-     "https://www.gizmodo.com.br/flavio-bolsonaro-diz-que-levara-para-o-tumulo-segredo-sobre-sua-saida-do-pais-74315"
-    ],
-    [
-     "BNC Amazonas",
-     "https://bncamazonas.com.br/poder/nao-tenho-provas-admite-flavio-ao-insistir-em-questionar-urnas"
-    ],
-    [
-     "CartaCapital",
-     "https://www.cartacapital.com.br/politica/acao-pede-ao-stf-prisao-e-o-bloqueio-do-salario-de-flavio-bolsonaro/"
-    ],
-    [
-     "Portal do Rosas",
-     "https://mail.portaldorosas.com.br/2026/11/16/flavio-bolsonaro-pede-que-eleitores-americanos-mantenham-republicanos-na-casa-branca-em-2028-e-diz-que-buscara-residencia-permanente-nos-eua"
-    ],
-    [
-     "Estado de Minas",
-     "https://www.em.com.br/politica/2026/11/7541832-stf-moraes-vota-para-manter-passaporte-de-flavio-bolsonaro-retido.html"
-    ],
-    [
-     "ND Mais",
-     "https://ndmais.com.br/justica/moraes-decisao-passaportes-flavio-bolsonaro-willer-tomaz/"
-    ]
-   ],
-   "r": "\"Eu nunca falei isso\" deu lugar a uma carta que fala bastante. Do exílio autodeclarado, o \"verdadeiro presidente eleito\" virou \"líder do Brasil\" em poucas horas: o único cargo da República que se muda no corretor."
-  },
-  {
-   "n": "Equipe e aliados da campanha",
-   "role": "Nikolas Ferreira, Lucas Pavanato, Alexandre Ramagem e outros",
-   "st": "no",
-   "stl": "Ninguém anunciou saída",
-   "p": "No dia da votação, aliados questionaram a prorrogação antes do resultado, mas nenhum falou em deixar o país. Eduardo e Alexandre Ramagem já vivem nos EUA; Ramagem, condenado a 16 anos pelo STF, disse que só voltaria com Flávio eleito.",
-   "s": [
-    [
-     "Metro 1",
-     "https://www.metro1.com.br/noticias/eleicoes-2026/190424,aliados-de-flavio-bolsonaro-questionam-eleicao-antes-do-resultado-e-levantam-suspeitas-de-golpe"
-    ]
-   ],
-   "r": "Ninguém anunciou mudança. Também, nem precisava: a ala internacional da campanha já estava instalada lá fora antes da primeira urna abrir. É a única campanha com escritório regional em outro país."
-  },
-  {
-   "n": "Pablo Marçal",
-   "role": "Influenciador, organizou o encontro de influenciadores da campanha",
-   "st": "unk",
-   "stl": "Não confirmado",
-   "p": "Circulou nas redes que ele prometeu sair do Brasil se Lula vencesse. A afirmação veio de um perfil de notícias, sem vídeo ou fala dele, e nenhum veículo confirmou. Famosos pró-Lula reagiram com ironia.",
-   "s": [
-    [
-     "BNews",
-     "https://www.bnews.com.br/noticias/entretenimento/famosos-comemoram-suposta-promessa-de-pablo-marcal-de-deixar-o-brasil-caso-lula-venca-eleicao-conte-com-a-gente.html"
-    ]
-   ],
-   "r": "Teve famoso querendo reconhecer firma da promessa em cartório. Marçal, até agora, não reconheceu nem o vídeo, que ninguém achou. Quem já estava com a carona pro aeroporto agendada pode cancelar sem multa."
-  }
- ],
- "news": [
-  {
-   "d": "2026-11-20",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Alexandre de Moraes",
-    "Willer Tomaz"
-   ],
-   "h": "Moraes vota no STF para manter cancelados os passaportes de Flávio e proibido o contato com o advogado Willer Tomaz",
-   "p": "Segundo o Estado de Minas e o ND Mais, o julgamento é no plenário virtual da Primeira Turma e segue aberto até 30/11, com votos de Dino, Zanin e Cármen Lúcia pendentes; o voto de Moraes ainda não é decisão final.",
-   "src": "Estado de Minas",
-   "u": "https://www.em.com.br/politica/2026/11/7541832-stf-moraes-vota-para-manter-passaporte-de-flavio-bolsonaro-retido.html",
-   "r": "O plenário é virtual, o senador vota por aplicativo e o passaporte está cancelado: a política brasileira finalmente aderiu ao home office."
-  },
-  {
-   "d": "2026-11-19",
-   "g": "Flávio e campanha",
-   "who": [
-    "Nikolas Ferreira",
-    "Hugo Motta",
-    "Valdemar Costa Neto"
-   ],
-   "h": "Aliados de Nikolas dizem não acreditar que ele vá deixar o PL e veem a ameaça como pressão interna",
-   "p": "Segundo o NC News, a ameaça de sair do partido caso o PL apoie a reeleição de Hugo Motta é lida por aliados como estratégia de pressão; a decisão da bancada ainda não saiu.",
-   "src": "NC News",
-   "u": "https://ncnews.com.br/2026/11/19/aliados-nikolas-ferreira-nao-acreditam-saida-pl-hugo-motta/",
-   "r": "Aliados dizem que a ameaça de Nikolas é só pressão. Ameaçar sair do partido e ninguém acreditar é o equivalente político de gritar \"eu vou embora\" e ficar parado na porta."
-  },
-  {
-   "d": "2026-11-18",
-   "g": "Flávio e campanha",
-   "who": [
-    "Valdemar Costa Neto",
-    "Nikolas Ferreira",
-    "Hugo Motta"
-   ],
-   "h": "Valdemar chama de \"loucura\" a ideia de lançar Nikolas à presidência da Câmara, e o deputado ameaça deixar o PL se o partido apoiar Motta",
-   "p": "Segundo o Ohoje, Valdemar citou a idade de Nikolas, 30 anos, como obstáculo; a eleição da Câmara é em fevereiro de 2027 e o PL ainda não decidiu o rumo.",
-   "src": "Ohoje",
-   "u": "https://ohoje.com/2026/11/18/valdemar-diz-que-candidatura-de-nikolas-e-loucura-e-deputado-ameaca-sair-do-pl-caso-partido-apoie-motta/",
-   "r": "A oposição ainda nem entrou em 2027 e já está brigando pelo controle remoto da sala. A direita que prometeu unir o país está ocupada em unir a própria bancada."
-  },
-  {
-   "d": "2026-11-17",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Paulo Gonet"
-   ],
-   "h": "PGR defende no STF prorrogar por 90 dias o inquérito sobre o financiamento do filme Dark Horse, que investiga Flávio",
-   "p": "Segundo a SBT News, a PF pede mais tempo para perícias e para a cooperação com os EUA; Flávio, incluído no inquérito em julho, nega irregularidades e diz que os recursos eram privados. A decisão cabe ao relator.",
-   "src": "SBT News",
-   "u": "https://sbtnews.sbt.com.br/noticia/politica/pgr-defende-prorrogacao-de-90-dias-no-caso-dark-horse",
-   "r": "Mais 90 dias de suspense: o filme não estreou, mas a sequência de manchetes já tem temporada garantida. Flávio diz que o dinheiro era privado, e a Justiça segue sem pressa de dar spoiler."
-  },
-  {
-   "d": "2026-11-17",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "JD Vance",
-    "Tallis Gomes"
-   ],
-   "h": "Washington Post: PF investiga se a Rockbridge, rede cofundada por Vance, ajudou a campanha de Flávio; ele e Tallis Gomes negam",
-   "p": "Segundo o jornal, a apuração foi aberta em 27/10 por ordem de Flávio Dino; a Rockbridge diz que brasileiros usaram o nome dela sem consentimento, e as informações divulgadas não mostram repasse de dinheiro.",
-   "src": "The Washington Post",
-   "u": "https://www.washingtonpost.com/world/2026/11/17/brazilian-federal-police-are-investigating-jd-vance-donor-network/",
-   "r": "Flávio nega, Tallis nega e a Rockbridge diz que não autorizou o uso do nome: quando todo mundo nega a mesma coisa, o coro fica afinado e o Washington Post vira a plateia."
-  },
-  {
-   "d": "2026-11-17",
-   "g": "Flávio e campanha",
-   "who": [
-    "Nikolas Ferreira",
-    "Hugo Motta",
-    "Valdemar Costa Neto"
-   ],
-   "h": "Nikolas ameaça deixar o PL se o partido apoiar a reeleição de Hugo Motta na Câmara",
-   "p": "Segundo o Metrópoles, ele cita o apoio de Motta à candidatura de Lula e a falta de avanço da anistia aos condenados do 8 de janeiro; o racha opõe a ala bolsonarista ao grupo de Valdemar, favorável a um acordo com Motta.",
-   "src": "Metrópoles",
-   "u": "https://www.metropoles.com/brasil/nikolas-ameaca-sair-do-pl-se-partido-apoiar-reeleicao-de-motta-na-camara",
-   "r": "A oposição quer enfrentar o governo Lula, mas primeiro precisa decidir se cabe na mesma sala: Flávio de longe, Nikolas ameaçando a saída e Valdemar de calculadora na mão."
-  },
-  {
-   "d": "2026-11-16",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Alencar Santana",
-    "Prerrogativas"
-   ],
-   "h": "Deputado do PT e grupo Prerrogativas pedem ao STF a prisão preventiva de Flávio, o bloqueio do salário e a suspensão do mandato",
-   "p": "Segundo a CartaCapital, o pedido foi protocolado no processo em que ele é investigado e cita o salário bruto de R$ 46.366,19 e a estrutura de gabinete de cerca de R$ 400 mil por mês; as alegações são dos autores, e não há decisão.",
-   "src": "CartaCapital",
-   "u": "https://www.cartacapital.com.br/politica/acao-pede-ao-stf-prisao-e-o-bloqueio-do-salario-de-flavio-bolsonaro/",
-   "r": "A petição chega com o contracheque na mão, centavos incluídos: o salário de senador virou personagem principal da novela. Quem decide é o STF; a pipoca, como sempre, é nossa."
-  },
-  {
-   "d": "2026-11-16",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro"
-   ],
-   "h": "Em entrevista ao Epoch Times, Flávio diz que pretende pedir residência permanente nos EUA e fala da eleição americana de 2028",
-   "p": "Segundo o Portal do Rosas, que cita a entrevista, ele disse que os eleitores americanos ainda têm dois anos para se arrepender do que fizeram e que busca a residência por meios legais; a permanência atual é amparada por autorização temporária.",
-   "src": "Portal do Rosas",
-   "u": "https://mail.portaldorosas.com.br/2026/11/16/flavio-bolsonaro-pede-que-eleitores-americanos-mantenham-republicanos-na-casa-branca-em-2028-e-diz-que-buscara-residencia-permanente-nos-eua",
-   "r": "Chegou há três semanas, já quer residência permanente e já dá palpite na eleição americana de 2028: o primeiro hóspede que opina na decoração antes de assinar o contrato."
-  },
-  {
-   "d": "2026-11-15",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro"
-   ],
-   "h": "Flávio visita casas num condomínio de luxo em Boca Raton, na Flórida, em busca de lugar para morar, diz coluna de O Globo",
-   "p": "Segundo a Terra, que cita o colunista Lauro Jardim, aluguéis custam cerca de US$ 15 mil por mês; Flávio rejeita o rótulo de fugitivo e diz querer disputar a Presidência de novo.",
-   "src": "Terra",
-   "u": "https://terra.com.br/noticias/brasil/politica/flavio-bolsonaro-procura-casa-de-luxo-nos-eua-diz-colunista,967c290678e892457f2671d7969d8d963cgad42g.html",
-   "r": "Quer voltar a disputar a Presidência e já está vendo condomínio na Flórida: planejamento de longo prazo, só falta combinar com o eleitor o endereço do comitê. Rótulo ele recusa, mas o corretor de Boca Raton já sabe o nome dele."
-  },
-  {
-   "d": "2026-11-14",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Hugo Motta",
-    "Valdemar Costa Neto"
-   ],
-   "h": "Flávio se opõe do exterior à reeleição de Hugo Motta, e Valdemar vai consultar os diretórios do PL por questionário por cerca de 15 dias",
-   "p": "Segundo a Tribuna do Agreste, a reunião da bancada terminou sem consenso; analistas citados dizem que, se a posição dele não prevalecer, Flávio pode concluir que não dá para liderar a oposição à distância.",
-   "src": "Tribuna do Agreste",
-   "u": "https://www.tribunadoagreste.com.br/geral/2026/11/14/1021850-tensao-no-pl-flavio-bolsonaro-se-opoe-a-reeleicao-de-hugo-motta",
-   "r": "Flávio vetou Motta por live, e Valdemar respondeu com um questionário de 15 dias. A direita descobre que a democracia interna também tem prazo de resposta."
-  },
-  {
-   "d": "2026-11-13",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro"
-   ],
-   "h": "Em fala à Reuters, Flávio diz estar pronto para voltar ao Brasil e disputar de novo, e segue reivindicando o título de presidente eleito",
-   "p": "Segundo a CartaCapital, ele não revelou com quem se reuniu em Washington nem quem ajudou a organizar a viagem da família; o relato sobre a fala à Reuters vem da reportagem.",
-   "src": "CartaCapital",
-   "u": "https://www.cartacapital.com.br/politica/nos-eua-flavio-bolsonaro-fantasia-com-nova-eleicao-e-reivindica-titulo-de-presidente-eleito/",
-   "r": "Não reconhece a eleição que perdeu, mas já avisa que topa disputar a próxima. É a pré-campanha mais antecipada do país, e o título de presidente eleito continua só no papel dele."
-  },
-  {
-   "d": "2026-11-12",
-   "g": "Religiosos",
-   "who": [
-    "Líderes evangélicos",
-    "Lula"
-   ],
-   "h": "Líderes evangélicos buscam reaproximação com Lula depois da derrota de Flávio",
-   "p": "Segundo o título da reportagem do A Notícia do Vale, o movimento ocorre depois da eleição; a nota não detalha quais lideranças nem em que termos.",
-   "src": "A Notícia do Vale",
-   "u": "https://anoticiadovale.com/2026/11/12/lideres-evangelicos-buscam-reaproximacao-com-lula/",
-   "r": "Terminada a apuração, a palavra mais abençoada do vocabulário passou a ser \"reaproximação\". Conversão rápida que nem o Planalto previa."
-  },
-  {
-   "d": "2026-11-12",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Lula"
-   ],
-   "h": "Dos EUA, Flávio vota contra o ajuste fiscal do governo no Senado, que aprova o texto-base por 45 a 31",
-   "p": "Segundo o Metrópoles, ele votou remotamente contra a urgência e contra o texto-base, e em live criticou a medida com o termo \"estelionato eleitoral\".",
-   "src": "Metrópoles",
-   "u": "https://metropoles.com/brasil/dos-eua-flavio-bolsonaro-vota-contra-ajuste-fiscal-do-governo-lula",
-   "r": "Votou pelo celular, de longe, contra o ajuste do governo, e o texto passou com 45 votos mesmo assim. A bancada à distância tem a vantagem de não pegar fila do cafezinho do Senado."
-  },
-  {
-   "d": "2026-11-12",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro"
-   ],
-   "h": "Reportagem lembra que Flávio prometeu respeitar o resultado três vezes antes de contestar a eleição",
-   "p": "Segundo o título da TV Sim Brasil, foram três promessas de respeitar o resultado feitas antes da contestação.",
-   "src": "TV Sim Brasil",
-   "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/12/flavio-prometeu-respeitar-resultado-3-vezes-contesta-eleicao",
-   "r": "Prometeu respeitar o resultado três vezes e cumpriu com o rigor de promessa de ano novo: a intenção era sincera até o placar sair."
-  },
-  {
-   "d": "2026-11-12",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Hugo Motta",
-    "Alexandre de Moraes"
-   ],
-   "h": "Em live, Flávio diz ser contra a reeleição de Hugo Motta na Câmara e que a oposição vai focar no Congresso",
-   "p": "Segundo a Folha, reproduzida pelo Jornal de Brasília, ele afirmou que Motta prometeu anistia e não entregou, e que o PL quer pedir a anulação da chapa de Lula por abuso de poder econômico; a bancada do PL decide em voto secreto.",
-   "src": "Jornal de Brasília",
-   "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/nos-eua-flavio-bolsonaro-rejeita-apoio-a-motta-apos-racha-no-pl-sobre-eleicao-na-camara/",
-   "r": "Anistia prometida e não entregue: a relação com o presidente da Câmara terminou do jeito que termina toda negociação de balcão, com live e cobrança pública. E o PL ainda vai a voto secreto para saber se acompanha o chefe."
-  },
-  {
-   "d": "2026-11-12",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Flávio Dino",
-    "Tallis Gomes"
-   ],
-   "h": "PF investiga suspeita de financiamento estrangeiro na campanha de Flávio, por ordem de Dino; campanha nega",
-   "p": "Segundo o The Real News, a apuração, aberta em 27/10, mira ligação com a Rockbridge Network e anúncios pagos do exterior; a campanha e Tallis Gomes negam, e nada foi comprovado.",
-   "src": "The Real News",
-   "u": "https://therealnews.com/brazils-federal-police-open-inquiry-into-us-funding-for-flavio-bolsonaros-campaign",
-   "r": "Campanha, empresário e a organização americana negaram tudo em uníssono: o inquérito já tem três negativas e nenhuma conclusão, o que o deixa no primeiro capítulo da novela."
-  },
-  {
-   "d": "2026-11-11",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Eduardo Bolsonaro"
-   ],
-   "h": "Ativista democrata americano critica Flávio por se fazer de vítima nos EUA e quer cortar o que, diz ele, banca os irmãos",
-   "p": "Segundo o Metrópoles, Isaiah Martin, opositor de Trump, fez as críticas nas redes e afirmou que Trump financia o estilo de vida dos irmãos; a afirmação é dele, e o texto não registra reação dos Bolsonaro.",
-   "src": "Metrópoles",
-   "u": "https://www.metropoles.com/mundo/ativista-democrata-acusa-flavio-bolsonaro-de-se-fazer-de-vitima-nos-eua",
-   "r": "Flávio chegou aos EUA para liderar a oposição e já ganhou uma oposição só para ele, de brinde. Ninguém disse que exílio vinha sem caixa de comentários."
-  },
-  {
-   "d": "2026-11-11",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Flávio Dino"
-   ],
-   "h": "Blog relata inquérito da PF, aberto por ordem de Dino, sobre possível dinheiro estrangeiro na campanha de Flávio",
-   "p": "Segundo o Claudio Dantas, a apuração trata de suspeita, sem conclusão, e inclui a viagem aos EUA; a informação não foi confirmada por outro veículo na nossa checagem.",
-   "src": "Claudio Dantas",
-   "u": "https://claudiodantas.com.br/pf-investiga-suspeita-de-dinheiro-estrangeiro-na-campanha-de-flavio",
-   "r": "Inquérito não é condenação, e por ora o que existe é suspeita, um blog e a promessa de capítulo novo. Quem gosta de suspense já pode abrir a pipoca."
-  },
-  {
-   "d": "2026-11-11",
-   "g": "Flávio e campanha",
-   "who": [
-    "Nikolas Ferreira",
-    "Hugo Motta"
-   ],
-   "h": "Nikolas rejeita apoio a Motta e defende que o PL tenha nome próprio na disputa pela Presidência da Câmara",
-   "p": "Segundo o Metrópoles, ele criticou a gestão de Motta e disse que o presidente da Câmara tomou posição veemente de apoio a Lula na eleição; a afirmação é dele.",
-   "src": "Metrópoles",
-   "u": "https://www.metropoles.com/brasil/nikolas-rejeita-apoio-a-motta-e-defende-nome-do-pl-a-presidencia-da-camara",
-   "r": "Nikolas recusa o acordo com Motta e quer nome próprio: o PL tem a maior bancada e agora precisa de alguém que queira ser o nome."
-  },
-  {
-   "d": "2026-11-11",
-   "g": "Flávio e campanha",
-   "who": [
-    "Hugo Motta",
-    "Nikolas Ferreira",
-    "Valdemar Costa Neto"
-   ],
-   "h": "Sem consenso, bancada do PL adia decisão sobre apoiar a reeleição de Hugo Motta na Câmara",
-   "p": "Segundo a CNN Brasil, na primeira reunião da bancada eleita o partido não definiu se lança candidato próprio ou apoia Motta, e o impasse interno segue.",
-   "src": "CNN Brasil",
-   "u": "https://www.cnnbrasil.com.br/politica/sem-consenso-pl-adia-decisao-sobre-apoio-a-reeleicao-de-hugo-motta/",
-   "r": "A reunião marcada para decidir terminou decidindo marcar outra: no PL, o consenso também passa por segundo turno."
-  },
-  {
-   "d": "2026-11-09",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro"
-   ],
-   "h": "Quaest: 62% acham que Flávio errou ao buscar refúgio nos EUA, e 61% confiam na lisura da eleição",
-   "p": "Segundo a pesquisa com 2.004 entrevistados, 29% veem acerto na viagem, 56% acreditam que ele foi para fugir da Justiça e 35% para escapar de perseguição política; 59% desaprovam as falas dele contra as urnas.",
-   "src": "Jamildo",
-   "u": "https://jamildo.com/politica/quaest-maioria-dos-brasileiros-condenam-ida-de-flavio-bolsonaro-aos-eua-e-confiam-nas-eleicoes.html",
-   "r": "Dos 62% que acham a viagem errada aos 29% que aprovam, a pesquisa achou o que a campanha não achou: um placar que não pede prorrogação."
-  },
-  {
-   "d": "2026-11-09",
-   "g": "Flávio e campanha",
-   "who": [
-    "Rogério Marinho",
-    "Valdemar Costa Neto",
-    "Nikolas Ferreira",
-    "Hugo Motta",
-    "Davi Alcolumbre",
-    "Flávio Bolsonaro"
-   ],
-   "h": "Com Flávio nos EUA, PL oficializa Marinho para a Presidência do Senado, e a bancada decide em 11/11 o rumo na Câmara",
-   "p": "Segundo a Gazeta do Povo, parte do partido quer apoiar a reeleição de Hugo Motta, e outra, liderada por Nikolas Ferreira, defende candidatura própria; a eleição das Mesas é em 1º de fevereiro de 2027.",
-   "src": "Gazeta do Povo",
-   "u": "https://gazetadopovo.com.br/republica/com-flavio-nos-eua-bolsonaro-e-marinho-se-organizam-para-conquistar-o-comando-do-congresso",
-   "r": "Líder nos EUA, candidato ao Senado em Brasília e Nikolas querendo candidatura própria na Câmara: a oposição tem mais cabeças de chapa do que votos."
-  },
-  {
-   "d": "2026-11-07",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Lula",
-    "Geraldo Alckmin",
-    "Kassio Nunes Marques"
-   ],
-   "h": "Ministros do TSE não veem punição à chapa Lula-Alckmin e esperam arquivar as ações, diz coluna do SBT News",
-   "p": "Segundo a coluna, o TSE tem 39 ações do tipo, a maioria da campanha de Flávio; o corregedor pediu manifestação da defesa de Lula em duas delas, medida descrita como protocolar. É a avaliação de bastidor, sem decisão.",
-   "src": "SBT News",
-   "u": "https://sbtnews.sbt.com.br/colunas/coluna-da-carla/ministros-do-tse-nao-creem-em-punicao-de-chapa-lula-alckmin",
-   "r": "Trinta e nove ações e nenhuma pressa: na Justiça Eleitoral, o único prazo que ninguém perde é o de reclamar."
-  },
-  {
-   "d": "2026-11-07",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Tarcísio de Freitas",
-    "Rogério Marinho",
-    "Valdemar Costa Neto"
-   ],
-   "h": "Em entrevista à Folha, Flávio admite que não tem provas de fraude e diz que não vai contestar o resultado na Justiça",
-   "p": "Segundo o BNC Amazonas, ele disse \"Não tenho provas e nem terei\" e que a estratégia jurídica mira o uso da máquina pública por Lula; Tarcísio, Rogério Marinho e Valdemar Costa Neto criticaram a carta em que ele se dizia presidente eleito.",
-   "src": "BNC Amazonas",
-   "u": "https://bncamazonas.com.br/poder/nao-tenho-provas-admite-flavio-ao-insistir-em-questionar-urnas",
-   "r": "Da carta de \"presidente eleito\" ao \"não tenho provas e nem terei\" em nove dias. Rara campanha que se desmente sem precisar de ajuda do TSE."
-  },
-  {
-   "d": "2026-11-07",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Tarcísio de Freitas"
-   ],
-   "h": "Flávio diz que não concorda com o reconhecimento da vitória de Lula feito por Tarcísio e quer ser o candidato da direita em 2030",
-   "p": "Segundo A Notícia do Vale, ele disse não ser obrigado a concordar com tudo que o governador fala e que comunicou a ele a pretensão de disputar em 2030.",
-   "src": "A Notícia do Vale",
-   "u": "https://anoticiadovale.com/2026/11/07/flavio-admite-nao-ter-prova-de-fraude-critica-volta-de-jair-ao-brasil-e-diz-querer-2030-assim-como-tarcisio/",
-   "r": "Perdeu em 2026 e já reservou a vaga de 2030, avisando o colega de direita com antecedência. Planejamento de longo prazo, feito de longe."
-  },
-  {
-   "d": "2026-11-07",
-   "g": "Música",
-   "who": [
-    "Gusttavo Lima",
-    "Amado Batista",
-    "Bruno & Marrone",
-    "Murilo Huff",
-    "Zezé Di Camargo",
-    "Jorge & Mateus"
-   ],
-   "h": "Prefeituras do Nordeste contrataram onze sertanejos pró-Flávio por cerca de R$ 38 milhões em 2026, e Gusttavo Lima lidera",
-   "p": "Segundo o Metrópoles, com base em contratos do Portal Nacional de Contratações Públicas, os valores podem não incluir todos os pagamentos; a reportagem veio depois do cancelamento dos shows de réveillon de Jorge & Mateus em Fortaleza e Recife.",
-   "src": "Metrópoles",
-   "u": "https://www.metropoles.com/entretenimento/nordeste-pagou-r-38-milhoes-a-sertanejos-que-apoiaram-flavio-bolsonaro",
-   "r": "Palanque de um lado, agenda de prefeitura do outro: o sertanejo é de direita, mas o cachê é suprapartidário. A sofrência agora vem em nota de empenho."
-  },
-  {
-   "d": "2026-11-06",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Davi Alcolumbre",
-    "Randolfe Rodrigues"
-   ],
-   "h": "Dez dias depois da viagem de Flávio, Senado segue sem dizer como trata ausência, faltas e salário dele",
-   "p": "Segundo a Agência Brasil, a Mesa não respondeu às perguntas; Randolfe pediu esclarecimento e Alcolumbre disse que vai analisar. Há ação popular na Justiça Federal do Rio contra os pagamentos ao senador.",
-   "src": "Agência Brasil",
-   "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/sem-posicao-do-senado-regras-sobre-flavio-seguem-indefinidas",
-   "r": "O Senado tem regimento grosso para tudo, menos para este caso, que ganhou o botão de silenciar. O voto chegou pelo aplicativo; a Mesa é que ainda está sem sinal."
-  },
-  {
-   "d": "2026-11-06",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro"
-   ],
-   "h": "Flávio vai a um salão de Miami frequentado por famosos brasileiros, com corte a R$ 820, pouco antes da entrevista ao New York Times",
-   "p": "Segundo o ND Mais, o salão é popular entre celebridades como Neymar; na entrevista, Flávio nega ter recebido ajuda de governos para chegar aos EUA.",
-   "src": "ND Mais",
-   "u": "https://ndmais.com.br/politica/flavio-bolsonaro-salao-luxo-eua-entrevista-new-york-times/",
-   "r": "O segredo da rota vai para o túmulo, mas o preço do corte já está em reportagem. Prioridades de quem lidera a oposição de longe."
-  },
-  {
-   "d": "2026-11-06",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Eduardo Bolsonaro",
-    "Marco Rubio"
-   ],
-   "h": "Flávio reaparece no gala da CPAC em Mar-a-Lago ao lado de Eduardo e diz que tudo estava sob o controle de Deus",
-   "p": "Segundo a CNN em Espanhol, com base na EFE, o evento foi fechado à imprensa e o conteúdo veio de vídeos de convidados; o NYT e o WSJ ligaram um assessor da Casa Branca ao jato, e Rubio negou que Washington tenha facilitado a saída.",
-   "src": "CNN em Espanhol",
-   "u": "https://cnnespanol.cnn.com/2026/11/06/eeuu/flavio-bolsonaro-reaparece-cpac-mar-a-largo-efe",
-   "r": "Primeira grande aparição como líder da oposição: gala fechado à imprensa e conteúdo por vídeo de convidado. A resistência chega ao público em versão bastidor."
-  },
-  {
-   "d": "2026-11-06",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro"
-   ],
-   "h": "Em entrevista ao New York Times, Flávio diz ter organizado sozinho a saída do Brasil e que levará a rota \"para o túmulo\"",
-   "p": "Segundo o Gizmodo Brasil, ele afirma que não teve ajuda de governos, autoridades ou aliados e nega o relato do jornal de que alguém da Casa Branca ajudou com a aeronave.",
-   "src": "Gizmodo Brasil",
-   "u": "https://www.gizmodo.com.br/flavio-bolsonaro-diz-que-levara-para-o-tumulo-segredo-sobre-sua-saida-do-pais-74315",
-   "r": "Diz que levará o segredo para o túmulo, mas o assunto já rendeu reportagem demais para caber num caixão."
-  },
-  {
-   "d": "2026-11-05",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Lula",
-    "Geraldo Alckmin",
-    "Partido Novo"
-   ],
-   "h": "Corregedor do TSE admite ações de Flávio e do Novo contra a chapa Lula-Alckmin por suposto abuso de poder e dá cinco dias para a defesa",
-   "p": "Segundo a SBT News, a Revista Fórum contabiliza 14 ações na corregedoria; admitir a ação não significa julgar o mérito.",
-   "src": "SBT News",
-   "u": "https://sbtnews.sbt.com.br/noticia/politica/tse-admite-acoes-contra-lula-alckmin-por-abuso-de-poder",
-   "r": "Catorze ações no TSE: o terceiro turno já tem mais protocolo do que a campanha teve de comício. Prazo de cinco dias, e a torcida contando nos dedos."
-  },
-  {
-   "d": "2026-11-05",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Eduardo Bolsonaro",
-    "Jim Caviezel"
-   ],
-   "h": "Flávio é um dos palestrantes do jantar de gala da CPAC em Mar-a-Lago, com pacotes de até R$ 519 mil",
-   "p": "Segundo o Poder360, o evento vai de 4 a 7 de novembro, os ingressos estão esgotados e Eduardo e o ator Jim Caviezel também falam.",
-   "src": "Poder360",
-   "u": "https://www.poder360.com.br/poder-internacional/jantar-de-evento-conservador-com-flavio-tem-ingressos-de-ate-r-519-mil/",
-   "r": "Pacote de até R$ 519 mil por um jantar em Mar-a-Lago: o discurso é de povo, mas a cotação é em dólar."
-  },
-  {
-   "d": "2026-11-04",
-   "g": "Flávio e campanha",
-   "who": [
-    "Rogério Marinho",
-    "Flávio Bolsonaro"
-   ],
-   "h": "Marinho diz que Flávio tomou uma \"decisão difícil\" ao deixar o país e anuncia que disputará a Presidência do Senado",
-   "p": "Segundo o Poder360, em reunião do PL em Brasília ele citou mais de 3 mil ameaças que Flávio teria recebido e criticou a reação da PF; as alegações são dele.",
-   "src": "Poder360",
-   "u": "https://www.poder360.com.br/poder-partidos-politicos/rogerio-marinho-justifica-fuga-de-flavio-bolsonaro-do-brasil/",
-   "r": "No mesmo dia em que defendeu a decisão difícil de Flávio, Marinho anunciou a própria candidatura à Presidência do Senado. Lealdade e agenda própria, no mesmo pacote."
-  },
-  {
-   "d": "2026-11-04",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Eduardo Bolsonaro",
-    "Donald Trump",
-    "Ives Gandra Martins"
-   ],
-   "h": "Flávio usa a CPAC na Flórida para reorganizar a oposição, e aliados propõem um \"Gabinete Sombra\", diz a Gazeta do Povo",
-   "p": "Segundo a reportagem, Trump disse que Flávio foi tratado de forma \"muito injusta\" e é bem-vindo; a leitura sobre o papel de Eduardo é da reportagem, não de declaração dos irmãos.",
-   "src": "Gazeta do Povo",
-   "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-oposicao-internacional-contra-o-governo-lula-nos-eua/",
-   "r": "Oposição com gabinete sombra, CPAC e endereço em Miami: o governo paralelo já tem agenda internacional. Só falta combinar o expediente com Brasília."
-  },
-  {
-   "d": "2026-11-03",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro"
-   ],
-   "h": "Flávio tenta votar a PEC da Segurança a distância, e o número novo do celular não estava cadastrado no Senado",
-   "p": "Segundo o Metrópoles, o cadastro só pode ser feito presencialmente; depois da publicação da reportagem, ele acessou o aplicativo e votou a favor da PEC, como os demais senadores presentes.",
-   "src": "Metrópoles",
-   "u": "https://www.metropoles.com/colunas/igor-gadelha/flavio-tenta-votar-pec-da-seguranca-dos-eua-mas-enfrenta-problemas",
-   "r": "O senador descobriu que o aplicativo do Senado também exige presença para cadastrar número novo. Acabou votando, e a oposição a distância ganhou seu primeiro caso de suporte técnico."
-  },
-  {
-   "d": "2026-11-03",
-   "g": "Música",
-   "who": [
-    "Jorge & Mateus",
-    "Jorge",
-    "Evandro Leitão"
-   ],
-   "h": "Jorge & Mateus saem do réveillon de Fortaleza depois que vídeo de Jorge no encontro pró-Flávio voltou a circular",
-   "p": "Segundo o Pipoca Moderna, a prefeitura diz que a saída foi combinada com a dupla e que a negociação vinha de meses; o prefeito do Recife manteve o show deles em 27/12.",
-   "src": "Pipoca Moderna",
-   "u": "https://pipocamoderna.com.br/2026/11/jorge-mateus-cancelados-fortaleza",
-   "r": "A prefeitura garante que a saída foi combinada com meses de antecedência, e o vídeo viral entra como mera trilha sonora. Refrão cantado em palanque tem validade: vai até o próximo contrato."
-  },
-  {
-   "d": "2026-11-02",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Alexandre de Moraes"
-   ],
-   "h": "Defesa de Flávio recorre ao STF para anular a ordem sobre os passaportes e afastar Moraes do inquérito",
-   "p": "Segundo a CartaCapital, os advogados dizem que não há risco concreto de fuga e que o MP não foi ouvido; se a ordem ficar, pedem que ele só avise as viagens. A defesa diz não atribuir irregularidade ao ministro. Não há decisão.",
-   "src": "CartaCapital",
-   "u": "https://www.cartacapital.com.br/justica/flavio-bolsonaro-recorre-contra-ordem-de-apreensao-de-passaportes-e-pede-impedimento-de-moraes-no-caso/",
-   "r": "A defesa pede o cardápio completo: anular a ordem, tirar o ministro do caso e, no plano B, só avisar as viagens. Em Brasília, o plano B sempre vem com formulário."
-  },
-  {
-   "d": "2026-11-02",
-   "g": "Flávio e campanha",
-   "who": [
-    "Flávio Bolsonaro",
-    "Eduardo Bolsonaro"
-   ],
-   "h": "Flávio faz a primeira aparição pública nos EUA, em culto com Eduardo numa igreja brasileira na Flórida",
-   "p": "Segundo o Metrópoles, foi em Coral Springs, perto de Miami; a igreja postou que recebeu a família Bolsonaro. A reportagem diz que ele deixou o Brasil em 28/10, em voo particular saído da Argentina.",
-   "src": "Metrópoles",
-   "u": "https://www.metropoles.com/mundo/ao-lado-de-eduardo-flavio-faz-1a-aparicao-publica-nos-eua-apos-fuga",
-   "r": "Liderar a oposição brasileira a partir da Flórida estreia em culto. Agenda nova, mesma companhia: Eduardo ao lado."
-  },
-  {
-   "d": "2026-11-01",
-   "g": "Flávio e campanha",
-   "who": [
-    "Tarcísio de Freitas",
-    "Michelle Bolsonaro",
-    "Bia Kicis",
-    "Nikolas Ferreira",
-    "Flávio Bolsonaro"
-   ],
-   "h": "Com Flávio nos EUA, direita disputa o comando da oposição a partir de 2027, aponta análise",
-   "p": "Segundo o Correio Braziliense, republicado pelo Estado de Minas, Tarcísio aparece como o mais bem posicionado; Michelle, Bia Kicis e Nikolas também são citados, e Flávio pode tentar influir à distância.",
-   "src": "Estado de Minas",
-   "u": "https://www.em.com.br/politica/2026/11/7531634-fuga-de-flavio-bolsonaro-do-pais-deixa-vacuo-na-lideranca-da-oposicao.html",
-   "r": "Com o titular na Flórida, a vaga de líder da oposição virou concurso, e as colunas políticas já distribuíram o currículo de todo mundo. Falta combinar com a banca."
-  },
-  {
-   "d": "2026-10-30",
-   "g": "Flávio e campanha",
-   "who": [
-    "Nikolas Ferreira",
-    "Flávio Bolsonaro"
-   ],
-   "h": "Nikolas não comenta a carta de Flávio e defende boicote a comércios ligados à esquerda, relata a Folha Press",
-   "p": "Em vídeo de 19 segundos no X, ele escreveu \"faz o L e engole o choro\"; o Ministério da Justiça notificou ao menos quatro empresas que teriam recusado atendimento a eleitores de Lula.",
-   "src": "Santa Portal",
-   "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/nikolas-ignora-carta-golpista-de-flavio-bolsonaro-e-defende-boicote-a-empresas-de-petistas/",
-   "r": "Silêncio sobre a carta do senador, barulho sobre o boicote. O país pediu pacificação e a oposição entregou um slogan de torcida."
-  }
- ]
 }

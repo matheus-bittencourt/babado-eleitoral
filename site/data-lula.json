@@ -1,541 +1,543 @@
 {
- "updated": "2026-11-22T10:02:21-03:00",
- "updated_label": "22/11/2026, 10h",
- "news": [
-  {
-   "d": "2026-11-21",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Janja",
-    "André Janones"
-   ],
-   "h": "Lula diz que Janja vai coordenar a posse do quarto mandato, em 5 de janeiro, e promete \"cair na farra\" antes de começar",
-   "p": "Segundo o Metrópoles e o ND Mais, ele falou em live com o deputado André Janones; quer cerimônia no Congresso pela manhã, e um decreto deve oficializar a comissão organizadora. Os detalhes ainda dependem de acerto com o Congresso.",
-   "src": "Metrópoles",
-   "u": "https://metropoles.com/brasil/lula-confirma-janja-na-coordenacao-da-posse-e-promete-cair-na-farra",
-   "r": "Lula promete cair na farra antes de assumir e escala Janja para organizar a festa. O governo ainda não tem ministros, mas o buffet já tem chefia."
-  },
-  {
-   "d": "2026-11-21",
-   "g": "Lula e governo",
-   "who": [
-    "Lula"
-   ],
-   "h": "Lula confirma a criação do Ministério dos Idosos e mira 40 pastas em 2027",
-   "p": "Segundo a TV Sim Brasil, a estrutura iria de 38 para 40 ministérios, número que depende da divisão da Segurança Pública; nome e comando da nova pasta ainda estão indefinidos.",
-   "src": "TV Sim Brasil",
-   "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/21/lula-confirma-ministerio-dos-idosos-mira-40-ministerios",
-   "r": "Ajuste fiscal aprovado de um lado, ministério novo do outro: a conta de 38 para 40 pastas só fecha em Brasília, onde 2 + 2 depende do partido."
-  },
-  {
-   "d": "2026-11-20",
-   "g": "Lula e governo",
-   "who": [
-    "Lula"
-   ],
-   "h": "Lula critica especulações sobre ministérios e diz que anuncia a equipe quando quiser",
-   "p": "Segundo O Povo, ele também falou em criar uma pasta voltada aos idosos; em fala do dia 19, disse que escolhe os nomes \"na hora que eu quiser\".",
-   "src": "O Povo",
-   "u": "https://mais.opovo.com.br/jornal/politica/2026/11/20/lula-critica-especulacoes-para-ministerios-e-fala-em-criar-pasta-voltada-aos-idosos.html",
-   "r": "Ministeriável é o único profissional do país cuja entrevista de emprego dura semanas e o retorno do RH é uma coletiva \"quando eu quiser\"."
-  },
-  {
-   "d": "2026-11-19",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Wellington Dias"
-   ],
-   "h": "Lula exonera Wellington Dias do Desenvolvimento Social a pedido; a saída é temporária",
-   "p": "Segundo o InfoMoney, o ministro quer voltar ao Senado para cuidar de emendas ao Orçamento de 2027, e o retorno ao cargo é esperado na semana seguinte.",
-   "src": "InfoMoney",
-   "u": "https://www.infomoney.com.br/politica/lula-exonera-wellington-dias-do-ministerio-de-desenvolvimento-social-a-pedido/",
-   "r": "A demissão mais curta da Esplanada: sai para cuidar de emenda e volta na semana que vem, quase um intervalo do lanche."
-  },
-  {
-   "d": "2026-11-19",
-   "g": "Lula e governo",
-   "who": [
-    "Lula"
-   ],
-   "h": "Lula diz que controle fiscal é prioridade do governo, promete manter direitos sociais e critica especulações sobre os ministérios",
-   "p": "Segundo a Agência Brasil, ele afirmou que a escolha dos nomes da equipe cabe só a ele; a fala foi dada na cerimônia do decreto da escala 5x2.",
-   "src": "Agência Brasil",
-   "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-promete-manter-direitos-e-diz-que-controle-fiscal-e-prioridade",
-   "r": "Lula jura que o aperto fiscal foi ideia dele, não do mercado, e que ninguém perde direito. É a primeira vez que um presidente briga para ficar com o crédito pelo ajuste."
-  },
-  {
-   "d": "2026-11-19",
-   "g": "Lula e governo",
-   "who": [
-    "Lula"
-   ],
-   "h": "Lula assina o decreto da escala 5x2, mas o STF ainda não decidiu as regras de transição",
-   "p": "Segundo a TV Sim Brasil, a decisão do Supremo sobre quem não tem acordo coletivo segue pendente; a Plantão Brasil informa que a primeira etapa começa em 16/12, com a jornada indo de 44 para 42 horas semanais.",
-   "src": "TV Sim Brasil",
-   "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/19/lula-assina-decreto-escala-5x2-stf-nao-decidiu",
-   "r": "Lula assina o decreto e o país descobre que acabar com a 6x1 é a parte fácil; difícil é combinar com o STF, a CNI e o calendário. O trabalhador comemora, mas o relógio de ponto pede calma."
-  },
-  {
-   "d": "2026-11-17",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Luiz Marinho",
-    "Guilherme Boulos"
-   ],
-   "h": "Lula pede ajustes e adia para quinta (19) a assinatura do decreto que regulamenta o fim da escala 6x1",
-   "p": "Segundo a CNN Brasil, Marinho disse que a cerimônia está prevista para as 9h no Planalto e que a nova regra vale a partir de 16 de dezembro; o conteúdo das mudanças não foi divulgado.",
-   "r": "O decreto do fim da 6x1 pediu mais um dia para ajustes: até o texto que acaba com a escala cansada ganhou prorrogação.",
-   "src": "CNN Brasil",
-   "u": "https://www.cnnbrasil.com.br/politica/fim-da-6x1-lula-assinara-decreto-com-regulamentacao-na-quinta-diz-marinho/"
-  },
-  {
-   "d": "2026-11-17",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Davi Alcolumbre",
-    "Eduardo Braga"
-   ],
-   "h": "Senado adia para quarta (18) a votação dos destaques do ajuste fiscal do governo por falta de acordo entre as bancadas",
-   "p": "Segundo o Hoje em Dia, Alcolumbre adiou e o relator Eduardo Braga pediu mais tempo; o texto-base passou em 12/11 por 45 a 31 e, depois dos destaques, o projeto segue para a Câmara.",
-   "r": "Quatro destaques, zero acordo e um adiamento: cortar gasto é fácil de aprovar no discurso e difícil de votar na bancada.",
-   "src": "Hoje em Dia",
-   "u": "https://www.hojeemdia.com.br/politica/senado-adia-votac-o-de-destaques-do-projeto-de-ajuste-fiscal-do-governo-lula-1.1141276"
-  },
-  {
-   "d": "2026-11-17",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Rui Costa",
-    "Camilo Santana",
-    "Rafael Fonteles"
-   ],
-   "h": "Lula reúne aliados para retomar a montagem do governo depois da viagem; Rui Costa, Camilo Santana e Rafael Fonteles são cotados",
-   "p": "Segundo o Metrópoles, nenhum nome foi anunciado até agora, e Camilo é citado para a Casa Civil.",
-   "r": "Nenhum nome anunciado e três já cotados: em Brasília, o ministro vive mais antes da nomeação do que depois dela.",
-   "src": "Metrópoles",
-   "u": "https://metropoles.com/brasil/lula-reune-aliados-para-retomar-discussoes-sobre-montagem-de-governo"
-  },
-  {
-   "d": "2026-11-17",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Camilo Santana",
-    "Gleisi Hoffmann"
-   ],
-   "h": "Depois de voltar da viagem, Lula enfrenta semana decisiva com ajuste fiscal, ministérios e vaga aberta no STF",
-   "p": "Segundo O POVO, os destaques do ajuste fiscal vão a votação no Senado na terça (17), Lula já teria ligado a aliados como Camilo Santana e Gleisi Hoffmann, e a equipe só deve ser oficializada em dezembro.",
-   "src": "O POVO",
-   "u": "https://mais.opovo.com.br/jornal/politica/2026/11/17/apos-retornar-ao-brasil-lula-tem-semana-decisiva-para-resolver-pendencias-do-quarto-mandato.html",
-   "r": "Ajuste fiscal, ministério e vaga no STF na mesma semana: tem mais pendência que cardápio de buffet. O presidente quer que tudo ande mais rápido; o Congresso, como sempre, usa outro relógio."
-  },
-  {
-   "d": "2026-11-16",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Janja",
-    "Pedro Sánchez",
-    "Wellington Dias"
-   ],
-   "h": "Lula encerra viagem com encontro com Sánchez em Madri e volta ao Brasil, enquanto Janja segue para Roma para eventos da FAO",
-   "p": "Segundo a Gazeta do Povo, a viagem passou por Turquia, Filipinas e Espanha; em Roma, a primeira-dama deve ficar na Embaixada do Brasil e ser acompanhada pelos ministros Wellington Dias e Fernanda Machiaveli.",
-   "src": "Gazeta do Povo",
-   "u": "https://www.gazetadopovo.com.br/republica/lula-volta-ao-brasil-e-janja-desembarca-em-roma-para-evento-da-onu/",
-   "r": "Lula pousa em Brasília com a pauta acumulada e Janja segue para Roma: o casal aprendeu a dividir o mapa-múndi e a deixar a Esplanada esperando nos dois fusos."
-  },
-  {
-   "d": "2026-11-16",
-   "g": "Lula e governo",
-   "who": [
-    "Geraldo Alckmin",
-    "Lula"
-   ],
-   "h": "Alckmin diz que Lula deve priorizar a reorganização dos ministérios assim que voltar das Filipinas",
-   "p": "Segundo o Portal BR230, a declaração foi feita com Alckmin à frente do governo durante a viagem; a lista de ministros ainda não foi divulgada.",
-   "src": "Portal BR230",
-   "u": "https://www.br230.com.br/lula-deve-priorizar-reforma-ministerial-apos-voltar-ao-brasil-diz-alckmin/",
-   "r": "Alckmin segura a cadeira e anuncia que o dono volta e mexe nos móveis. A Esplanada passa a semana de celular na mão, esperando o presidente aterrissar."
-  },
-  {
-   "d": "2026-11-15",
-   "g": "Lula e governo",
-   "who": [
-    "Geraldo Alckmin",
-    "Lula",
-    "Dario Durigan",
-    "Fernando Haddad",
-    "Alexandre Padilha"
-   ],
-   "h": "Alckmin diz que Lula decide os ministérios na semana da volta; Fazenda e Casa Civil têm nomes cotados",
-   "p": "Segundo o SBT News, Alckmin, Dario Durigan e Fernando Haddad aparecem para a Fazenda, Camilo Santana e Haddad para a Casa Civil, e Lula avalia manter Padilha na Saúde; nada está confirmado.",
-   "src": "SBT News",
-   "u": "https://sbtnews.sbt.com.br/noticia/politica/lula-definira-ministerios-apos-voltar-de-viagem-diz-alckmin",
-   "r": "Alckmin cotado para a Fazenda, ao lado de Durigan e Haddad: o vice virou o coringa do baralho, aquele que o dono da mesa guarda para a última rodada."
-  },
-  {
-   "d": "2026-11-15",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "André Janones"
-   ],
-   "h": "Senado aprova ajuste fiscal de até R$ 60 bilhões em 2027; mercado vê pacote tímido e parte da esquerda reclama",
-   "p": "Segundo a Terra, o texto ainda depende da Câmara; Mansueto Almeida o chamou de \"muito pequeno\", e Janones defendeu o governo contra quem chama o pacote de \"tesouraço\".",
-   "src": "Terra",
-   "u": "https://www.terra.com.br/noticias/brasil/politica/ajuste-fiscal-de-lula-e-considerado-timido-pelo-mercado-mas-racha-esquerda-que-enxerga-tesouraco,a7e8292ec256124bd3009ebcfeaf1138ym5erxgd.html",
-   "r": "Para o mercado o corte é pequeno demais, para a esquerda é grande demais: o governo conseguiu a rara unanimidade de desagradar os dois lados. O \"tesouraço\", que era grito de campanha contra a oposição, agora volta como crítica de casa."
-  },
-  {
-   "d": "2026-11-13",
-   "g": "Lula e governo",
-   "who": [
-    "Lula"
-   ],
-   "h": "Depois da Turquia, Lula chega às Filipinas para a cúpula da Asean, em viagem que marca 80 anos de relações diplomáticas",
-   "p": "Segundo a CNN Brasil, a viagem faz parte da aposta em diversificar parceiros comerciais depois do tarifaço de Trump.",
-   "r": "Lula abre o quarto mandato com mais carimbos no passaporte do que nomes anunciados no ministério.",
-   "src": "CNN Brasil",
-   "u": "https://www.cnnbrasil.com.br/internacional/depois-da-turquia-lula-chega-as-filipinas-para-cupula-da-asean/"
-  },
-  {
-   "d": "2026-11-13",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Geraldo Alckmin"
-   ],
-   "h": "TSE dá três dias para Lula e Alckmin explicarem gastos da campanha de 2026",
-   "p": "Segundo O Tempo, trata-se de pedido de esclarecimentos sobre a prestação de contas; a notícia não indica julgamento nem irregularidade comprovada.",
-   "src": "O Tempo",
-   "u": "https://otempo.com.br/politica/congresso/2026/11/13/tse-da-tres-dias-para-lula-e-alckmin-explicarem-gastos-da-campanha-de-2026",
-   "r": "Três dias para explicar a conta: é o boleto mais urgente do quarto mandato, e olha que a posse nem chegou. Pedir esclarecimento não é condenação, mas o PT vai caçar recibo com pressa de fim de mês."
-  },
-  {
-   "d": "2026-11-13",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Geraldo Alckmin"
-   ],
-   "h": "Com dívida de R$ 11,1 tri, Lula decide o ministro da Fazenda entre quatro nomes, diz reportagem",
-   "p": "Segundo a TV Sim Brasil, a escolha deve vir depois da volta de Lula da viagem à Turquia e às Filipinas, prevista para segunda (16).",
-   "src": "TV Sim Brasil",
-   "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/13/divida-11-1-tri-lula-decide-ministro-fazenda-4-nomes",
-   "r": "Quatro nomes, uma vaga e R$ 11,1 trilhões de dívida: o concurso mais concorrido da Esplanada tem prova prática de herdar a conta."
-  },
-  {
-   "d": "2026-11-13",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Hugo Motta",
-    "Ricardo Barros"
-   ],
-   "h": "PP e Republicanos, que apoiaram Flávio no 2º turno, pedem ministérios maiores no governo Lula 4, como a Saúde",
-   "p": "Segundo a TV Sim Brasil, o PP articula a Saúde, com nome ligado a Ricardo Barros, e o Republicanos quer uma segunda pasta; o PT prefere manter o Desenvolvimento Social com petistas, e a Esplanada deve chegar a 40 ministérios.",
-   "src": "TV Sim Brasil",
-   "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/13/pp-republicanos-miram-ministerios-no-governo-lula-4-esplanada",
-   "r": "Torceram por Flávio no segundo turno e já mandam o currículo da Saúde ao Planalto. Em Brasília, a fidelidade tem prazo de validade, e o prazo é o tamanho da pasta."
-  },
-  {
-   "d": "2026-11-11",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Casa Civil"
-   ],
-   "h": "Sem equipe de transição, Casa Civil pede relatórios a 38 ministérios para planejar o quarto mandato",
-   "p": "Segundo o Piranot, por ser reeleição não haverá equipe formal de transição, e a reorganização fica por conta do corpo técnico do próprio governo.",
-   "src": "Piranot",
-   "u": "https://www.piranot.com.br/2026/11/11/noticias/politica/eleicoes/casa-civil-relatorios-ministerios-mandato-lula/",
-   "r": "Transição sem equipe de transição: o governo conta o que fez em 38 relatórios e ainda sobra capítulo para o que vem a seguir."
-  },
-  {
-   "d": "2026-11-10",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Erdogan"
-   ],
-   "h": "Em Antalya, Lula e Erdogan falam de defesa, comércio e minerais críticos à margem da COP31",
-   "p": "Segundo a Band, a defesa foi tema central e os dois acertaram ampliar o comércio e uma visita de Erdogan ao Brasil; a escolha do sucessor de Múcio na Defesa ainda não foi anunciada.",
-   "src": "Band",
-   "u": "https://www.band.com.br/internacional/lula-e-erdogan-discutem-comercio-defesa-e-parceria-sobre-minerais-criticos",
-   "r": "Ainda sem dizer quem comanda a Defesa no quarto mandato, o presidente já negocia defesa com a Turquia: a diplomacia passa na frente do organograma."
-  },
-  {
-   "d": "2026-11-10",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Geraldo Alckmin"
-   ],
-   "h": "Lula mantém suspense sobre os ministros do próximo mandato, e a lista de cotados só cresce, diz O Tempo",
-   "p": "Segundo o jornal, os nomes principais devem sair só no fim de novembro, depois da viagem internacional; Alckmin aparece em conversas sobre quatro pastas, sem ter apresentado pleitos.",
-   "src": "O Tempo",
-   "u": "https://www.otempo.com.br/politica/governo/2026/11/10/lula-esconde-o-jogo-sobre-ministros-do-proximo-mandato-e-cotados-se-acumulam-veja-nomes",
-   "r": "Alckmin cotado para quatro ministérios sem ter pedido nenhum: o vice virou a vaga que todo mundo quer preencher com ele."
-  },
-  {
-   "d": "2026-11-09",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Geraldo Alckmin"
-   ],
-   "h": "Lula embarca para a COP31, na Turquia, deixa Alckmin no comando e segue para a cúpula da Asean, nas Filipinas",
-   "p": "Segundo O Antagonista, aliados e o mercado aguardam a definição dos ministérios do quarto mandato; na noite de 8/11 Lula falou em rede nacional sobre benefícios sociais e metas fiscais.",
-   "src": "O Antagonista",
-   "u": "https://oantagonista.com.br/brasil/lula-viaja-a-cop-31-e-deixa-alckmin-sob-pressao-por-ministerios/",
-   "r": "Lula embarca para Turquia e Filipinas, Alckmin fica no leme e a fila do ministério ganha mais uma semana de suspense."
-  },
-  {
-   "d": "2026-11-09",
-   "g": "Lula e governo",
-   "who": [
-    "Lula"
-   ],
-   "h": "Em pronunciamento em rede nacional, Lula defende reformas política e do Judiciário, critica big techs e cobra responsabilidade fiscal",
-   "p": "Segundo O Hoje, ele também disse que a meta é elevar o investimento a 20% do PIB e que o governo vai propor por medida provisória o Ministério da Segurança Pública.",
-   "src": "O Hoje",
-   "u": "https://ohoje.com/2026/11/09/em-pronunciamento-na-tv-lula-defende-reformas-critica-big-techs-e-cobra-responsabilidade-fiscal/",
-   "r": "Reforma política, reforma do Judiciário, big techs e fiscal em um pronunciamento só. Para quem ainda nem escolheu ministro, a lista de tarefas é de quatro mandatos."
-  },
-  {
-   "d": "2026-11-08",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Janja"
-   ],
-   "h": "Lula estuda passar ao Gabinete Pessoal a gestão das redes sociais dele, o que ampliaria a influência de Janja, diz a Folha",
-   "p": "Segundo a TV Sim Brasil, com base na Folha, o plano não prevê cargo formal para ela e ainda não foi formalizado; surge em meio à ação no TSE que questiona o uso da Secom na campanha.",
-   "src": "TV Sim Brasil",
-   "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/08/lula-planeja-remodelar-gabinete-pessoal-poder-janja",
-   "r": "Redes do presidente indo para o Gabinete Pessoal e a Secom virando segunda tela. O Planalto decide tudo por engajamento agora, e o ministério que se vire com o algoritmo."
-  },
-  {
-   "d": "2026-11-07",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Geraldo Alckmin",
-    "PT"
-   ],
-   "h": "Governo e PT tratam as ações no TSE como \"não assunto\", diz coluna do SBT News",
-   "p": "Segundo a coluna, o Planalto e o partido não demonstram preocupação com a possibilidade de cassação, e ministros do tribunal avaliam que as ações devem ser arquivadas; não há decisão.",
-   "src": "SBT News",
-   "u": "https://sbtnews.sbt.com.br/colunas/coluna-da-carla/ministros-do-tse-nao-creem-em-punicao-de-chapa-lula-alckmin",
-   "r": "Para o governo, 39 ações no TSE são \"não assunto\"; os 40 ministérios do quarto mandato, esses sim, rendem reunião."
-  },
-  {
-   "d": "2026-11-07",
-   "g": "Lula e governo",
-   "who": [
-    "Lula"
-   ],
-   "h": "Lula planeja começar o quarto mandato com 40 ministérios, dois a mais que hoje, aponta resumo do Quenty",
-   "p": "O resumo cita Folha e Agência Brasil: a estrutura atual tem 38 pastas, a nova Segurança Pública sairia por medida provisória e a composição ainda está em negociação com os partidos.",
-   "r": "De 38 para 40 pastas: o governo reeleito descobriu que organograma, como grupo de família, só cresce. Resta saber quem paga o café.",
-   "src": "Quenty",
-   "u": "https://quenty.com.br/resumo/7-novembro-2026/lula-planeja-40-ministerios-para-2027-e-reacende-debate-sobre-custos-e-governabilidade"
-  },
-  {
-   "d": "2026-11-06",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Alckmin"
-   ],
-   "h": "Lula quer definir os nomes do ministério até 25/11 e anunciar a equipe até 5/12, diz a CNN Brasil",
-   "p": "A divisão preliminar dá três pastas ao MDB, duas a cada um de Republicanos, União Brasil, PP e PSD e uma ao Podemos; o arranjo não está fechado, e o Planalto mira 340 votos na Câmara contra cerca de 265 estimados pelo centrão.",
-   "r": "Ministério na tabela, com meta de votos: o centrão estima 265, o Planalto sonha com 340. A diferença entre os dois números é a parte divertida da novela.",
-   "src": "CNN Brasil",
-   "u": "https://cnnbrasil.com.br/blogs/taina-falcao/politica/lula-deve-anunciar-novo-governo-ate-5-de-dezembro"
-  },
-  {
-   "d": "2026-11-06",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Erdogan"
-   ],
-   "h": "Lula leva à COP31, na Turquia, dados sobre a queda do desmatamento e discursa na Cúpula de Líderes em 11/11",
-   "p": "Segundo a Agência Brasil, ele pode ter encontros bilaterais, como um com Erdogan, e depois segue para as Filipinas, para a cúpula da Asean.",
-   "r": "O quarto mandato nem começou e o presidente já planeja escala dupla: Turquia e Filipinas. A transição que espere o jet lag.",
-   "src": "Agência Brasil",
-   "u": "https://www.acessa.com/noticias/2026/11/343801-lula-apresentara-avancos-ambientais-na-cop31-na-turquia.html"
-  },
-  {
-   "d": "2026-11-06",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "André Janones"
-   ],
-   "h": "Lula anuncia em live com Janones que enviará uma MP para criar o Ministério da Segurança Pública",
-   "p": "Segundo o Poder360, ainda não há data para a MP, e as atribuições terão de ser divididas com a Justiça; o governo quer a pasta funcionando em novembro, com estrutura orçamentária talvez só em 2027.",
-   "r": "Anunciou o ministério numa live, antes do Diário Oficial: no Planalto, o YouTube vem primeiro e a burocracia fica sabendo depois.",
-   "src": "Poder360",
-   "u": "https://www.poder360.com.br/poder-governo/lula-anuncia-mp-para-criar-ministerio-da-seguranca-publica/"
-  },
-  {
-   "d": "2026-11-06",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Wellington Dias",
-    "Geraldo Alckmin"
-   ],
-   "h": "Wellington Dias diz que Lula só define os ministros depois da COP 31, na Turquia",
-   "p": "Segundo o Metrópoles, a escolha vai considerar as metas de cada pasta e os resultados do governo atual; Alckmin coordena a transição entre o plano que acaba em 2026 e o de 2027 a 2030.",
-   "src": "Metrópoles",
-   "u": "https://www.metropoles.com/colunas/grande-angular/wellington-dias-diz-que-lula-decidira-equipe-ministerial-apos-a-cop-31",
-   "r": "Ministério só depois da COP 31: a fila de cotados vai ter que treinar cara de paisagem por mais duas semanas."
-  },
-  {
-   "d": "2026-11-05",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "André Janones",
-    "Geraldo Alckmin",
-    "Sidônio Palmeira",
-    "Miriam Belchior"
-   ],
-   "h": "Lula tem live com Janones às 19h, reunião do conselho de minerais críticos com Alckmin e despachos no Planalto nesta quinta",
-   "p": "Segundo A Crítica, a live foi anunciada como conversa para celebrar o resultado e manter contato com apoiadores nas redes.",
-   "src": "A Crítica",
-   "u": "https://acritica.net/politica/lula-agenda-quinta-5-minerais-estrategicos-live-janones/",
-   "r": "Minerais críticos de tarde, Janones à noite: o governo mistura política industrial e live no mesmo expediente. Lula não largou o modo campanha, só trocou o palanque pelo YouTube."
-  },
-  {
-   "d": "2026-11-05",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Edinho Silva"
-   ],
-   "h": "PT pede aos partidos planos para os ministérios e estimativa de votos no Congresso antes de definir o governo Lula 4",
-   "p": "Segundo a Folhapress, republicada por A Notícia do Vale, Edinho Silva conduz as conversas por delegação de Lula e os nomes só devem sair a partir do fim de novembro.",
-   "src": "A Notícia do Vale",
-   "u": "https://anoticiadovale.com/2026/11/05/pt-pede-a-partidos-planos-para-ministerios-e-estimativa-de-votos-para-desenhar-governo-lula-4/",
-   "r": "Candidato a ministro agora entrega plano de trabalho e contagem de votos. Em Brasília, o currículo virou prova com gabarito, e a planilha de votos é o critério de desempate."
-  },
-  {
-   "d": "2026-11-04",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Camilo Santana",
-    "Fernando Haddad"
-   ],
-   "h": "Lula começa a desenhar a reforma ministerial logo depois da vitória, e Camilo Santana e Haddad aparecem como cotados",
-   "p": "Segundo a TV Sim Brasil, as primeiras definições são esperadas na segunda quinzena de novembro, e aliados dizem que as articulações estão em fase inicial.",
-   "src": "TV Sim Brasil",
-   "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/04/lula-articula-reforma-ministerial-camilo-santana-haddad",
-   "r": "Quarto mandato e a lista de cotados já está mais cheia que reunião de condomínio. Em Brasília, 'fase inicial' costuma durar até o decreto sair no Diário Oficial."
-  },
-  {
-   "d": "2026-11-04",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Geraldo Alckmin"
-   ],
-   "h": "Lula reúne Alckmin e ministros para discutir ações ambientais e de energia antes da COP31",
-   "p": "Segundo O Tempo, ele publicou no X que o Brasil quer manter papel de destaque no clima, mas não detalhou as medidas.",
-   "src": "O Tempo",
-   "u": "https://www.otempo.com.br/politica/congresso/2026/11/4/lula-se-reune-com-alckmin-e-ministros-para-definir-acoes-ambientais-antes-da-cop31",
-   "r": "Reunião para decidir ações ambientais sem detalhar nenhuma ação: o anúncio do anúncio, especialidade de Brasília."
-  },
-  {
-   "d": "2026-11-04",
-   "g": "Música",
-   "who": [
-    "Ivete Sangalo",
-    "Luísa Sonza",
-    "Alceu Valença",
-    "Martinho da Vila",
-    "Mart'nália",
-    "Diogo Nogueira",
-    "Jorge"
-   ],
-   "h": "Dez atrações do réveillon de Fortaleza apoiaram Lula em 2026; só Jorge, da dupla com Mateus, apoiou Flávio, diz levantamento",
-   "p": "Segundo o O POVO+, das 26 atrações anunciadas, 15 não tiveram posição política identificada; a prefeitura anunciou a saída da dupla.",
-   "src": "O POVO+",
-   "u": "https://mais.opovo.com.br/reportagens-especiais/2026/11/04/reveillon-de-fortaleza-10-atracoes-apoiaram-lula-em-2026.html",
-   "r": "Dez a um no palco do réveillon: a virada de Fortaleza já tem placar antes da contagem regressiva. Artista que declara voto descobre que a plateia também conta."
-  },
-  {
-   "d": "2026-11-03",
-   "g": "Lula e governo",
-   "who": [
-    "Lula"
-   ],
-   "h": "Senado aprova a PEC da Segurança Pública em dois turnos, e Lula comemora e confirma o novo ministério",
-   "p": "Segundo a Metrópoles, foram 73 votos no primeiro turno e 75 no segundo; a emenda segue para promulgação.",
-   "r": "Senado quase unânime e Lula comemorando nas redes: em Brasília, raro como eclipse. O ministério ainda não tem ministro, mas já tem festa, que é a parte mais bem acabada do projeto.",
-   "src": "Brasil de Fato",
-   "u": "https://www.brasildefato.com.br/2026/11/03/em-vitoria-de-lula-senado-aprova-pec-da-seguranca-publica-em-dois-turnos/"
-  },
-  {
-   "d": "2026-11-03",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "José Múcio Monteiro"
-   ],
-   "h": "Governo estuda criar um ministério da Segurança Pública separado da Justiça, diz O Brasilianista",
-   "p": "Segundo a reportagem, os nomes para Casa Civil e Fazenda ainda não foram oficializados e o ministro da Defesa, José Múcio, pretende deixar o cargo.",
-   "src": "O Brasilianista",
-   "u": "https://obrasilianista.com.br/2026/11/03/politica/lula-negocia-novo-ministerio-com-aliados-e-centrao-veja-o-que-esta-em-jogo-em-cada-pasta",
-   "r": "Ministério novo para a segurança antes do ministro novo. Em Brasília, primeiro se desenha a caixa do organograma e depois se procura quem caiba nela."
-  },
-  {
-   "d": "2026-11-03",
-   "g": "Lula e governo",
-   "who": [
-    "Lula",
-    "Miriam Belchior",
-    "João Paulo Capobianco",
-    "Márcio Elias Rosa"
-   ],
-   "h": "Lula recebe Casa Civil, Meio Ambiente e Indústria no Alvorada, em dia de agenda de despachos",
-   "p": "Segundo o Poder360, são quatro compromissos oficiais; a Plantão Brasil, citando a Folha, diz que depois ele viaja a São Paulo para exames de rotina e volta na quarta (4).",
-   "src": "Poder360",
-   "u": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-3a-feira-5/",
-   "r": "Voltou do descanso e já despacha com três ministros num dia só. A transição que não existe tem a agenda mais cheia do que as que existem."
-  },
-  {
-   "d": "2026-11-01",
-   "g": "Lula e governo",
-   "who": [
-    "Lula"
-   ],
-   "h": "Lula diz que nenhum programa social será extinto no novo mandato e admite criar outros",
-   "p": "Em vídeo nas redes, ele desmentiu boatos de corte no Bolsa Família e no Gás do Povo e atribuiu a boataria a adversários; planeja viajar pelos estados para agradecer aos eleitores.",
-   "src": "Agência Brasil",
-   "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-garante-que-programas-sociais-serao-mantidos",
-   "r": "Recuperada a voz, o primeiro assunto foi desmentir o que dizem que ele vai cortar. Quarto mandato começando pelo velho esporte nacional: apagar incêndio de WhatsApp antes da posse."
-  },
-  {
-   "d": "2026-11-01",
-   "g": "Lula e governo",
-   "who": [
-    "Lula"
-   ],
-   "h": "Lula adia o anúncio dos ministros para dezembro e promete cobrar mais fidelidade dos partidos aliados no quarto mandato",
-   "p": "Segundo o Diário ESP, as conversas com os partidos começam nesta semana; no mandato anterior, aliados com cargos votaram contra o governo no Congresso.",
-   "src": "Diário ESP",
-   "u": "https://diarioesp.com.br/brasil/2026/11/01/lula-posterga-anuncio-de-ministros-e-exigira-fidelidade-partidaria-no-quarto-mandato.html",
-   "r": "Fidelidade partidária no Centrão: promessa que, em Brasília, costuma valer até a primeira votação. Desta vez o contrato vem antes do cargo, pelo menos no discurso."
-  }
- ]
+  "updated": "2026-11-23T10:22:40-03:00",
+  "updated_label": "23/11/2026, 10h",
+  "news": [
+    {
+      "d": "2026-11-22",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Davi Alcolumbre",
+        "Rodrigo Pacheco",
+        "Jorge Messias"
+      ],
+      "h": "Lula e Alcolumbre devem se reunir para destravar ministérios e a vaga no STF, diz Plantão Brasil",
+      "p": "Segundo a reportagem, Alcolumbre defende Rodrigo Pacheco para a vaga, e Lula pondera reenviar o nome de Jorge Messias; a reunião ainda não tinha sido confirmada.",
+      "src": "Plantão Brasil",
+      "u": "https://www.plantaobrasil.net/noticias/164932-lula-e-alcolumbre-se-reunem-para-destravar-ministerios-e-vaga-no-stf",
+      "r": "Um quer Pacheco, o outro pensa em Messias, e o STF espera. É a única fila do país em que o primeiro da vez ainda não foi chamado."
+    },
+    {
+      "d": "2026-11-22",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin",
+        "TSE"
+      ],
+      "h": "Justiça Eleitoral prepara os ritos finais para oficializar a vitória de Lula e Alckmin, com posse em 5 de janeiro",
+      "p": "Segundo o Plantão Brasil, o TSE pretende concluir a análise das contas da chapa até 3 de dezembro, e a data da posse deve virar feriado em Brasília.",
+      "src": "Plantão Brasil",
+      "u": "https://www.plantaobrasil.net/noticias/164925-justica-eleitoral-organiza-ritos-finais-para-oficializar-vitoria-de-lula-e-alckmin",
+      "r": "O rito é tão certo que o feriado em Brasília já está praticamente no calendário. Só falta combinar com os ministros, que ainda nem foram escolhidos."
+    },
+    {
+      "d": "2026-11-21",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Sem transição formal, Lula pode trocar ministros a qualquer momento, explica reportagem",
+      "p": "Segundo a TV Sim Brasil, por ser reeleito ele não precisa seguir o rito da lei de transição, e ministros não passam por sabatina no Senado.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/21/sem-transicao-formal-lula-pode-trocar-ministros-qualquer-momento",
+      "r": "Reeleito não tem transição: só dança das cadeiras com a música na mão de quem aperta o play. O resto do país aguarda a rodada sem saber se haverá cadeira."
+    },
+    {
+      "d": "2026-11-21",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Janja",
+        "André Janones"
+      ],
+      "h": "Lula diz que Janja vai coordenar a posse do quarto mandato, em 5 de janeiro, e promete \"cair na farra\" antes de começar",
+      "p": "Segundo o Metrópoles e o ND Mais, ele falou em live com o deputado André Janones; quer cerimônia no Congresso pela manhã, e um decreto deve oficializar a comissão organizadora. Os detalhes ainda dependem de acerto com o Congresso.",
+      "src": "Metrópoles",
+      "u": "https://metropoles.com/brasil/lula-confirma-janja-na-coordenacao-da-posse-e-promete-cair-na-farra",
+      "r": "Lula promete cair na farra antes de assumir e escala Janja para organizar a festa. O governo ainda não tem ministros, mas o buffet já tem chefia."
+    },
+    {
+      "d": "2026-11-21",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula confirma a criação do Ministério dos Idosos e mira 40 pastas em 2027",
+      "p": "Segundo a TV Sim Brasil, a estrutura iria de 38 para 40 ministérios, número que depende da divisão da Segurança Pública; nome e comando da nova pasta ainda estão indefinidos.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/21/lula-confirma-ministerio-dos-idosos-mira-40-ministerios",
+      "r": "Ajuste fiscal aprovado de um lado, ministério novo do outro: a conta de 38 para 40 pastas só fecha em Brasília, onde 2 + 2 depende do partido."
+    },
+    {
+      "d": "2026-11-20",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula critica especulações sobre ministérios e diz que anuncia a equipe quando quiser",
+      "p": "Segundo O Povo, ele também falou em criar uma pasta voltada aos idosos; em fala do dia 19, disse que escolhe os nomes \"na hora que eu quiser\".",
+      "src": "O Povo",
+      "u": "https://mais.opovo.com.br/jornal/politica/2026/11/20/lula-critica-especulacoes-para-ministerios-e-fala-em-criar-pasta-voltada-aos-idosos.html",
+      "r": "Ministeriável é o único profissional do país cuja entrevista de emprego dura semanas e o retorno do RH é uma coletiva \"quando eu quiser\"."
+    },
+    {
+      "d": "2026-11-19",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Wellington Dias"
+      ],
+      "h": "Lula exonera Wellington Dias do Desenvolvimento Social a pedido; a saída é temporária",
+      "p": "Segundo o InfoMoney, o ministro quer voltar ao Senado para cuidar de emendas ao Orçamento de 2027, e o retorno ao cargo é esperado na semana seguinte.",
+      "src": "InfoMoney",
+      "u": "https://www.infomoney.com.br/politica/lula-exonera-wellington-dias-do-ministerio-de-desenvolvimento-social-a-pedido/",
+      "r": "A demissão mais curta da Esplanada: sai para cuidar de emenda e volta na semana que vem, quase um intervalo do lanche."
+    },
+    {
+      "d": "2026-11-19",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula diz que controle fiscal é prioridade do governo, promete manter direitos sociais e critica especulações sobre os ministérios",
+      "p": "Segundo a Agência Brasil, ele afirmou que a escolha dos nomes da equipe cabe só a ele; a fala foi dada na cerimônia do decreto da escala 5x2.",
+      "src": "Agência Brasil",
+      "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-promete-manter-direitos-e-diz-que-controle-fiscal-e-prioridade",
+      "r": "Lula jura que o aperto fiscal foi ideia dele, não do mercado, e que ninguém perde direito. É a primeira vez que um presidente briga para ficar com o crédito pelo ajuste."
+    },
+    {
+      "d": "2026-11-19",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula assina o decreto da escala 5x2, mas o STF ainda não decidiu as regras de transição",
+      "p": "Segundo a TV Sim Brasil, a decisão do Supremo sobre quem não tem acordo coletivo segue pendente; a Plantão Brasil informa que a primeira etapa começa em 16/12, com a jornada indo de 44 para 42 horas semanais.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/19/lula-assina-decreto-escala-5x2-stf-nao-decidiu",
+      "r": "Lula assina o decreto e o país descobre que acabar com a 6x1 é a parte fácil; difícil é combinar com o STF, a CNI e o calendário. O trabalhador comemora, mas o relógio de ponto pede calma."
+    },
+    {
+      "d": "2026-11-17",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Luiz Marinho",
+        "Guilherme Boulos"
+      ],
+      "h": "Lula pede ajustes e adia para quinta (19) a assinatura do decreto que regulamenta o fim da escala 6x1",
+      "p": "Segundo a CNN Brasil, Marinho disse que a cerimônia está prevista para as 9h no Planalto e que a nova regra vale a partir de 16 de dezembro; o conteúdo das mudanças não foi divulgado.",
+      "r": "O decreto do fim da 6x1 pediu mais um dia para ajustes: até o texto que acaba com a escala cansada ganhou prorrogação.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/politica/fim-da-6x1-lula-assinara-decreto-com-regulamentacao-na-quinta-diz-marinho/"
+    },
+    {
+      "d": "2026-11-17",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Davi Alcolumbre",
+        "Eduardo Braga"
+      ],
+      "h": "Senado adia para quarta (18) a votação dos destaques do ajuste fiscal do governo por falta de acordo entre as bancadas",
+      "p": "Segundo o Hoje em Dia, Alcolumbre adiou e o relator Eduardo Braga pediu mais tempo; o texto-base passou em 12/11 por 45 a 31 e, depois dos destaques, o projeto segue para a Câmara.",
+      "r": "Quatro destaques, zero acordo e um adiamento: cortar gasto é fácil de aprovar no discurso e difícil de votar na bancada.",
+      "src": "Hoje em Dia",
+      "u": "https://www.hojeemdia.com.br/politica/senado-adia-votac-o-de-destaques-do-projeto-de-ajuste-fiscal-do-governo-lula-1.1141276"
+    },
+    {
+      "d": "2026-11-17",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Rui Costa",
+        "Camilo Santana",
+        "Rafael Fonteles"
+      ],
+      "h": "Lula reúne aliados para retomar a montagem do governo depois da viagem; Rui Costa, Camilo Santana e Rafael Fonteles são cotados",
+      "p": "Segundo o Metrópoles, nenhum nome foi anunciado até agora, e Camilo é citado para a Casa Civil.",
+      "r": "Nenhum nome anunciado e três já cotados: em Brasília, o ministro vive mais antes da nomeação do que depois dela.",
+      "src": "Metrópoles",
+      "u": "https://metropoles.com/brasil/lula-reune-aliados-para-retomar-discussoes-sobre-montagem-de-governo"
+    },
+    {
+      "d": "2026-11-17",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Camilo Santana",
+        "Gleisi Hoffmann"
+      ],
+      "h": "Depois de voltar da viagem, Lula enfrenta semana decisiva com ajuste fiscal, ministérios e vaga aberta no STF",
+      "p": "Segundo O POVO, os destaques do ajuste fiscal vão a votação no Senado na terça (17), Lula já teria ligado a aliados como Camilo Santana e Gleisi Hoffmann, e a equipe só deve ser oficializada em dezembro.",
+      "src": "O POVO",
+      "u": "https://mais.opovo.com.br/jornal/politica/2026/11/17/apos-retornar-ao-brasil-lula-tem-semana-decisiva-para-resolver-pendencias-do-quarto-mandato.html",
+      "r": "Ajuste fiscal, ministério e vaga no STF na mesma semana: tem mais pendência que cardápio de buffet. O presidente quer que tudo ande mais rápido; o Congresso, como sempre, usa outro relógio."
+    },
+    {
+      "d": "2026-11-16",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Janja",
+        "Pedro Sánchez",
+        "Wellington Dias"
+      ],
+      "h": "Lula encerra viagem com encontro com Sánchez em Madri e volta ao Brasil, enquanto Janja segue para Roma para eventos da FAO",
+      "p": "Segundo a Gazeta do Povo, a viagem passou por Turquia, Filipinas e Espanha; em Roma, a primeira-dama deve ficar na Embaixada do Brasil e ser acompanhada pelos ministros Wellington Dias e Fernanda Machiaveli.",
+      "src": "Gazeta do Povo",
+      "u": "https://www.gazetadopovo.com.br/republica/lula-volta-ao-brasil-e-janja-desembarca-em-roma-para-evento-da-onu/",
+      "r": "Lula pousa em Brasília com a pauta acumulada e Janja segue para Roma: o casal aprendeu a dividir o mapa-múndi e a deixar a Esplanada esperando nos dois fusos."
+    },
+    {
+      "d": "2026-11-16",
+      "g": "Lula e governo",
+      "who": [
+        "Geraldo Alckmin",
+        "Lula"
+      ],
+      "h": "Alckmin diz que Lula deve priorizar a reorganização dos ministérios assim que voltar das Filipinas",
+      "p": "Segundo o Portal BR230, a declaração foi feita com Alckmin à frente do governo durante a viagem; a lista de ministros ainda não foi divulgada.",
+      "src": "Portal BR230",
+      "u": "https://www.br230.com.br/lula-deve-priorizar-reforma-ministerial-apos-voltar-ao-brasil-diz-alckmin/",
+      "r": "Alckmin segura a cadeira e anuncia que o dono volta e mexe nos móveis. A Esplanada passa a semana de celular na mão, esperando o presidente aterrissar."
+    },
+    {
+      "d": "2026-11-15",
+      "g": "Lula e governo",
+      "who": [
+        "Geraldo Alckmin",
+        "Lula",
+        "Dario Durigan",
+        "Fernando Haddad",
+        "Alexandre Padilha"
+      ],
+      "h": "Alckmin diz que Lula decide os ministérios na semana da volta; Fazenda e Casa Civil têm nomes cotados",
+      "p": "Segundo o SBT News, Alckmin, Dario Durigan e Fernando Haddad aparecem para a Fazenda, Camilo Santana e Haddad para a Casa Civil, e Lula avalia manter Padilha na Saúde; nada está confirmado.",
+      "src": "SBT News",
+      "u": "https://sbtnews.sbt.com.br/noticia/politica/lula-definira-ministerios-apos-voltar-de-viagem-diz-alckmin",
+      "r": "Alckmin cotado para a Fazenda, ao lado de Durigan e Haddad: o vice virou o coringa do baralho, aquele que o dono da mesa guarda para a última rodada."
+    },
+    {
+      "d": "2026-11-15",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "André Janones"
+      ],
+      "h": "Senado aprova ajuste fiscal de até R$ 60 bilhões em 2027; mercado vê pacote tímido e parte da esquerda reclama",
+      "p": "Segundo a Terra, o texto ainda depende da Câmara; Mansueto Almeida o chamou de \"muito pequeno\", e Janones defendeu o governo contra quem chama o pacote de \"tesouraço\".",
+      "src": "Terra",
+      "u": "https://www.terra.com.br/noticias/brasil/politica/ajuste-fiscal-de-lula-e-considerado-timido-pelo-mercado-mas-racha-esquerda-que-enxerga-tesouraco,a7e8292ec256124bd3009ebcfeaf1138ym5erxgd.html",
+      "r": "Para o mercado o corte é pequeno demais, para a esquerda é grande demais: o governo conseguiu a rara unanimidade de desagradar os dois lados. O \"tesouraço\", que era grito de campanha contra a oposição, agora volta como crítica de casa."
+    },
+    {
+      "d": "2026-11-13",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Depois da Turquia, Lula chega às Filipinas para a cúpula da Asean, em viagem que marca 80 anos de relações diplomáticas",
+      "p": "Segundo a CNN Brasil, a viagem faz parte da aposta em diversificar parceiros comerciais depois do tarifaço de Trump.",
+      "r": "Lula abre o quarto mandato com mais carimbos no passaporte do que nomes anunciados no ministério.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/internacional/depois-da-turquia-lula-chega-as-filipinas-para-cupula-da-asean/"
+    },
+    {
+      "d": "2026-11-13",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "TSE dá três dias para Lula e Alckmin explicarem gastos da campanha de 2026",
+      "p": "Segundo O Tempo, trata-se de pedido de esclarecimentos sobre a prestação de contas; a notícia não indica julgamento nem irregularidade comprovada.",
+      "src": "O Tempo",
+      "u": "https://otempo.com.br/politica/congresso/2026/11/13/tse-da-tres-dias-para-lula-e-alckmin-explicarem-gastos-da-campanha-de-2026",
+      "r": "Três dias para explicar a conta: é o boleto mais urgente do quarto mandato, e olha que a posse nem chegou. Pedir esclarecimento não é condenação, mas o PT vai caçar recibo com pressa de fim de mês."
+    },
+    {
+      "d": "2026-11-13",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "Com dívida de R$ 11,1 tri, Lula decide o ministro da Fazenda entre quatro nomes, diz reportagem",
+      "p": "Segundo a TV Sim Brasil, a escolha deve vir depois da volta de Lula da viagem à Turquia e às Filipinas, prevista para segunda (16).",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/13/divida-11-1-tri-lula-decide-ministro-fazenda-4-nomes",
+      "r": "Quatro nomes, uma vaga e R$ 11,1 trilhões de dívida: o concurso mais concorrido da Esplanada tem prova prática de herdar a conta."
+    },
+    {
+      "d": "2026-11-13",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Hugo Motta",
+        "Ricardo Barros"
+      ],
+      "h": "PP e Republicanos, que apoiaram Flávio no 2º turno, pedem ministérios maiores no governo Lula 4, como a Saúde",
+      "p": "Segundo a TV Sim Brasil, o PP articula a Saúde, com nome ligado a Ricardo Barros, e o Republicanos quer uma segunda pasta; o PT prefere manter o Desenvolvimento Social com petistas, e a Esplanada deve chegar a 40 ministérios.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/13/pp-republicanos-miram-ministerios-no-governo-lula-4-esplanada",
+      "r": "Torceram por Flávio no segundo turno e já mandam o currículo da Saúde ao Planalto. Em Brasília, a fidelidade tem prazo de validade, e o prazo é o tamanho da pasta."
+    },
+    {
+      "d": "2026-11-11",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Casa Civil"
+      ],
+      "h": "Sem equipe de transição, Casa Civil pede relatórios a 38 ministérios para planejar o quarto mandato",
+      "p": "Segundo o Piranot, por ser reeleição não haverá equipe formal de transição, e a reorganização fica por conta do corpo técnico do próprio governo.",
+      "src": "Piranot",
+      "u": "https://www.piranot.com.br/2026/11/11/noticias/politica/eleicoes/casa-civil-relatorios-ministerios-mandato-lula/",
+      "r": "Transição sem equipe de transição: o governo conta o que fez em 38 relatórios e ainda sobra capítulo para o que vem a seguir."
+    },
+    {
+      "d": "2026-11-10",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Erdogan"
+      ],
+      "h": "Em Antalya, Lula e Erdogan falam de defesa, comércio e minerais críticos à margem da COP31",
+      "p": "Segundo a Band, a defesa foi tema central e os dois acertaram ampliar o comércio e uma visita de Erdogan ao Brasil; a escolha do sucessor de Múcio na Defesa ainda não foi anunciada.",
+      "src": "Band",
+      "u": "https://www.band.com.br/internacional/lula-e-erdogan-discutem-comercio-defesa-e-parceria-sobre-minerais-criticos",
+      "r": "Ainda sem dizer quem comanda a Defesa no quarto mandato, o presidente já negocia defesa com a Turquia: a diplomacia passa na frente do organograma."
+    },
+    {
+      "d": "2026-11-10",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "Lula mantém suspense sobre os ministros do próximo mandato, e a lista de cotados só cresce, diz O Tempo",
+      "p": "Segundo o jornal, os nomes principais devem sair só no fim de novembro, depois da viagem internacional; Alckmin aparece em conversas sobre quatro pastas, sem ter apresentado pleitos.",
+      "src": "O Tempo",
+      "u": "https://www.otempo.com.br/politica/governo/2026/11/10/lula-esconde-o-jogo-sobre-ministros-do-proximo-mandato-e-cotados-se-acumulam-veja-nomes",
+      "r": "Alckmin cotado para quatro ministérios sem ter pedido nenhum: o vice virou a vaga que todo mundo quer preencher com ele."
+    },
+    {
+      "d": "2026-11-09",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "Lula embarca para a COP31, na Turquia, deixa Alckmin no comando e segue para a cúpula da Asean, nas Filipinas",
+      "p": "Segundo O Antagonista, aliados e o mercado aguardam a definição dos ministérios do quarto mandato; na noite de 8/11 Lula falou em rede nacional sobre benefícios sociais e metas fiscais.",
+      "src": "O Antagonista",
+      "u": "https://oantagonista.com.br/brasil/lula-viaja-a-cop-31-e-deixa-alckmin-sob-pressao-por-ministerios/",
+      "r": "Lula embarca para Turquia e Filipinas, Alckmin fica no leme e a fila do ministério ganha mais uma semana de suspense."
+    },
+    {
+      "d": "2026-11-09",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Em pronunciamento em rede nacional, Lula defende reformas política e do Judiciário, critica big techs e cobra responsabilidade fiscal",
+      "p": "Segundo O Hoje, ele também disse que a meta é elevar o investimento a 20% do PIB e que o governo vai propor por medida provisória o Ministério da Segurança Pública.",
+      "src": "O Hoje",
+      "u": "https://ohoje.com/2026/11/09/em-pronunciamento-na-tv-lula-defende-reformas-critica-big-techs-e-cobra-responsabilidade-fiscal/",
+      "r": "Reforma política, reforma do Judiciário, big techs e fiscal em um pronunciamento só. Para quem ainda nem escolheu ministro, a lista de tarefas é de quatro mandatos."
+    },
+    {
+      "d": "2026-11-08",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Janja"
+      ],
+      "h": "Lula estuda passar ao Gabinete Pessoal a gestão das redes sociais dele, o que ampliaria a influência de Janja, diz a Folha",
+      "p": "Segundo a TV Sim Brasil, com base na Folha, o plano não prevê cargo formal para ela e ainda não foi formalizado; surge em meio à ação no TSE que questiona o uso da Secom na campanha.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/08/lula-planeja-remodelar-gabinete-pessoal-poder-janja",
+      "r": "Redes do presidente indo para o Gabinete Pessoal e a Secom virando segunda tela. O Planalto decide tudo por engajamento agora, e o ministério que se vire com o algoritmo."
+    },
+    {
+      "d": "2026-11-07",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin",
+        "PT"
+      ],
+      "h": "Governo e PT tratam as ações no TSE como \"não assunto\", diz coluna do SBT News",
+      "p": "Segundo a coluna, o Planalto e o partido não demonstram preocupação com a possibilidade de cassação, e ministros do tribunal avaliam que as ações devem ser arquivadas; não há decisão.",
+      "src": "SBT News",
+      "u": "https://sbtnews.sbt.com.br/colunas/coluna-da-carla/ministros-do-tse-nao-creem-em-punicao-de-chapa-lula-alckmin",
+      "r": "Para o governo, 39 ações no TSE são \"não assunto\"; os 40 ministérios do quarto mandato, esses sim, rendem reunião."
+    },
+    {
+      "d": "2026-11-07",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula planeja começar o quarto mandato com 40 ministérios, dois a mais que hoje, aponta resumo do Quenty",
+      "p": "O resumo cita Folha e Agência Brasil: a estrutura atual tem 38 pastas, a nova Segurança Pública sairia por medida provisória e a composição ainda está em negociação com os partidos.",
+      "r": "De 38 para 40 pastas: o governo reeleito descobriu que organograma, como grupo de família, só cresce. Resta saber quem paga o café.",
+      "src": "Quenty",
+      "u": "https://quenty.com.br/resumo/7-novembro-2026/lula-planeja-40-ministerios-para-2027-e-reacende-debate-sobre-custos-e-governabilidade"
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Alckmin"
+      ],
+      "h": "Lula quer definir os nomes do ministério até 25/11 e anunciar a equipe até 5/12, diz a CNN Brasil",
+      "p": "A divisão preliminar dá três pastas ao MDB, duas a cada um de Republicanos, União Brasil, PP e PSD e uma ao Podemos; o arranjo não está fechado, e o Planalto mira 340 votos na Câmara contra cerca de 265 estimados pelo centrão.",
+      "r": "Ministério na tabela, com meta de votos: o centrão estima 265, o Planalto sonha com 340. A diferença entre os dois números é a parte divertida da novela.",
+      "src": "CNN Brasil",
+      "u": "https://cnnbrasil.com.br/blogs/taina-falcao/politica/lula-deve-anunciar-novo-governo-ate-5-de-dezembro"
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Erdogan"
+      ],
+      "h": "Lula leva à COP31, na Turquia, dados sobre a queda do desmatamento e discursa na Cúpula de Líderes em 11/11",
+      "p": "Segundo a Agência Brasil, ele pode ter encontros bilaterais, como um com Erdogan, e depois segue para as Filipinas, para a cúpula da Asean.",
+      "r": "O quarto mandato nem começou e o presidente já planeja escala dupla: Turquia e Filipinas. A transição que espere o jet lag.",
+      "src": "Agência Brasil",
+      "u": "https://www.acessa.com/noticias/2026/11/343801-lula-apresentara-avancos-ambientais-na-cop31-na-turquia.html"
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "André Janones"
+      ],
+      "h": "Lula anuncia em live com Janones que enviará uma MP para criar o Ministério da Segurança Pública",
+      "p": "Segundo o Poder360, ainda não há data para a MP, e as atribuições terão de ser divididas com a Justiça; o governo quer a pasta funcionando em novembro, com estrutura orçamentária talvez só em 2027.",
+      "r": "Anunciou o ministério numa live, antes do Diário Oficial: no Planalto, o YouTube vem primeiro e a burocracia fica sabendo depois.",
+      "src": "Poder360",
+      "u": "https://www.poder360.com.br/poder-governo/lula-anuncia-mp-para-criar-ministerio-da-seguranca-publica/"
+    },
+    {
+      "d": "2026-11-06",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Wellington Dias",
+        "Geraldo Alckmin"
+      ],
+      "h": "Wellington Dias diz que Lula só define os ministros depois da COP 31, na Turquia",
+      "p": "Segundo o Metrópoles, a escolha vai considerar as metas de cada pasta e os resultados do governo atual; Alckmin coordena a transição entre o plano que acaba em 2026 e o de 2027 a 2030.",
+      "src": "Metrópoles",
+      "u": "https://www.metropoles.com/colunas/grande-angular/wellington-dias-diz-que-lula-decidira-equipe-ministerial-apos-a-cop-31",
+      "r": "Ministério só depois da COP 31: a fila de cotados vai ter que treinar cara de paisagem por mais duas semanas."
+    },
+    {
+      "d": "2026-11-05",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "André Janones",
+        "Geraldo Alckmin",
+        "Sidônio Palmeira",
+        "Miriam Belchior"
+      ],
+      "h": "Lula tem live com Janones às 19h, reunião do conselho de minerais críticos com Alckmin e despachos no Planalto nesta quinta",
+      "p": "Segundo A Crítica, a live foi anunciada como conversa para celebrar o resultado e manter contato com apoiadores nas redes.",
+      "src": "A Crítica",
+      "u": "https://acritica.net/politica/lula-agenda-quinta-5-minerais-estrategicos-live-janones/",
+      "r": "Minerais críticos de tarde, Janones à noite: o governo mistura política industrial e live no mesmo expediente. Lula não largou o modo campanha, só trocou o palanque pelo YouTube."
+    },
+    {
+      "d": "2026-11-05",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Edinho Silva"
+      ],
+      "h": "PT pede aos partidos planos para os ministérios e estimativa de votos no Congresso antes de definir o governo Lula 4",
+      "p": "Segundo a Folhapress, republicada por A Notícia do Vale, Edinho Silva conduz as conversas por delegação de Lula e os nomes só devem sair a partir do fim de novembro.",
+      "src": "A Notícia do Vale",
+      "u": "https://anoticiadovale.com/2026/11/05/pt-pede-a-partidos-planos-para-ministerios-e-estimativa-de-votos-para-desenhar-governo-lula-4/",
+      "r": "Candidato a ministro agora entrega plano de trabalho e contagem de votos. Em Brasília, o currículo virou prova com gabarito, e a planilha de votos é o critério de desempate."
+    },
+    {
+      "d": "2026-11-04",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Camilo Santana",
+        "Fernando Haddad"
+      ],
+      "h": "Lula começa a desenhar a reforma ministerial logo depois da vitória, e Camilo Santana e Haddad aparecem como cotados",
+      "p": "Segundo a TV Sim Brasil, as primeiras definições são esperadas na segunda quinzena de novembro, e aliados dizem que as articulações estão em fase inicial.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/04/lula-articula-reforma-ministerial-camilo-santana-haddad",
+      "r": "Quarto mandato e a lista de cotados já está mais cheia que reunião de condomínio. Em Brasília, 'fase inicial' costuma durar até o decreto sair no Diário Oficial."
+    },
+    {
+      "d": "2026-11-04",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Geraldo Alckmin"
+      ],
+      "h": "Lula reúne Alckmin e ministros para discutir ações ambientais e de energia antes da COP31",
+      "p": "Segundo O Tempo, ele publicou no X que o Brasil quer manter papel de destaque no clima, mas não detalhou as medidas.",
+      "src": "O Tempo",
+      "u": "https://www.otempo.com.br/politica/congresso/2026/11/4/lula-se-reune-com-alckmin-e-ministros-para-definir-acoes-ambientais-antes-da-cop31",
+      "r": "Reunião para decidir ações ambientais sem detalhar nenhuma ação: o anúncio do anúncio, especialidade de Brasília."
+    },
+    {
+      "d": "2026-11-04",
+      "g": "Música",
+      "who": [
+        "Ivete Sangalo",
+        "Luísa Sonza",
+        "Alceu Valença",
+        "Martinho da Vila",
+        "Mart'nália",
+        "Diogo Nogueira",
+        "Jorge"
+      ],
+      "h": "Dez atrações do réveillon de Fortaleza apoiaram Lula em 2026; só Jorge, da dupla com Mateus, apoiou Flávio, diz levantamento",
+      "p": "Segundo o O POVO+, das 26 atrações anunciadas, 15 não tiveram posição política identificada; a prefeitura anunciou a saída da dupla.",
+      "src": "O POVO+",
+      "u": "https://mais.opovo.com.br/reportagens-especiais/2026/11/04/reveillon-de-fortaleza-10-atracoes-apoiaram-lula-em-2026.html",
+      "r": "Dez a um no palco do réveillon: a virada de Fortaleza já tem placar antes da contagem regressiva. Artista que declara voto descobre que a plateia também conta."
+    },
+    {
+      "d": "2026-11-03",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Senado aprova a PEC da Segurança Pública em dois turnos, e Lula comemora e confirma o novo ministério",
+      "p": "Segundo a Metrópoles, foram 73 votos no primeiro turno e 75 no segundo; a emenda segue para promulgação.",
+      "r": "Senado quase unânime e Lula comemorando nas redes: em Brasília, raro como eclipse. O ministério ainda não tem ministro, mas já tem festa, que é a parte mais bem acabada do projeto.",
+      "src": "Brasil de Fato",
+      "u": "https://www.brasildefato.com.br/2026/11/03/em-vitoria-de-lula-senado-aprova-pec-da-seguranca-publica-em-dois-turnos/"
+    },
+    {
+      "d": "2026-11-03",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "José Múcio Monteiro"
+      ],
+      "h": "Governo estuda criar um ministério da Segurança Pública separado da Justiça, diz O Brasilianista",
+      "p": "Segundo a reportagem, os nomes para Casa Civil e Fazenda ainda não foram oficializados e o ministro da Defesa, José Múcio, pretende deixar o cargo.",
+      "src": "O Brasilianista",
+      "u": "https://obrasilianista.com.br/2026/11/03/politica/lula-negocia-novo-ministerio-com-aliados-e-centrao-veja-o-que-esta-em-jogo-em-cada-pasta",
+      "r": "Ministério novo para a segurança antes do ministro novo. Em Brasília, primeiro se desenha a caixa do organograma e depois se procura quem caiba nela."
+    }
+  ]
 }
