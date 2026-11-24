@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T10:22:40-03:00",
-  "updated_label": "23/11/2026, 10h",
+  "updated": "2026-11-24T10:02:42-03:00",
+  "updated_label": "24/11/2026, 10h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -250,6 +250,19 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-11-19",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "h": "Audiência de Flávio nas redes diminuiu e aproxima a trajetória dele da de Eduardo nos EUA, diz reportagem",
+      "p": "Segundo a TV Sim Brasil, o alcance das publicações de Flávio caiu desde a chegada à Flórida; a leitura sobre a comparação com Eduardo é da reportagem.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/19/audiencia-flavio-bolsonaro-minguou-aproxima-rota-eduardo-eua",
+      "r": "Mudou de país, mudou de público: lá fora o povo some do feed e só sobra o irmão. Na política de influenciador, o algoritmo também não reconhece mandato."
+    },
     {
       "d": "2026-11-23",
       "g": "Flávio e campanha",
@@ -777,19 +790,6 @@
       "src": "Pipoca Moderna",
       "u": "https://pipocamoderna.com.br/2026/11/jorge-mateus-cancelados-fortaleza",
       "r": "A prefeitura garante que a saída foi combinada com meses de antecedência, e o vídeo viral entra como mera trilha sonora. Refrão cantado em palanque tem validade: vai até o próximo contrato."
-    },
-    {
-      "d": "2026-11-02",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro",
-        "Alexandre de Moraes"
-      ],
-      "h": "Defesa de Flávio recorre ao STF para anular a ordem sobre os passaportes e afastar Moraes do inquérito",
-      "p": "Segundo a CartaCapital, os advogados dizem que não há risco concreto de fuga e que o MP não foi ouvido; se a ordem ficar, pedem que ele só avise as viagens. A defesa diz não atribuir irregularidade ao ministro. Não há decisão.",
-      "src": "CartaCapital",
-      "u": "https://www.cartacapital.com.br/justica/flavio-bolsonaro-recorre-contra-ordem-de-apreensao-de-passaportes-e-pede-impedimento-de-moraes-no-caso/",
-      "r": "A defesa pede o cardápio completo: anular a ordem, tirar o ministro do caso e, no plano B, só avisar as viagens. Em Brasília, o plano B sempre vem com formulário."
     }
   ]
 }

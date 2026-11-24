@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-23T10:22:40-03:00",
-  "updated_label": "23/11/2026, 10h",
+  "updated": "2026-11-24T10:02:42-03:00",
+  "updated_label": "24/11/2026, 10h",
   "news": [
+    {
+      "d": "2026-11-18",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Eduardo Braga",
+        "Rogério Marinho"
+      ],
+      "h": "Senado conclui votação do ajuste fiscal por 69 a 2, rejeita três destaques da oposição e envia o texto à Câmara",
+      "p": "Segundo o Correio da Manhã, o acordo eleva os repasses da Lei Kandir; a Câmara deve votar o projeto na terça (24), e, se mudar o texto, ele volta ao Senado.",
+      "src": "Correio da Manhã",
+      "u": "https://www.correiodamanha.com.br/politica/2026/11/336541-senado-conclui-votacao-do-ajuste-fiscal-e-rejeita-mudancas-da-oposicao.html",
+      "r": "Governo e oposição se juntaram para votar 69 a 2, o que prova que o Brasil só consegue consenso quando o assunto é cortar gasto dos outros. Agora é torcer para a Câmara não mexer em vírgula."
+    },
     {
       "d": "2026-11-22",
       "g": "Lula e governo",
@@ -525,19 +539,6 @@
       "r": "Senado quase unânime e Lula comemorando nas redes: em Brasília, raro como eclipse. O ministério ainda não tem ministro, mas já tem festa, que é a parte mais bem acabada do projeto.",
       "src": "Brasil de Fato",
       "u": "https://www.brasildefato.com.br/2026/11/03/em-vitoria-de-lula-senado-aprova-pec-da-seguranca-publica-em-dois-turnos/"
-    },
-    {
-      "d": "2026-11-03",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "José Múcio Monteiro"
-      ],
-      "h": "Governo estuda criar um ministério da Segurança Pública separado da Justiça, diz O Brasilianista",
-      "p": "Segundo a reportagem, os nomes para Casa Civil e Fazenda ainda não foram oficializados e o ministro da Defesa, José Múcio, pretende deixar o cargo.",
-      "src": "O Brasilianista",
-      "u": "https://obrasilianista.com.br/2026/11/03/politica/lula-negocia-novo-ministerio-com-aliados-e-centrao-veja-o-que-esta-em-jogo-em-cada-pasta",
-      "r": "Ministério novo para a segurança antes do ministro novo. Em Brasília, primeiro se desenha a caixa do organograma e depois se procura quem caiba nela."
     }
   ]
 }
