@@ -1,20 +1,49 @@
 {
-  "updated": "2026-11-24T10:02:42-03:00",
-  "updated_label": "24/11/2026, 10h",
+  "updated": "2026-11-25T12:15:57-03:00",
+  "updated_label": "25/11/2026, 12h",
   "news": [
     {
-      "d": "2026-11-18",
+      "d": "2026-11-24",
+      "g": "Lula e governo",
+      "who": [
+        "Lula"
+      ],
+      "h": "Lula indica a aliados que começará a definir a Esplanada pelos ministros da Fazenda e da Segurança",
+      "p": "Segundo o Tribuna do Sertão, a ordem foi sinalizada a aliados; nomes oficiais ainda não foram anunciados.",
+      "src": "Tribuna do Sertão",
+      "u": "https://www.tribunadosertao.com.br/poder-e-governo/2026/11/24/1028937-lula-indica-a-aliados-que-deve-comecar-a-definir-esplanada-por-ministros-da-fazenda-e-da-seguranca",
+      "r": "O quarto mandato abre pelo caixa e pela segurança. O resto da Esplanada acompanha o capítulo de amanhã, como nos melhores folhetins."
+    },
+    {
+      "d": "2026-11-24",
       "g": "Lula e governo",
       "who": [
         "Lula",
-        "Eduardo Braga",
-        "Rogério Marinho"
+        "Jorge Messias",
+        "Davi Alcolumbre",
+        "Rodrigo Pacheco"
       ],
-      "h": "Senado conclui votação do ajuste fiscal por 69 a 2, rejeita três destaques da oposição e envia o texto à Câmara",
-      "p": "Segundo o Correio da Manhã, o acordo eleva os repasses da Lei Kandir; a Câmara deve votar o projeto na terça (24), e, se mudar o texto, ele volta ao Senado.",
-      "src": "Correio da Manhã",
-      "u": "https://www.correiodamanha.com.br/politica/2026/11/336541-senado-conclui-votacao-do-ajuste-fiscal-e-rejeita-mudancas-da-oposicao.html",
-      "r": "Governo e oposição se juntaram para votar 69 a 2, o que prova que o Brasil só consegue consenso quando o assunto é cortar gasto dos outros. Agora é torcer para a Câmara não mexer em vírgula."
+      "h": "Com resistência a Jorge Messias no Senado, Lula admite escolher uma mulher para a vaga de Barroso no STF",
+      "p": "Segundo o Correio Braziliense, o tema surgiu no jantar de sábado (21) no Alvorada com Alcolumbre, Hugo Motta e ministros do STF; nenhuma indicação foi formalizada.",
+      "src": "Correio Braziliense",
+      "u": "https://www.correiobraziliense.com.br/politica/2026/11/7543036-ante-resistencia-a-messias-lula-admite-escolher-uma-mulher-para-o-stf.html",
+      "r": "Quando o Senado barra um nome e empurra outro, a saída é abrir um terceiro. Na Brasília de sempre, vaga no STF se decide primeiro no jantar e só depois nos currículos."
+    },
+    {
+      "d": "2026-11-24",
+      "g": "Música",
+      "who": [
+        "Caetano Veloso",
+        "Gilberto Gil",
+        "Roger Waters",
+        "Bad Bunny",
+        "Janja"
+      ],
+      "h": "Posse de Lula em 5 de janeiro pode reunir Gil, Caetano, Roger Waters e Bad Bunny, mas nada foi confirmado",
+      "p": "Segundo o Portal Tela, os nomes estão em conversas; o Planalto espera de 750 mil a 1 milhão de pessoas, e a programação, coordenada por Janja, não é oficial.",
+      "src": "Portal Tela",
+      "u": "https://www.portaltela.com/entretenimento/2026/11/24/posse-de-lula-shows-2027-artistas-cotados/",
+      "r": "Posse com line-up de festival: só falta vender pulseira VIP e abrir o camarote da Esplanada. Por ora o cartaz é rumor, mas o público já está esperado."
     },
     {
       "d": "2026-11-22",
@@ -131,6 +160,20 @@
       "src": "TV Sim Brasil",
       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/19/lula-assina-decreto-escala-5x2-stf-nao-decidiu",
       "r": "Lula assina o decreto e o país descobre que acabar com a 6x1 é a parte fácil; difícil é combinar com o STF, a CNI e o calendário. O trabalhador comemora, mas o relógio de ponto pede calma."
+    },
+    {
+      "d": "2026-11-18",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Eduardo Braga",
+        "Rogério Marinho"
+      ],
+      "h": "Senado conclui votação do ajuste fiscal por 69 a 2, rejeita três destaques da oposição e envia o texto à Câmara",
+      "p": "Segundo o Correio da Manhã, o acordo eleva os repasses da Lei Kandir; a Câmara deve votar o projeto na terça (24), e, se mudar o texto, ele volta ao Senado.",
+      "src": "Correio da Manhã",
+      "u": "https://www.correiodamanha.com.br/politica/2026/11/336541-senado-conclui-votacao-do-ajuste-fiscal-e-rejeita-mudancas-da-oposicao.html",
+      "r": "Governo e oposição se juntaram para votar 69 a 2, o que prova que o Brasil só consegue consenso quando o assunto é cortar gasto dos outros. Agora é torcer para a Câmara não mexer em vírgula."
     },
     {
       "d": "2026-11-17",
@@ -496,49 +539,6 @@
       "src": "TV Sim Brasil",
       "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/04/lula-articula-reforma-ministerial-camilo-santana-haddad",
       "r": "Quarto mandato e a lista de cotados já está mais cheia que reunião de condomínio. Em Brasília, 'fase inicial' costuma durar até o decreto sair no Diário Oficial."
-    },
-    {
-      "d": "2026-11-04",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Geraldo Alckmin"
-      ],
-      "h": "Lula reúne Alckmin e ministros para discutir ações ambientais e de energia antes da COP31",
-      "p": "Segundo O Tempo, ele publicou no X que o Brasil quer manter papel de destaque no clima, mas não detalhou as medidas.",
-      "src": "O Tempo",
-      "u": "https://www.otempo.com.br/politica/congresso/2026/11/4/lula-se-reune-com-alckmin-e-ministros-para-definir-acoes-ambientais-antes-da-cop31",
-      "r": "Reunião para decidir ações ambientais sem detalhar nenhuma ação: o anúncio do anúncio, especialidade de Brasília."
-    },
-    {
-      "d": "2026-11-04",
-      "g": "Música",
-      "who": [
-        "Ivete Sangalo",
-        "Luísa Sonza",
-        "Alceu Valença",
-        "Martinho da Vila",
-        "Mart'nália",
-        "Diogo Nogueira",
-        "Jorge"
-      ],
-      "h": "Dez atrações do réveillon de Fortaleza apoiaram Lula em 2026; só Jorge, da dupla com Mateus, apoiou Flávio, diz levantamento",
-      "p": "Segundo o O POVO+, das 26 atrações anunciadas, 15 não tiveram posição política identificada; a prefeitura anunciou a saída da dupla.",
-      "src": "O POVO+",
-      "u": "https://mais.opovo.com.br/reportagens-especiais/2026/11/04/reveillon-de-fortaleza-10-atracoes-apoiaram-lula-em-2026.html",
-      "r": "Dez a um no palco do réveillon: a virada de Fortaleza já tem placar antes da contagem regressiva. Artista que declara voto descobre que a plateia também conta."
-    },
-    {
-      "d": "2026-11-03",
-      "g": "Lula e governo",
-      "who": [
-        "Lula"
-      ],
-      "h": "Senado aprova a PEC da Segurança Pública em dois turnos, e Lula comemora e confirma o novo ministério",
-      "p": "Segundo a Metrópoles, foram 73 votos no primeiro turno e 75 no segundo; a emenda segue para promulgação.",
-      "r": "Senado quase unânime e Lula comemorando nas redes: em Brasília, raro como eclipse. O ministério ainda não tem ministro, mas já tem festa, que é a parte mais bem acabada do projeto.",
-      "src": "Brasil de Fato",
-      "u": "https://www.brasildefato.com.br/2026/11/03/em-vitoria-de-lula-senado-aprova-pec-da-seguranca-publica-em-dois-turnos/"
     }
   ]
 }
