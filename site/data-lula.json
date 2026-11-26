@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-25T12:15:57-03:00",
-  "updated_label": "25/11/2026, 12h",
+  "updated": "2026-11-26T16:47:01-03:00",
+  "updated_label": "26/11/2026, 16h",
   "news": [
+    {
+      "d": "2026-11-26",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "PT"
+      ],
+      "h": "Reforma ministerial de Lula já reúne onze aliados derrotados na disputa por cargos, diz reportagem",
+      "p": "Segundo o título da TV Sim Brasil, o número vem da reportagem; nenhum nome foi anunciado oficialmente.",
+      "src": "TV Sim Brasil",
+      "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/26/reforma-ministerial-lula-reune-aliados-derrotados-disputa",
+      "r": "Perdeu na urna e já está na fila da Esplanada: no PT, derrota também é currículo. Onze candidatos e a promessa de 40 pastas, para ninguém sair do jogo sem crachá."
+    },
+    {
+      "d": "2026-11-25",
+      "g": "Lula e governo",
+      "who": [
+        "Fernando Haddad",
+        "Lula"
+      ],
+      "h": "Depois de conversa com Lula, Haddad indica que não quer ser ministro no quarto mandato e prefere voltar à vida acadêmica",
+      "p": "Segundo o DGABC, a conversa foi na terça (24) no Alvorada; aliados ponderam que a decisão pode não ser definitiva, e Haddad defende a permanência de Dario Durigan na Fazenda.",
+      "src": "DGABC",
+      "u": "https://www.dgabc.com.br/Noticia/4370640/apos-conversa-com-lula-haddad-indica-que-nao-quer-ser-ministro",
+      "r": "Haddad pediu para sair antes do apito inicial: com 40 cadeiras na Esplanada, escolheu a da sala de aula. Em Brasília, recusar cargo é o único gesto que ainda surpreende."
+    },
     {
       "d": "2026-11-24",
       "g": "Lula e governo",
@@ -512,33 +538,6 @@
       "src": "A Crítica",
       "u": "https://acritica.net/politica/lula-agenda-quinta-5-minerais-estrategicos-live-janones/",
       "r": "Minerais críticos de tarde, Janones à noite: o governo mistura política industrial e live no mesmo expediente. Lula não largou o modo campanha, só trocou o palanque pelo YouTube."
-    },
-    {
-      "d": "2026-11-05",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Edinho Silva"
-      ],
-      "h": "PT pede aos partidos planos para os ministérios e estimativa de votos no Congresso antes de definir o governo Lula 4",
-      "p": "Segundo a Folhapress, republicada por A Notícia do Vale, Edinho Silva conduz as conversas por delegação de Lula e os nomes só devem sair a partir do fim de novembro.",
-      "src": "A Notícia do Vale",
-      "u": "https://anoticiadovale.com/2026/11/05/pt-pede-a-partidos-planos-para-ministerios-e-estimativa-de-votos-para-desenhar-governo-lula-4/",
-      "r": "Candidato a ministro agora entrega plano de trabalho e contagem de votos. Em Brasília, o currículo virou prova com gabarito, e a planilha de votos é o critério de desempate."
-    },
-    {
-      "d": "2026-11-04",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "Camilo Santana",
-        "Fernando Haddad"
-      ],
-      "h": "Lula começa a desenhar a reforma ministerial logo depois da vitória, e Camilo Santana e Haddad aparecem como cotados",
-      "p": "Segundo a TV Sim Brasil, as primeiras definições são esperadas na segunda quinzena de novembro, e aliados dizem que as articulações estão em fase inicial.",
-      "src": "TV Sim Brasil",
-      "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/04/lula-articula-reforma-ministerial-camilo-santana-haddad",
-      "r": "Quarto mandato e a lista de cotados já está mais cheia que reunião de condomínio. Em Brasília, 'fase inicial' costuma durar até o decreto sair no Diário Oficial."
     }
   ]
 }

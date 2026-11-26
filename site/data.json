@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T12:15:57-03:00",
-  "updated_label": "25/11/2026, 12h",
+  "updated": "2026-11-26T16:47:01-03:00",
+  "updated_label": "26/11/2026, 16h",
   "result": {
     "lula": 51.79,
     "flavio": 48.21,
@@ -254,6 +254,20 @@
     }
   ],
   "news": [
+    {
+      "d": "2026-11-25",
+      "g": "Flávio e campanha",
+      "who": [
+        "Flávio Bolsonaro",
+        "Duda Lima",
+        "PL"
+      ],
+      "h": "Campanha de Flávio fechou as contas com dívida de R$ 5,5 milhões com a agência de publicidade, e o caixa tinha cerca de R$ 82 mil",
+      "p": "Segundo o BNews, com base na prestação de contas final ao TSE, a agência foi contratada por R$ 23,6 milhões e recebeu R$ 18,1 milhões; o PL pode assumir a dívida, e Flávio e o partido não responderam aos pedidos de comentário.",
+      "src": "BNews",
+      "u": "https://www.bnews.com.br/noticias/politica/flavio-bolsonaro-deixa-divida-milionaria-com-marqueteiro-apos-ida-aos-eua.html",
+      "r": "Gastou R$ 18 milhões em propaganda e ainda ficou devendo R$ 5,5 milhões: o único slogan que colou foi \"depois eu pago\". O caixa de R$ 82 mil mal cobre o café da reunião para decidir quem assume a conta."
+    },
     {
       "d": "2026-11-23",
       "g": "Flávio e campanha",
@@ -781,18 +795,6 @@
       "src": "Gazeta do Povo",
       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-oposicao-internacional-contra-o-governo-lula-nos-eua/",
       "r": "Oposição com gabinete sombra, CPAC e endereço em Miami: o governo paralelo já tem agenda internacional. Só falta combinar o expediente com Brasília."
-    },
-    {
-      "d": "2026-11-03",
-      "g": "Flávio e campanha",
-      "who": [
-        "Flávio Bolsonaro"
-      ],
-      "h": "Flávio tenta votar a PEC da Segurança a distância, e o número novo do celular não estava cadastrado no Senado",
-      "p": "Segundo o Metrópoles, o cadastro só pode ser feito presencialmente; depois da publicação da reportagem, ele acessou o aplicativo e votou a favor da PEC, como os demais senadores presentes.",
-      "src": "Metrópoles",
-      "u": "https://www.metropoles.com/colunas/igor-gadelha/flavio-tenta-votar-pec-da-seguranca-dos-eua-mas-enfrenta-problemas",
-      "r": "O senador descobriu que o aplicativo do Senado também exige presença para cadastrar número novo. Acabou votando, e a oposição a distância ganhou seu primeiro caso de suporte técnico."
     }
   ]
 }
