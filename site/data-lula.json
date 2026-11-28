@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-26T16:47:01-03:00",
-  "updated_label": "26/11/2026, 16h",
+  "updated": "2026-11-28T11:11:37-03:00",
+  "updated_label": "28/11/2026, 11h",
   "news": [
+    {
+      "d": "2026-11-26",
+      "g": "Lula e governo",
+      "who": [
+        "Lula",
+        "Luiz Carlos Trabuco",
+        "Dario Durigan"
+      ],
+      "h": "Trabuco aceita convite de Lula e será o ministro da Fazenda, primeiro nome confirmado do quarto mandato",
+      "p": "Segundo a CNN Brasil, o governo informou em nota que o presidente do conselho do Bradesco aceitou na quinta (26); ele sucede Dario Durigan, e o restante da Esplanada ainda não foi anunciado.",
+      "src": "CNN Brasil",
+      "u": "https://www.cnnbrasil.com.br/politica/trabuco-na-fazenda-marca-inicio-de-composicao-do-novo-governo-lula/",
+      "r": "O PT passou a campanha apontando o dedo para a Faria Lima e agora vai buscar o ministro lá dentro. Chama-se pragmatismo: é como o banqueiro vira \"parceiro do povo\" assim que o crachá muda."
+    },
     {
       "d": "2026-11-26",
       "g": "Lula e governo",
@@ -522,22 +536,6 @@
       "src": "Metrópoles",
       "u": "https://www.metropoles.com/colunas/grande-angular/wellington-dias-diz-que-lula-decidira-equipe-ministerial-apos-a-cop-31",
       "r": "Ministério só depois da COP 31: a fila de cotados vai ter que treinar cara de paisagem por mais duas semanas."
-    },
-    {
-      "d": "2026-11-05",
-      "g": "Lula e governo",
-      "who": [
-        "Lula",
-        "André Janones",
-        "Geraldo Alckmin",
-        "Sidônio Palmeira",
-        "Miriam Belchior"
-      ],
-      "h": "Lula tem live com Janones às 19h, reunião do conselho de minerais críticos com Alckmin e despachos no Planalto nesta quinta",
-      "p": "Segundo A Crítica, a live foi anunciada como conversa para celebrar o resultado e manter contato com apoiadores nas redes.",
-      "src": "A Crítica",
-      "u": "https://acritica.net/politica/lula-agenda-quinta-5-minerais-estrategicos-live-janones/",
-      "r": "Minerais críticos de tarde, Janones à noite: o governo mistura política industrial e live no mesmo expediente. Lula não largou o modo campanha, só trocou o palanque pelo YouTube."
     }
   ]
 }
